@@ -1,0 +1,33 @@
+name: Update source index
+
+on:
+  push:
+    paths:
+      - "legal/**"
+      - "media/**"
+      - "misc/**"
+      - "scripts/index_files.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate source index
+        run: python scripts/index_files.py
+
+      - name: Commit updated index
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update source index"
+          file_pattern: source_index.csv

@@ -27,6 +27,7 @@ jobs:
         run: |
           python scripts/index_files.py
           python scripts/enrich_index.py
+          python scripts/smart_titles.py
 
       - name: Commit updated index
         uses: stefanzweifel/git-auto-commit-action@v5

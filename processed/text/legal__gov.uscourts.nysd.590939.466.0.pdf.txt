@@ -1,0 +1,236 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT  
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+UNITED STATES OF AMERICA, 
+              -against- 
+SAMUEL BANKMAN-FRIED, et. al.,  
+                                                   Defendants. 
+Case No. 1:22-cr-00673-LAK 
+ 
+ONUSZ CLASS ACTION PLAINTIFFS’ 
+LIMITED (1) RESPONSE TO MDL 
+PLAINTIFFS’ ANCILLARY 
+PROCEEDINGS PURSUANT TO 21 
+U.S.C. § 853(n); AND (2) LIMITED 
+JOINDER TO FTX DEBTORS’ AND 
+FTX DIGITAL MARKETS’ PETITION  
+ 
+ 
+Austin Onusz, Cedric Kees van Putten, Nicholas J. Marshall and Hamad Dar, plaintiffs in 
+t
+he putative class action adversary proceeding (the “Onusz Class Action Plaintiffs”) pending before 
+the United States Bankruptcy Court for the District of Delaware (the “ Delaware Bankruptcy 
+Court”) on behalf of victimized customer depositors of FTX.com and FTX US (together, “FTX”) 
+entitled Onusz et al. v. West Realm Shires Inc. et al. , Adv. Pro. No. 1:22- ap-50513 (JTD) ( the 
+“Onusz Adversary Class Action”), hereby file this limited: 
+(1) Response to the Ancillary Petition for Rehearing to Adjudicate Validity of 
+Legal Interest and Right to Forfeited Property Under 21 U.S.C. § 853(n) , 
+dated June 17, 2024 ( ECF 454) (the “MDL Plaintiffs’ Petition”), filed on 
+behalf of the plaintiffs (the “MDL Plaintiffs”) in In Re: FTX Cryptocurrency 
+Exchange Collapse Litigation (MDL No. 3076) in the Southern District of 
+Florida (the “FTX MDL”); and 
+ 
+(2) J oinder to the  Third-Party Movants FTX Debtors’  and FTX Digital 
+Markets’ Verified Petition for Ancillary Proceedings Pursuant to 21 U.S.C. 
+§ 853(n), dated June 14, 2024 (ECF 450) (the “FTX Petition”). 
+ 
+The O
+nusz  Class Action Plaintiffs are interested parties in the property that is subject to  
+the March 29, 2024 Preliminary Order of Forfeiture/Money Judgment (ECF 423) (the “Forfeited 
+Property”) and the Section 853(n) petitions ( ECFs 446, 447, 450, 454) because they are each a 
+customer who has unreturned digital assets and/or fiat currency on deposit at FTX at the time of 
+its November 2022 bankruptcy.  The Onusz Class Action Plaintiffs initiated the Onusz Adversary 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 1 of 7
+
+
+--- PAGE 2 ---
+
+2 
+Class Action in December 2022 seeking to recover the customer deposits that were misused by the 
+FTX Insiders (including Samuel Bankman- Fried) to, among other things, obtain the Forfeited 
+Property.1  (See Exhibit A). 
+(1) L imited Response to the MDL Plaintiffs’ Petition  
+The crux of the MDL Plaintiffs’ argument before this Court is  that, because they “have 
+moved for preliminary approval . . . of several class action settlements with FTX Insiders and 
+Promoters, including Defendant Sam Bankman-Fried” in the FTX MDL, “the MDL is best situated 
+to distribute the [Forfeited Property].”  ( MDL Plaintiffs’ Petition  at 1).  The MDL Plaintiffs 
+likewise note that “the MDL has already settled claims the MDL Class had with SBF and Co -
+Defendants Caroline Ellison, Gary Wang, and Nishad Singh, each of whom is jointly and severally 
+liable for the $8 billion Forfeited FTX  Customer Assets derived from FTX customer funds, and 
+administration of those settlements dovetails with the distribution of the forfeiture proceeds.”  (Id. 
+at 4).  There are three fundamental problems with these arguments. 
+First, the MDL Plaintiffs concede that their settlements with the FTX Insiders merely 
+“obtained documents and information” and “an agreement not to object to the distribution of the 
+forfeiture funds at issue here through the MDL.”  (Id. at 4).  The settlements with the FTX Insiders 
+do not provide any monetary recovery or any right to the Forfeited Property, so it is the proverbial 
+“tail wagging the dog” to cite their nominal non-monetary settlements as a basis for distributing 
+billions of dollars through the FTX M DL or to claim that administration of those non -monetary 
+settlements somehow “dovetail” with administration and distribution of the Forfeited Property (id. 
+at 27).  
+ 
+1 The FTX Insiders are Samuel Bankman-Fried, Zixiao “Gary” Wang, Caroline Ellison and Nishad Singh. 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 2 of 7
+
+
+
+--- PAGE 3 ---
+
+3 
+The MDL Plaintiffs’ massive overreach is underscored by Hon. Judge Moore’s recent order 
+on their motion for preliminary approval of the settlements calling into question whether he will 
+“likely” be able to approve the settlements at all.  Judge Moore’s July 18, 2024 order note s that 
+the “FTX Debtors argue in the Adversary Proceeding that the automatic stay provided in the 
+Bankruptcy Code should be extended to the MDL FTX Insider and VC Actions because these 
+actions ‘assert claims that are property of the FTX Debtors’ estate.’”  (Exhibit B).  Accordingly, 
+Judge Moore’s order requires the MDL Plaintiffs to file a response by August 1, 2024, to address, 
+among other things “why [the FTX MDL] should not defer ruling on Plaintiffs’ Motion for 
+Preliminary Approval until after the issues raised in the Adversary Proceeding have been resolved 
+by the Bankruptcy Court.”  (Id.).  
+Second, the in-doubt settlements upon which the MDL Plaintiffs rely to claim they should 
+administer the Forfeited Property also seek to settle additional claims (other than those that belong 
+to the FTX Debtors) that they neither control nor have the authority to settle.  The MDL Plaintiffs’ 
+settlements purport to settle and release all claims by customers against Mr. Bankman -Fried and 
+the other FTX I nsiders, which include the Onusz Class Action Plaintiffs’ putative class claims 
+asserted in the Delaware Bankruptcy Court on behalf of customer victims.  But significantly, both 
+the MDL Panel and the Delaware Bankruptcy Court have already rejected efforts by the MDL 
+Plaintiffs and FTX I nsiders to sever and/or transfer the  Onusz  Class Action Plaintiffs’ claims 
+against the FTX Insiders to the FTX MDL to be combined with the MDL Plaintiffs’ claims.  (See 
+Exhibits C, D, hereto).  The MDL Panel found that the MDL Plaintiffs’ attempt to take control of 
+the Onusz Class Action Plaintiffs’ claims failed to “account for the inefficiencies that likely would 
+be caused by separating Onusz from the rest of the proceedings in the Delaware Bankruptcy 
+Court.”  (Exhibit C at 2).   The Delaware Bankruptcy Court likewise found that “[t] he most 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 3 of 7
+
+
+--- PAGE 4 ---
+
+4 
+convenient and expeditious means to adjudicate [the Onusz Class Claims] is to litigate them within 
+the adversary proceeding before this Court.”  (Exhibit D at 3).  The MDL Plaintiffs do not even 
+try to hide that they are trying to hijack the customer claims in the Delaware Bankruptcy Court, as 
+evident from the fact that the partial consideration for their settlements includes the FTX Insiders’ 
+“reasonable efforts to support the transfer of the claims against them in the Onusz  Adversary 
+Proceeding to this MDL” (FTX MDL ECF 565 at 8). 
+Third, in contravention of these previous rulings, the MDL Plaintiffs are still attempting to 
+settle all claims against the FTX Insiders by customer victims who have unreturned assets that 
+were on deposit at FTX  at the time of the bankruptcy and to split the proceeds —which , if their 
+petition is successful, will include the Forfeited Property— with former customers and purchasers 
+of any FTX product at any  time.  In this regard, the MDL Plaintiffs ’ preliminary approval order 
+seeks to certify an exceedingly broad settlement class defined as:  
+All persons or entities who, within the applicable limitations period, 
+purchased or held legal title to and/or beneficial interest in any fiat 
+or cryptocurrency deposited or invested through an FTX Platform, 
+purchased or enrolled in a YBA, or purchased FTT .  To the extent 
+not otherwise included in the Class, Class Members include 
+customers of the FTX Group who deposited cash and/or digital 
+assets at either or both of the FTX Group’s U.S.- based and 
+non-U.S.-based trading platforms and have been unable to 
+withdraw, use or access the billions of dollars in assets that were 
+contractually required to be held safely in accounts on their behalf. 
+ 
+(FTX MDL ECF 565 at 9). 
+ 
+The parties before the bankruptcy court have already crafted a comprehensive settlement 
+of the customer property issues that make the recovery and distribution of customer funds a priority 
+and that settlement has already been fully incorporated into the court- approved disclosure 
+statement and proposed plan, confirmation of which will be before the Delaware Bankruptcy Court 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 4 of 7
+
+
+--- PAGE 5 ---
+
+5 
+in early October.2  Recovery of the unreturned assets that were misappropriated by the criminal 
+FTX Insiders is a material part of that process and the appropriate place to distribute the Forfeited 
+Property is through the well -developed and ongoing claims administration for customer and 
+creditor claims in the Delaware Bankruptcy Court.  There is simply no rational basis for the MDL 
+Plaintiffs to overreach both to attempt to include FTX customer claims in any settlement and to 
+claim they should receive and administer the Forfeited Funds.   
+Moreover, it would be manifestly unjust to customers with unrecovered assets for the MDL 
+Plaintiffs to commingle recovered customer funds with money recovered on far more speculative, 
+vastly different,  and weaker, claims.   If the MDL Plaintiffs wish to distribute any recovered 
+proceeds from claims against the celebrity promoters and other third-party defendants in the FTX 
+MDL—to date, the MDL Plaintiffs have recovered $1,359,485 ( FTX MDL ECF 565 at 2)—with 
+former customers who merely purchased tokens or other unregistered securities from FTX, or used 
+the FTX exchanges but did not have unreturned money or digital assets on deposit at the time of 
+the bankruptcy, so be it.  But the missing customer deposits and the Forfeited Property that was 
+acquired using those missing customer deposits must exclusively go back to the current customer 
+victims on a pro rata basis.  For this reason, the Onusz Class Action Plaintiffs have joined the FTX 
+Debtors’ pending motion before the Delaware Bankruptcy Court  to stay or enjoin the MDL 
+Plaintiffs’ action against the FTX Insiders.  (Exhibit E). 
+(2) L
+imited Joinder to the FTX Petition  
+As stated above, even if the FTX MDL court approves their non-monetary settlement with 
+Mr. Bankman- Fried or the other FTX Insiders despite the FTX Debtors’ motion to stay those 
+ 
+2 See In re FTX Trading Ltd., et al., Case No. 22-11068 (JTD), ECF 3291 Ex. A; ECF 19139 at 48-49; 
+ECF 19143 at 43; ECF 19150. 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 5 of 7
+
+
+
+--- PAGE 6 ---
+
+6 
+proceedings (which Judge Moore’s recent order calls in to significant doubt) ,3 it does not follow 
+that the billions of dollars should be administered through the FTX MDL.  To the contrary, to 
+ensure efficient and fair distribution to customer victims , any such distribution of Forfeited 
+Property (minus any holdback required by the Department of Justice for the benefit of the victims 
+of the crimes committed by Mr. Bankman -Fried who are not expected to receive any recovery 
+through the bankruptcy)  should go through the FTX bankruptcy administration before the 
+Delaware Bankruptcy Court (along with any recovery resul ting from the Onusz Adversary Class 
+Action). 
+Accordingly, the Onusz Class Action Plaintiffs join in the FTX Petition based on their 
+agreement with the FTX Debtors that “[d]istributing the value of the Specific Property to the more 
+than 1 million victims of Bankman -Fried’s criminal scheme . . . through the Debtors’ existing 
+claims administration architecture and processes will maximize the funds available for distribution 
+by minimizing the incremental administrative and professional costs.”  (FTX Petition at 16, 
+17).  There is already a well-established claims process in the Chapter 11 proceedings before the 
+Delaware Bankruptcy Court to return  funds to current customer victims and, to a lesser extent, 
+other creditors that were previously carefully negotiated and approved.  Distribution through the 
+FTX MDL, by contrast, would mean that, in addition to complex questions of which of the endless 
+class members in that proceeding should recover what, there would be an entirely new claims 
+process outside of the bankruptcy.  Current customer claimants and creditors should not have to 
+pay for all the costs that would entail, if it is even possible for the MDL Plaintiffs to fairly make 
+such determinations. 
+ 
+3 See FTX Trading Ltd. v. Chernyavsky et al., Adv. Pro. No. 24-50072-JTD (Bankr. D. Del.), ECF 2. 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 6 of 7
+
+
+
+--- PAGE 7 ---
+
+7 
+The Onusz Class Action Plaintiffs reserve their right to ma ke additional arguments based 
+on the content of the Petitioners’ or Government’s future submissions and/or oral argument, if any. 
+Dated:  July 26, 2024 
+ ENTWISTLE & CAPPUCCI LLP 
+ 
+ 
+/s/ Andrew J. Entwistle                     
+Andrew J. Entwistle, Esq. 
+500 W. 2nd Street, Suite 1900 
+Austin, Texas 78701 
+Telephone: (512) 710-5960 
+aentwistle@entwistle-law.com  
+ 
+-and- 
+ 
+Robert N. Cappucci, Esq. 
+Joshua K. Porter, Esq. 
+230 Park Avenue, 3rd Floor 
+New York, New York 10169 
+Telephone: (212) 894-7200 
+rcappucci@entwistle-law.com 
+jporter@entwistle-law.com  
+ 
+Counsel for Plaintiffs Austin Onusz, Cedric 
+Kees van Putten, Nicholas J. Marshall and 
+Hamad Dar 
+ 
+Case 1:22-cr-00673-LAK     Document 466     Filed 07/26/24     Page 7 of 7

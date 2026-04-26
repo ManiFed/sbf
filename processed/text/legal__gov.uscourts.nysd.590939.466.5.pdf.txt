@@ -1,0 +1,286 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT E 
+Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 1 of 9
+
+
+--- PAGE 2 ---
+
+IN THE UNITED STATES BANKRUPTCY COURT  
+FOR THE DISTRICT OF DELAWARE 
+ 
+In re: 
+FTX TRADING LTD., et al.,1 
+                                                   Debtors. 
+ 
+Chapter 11 
+Case No. 22-11068 (JTD) 
+(Jointly Administered) 
+ 
+FTX TRADING LTD, 
+                                                   Plaintiffs, 
+              -against- 
+ALEXANDER CHERNYAVSKY, BRANDON 
+ORR, CHUKWUDOZIE EZEOKOLI, EDWIN 
+GARRISON, GREGG PODALSKY, JULIE 
+PAPADAKIS, KYLE RUPPRECHT, LEANDRO 
+CABO, MICHAEL LIVIERATOS, MICHAEL 
+NORRIS, RYAN HENDERSON, SHENGYUN 
+HUANG, SUNIL KAVURI, VIJETH SHETTY, 
+VITOR VOZZA, and WARREN WINTER, 
+                                                   Defendants. 
+Adversary Proceeding No. 24-50072 (JTD) 
+ 
+ 
+ 
+ONUSZ CLASS ACTION PLAINTIFFS’ (1) JOINDER TO DEBTORS’ MOTION FOR 
+PRELIMINARY DECLARATORY AND INJUNCTIVE RELIEF ENFORCING THE 
+AUTOMATIC STAY AND ENJOINING CERTAIN MDL ACTIONS AND  
+(2) MOTION FOR AN ORDER APPLYING ANY INJUNCTIVE RELIEF  
+TO THE CLAIMS IN THE ONUSZ ADVERSARY CLASS ACTION 
+ 
+Austin Onusz, Cedric Kees van Putten, Nicholas J. Marshall and Hamad Dar, plaintiffs  in 
+the putative class action adversary proceeding  (the “ Onusz Class Action  Plaintiffs”) pending 
+before this Court on behalf of depositors of FTX.com and FTX US (together, “ FTX”) entitled 
+                                                 
+1 The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 and 
+4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list of the Debtors 
+and the last four digits of their federal tax identification numbers is not provided herein. A complete list of such 
+information may be obtained on the website of the Debtors’ claims and noticing agent at 
+https://cases.ra.kroll.com/FTX. 
+Case 24-50072-JTD    Doc 7    Filed 06/10/24    Page 1 of 5Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 2 of 9
+
+
+
+--- PAGE 3 ---
+
+ 2 
+ 
+ 
+Onusz et al. v. West Realm Shires Inc. et al. , Adv. Pro. No. 1:22- ap-50513 (JTD) ( the “Onusz 
+Adversary Class Action”), hereby file this joinder and motion. 
+Relief Requested 
+Onusz Class Action Plaintiffs hereby join Debtors’ Motion for Preliminary Declaratory 
+and Injunctive Relief Enforcing the Automatic Stay and Enjoining Certain MDL Actions and 
+supporting memorandum of law, both dated June 3, 2024 (D.I. 2,3) (together, the “ Motion to 
+Enjoin”), and seek an order substantially in the form as the attached Exhibit A providing that any 
+stay or injunction against the MDL Insider Action applies equally to any attempt by the MDL 
+Plaintiffs to litigate, settle or release the tort claims the Onusz Class Action Plaintiffs are asserting 
+on behalf of FTX customers against the FTX Insiders in the Onusz Adversary Class Action (the 
+“Onusz Class Claims”) before this Court.2 
+ Basis for Relief 
+The Clerk of the MDL Panel, the MDL Panel itself, and this Court have three times rejected 
+efforts by the MDL Plaintiffs and FTX Insiders to sever and/or transfer the Onusz  Class Claims 
+against the FTX Insiders from their similar claims against Debtors .3  The MDL Panel found t hat 
+the MDL Plaintiffs failed to “account for the inefficiencies that likely would be caused by 
+separating Onusz from the rest of the proceedings in the Delaware Bankruptcy Court.”   (MDL 
+3076 ECF No. 278 at 2). This Court likewise found that “[t]he most convenient and expeditious 
+means to adjudicate [the Onusz Class Claims] is to litigate them within the adversary proceeding 
+before this Court.”  (Onusz Adversary Class Action ECF No. 116 at 2-3). 
+The MDL Plaintiffs and FTX Insiders have made no secret of the fact that they sought the 
+                                                 
+2 Capitalized terms undefined herein shall have the meaning ascribed to them in Debtors’ Motion to Enjoin.  
+3 See, e.g., MDL Panel ECF No. 278 at 2; Onusz Adversary Class Action D.I. at 2-3. 
+ 
+Case 24-50072-JTD    Doc 7    Filed 06/10/24    Page 2 of 5Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 3 of 9
+
+
+
+--- PAGE 4 ---
+
+ 3 
+ 
+ 
+severance/transfer so the Onusz  Class Claims could be folded into the MDL Plaintiffs’ action 
+against dozens of athletes and celebrities and settled by the MDL Plaintiffs and FTX Insiders for 
+no monetary consideration.  Now, in an affront to the MDL Panel and this Court, the MDL 
+Plaintiffs and FTX Insiders are attempting an end -run around the orders of the MDL Panel and 
+this Court by agreeing to a settlement in the FTX MDL containing broad releases that, again they 
+make no secret, are intended to settle the Onusz Class Claims against the FTX Insiders along with 
+the MDL Plaintiffs’ claims.  (See, e.g., FTX MDL No. 618-1 ¶ 5.3). 
+Even worse, the MDL Plaintiffs intend to have any monetary recovery they may ultimately 
+receive from the FTX Insiders ’ forfeited assets to be distributed through a claims process 
+administered and supervised by the Judge presiding over the FTX MDL; outside these Chapter 11 
+proceedings, any plan of reorganization, and this Court’s supervision.  And because of the almost 
+limitless class definition in the MDL Plaintiffs’ action against the FTX Insiders, distributions will 
+include former users of FTX exchanges and purchasers of FTX tokens and other products who are 
+neither victimized customer deposi tors in the bankruptcy nor traditional creditors  – i.e., non-
+stakeholders of the estates.4  Put another way, the MDL Plaintiffs are attempting to settle the claims 
+against the FTX Insiders and split any proceeds they could theoretically receive —from funds or 
+property stolen from existing FTX customers—with former customers and purchasers of any 
+product of FTX. 
+In contrast, the Onusz Class Action Plaintiffs assert class claims against the FTX Insiders 
+solely in an effort to protect the interests of  proposed class of customers who were, and remain, 
+                                                 
+4 The putative class in the FTX MDL includes “[a]ll persons or entities . . . who, within the applicable 
+limitations period, purchased or held legal title to and/or beneficial interest in any fiat or cryptocurrency 
+deposited or invested through an FTX Platform, purchased or enrolled in a YBA, or purchased FTT.”  (FTX 
+MDL ECF No. 618-1 ¶ 6.1).  
+ 
+Case 24-50072-JTD    Doc 7    Filed 06/10/24    Page 3 of 5Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 4 of 9
+
+
+
+--- PAGE 5 ---
+
+ 4 
+ 
+ 
+unable to withdraw, use, or access the billions of dollars in assets on deposit at the time of the FTX 
+Chapter 11 proceeding.  And, like the similar claims against the FTX Insiders being pursued by 
+the Debtors, the Onusz Class Action Plaintiffs seek to have any recoveries (which also may mainly 
+come from assets forfeited by the FTX Insiders) distributed to customers through the existing 
+estate administration framework in these Chapter 11 proceedings.   
+The FTX Debtors’ Motion to Enjoin recognizes that the Onusz Class Claims, along with 
+the Onusz Class Action Plaintiffs’ property claims against the Debtors  that have been tentatively 
+settled, are intertwined with the Debtors’ claims against the FTX Insiders and with the plan 
+process.  (Motion to Enjoin at 18).  The reasoning of the Motion to Enjoin—that the MDL Plaintiffs 
+should not be able to litigate or settle claims (or recover assets) against the FTX Insiders that are 
+properly proceeding before this Court for the benefit of stakeholders for distribution in the Chapter 
+11 proceedings—applies similarly to the Onusz Class Claims and the MDL Plaintiffs and FTX 
+Insiders should not be able to circumvent the orders of this Court or the MDL Panel to settle those 
+claims and potentially complicate or outright derail the plan approval process and administration 
+of the estates for the benefit of stakeholders. 
+Conclusion 
+The Onusz Adversary Plaintiffs  respectfully request that the Court enter an order 
+substantially in the form of Exhibit A hereto providing that any stay or injunction against the MDL 
+Insider Action applies equally to any attempt  by the MDL Plaintiffs to settle or release the tort 
+claims the Onusz Class Action Plaintiffs are asserting on behalf of FTX customers against the FTX 
+Insiders in the Onusz Adversary Class Action before this Court 
+Dated: June 10, 2024 
+  
+Case 24-50072-JTD    Doc 7    Filed 06/10/24    Page 4 of 5Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 5 of 9
+
+
+--- PAGE 6 ---
+
+ 5 
+ 
+ 
+CHIMICLES SCHWARTZ KRINER & 
+DONALDSON-SMITH LLP 
+/s/ Scott M. Tucker                     
+Robert J. Kriner, Jr. (No. 2546) 
+Scott M. Tucker (No. 4925) 
+2711 Centerville Rd., Suite 201 
+Wilmington, Delaware 19808 
+Telephone: (302) 656-2500 
+robertkriner@chimicles.com
+ 
+scotttucker@chimicles.com  
+ 
+-and- 
+ 
+ENTWISTLE & CAPPUCCI LLP 
+Andrew J. Entwistle, Esq. 
+500 W. 2nd Street, Suite 1900 
+Austin, Texas 78701 
+Telephone: (512) 710-5960 
+aentwistle@entwistle-law.com
+  
+ 
+-and- 
+ 
+Robert N. Cappucci, Esq. 
+Joshua K. Porter, Esq. 
+230 Park Avenue, 3rd Floor 
+New York, New York 10169 
+Telephone: (212) 894-7200 
+rcappucci@entwistle-law.com
+ 
+jporter@entwistle-law.com  
+ 
+Counsel for Plaintiffs Austin Onusz, Cedric 
+Kees van Putten, Nicholas J. Marshall and 
+Hamad Dar 
+ 
+Case 24-50072-JTD    Doc 7    Filed 06/10/24    Page 5 of 5Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 6 of 9
+
+
+
+--- PAGE 7 ---
+
+Exhibit A
+Case 24-50072-JTD    Doc 7-1    Filed 06/10/24    Page 1 of 3Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 7 of 9
+
+
+--- PAGE 8 ---
+
+IN THE UNITED STATES BANKRUPTCY COURT  
+FOR THE DISTRICT OF DELAWARE 
+ 
+In re: 
+FTX TRADING LTD., et al.,1 
+                                                   Debtors. 
+ 
+Chapter 11 
+Case No. 22-11068 (JTD) 
+(Jointly Administered) 
+ 
+FTX TRADING LTD, 
+                                                   Plaintiffs, 
+              -against- 
+ALEXANDER CHERNYAVSKY, BRANDON 
+ORR, CHUKWUDOZIE EZEOKOLI, EDWIN 
+GARRISON, GREGG PODALSKY, JULIE 
+PAPADAKIS, KYLE RUPPRECHT, LEANDRO 
+CABO, MICHAEL LIVIERATOS, MICHAEL 
+NORRIS, RYAN HENDERSON, SHENGYUN 
+HUANG, SUNIL KAVURI, VIJETH SHETTY, 
+VITOR VOZZA, and WARREN WINTER, 
+                                                   Defendants. 
+Adversary Proceeding No. 24-50072 (JTD) 
+ 
+ 
+ 
+ORDER APPLYING INJUNCTION OF MDL ACTION AGAINST THE FTX  
+INSIDERS TO ANY ATTEMPT BY THE DEFENDANTS TO LITIGATE,  
+SETTLE OR RELEASE THE CLAIMS IN THE ONUSZ ADVERSARY CLASS ACTION   
+ 
+Having granted Debtors’ Motion for Preliminary Declaratory and Injunctive Relief Enforcing 
+the Automatic Stay and Enjoining Certain MDL Actions, dated June 3, 2024 (D.I. 2) (the “Debtors’ 
+Motion”), and upon the Onusz Class Action Plaintiffs ’ (1) Joinder to Debtors’ Motion for 
+Preliminary Declaratory and Injunctive Relief Enforcing the Automatic Stay  and Enjoining 
+                                                 
+1  The last four digits of FTX Trading Ltd.’s and Alameda Research LLC’s tax identification number are 3288 
+and 4063 respectively. Due to the large number of debtor entities in these Chapter 11 Cases, a complete list 
+of the Debtors and the last four digits of their federal tax identification numbers is not provided herein. A 
+complete list of such information may be obtained on the website of the Debtors’ claims and noticing agent 
+at https://cases.ra.kroll.com/FTX. 
+Case 24-50072-JTD    Doc 7-1    Filed 06/10/24    Page 2 of 3Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 8 of 9
+
+
+
+--- PAGE 9 ---
+
+ 2 
+ 
+ 
+Certain MDL Actions and (2) Motion for an Order Applying any Injunctive Relief to the Claims in  
+the Onusz Adversary Class Action, dated June 10, 2024 (D.I. 7) (the “Onusz Motion”),2 and having 
+found and determined that the legal and factual  bases set forth in the Onusz Motion and Debtors ’ 
+Motion establish just cause for the relief granted herein; and after due deliberation and sufficient 
+cause appearing therefor; 
+1. The Onusz Motion is GRANTED as set forth herein.  
+2. The injunction prohibiting the Defendants (including their respective officers, 
+agents, servants, employees, and attorneys, and all other persons who are in active 
+concert or participation with the Defendants) and si milarly situated creditors from 
+filing or continuing to prosecute the MDL FTX Insiders Action for an initial period 
+of 180 days from the date of entry of the Order granting Debtors’ Motion applies 
+equally to any attempt by the Defendants or similarly situa ted creditors litigate, 
+settle or release the tort claims against the FTX Insiders that are being brought in 
+the Onusz Adversary Class Action before this Court. 
+3. This Court shall retain jurisdiction with respect to any matters, claims, rights or 
+disputes arising from or related to the Motion or the implementation of this Order.  
+ 
+Dated: ___________________     ______________________________ 
+Wilmington, Delaware  The Honorable John T. Dorsey United 
+States Bankruptcy Judge 
+ 
+ 
+ 
+                                                 
+2 Capitalized terms undefined herein shall have the meaning ascribed to them in the Joinder and Motion. 
+Case 24-50072-JTD    Doc 7-1    Filed 06/10/24    Page 3 of 3Case 1:22-cr-00673-LAK     Document 466-5     Filed 07/26/24     Page 9 of 9

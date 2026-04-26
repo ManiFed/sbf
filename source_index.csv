@@ -1,5 +1,6 @@
 id,title,display_title,date,source_url,folder,type,author,reliability,side,notes
 legal_gov_uscourts_nysd_590939_491_9_pdf,gov.uscourts.nysd.590939.491.9.pdf,"Court Filing 491, Attachment 9",,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_5_pdf,gov.uscourts.nysd.590939.466.5.pdf,"Court Filing 466, Attachment 5",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_505_0_pdf,gov.uscourts.nysd.590939.505.0.pdf,Court Filing 505,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_519_0_pdf,gov.uscourts.nysd.590939.519.0.pdf,Court Filing 519,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_488_0_pdf,gov.uscourts.nysd.590939.488.0.pdf,Court Filing 488,,,legal,court filing,,high,court,auto-enriched from filename/folder
@@ -23,6 +24,7 @@ legal_gov_uscourts_nysd_590939_489_0_pdf,gov.uscourts.nysd.590939.489.0.pdf,Cour
 legal_gov_uscourts_nysd_590939_573_2_pdf,gov.uscourts.nysd.590939.573.2.pdf,"Court Filing 573, Attachment 2",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_553_0_pdf,gov.uscourts.nysd.590939.553.0.pdf,Court Filing 553,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_523_3_pdf,gov.uscourts.nysd.590939.523.3.pdf,"Court Filing 523, Attachment 3",,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_3_pdf,gov.uscourts.nysd.590939.466.3.pdf,"Court Filing 466, Attachment 3",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_477_0_pdf,gov.uscourts.nysd.590939.477.0.pdf,Court Filing 477,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_520_0_pdf,gov.uscourts.nysd.590939.520.0.pdf,Court Filing 520,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_499_0_pdf,gov.uscourts.nysd.590939.499.0.pdf,Court Filing 499,,,legal,court filing,,high,court,auto-enriched from filename/folder
@@ -41,11 +43,13 @@ legal_gov_uscourts_nysd_590939_555_0_pdf,gov.uscourts.nysd.590939.555.0.pdf,Cour
 legal_gov_uscourts_nysd_590939_503_0_pdf,gov.uscourts.nysd.590939.503.0.pdf,Court Filing 503,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_527_0_pdf,gov.uscourts.nysd.590939.527.0.pdf,Court Filing 527,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_487_0_pdf,gov.uscourts.nysd.590939.487.0.pdf,Court Filing 487,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_470_0_2_pdf,gov.uscourts.nysd.590939.470.0_2.pdf,Court Filing 470,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_473_0_pdf,gov.uscourts.nysd.590939.473.0.pdf,Court Filing 473,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_523_1_pdf,gov.uscourts.nysd.590939.523.1.pdf,"Court Filing 523, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_491_4_pdf,gov.uscourts.nysd.590939.491.4.pdf,"Court Filing 491, Attachment 4",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_477_1_pdf,gov.uscourts.nysd.590939.477.1.pdf,"Court Filing 477, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_552_0_pdf,gov.uscourts.nysd.590939.552.0.pdf,Court Filing 552,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_469_0_pdf,gov.uscourts.nysd.590939.469.0.pdf,Court Filing 469,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_548_0_pdf,gov.uscourts.nysd.590939.548.0.pdf,Court Filing 548,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_543_0_pdf,gov.uscourts.nysd.590939.543.0.pdf,Court Filing 543,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_592_0_pdf,gov.uscourts.nysd.590939.592.0.pdf,Court Filing 592,,,legal,court filing,,high,court,auto-enriched from filename/folder
@@ -62,6 +66,7 @@ legal_gov_uscourts_nysd_590939_497_0_pdf,gov.uscourts.nysd.590939.497.0.pdf,Cour
 legal_gov_uscourts_nysd_590939_590_0_pdf,gov.uscourts.nysd.590939.590.0.pdf,Court Filing 590,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_565_0_pdf,gov.uscourts.nysd.590939.565.0.pdf,Court Filing 565,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_530_0_pdf,gov.uscourts.nysd.590939.530.0.pdf,Court Filing 530,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_468_0_pdf,gov.uscourts.nysd.590939.468.0.pdf,Court Filing 468,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_491_6_pdf,gov.uscourts.nysd.590939.491.6.pdf,"Court Filing 491, Attachment 6",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_547_0_pdf,gov.uscourts.nysd.590939.547.0.pdf,Court Filing 547,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_484_0_3_pdf,gov.uscourts.nysd.590939.484.0_3.pdf,Court Filing 484,,,legal,court filing,,high,court,auto-enriched from filename/folder
@@ -81,12 +86,16 @@ legal_gov_uscourts_nysd_590939_491_5_pdf,gov.uscourts.nysd.590939.491.5.pdf,"Cou
 legal_gov_uscourts_nysd_590939_497_1_pdf,gov.uscourts.nysd.590939.497.1.pdf,"Court Filing 497, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_539_1_pdf,gov.uscourts.nysd.590939.539.1.pdf,"Court Filing 539, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_491_1_pdf,gov.uscourts.nysd.590939.491.1.pdf,"Court Filing 491, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_2_pdf,gov.uscourts.nysd.590939.466.2.pdf,"Court Filing 466, Attachment 2",,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_467_0_pdf,gov.uscourts.nysd.590939.467.0.pdf,Court Filing 467,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_1_pdf,gov.uscourts.nysd.590939.466.1.pdf,"Court Filing 466, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_476_0_pdf,gov.uscourts.nysd.590939.476.0.pdf,Court Filing 476,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_546_0_pdf,gov.uscourts.nysd.590939.546.0.pdf,Court Filing 546,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_550_0_pdf,gov.uscourts.nysd.590939.550.0.pdf,Court Filing 550,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_491_2_pdf,gov.uscourts.nysd.590939.491.2.pdf,"Court Filing 491, Attachment 2",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_506_0_pdf,gov.uscourts.nysd.590939.506.0.pdf,Court Filing 506,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_526_0_pdf,gov.uscourts.nysd.590939.526.0.pdf,Court Filing 526,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_4_pdf,gov.uscourts.nysd.590939.466.4.pdf,"Court Filing 466, Attachment 4",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_538_0_1_pdf,gov.uscourts.nysd.590939.538.0_1.pdf,Court Filing 538,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_483_0_pdf,gov.uscourts.nysd.590939.483.0.pdf,Court Filing 483,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_525_0_pdf,gov.uscourts.nysd.590939.525.0.pdf,Court Filing 525,,,legal,court filing,,high,court,auto-enriched from filename/folder
@@ -98,12 +107,14 @@ legal_gov_uscourts_nysd_590939_485_0_pdf,gov.uscourts.nysd.590939.485.0.pdf,Cour
 legal_gov_uscourts_nysd_590939_491_10_pdf,gov.uscourts.nysd.590939.491.10.pdf,"Court Filing 491, Attachment 10",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_502_0_pdf,gov.uscourts.nysd.590939.502.0.pdf,Court Filing 502,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_512_0_pdf,gov.uscourts.nysd.590939.512.0.pdf,Court Filing 512,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_466_0_pdf,gov.uscourts.nysd.590939.466.0.pdf,Court Filing 466,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_583_1_pdf,gov.uscourts.nysd.590939.583.1.pdf,"Court Filing 583, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_518_0_pdf,gov.uscourts.nysd.590939.518.0.pdf,Court Filing 518,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_591_0_pdf,gov.uscourts.nysd.590939.591.0.pdf,Court Filing 591,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_573_1_pdf,gov.uscourts.nysd.590939.573.1.pdf,"Court Filing 573, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_486_0_pdf,gov.uscourts.nysd.590939.486.0.pdf,Court Filing 486,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_515_0_pdf,gov.uscourts.nysd.590939.515.0.pdf,Court Filing 515,,,legal,court filing,,high,court,auto-enriched from filename/folder
+legal_gov_uscourts_nysd_590939_471_0_pdf,gov.uscourts.nysd.590939.471.0.pdf,Court Filing 471,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_573_0_pdf,gov.uscourts.nysd.590939.573.0.pdf,Court Filing 573,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_537_0_pdf,gov.uscourts.nysd.590939.537.0.pdf,Court Filing 537,,,legal,court filing,,high,court,auto-enriched from filename/folder
 legal_gov_uscourts_nysd_590939_535_1_pdf,gov.uscourts.nysd.590939.535.1.pdf,"Court Filing 535, Attachment 1",,,legal,court filing,,high,court,auto-enriched from filename/folder

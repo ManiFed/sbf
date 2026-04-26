@@ -1,0 +1,1984 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 
+ 
+ 
+ 
+EXHIBIT A 
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 1 of 64
+
+
+--- PAGE 2 ---
+
+ IN THE UNITED STATES BANKRUPTCY COURT
+FOR THE DISTRICT OF DELAWARE
+In re:
+FTX TRADING LTD., et al.,
+Debtors.
+Chapter 11
+Case No. 22-11068 (JTD)
+(Jointly Administered)
+AUSTIN ONUSZ, CEDRIC KEES VAN PUTTEN, 
+NICHOLAS J. MARSHALL and HAMAD DAR, 
+on behalf of themselves and all others similarly 
+situated,
+Plaintiffs,
+v.
+WEST REALM SHIRES INC., WEST REALM 
+SHIRES SERVICES INC. (D/B/A FTX US), FTX 
+TRADING LTD., ALAMEDA RESEARCH LLC, 
+SAM BANKMAN-FRIED, ZIXIAO WANG, 
+NISHAD SINGH and CAROLINE ELLISON, 
+Defendants.
+Adversary Proceeding No. _________
+ 
+ADVERSARY COMPLAINT FOR DECLARATORY 
+JUDGMENT AND VIOLATIONS OF COMMON LAW
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 1 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 2 of 64
+
+
+--- PAGE 3 ---
+
+i
+TABLE OF CONTENTS
+I. INTRODUCTION ...............................................................................................................1
+II. JURISDICTION AND VENUE ........................................................................................10
+III. THE PARTIES...................................................................................................................10
+A. Plaintiffs.................................................................................................................10
+B. Defendants .............................................................................................................11
+1. West Realm and FTX US............................................................................11
+2. FTX Trading................................................................................................11
+3. The FTX Executive Defendants ..................................................................12
+4. The Alameda Defendants ............................................................................12
+IV. FACTUAL BACKGROUND............................................................................................13
+A. Cryptocurrency, Cryptocurrency Exchanges and Inadequate Regulation .............13
+1. Cryptocurrency, Blockchain and Coins/Tokens..........................................13
+2. Underregulated Cryptocurrencies and Cryptocurrency Exchanges...................15
+3. The Creation of Bitcoin...............................................................................19
+B. Defendant Bankman-Fried Co-Founds Alameda Research in November 2017....19
+C. Several Alameda Staffers Leave in a Dispute Over Failed Internal Controls .......22
+D. Defendant Ellison and Sam Trabucco Join Alameda ............................................24
+E. Defendants Bankman-Fried and Wang Launch FTX in May 2019.......................24
+F. FTX Creates Its Proprietary Token – FTT – in July 2019.....................................26
+G. Binance Makes a Strategic Investment in FTX and FTT ......................................27
+V. FTX’S REGULATORY DISCLOSURES AND CUSTOMER AGREEMENTS ............27
+VI. FTX CUSTOMERS DEPOSIT MONEY AT ALAMEDA ..............................................29
+VII. ALAMEDA’S RISKIER STRATEGIES ..........................................................................30
+A. Alameda Changes to Riskier Strategies.................................................................30
+B. Cryptocurrency’s Historic Bull Market .................................................................31
+C. Alameda Used FTTs to “Borrow” Customer Funds..............................................32
+VIII. THE FTX GROUP’S AND ALAMEDA’S MASSIVE SPENDING ...............................32
+A. More Than $1.7 Billion in Loans to the FTX Executive Defendants....................33
+B. More Than $5 Billion in Venture Investments ......................................................33
+C. Naming Rights and Promotional Spending............................................................34
+IX. BINANCE SELLS ITS STAKE IN FTX ..........................................................................34
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 2 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 3 of 64
+
+
+
+--- PAGE 4 ---
+
+ii
+X. THE FTX GROUPS’ PROPERTY PURCHASES ...........................................................35
+XI. CRYPTOCURRENCY’S BEAR MARKET CAUSES INDUSTRY LIQUIDITY 
+PROBLEMS ......................................................................................................................36
+XII. FTX AND ALAMEDA COLLAPSE REVEALING A CUSTOMER PROPERTY 
+SHORTFALL ....................................................................................................................37
+A. CoinDesk Reports on Alameda’s Alarming Balance Sheet...................................37
+B. Binance’s Announcement of Its Intent to Sell All Its FTT Tokens Causes the 
+Price to Crash.........................................................................................................39
+C. FTX Sustains Billions in Customer Withdrawals and Halts Withdrawals ............40
+D. The Lack of Controls Causes Binance to Withdraw Its Offer to Save FTX 
+Trading...................................................................................................................40
+E. Insiders Confirm that Customer Funds Were Intentionally Misappropriated .......41
+XIII. THE BANKRUPTCY OF ALAMEDA RESEARCH AND FTX – AND THE 
+MISSING CUSTOMER PROPERTY...............................................................................42
+XIV. THE REGULATORY ACTIONS AND FEDERAL CRIMINAL CHARGES ................44
+XV. CLASS ACTION ALLEGATIONS ..................................................................................46
+XVI. DECLARATORY JUDGMENT CAUSES OF ACTION.................................................48
+COUNT I:  Declaratory Judgment Against FTX US and FTX Trading............................48
+COUNT II:  Declaratory Judgment Against Alameda.......................................................51
+XVII. COMMON LAW CAUSES OF ACTION ........................................................................52
+COUNT III:  Breach of Contract Against FTX US and FTX Trading ..............................52
+COUNT IV:  Breach of Fiduciary Duty Against FTX US, FTX Trading and FTX 
+Executive Defendants ............................................................................................54
+COUNT V:  Negligence Against FTX US, FTX Trading and the FTX Executive 
+Defendants .............................................................................................................55
+COUNT VI:  Conversion Against FTX US, FTX Trading and THE FTX Executive 
+Defendants .............................................................................................................57
+COUNT VII:  Aiding and Abetting Breach of Fiduciary Duty Against Alameda and 
+Defendant Ellison...................................................................................................57
+COUNT VIII:  Aiding and Abetting Conversion Against Alameda and Defendant 
+Ellison ....................................................................................................................58
+XVIII. PRAYER FOR RELIEF ....................................................................................................59
+XIX. JURY TRIAL DEMAND ..................................................................................................60
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 3 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 4 of 64
+
+
+
+--- PAGE 5 ---
+
+Plaintiffs Austin Onusz, Cedric Kees van Putten, Nicholas J. Marshall and Hamad Dar 
+(together, the “Plaintiffs”) bring this class action adversary proceeding (the “Adversary 
+Proceeding” or “Adversary Complaint”) under Federal Rules of Bankruptcy Procedure (the 
+“Bankruptcy Rules”) 7002(2) and (9), and pursuant to Federal Rules of Civil Procedure (the 
+“Federal Rules”) Rule 23(a), 23(b)(1)(B) and (b)(3), made applicable herein by Bankruptcy Rule 
+7023, on their own behalf and on behalf of all others similarly situated.
+The allegations in this Adversary Complaint are made on information and belief based on 
+a review of public information, including filings by the Debtors (as defined below) in their pending 
+bankruptcy proceedings before this Court and recent testimony before Congress. 
+I. INTRODUCTION
+1. This Adversary Proceeding arises because a closely-knit group of young executives 
+(the “FTX Executive Defendants”) who operated the second largest “cryptocurrency” electronic 
+trading exchange, known worldwide as FTX (the “FTX Group” or “FTX”), 1 totally abdicated or 
+ignored their duty to put in place adequate controls to protect customer property held at FTX.  As 
+with any trading exchange, or similar financial institution, FTX was absolutely duty bound (and 
+by contract with FTX’s customers) to implement procedures to ensure that customer property was 
+held separately for customers, whether or not regulations were in place requiring them to do so.  
+Instead, whether caused by arrogance, ambition, avarice or vainglory, the FTX Executive 
+Defendants failed to institute any corporate controls and were therefore able to cause, direct or 
+allow the misappropriation of billions of dollars in customer funds and digital assets deposited or 
+held worldwide at FTX.  
+1 As set forth in Part III.B.3 below, the FTX Executive Defendants are Samuel Bankman-Fried, Zixiao 
+“Gary” Wang and Nishad Singh.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 4 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 5 of 64
+
+
+--- PAGE 6 ---
+
+2
+2. The FTX Executive Defendants’ misappropriation (or outright theft) of customer 
+property was not accidental.  Whether or not they intended to repay it, the FTX Executive 
+Defendants – who insiders at the FTX Group confirm controlled, and were the only individuals 
+with the access and authority to transfer, customer property – intentionally used customer property 
+to fund: (i) obligations and losses from risky strategies employed by their intwined cryptocurrency 
+trading firm known as Alameda Research LLC (“Alameda”); (ii) acquisitions and investments by 
+the FTX Group and Alameda to grow their personal cryptocurrency fiefdom; and (ii) their lavish 
+lifestyles, including through more than $1.7 billion in loans from Alameda that were never repaid.  
+3. Because of the FTX Executive Defendants’ breaches of customer agreements, 
+fiduciary duties and duties of care, millions of customers of the FTX Group who deposited cash 
+and digital assets at either or both the FTX Group’s U.S.-based and non-U.S.-based trading 
+platforms have been unable to withdraw, use or access the billions of dollars in assets that were 
+contractually required to be held safely in accounts on their behalf (the proposed “Customer 
+Class”) since shortly before the FTX Group, Alameda, and their affiliated debtors (the “Debtors”) 
+filed these Chapter 11 cases (the “Bankruptcy Proceedings”).  Even worse, according to 
+widespread reports, up to $2 billion in customer property is missing.
+4. At its simplest, this Adversary Proceeding is necessary because the Customer Class 
+members should not have to stand in line along with secured or general unsecured creditors in 
+these Bankruptcy Proceedings just to share in the diminished estate assets of the FTX Group and 
+Alameda.  Cash and assets traceable to customers, which never belonged to FTX or Alameda and 
+do not belong to the estates, should be earmarked solely for customers, and victimized customers 
+should likewise have priority to any other cash possessed or recovered by Debtors.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 5 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 6 of 64
+
+
+--- PAGE 7 ---
+
+3
+5. Accordingly, as set forth in Part XVI below, Plaintiffs bring this Adversary 
+Proceeding on their own behalf, and on behalf of the proposed Customer Class seeking declaratory 
+judgments establishing that:
+ Customer property currently held in accounts at “FTX US” (the FTX 
+Group’s exchange for U.S. customers) or “FTX Trading” (the exchange for 
+non-U.S. customers, also known as “FTX.com”), or misappropriated cash 
+and assets that are traceable as customer property, is not property of the 
+Debtors’ estates subject to distribution to non-customer creditors;
+ In the alternative, if the Court determines that such customer property is in 
+whole or part property of the Debtors’ estates, the Customer Class has 
+priority rights to repayment and/or recovery before any non-customer 
+creditors; and
+ Specifically, property held at Alameda that is property of the FTX Group’s 
+customers, or misappropriated cash and assets that are traceable as customer 
+property, is not property of the Alameda estate subject to distribution to 
+non-customer creditors.
+6. Aside from the primary function of this Adversary Proceeding to establish the 
+Customer Class’s rights regarding the customer property held by the Debtors (and priority to non-
+customer cash), as set forth in Part XVII, below, Plaintiffs also assert claims on behalf of the 
+Customer Class claims against FTX US, FTX Trading and the FTX Executive Defendants for, 
+variously, breach of contract, breach of fiduciary duty, negligence, and conversion, and against 
+Alameda and its former Chief Executive Officer (“CEO”) for aiding and abetting breach of 
+fiduciary duty and conversion.  The Customer Class is entitled to damages on these claims in an 
+amount to be determined at trial.
+* * *
+7. Cryptocurrencies or “crypto” – which are digital currencies that can be transferred 
+on a peer-to-peer basis – are comparatively new and largely unregulated assets that proponents say 
+will revolutionize (and democratize) worldwide finance by creating currency independent from 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 6 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 7 of 64
+
+
+--- PAGE 8 ---
+
+4
+governments and banks.  Here, the problem is that Defendant Bankman-Fried, the now infamous 
+former co-founder and CEO of the FTX Group, and the other FTX Executive Defendants, used 
+the cover of their celebrity and putative preeminence in the “brave new world” of underregulated 
+cryptocurrency to disregard age-old pre-digital rules and duties: exchanges, investment firms, and 
+their executives are simply not allowed to take funds that do not belong to them for their own 
+purposes and are duty bound to implement company controls to protect customer property in their 
+care.  
+8. The FTX Executive Defendants took customer funds and assets anyway.  In the 
+hours and days after the FTX Group and Alameda declared bankruptcy on November 11, 2022, 
+customers of FTX learned that up to $2 billion in customer funds are missing and customer funds 
+and digital assets are unavailable for withdrawal, all because the FTX Executive Defendants 
+breached the FTX Group’s contracts, their fiduciary duties, and their duties of care by causing, 
+directing, or allowing unlawful transfers by the FTX Group to Alameda.  Such misconduct was in 
+direct violation of FTX’s own customer agreements and terms of service, as well as common law 
+and basic principles of honesty and fair dealing.  For all the complexity of cryptocurrencies and 
+the associated technology, it turns out to be a simple story.
+9. First, from 2019 to 2022, cryptocurrency traders entrusted FTX with approximately 
+$16 billion in cash and digital assets while the FTX Executive Defendants knowingly failed to 
+implement even basic internal controls to safeguard customer property.  Second, the FTX 
+Executive Defendants exploited the lack of adequate corporate controls and the under regulation 
+of the cryptocurrency industry to access customer property at FTX as a slush fund to allow 
+Alameda to make increasingly risky bets on massively volatile cryptocurrencies, to engage in 
+hundreds of crypto “venture” investments (and some non-crypto investments), and to cover losses 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 7 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 8 of 64
+
+
+--- PAGE 9 ---
+
+5
+when a massive cryptocurrency bear market (known as a “crypto winter”) occurred in 2022.  Third, 
+the FTX Executive Defendants also used FTX customer funds to purchase more than $250 million 
+in real estate in the Bahamas for use by the FTX Group and Alameda insiders and caused Alameda 
+to lend them more than $1.3 billion (presumably paid with customer funds).  Fourth, this conduct 
+predictably led to the failure of the FTX Group and Alameda and left FTX customers holding the 
+bag. 
+10. This failure was, while inevitable in hindsight, a shock to the cryptocurrency 
+community because of the esteem unwisely heaped on the FTX Group, Alameda, and Defendant 
+Bankman-Fried.  In the years preceding the November 2022 collapse of Alameda and the FTX 
+Group, Defendant Bankman-Fried was viewed as crypto celebrity wunderkind, the FTX Group 
+was deemed a “safe” exchange in an otherwise wild and underregulated industry, and the FTX 
+Group’s close relationship to Alameda – which would normally be troublesome – ostensibly 
+provided the FTX Group stability by virtue of Alameda’s role as a cryptocurrency market-maker.  
+Of course, as with other recent instances in which customer and investor funds have been looted 
+by companies – including the MF Global Inc. and Bernard L. Madoff scandals – nothing was as it 
+appeared to be.  
+11. Alameda was co-founded in late 2017 by Defendants Bankman-Fried and Gary 
+Wang ostensibly as a “quantitative” cryptocurrency trading firm (a firm that uses mathematical 
+and statistical models to identify and execute opportunities) and appeared to be a wild success – 
+the investment fund purportedly had more than $14 billion in assets less than 5 years later.  
+However, Defendant Bankman-Fried has since admitted in interviews that he knew nothing about 
+cryptocurrency and Alameda was founded merely to engage in simple cryptocurrency arbitrage to 
+take advantage of price differences in the U.S. and Asia.  
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 8 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 9 of 64
+
+
+--- PAGE 10 ---
+
+6
+12. Moreover, by 2018, when Defendant Caroline Ellison joined Alameda as a trader 
+– after being a trader on Wall Street (like Defendant Bankman-Fried) for only a few years – the 
+cryptocurrency arbitrage on which Alameda was founded had dried up as worldwide prices 
+normalized.  Alameda moved toward riskier strategies, such as taking long positions on volatile 
+cryptocurrencies and “yield farming” – the dangerous process of lending or staking 
+cryptocurrencies to “start-ups” to generate massive returns.  Alameda also made hundreds of 
+venture investments – including in cryptocurrency issuers, exchanges, and “tokens” that propped 
+up the industry. 
+13. Significantly, Alameda was not engaging in these risky strategies using its own 
+balance sheet, but rather was unlawfully using customer property and loans.  In addition to using 
+customer funds intended for the FTX Group that were sent directly to Alameda, Alameda was 
+“borrowing” customer property and taking out other loans and sometimes using a proprietary 
+“token” (a type of cryptocurrency) created by the FTX Group as collateral for such customer 
+“loans” and for loans from other counterparties.  The FTX Group’s tokens – known as “FTT” – 
+could be purchased by FTX Group users to receive discounts and other rewards on the exchange.  
+FTT was an “asset” essentially created from thin air by FTX that Alameda that FTX used as if it 
+were a hard asset.  And Alameda’s balance sheet was infected with overvalued FTT.   Indeed, in 
+November 2022, it was revealed that, as of June 30, 2022, Alameda held more than $5.8 billion 
+“worth” of FTT among its purported $14 billion in assets.
+14. According to recent Congressional testimony by the FTX Group’s new CEO, the 
+interrelationship between the FTX Group and Alameda was intentionally set up and maintained to 
+allow Alameda to freely use customer property for highly leveraged trades, without controls placed 
+on other traders (customers) such as the normal “auto-liquidation” procedures that would have 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 9 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 10 of 64
+
+
+--- PAGE 11 ---
+
+7
+cause the FTX Group to sell Alameda’s collateral to cover trading losses that exceeded the value 
+in its accounts:
+In the basic concept is that Alameda was able to borrow on an 
+unlimited basis, or transfer. I’m not sure I could call describe it, you 
+know, borrowing is almost a technical term. So, transfer of assets, 
+borrowing of assets on an unlimited basis, which then that allowed 
+-- was allowed to take massive positions with other people’s money. 
+And because they had no auto liquidation feature. Ultimately, those 
+losses could exceed the value of, you know, of that account. So 
+that’s essentially what happened in a nutshell.
+15. Unfortunately for Alameda (and customers), the bill for its reckless bets on 
+cryptocurrency, start-ups, the tokens those start-ups issued, and yield farming, came due in 2022 
+as the crypto winter arrived.  In 2022 alone, cryptocurrencies lost $2 trillion in value from the 
+height of the massive bull market in 2021 that drove Alameda’s “success.”  For example, the most 
+well-know and prominent cryptocurrency – Bitcoin – lost 70% of its value from its all-time high 
+price November 2021 and many “altcoins” (the terms for all cryptocurrencies other than Bitcoin) 
+lost all their value.
+16. Whether now characterized as misappropriation, misuse, conversion, or outright 
+theft, the FTX Executive Defendants intentionally caused, directed, or allowed customer funds to 
+be used to cover Alameda’s losses.  Instead of complying with the FTX Group’s own agreements 
+to protect customer property, Defendants did the opposite and used it to cover losses to hide what 
+was happening at Alameda.  Even worse, it was not a mistake – Defendants knew they were 
+misappropriating customer assets.  
+17. Indeed, Defendant Ellison, the 28-year-old former Chief Executive Officer of 
+Alameda, has admitted that the FTX Executive Defendants intentionally directed customer funds 
+to Alameda to cover massive shortfalls.  Once again, this was made possible in part by the fact that 
+the FTX Group had failed to institute any internal controls to safeguard the approximately $16 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 10 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 11 of 64
+
+
+--- PAGE 12 ---
+
+8
+billion worth of customer assets.  The lack of internal controls was particularly egregious – and 
+opportunistic – because the FTX Group was not subject to the normal types of regulation covering 
+financial institutions that handle customer property that would have protected customers.
+18. The FTX Executive Defendants’ decision to delay the collapse of Alameda by 
+looting the FTX Group’s customer deposits to cover Alameda’s obligations and losses – and to 
+fund loans to FTX Executive Defendants – ultimately caused the FTX Group’s collapse in a matter 
+of days.  In fact, days after Alameda’s troublesome balance sheet – and position in FTT tokens – 
+became public on November 2, 2022 and a former strategic investor in the FTX Group announced 
+it was selling $2.1 billion “worth” of FTT tokens, alarmed customers sought to withdraw 
+approximately $6 billion in 72 hours.  Unable to satisfy the withdrawal requests for customers’ 
+(now missing) property from what should have been segregated customer accounts, the FTX 
+Group “paused” withdrawals.  What has been incorrectly described as a “run on the bank” was, in 
+reality, a failure brought about because the FTX Executive Defendants stole customer funds that 
+consequently were unavailable to cover withdrawals.
+19. The defalcation of customer funds also prevented the FTX Group from rescue.  
+After the massive customer withdrawals on November 8, 2022, the former strategic investor (and 
+rival) offered to buy the FTX Group’s non-U.S. business.  However, the next day, the buyer 
+announced it was walking away from the transaction because, following due diligence, it 
+recognized the FTX Group’s massive problems regarding customer property.  After unsuccessfully 
+scrambling for cash from other potential investors, overnight on November 10, 2022, Defendant 
+Bankman-Fried resigned as CEO.  The other FTX Executive Defendants – Defendants Wang and 
+Singh – resigned their positions shortly thereafter.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 11 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 12 of 64
+
+
+--- PAGE 13 ---
+
+9
+20. Defendant Bankman-Fried was replaced as CEO by John J. Ray III, who in his first 
+official act authorized 134 of the entities that comprised the FTX Group and Alameda (the 
+“Debtors” to commence their Chapter 11 cases on November 11, 2022 (the “Bankruptcy 
+Proceedings”).  In his declaration in support of Debtors’ first day pleadings, Mr. Ray noted his 
+“over 40 years of legal and restructuring experience” and service as “the Chief Restructuring 
+Officer or Chief Executive Officer in several of the largest corporate failures in history” – 
+including Enron Corp. – while describing the failures at the Debtors as like nothing he has ever 
+seen: 
+Never in my career have I seen such a complete failure of corporate 
+controls and such a complete absence of trustworthy financial 
+information as occurred here. From compromised systems integrity 
+and faulty regulatory oversight abroad, to the concentration of 
+control in the hands of a very small group of inexperienced, 
+unsophisticated and potentially compromised individuals, this 
+situation is unprecedented.2
+21. On December 12, 2022, Bahamian authorities arrested Defendant Bankman-Fried 
+at the request of the U.S. government, based on an indictment charging him with wire fraud and 
+conspiracy arising from his scheme to loot customer property.  On December 13, 2022, the 
+Securities and Exchange Commission (“SEC”) and Commodities Futures Trading Commission 
+(“CFTC”) sued Defendant Bankman-Fried for fraud.  The CFTC also sued the FTX Group and 
+Alameda.
+22. On December 20, 2022, Defendants Wang and Ellison pleaded guilty to federal 
+wire fraud and conspiracy charges.
+2 Declaration of John J. Ray III in Support of Chapter 11 Petitions and First Day Pleadings, No. 22-
+11068(JTD), D. I. No. 24 (Bankr. D. Del.)
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 12 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 13 of 64
+
+
+--- PAGE 14 ---
+
+10
+II. JURISDICTION AND VENUE
+23. This Court has jurisdiction over this Adversary Proceeding under 28 U.S.C. §§ 157 
+and 1334.
+24. This Adversary Proceeding is a core proceeding pursuant to pursuant to 28 U.S.C. 
+§ 157(b)(2)(A), (B) and (E) and Rule 7001 of the Federal Rules of Bankruptcy Procedure.
+25. Venue in this district is proper pursuant to 28 U.S.C. §§ 1408 and 1409.
+26. This Adversary Proceeding arises in and relates to the Debtors’ Bankruptcy 
+Proceedings.
+27. This Adversary Proceeding presents both “core” and “non-core” proceedings under 
+28 U.S.C. § 157(b).
+28. The Plaintiffs seek and are entitled to declaratory and other relief pursuant to 28 
+U.S.C. §§ 2201, et seq.
+III. THE PARTIES
+A. Plaintiffs 
+29. Austin Onusz, an individual, is a citizen of the United States residing in California.  
+30. Cedric Kees van Putten, an individual, is a citizen of the Netherlands residing in 
+the Netherlands.  
+31. Nicholas J. Marshall, an individual, is a citizen and resident of the United 
+Kingdom.  
+32. Hamad Dar, an individual, is a citizen and resident of Turkey.  
+33. Plaintiffs Messrs. Onusz, van Putten, Marshall and Dar deposited and held property 
+in the form of cash and Digital Assets at the FTX Group for the purposes of transacting in 
+cryptocurrency and have been unable to withdraw, use or otherwise access their customer property 
+and bring this action collectively on behalf of themselves and on behalf of the proposed Customer 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 13 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 14 of 64
+
+
+--- PAGE 15 ---
+
+11
+Class.  Plaintiffs are a representative sample of customers of FTX Group who have suffered 
+injuries-in-fact due to the Defendants’ conduct alleged herein, and thus will effectively and 
+adequately represent the Customer Class with respect to the issues set forth in this Adversary 
+Complaint.
+B. Defendants
+1. West Realm and FTX US 
+34. Debtor West Realm Shires Inc. (“West Realm”), a corporation organized under the 
+laws of the State of Delaware with its principal place of business in Illinois, at all relevant times 
+owned 100% of West Realm Services Inc. (d/b/a FTX US).
+35. Debtor West Realm Services Inc. (d/b/a FTX US) (“FTX US” or “West Realm 
+Services”), a corporation organized under the laws of the State of Delaware with its principal place 
+of business in Chicago, Illinois, provides a platform and exchange for U.S. users to trade 
+cryptocurrency.  FTX US accounted for approximately 5% of the FTX Group’s revenue, which 
+exceeded $1.02 billion in 2021.
+36. West Realm and FTX US, together with its U.S. debtor subsidiaries, filed for 
+bankruptcy protection on November 11, 2022.  
+2. FTX Trading 
+37.  FTX Trading Ltd. (“FTX Trading”), a corporation organized under the laws of 
+Antigua with its principal places of business in Antigua and Barbuda, and its headquarters in the 
+Bahamas, conducts business under the trade name “FTX.com” and provides a platform and 
+exchange for non-U.S. users to trade cryptocurrency and other “Digital Assets.”3
+3 As set forth below, FTX.com permitted non-U.S. customers to engage in much broader transactions.  
+FTX.com’s Terms of Service defined “Digital Assets” to include “[Bitcoin, Ethereum], FTT and any other 
+digital asset, cryptocurrency, virtual currency, token, leveraged token, stablecoin, tokenised stock, volatility 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 14 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 15 of 64
+
+
+--- PAGE 16 ---
+
+12
+38. FTX Trading and its debtor subsidiaries filed for bankruptcy protection on 
+November 11, 2022. 
+3. The FTX Executive Defendants
+39. Samuel Bankman-Fried, an individual, is a citizen of the United States who, before 
+his recent arrest, resided in the Bahamas.  Defendant Bankman-Fried is the co-founder and former 
+CEO of the FTX Group.  Defendant Bankman-Fried directly owns approximately 53% of West 
+Realm; indirectly approximately 75% of FTX Trading; and directly approximately 90% of 
+Alameda.  Defendant Bankman-Fried resigned as CEO of FTX on November 10, 2022.
+40. Zixiao “Gary” Wang, an individual, is a citizen of the United States residing in the 
+Bahamas.  Defendant Wang is the co-founder and former Chief Technology Officer of the FTX 
+Group.  Defendant Wang owns 16% of the FTX Group and 10% of Alameda.  Defendant Wang 
+left the FTX Group on or about November 15, 2022.
+41. Nishad Singh, an individual, is a citizen of the United States residing in the 
+Bahamas. Defendant Singh joined Alameda in December 2017 and became Director of 
+Engineering at the FTX Group in April 2019.  Defendant Singh left the FTX Group on or about 
+November 15, 2022. 
+42. Defendants Bankman-Fried, Wang, and Singh are the “FTX Executive 
+Defendants.”
+4. The Alameda Defendants
+43. Alameda Research LLC, a limited liability company organized under the laws of 
+the State of Delaware with its principal place of business in Dover, Delaware, that operated in 
+token, tokenised futures contract, tokenised option or other tokenised derivatives product that is supported 
+by and made available from time to time to transact in using the Platform.”
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 15 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 16 of 64
+
+
+--- PAGE 17 ---
+
+13
+Hong Kong and the Bahamas, was an investment firm.  Alameda and its Debtor subsidiaries filed 
+for bankruptcy protection on November 11, 2022.  
+44. Caroline Ellison, an individual, is a citizen of the United States residing in the 
+Bahamas.   Defendant Ellison joined Alameda in 2018, became co-CEO in 2021, and sole CEO in 
+August 2022.
+45. Defendants Alameda and Ellison are the “Alameda Defendants.”
+46. Defendants Bankman-Fried, Wang, Singh and Ellison are the “Individual 
+Defendants.”
+IV. FACTUAL BACKGROUND
+A. Cryptocurrency, Cryptocurrency Exchanges and Inadequate Regulation 
+1. Cryptocurrency, Blockchain and Coins/Tokens
+47. Cryptocurrency or crypto is decentralized digital currency that can be transferred 
+on a peer-to-peer network rather than requiring facilitation from a financial institution.  Instead of 
+being physical, government issued currency (fiat currency) that can be carried around and 
+exchanged, transactions involving cryptocurrency exist purely as digital entries to an online 
+database or ledger.  These peer-to-peer transactions are placed in “blocks” for verification.  Once 
+transactions are verified as legitimate through one of several accepted processes (such as, as 
+discussed below, “proof of work” verification), the blocks are then recorded in public ledger – 
+known as a “blockchain” – that is unique to that cryptocurrency.
+48. The native cryptocurrency on an individual blockchain is referred to as a “coin.”  
+Although often used interchangeably, “coins” and “tokens” are different concepts in 
+cryptocurrency with unique characteristics.  First, coins operate on an independent blockchain 
+specifically created to launch and record transactions for that coin.  Because it requires building a 
+blockchain, creating and launching a coin is difficult and labor intensive.  By contrast, tokens 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 16 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 17 of 64
+
+
+--- PAGE 18 ---
+
+14
+operate on top of existing blockchains and require less expertise or expense to launch.  In this 
+regard, tokens can be created by an issuer “out of thin air.”  The FTT proprietary cryptocurrency 
+created by the FTX Group as discussed herein were tokens.
+49. Second, coins are intended to function as digital money with purchasing power and 
+therefore endeavor to have the attributes of more traditional currency: scarcity, durability, and 
+inherent value.  Tokens, by contrast, can be created by an issuer for a variety of reasons to represent 
+a variety of assets or services.  For example, the FTX Group’s proprietary token FTT was the basis 
+of an elaborate, rewards-based marketing scheme to attract users to the FTX Group.  For example, 
+customers who bought FTT were able to execute trades on the FTX Group’s exchanges at a 
+discount.  Crucially, FTT could also be used as collateral.  Indeed, as discussed below, Alameda 
+and the FTX Group were secretly using FTT as collateral to “borrow” customer property and take 
+out other loans to use in trading and/or covering losing trades.
+50. Third, new coins are issued by “mining” – which involves “miners” solving 
+complex math problems to validate transactions and be rewarded with freshly minted coins.  
+Specifically, the process uses sophisticated hardware to compute extremely complex math 
+problems.  The first computer to find the solution to the problems receives the next block of coins 
+and the process begins again.  This verification process is known as “proof of work.”  Tokens, by 
+contrast, are created and distributed at the issuers’ discretion – and are thus much easier to create 
+and acquire – and lack intrinsic value.  
+51. The decentralized nature and lack of affiliation with any government, as well as the 
+ease with which some are created and issued (along with under regulation), subject 
+cryptocurrencies  to unusual volatility based upon the impulses of the market and cause massive 
+gains and losses to investors.  
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 17 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 18 of 64
+
+
+--- PAGE 19 ---
+
+15
+52. Cryptocurrency (coins or tokens) are stored in digital “wallets.”  Digital wallets are 
+applications that store the passkeys – private codes – used by owners to engage in cryptocurrency 
+transactions and provide the interface that lets owners access their cryptocurrency.  There are three 
+types of digital wallets.  A “hardware wallet” is the most secure because the cryptocurrency owner 
+is in possession of a hardware device that is disconnected from the blockchain but can be plugged 
+into a computer via USB or via Bluetooth on a mobile device to access the blockchain of choice.   A 
+“software wallet” is similarly disconnected, except the wallet that can be plugged in to access the 
+blockchain is kept in software rather than hardware.  A “custodial wallet” is typically held by 
+crypto exchanges (such as FTX US and FTX.com).  These custodial wallets are owned by the 
+customer; however, the exchange or custodian is the one that controls the passkeys.  
+53. The FTX Group’s act of holding billions in customer cryptocurrencies in custodial 
+wallets and cash in custodial accounts is what allowed the FTX Defendants to misuse, 
+misappropriate, or convert customer property for use by Alameda.  Likewise, the FTX Group’s 
+creation of FTT allowed Alameda to make hugely leveraged trades with the FTX Group’s 
+customer funds.
+54. Cryptocurrencies are big business.  As of December 2022, there are more than 
+9,000 active cryptocurrencies, used/traded by more than 300 million people worldwide, with a 
+market-cap exceeding $830 billion. 
+2. Underregulated Cryptocurrencies and Cryptocurrency Exchanges
+55. As stated, one of the most prominent features of cryptocurrencies is that they are 
+not issued by any government and do not rely on financial institutions to facilitate or verify 
+transactions.  Moreover, cryptocurrencies, for the massive value they represent, are a 
+comparatively new financial asset.  For these reasons, cryptocurrencies, and the exchanges on 
+which they are traded, are vastly underregulated compared to, for example, securities traded 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 18 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 19 of 64
+
+
+--- PAGE 20 ---
+
+16
+through broker-dealers on the New York Stock Exchange or commodities traded through the CME 
+Group Inc.
+56. There are currently two types of exchanges in which investors can trade 
+cryptocurrencies.  The first, and most relevant to the collapse of the FTX Group, are “centralized 
+exchanges” that allow trading/swapping in cryptocurrencies and allow selling/trading 
+cryptocurrencies back into fiat currencies (such as U.S. dollars).  These include U.S.-based and 
+non-U.S. based exchanges.  Companies such as Coinbase Global, Inc. (“Coinbase”), which became 
+a public company in April 2021, and Gemini Trust Company, LLC (“Gemini”), which was forced 
+to freeze $700 million in Customer withdrawals due to its exposure to the FTX Group, are U.S.-
+based exchanges that attempt to comply with domestic regulatory frameworks, even though such 
+regulations are ill-suited to cryptocurrency (as discussed below).  These companies offer a more 
+limited set of products and services, such as spot-market trades of a select list of cryptocurrencies.  
+FTX US is such a company.  These companies are permitted to provide services to U.S.-based 
+customers.
+57. By contrast, large well-known companies like BitMEX, a Seychelles-incorporated, 
+Hong Kong-based company, and Binance, originally a Chinese company most recently registered 
+in the Cayman Islands (2017) and Seychelles (2019), serve non-U.S. Customers.  In addition to 
+spot market trading, the non-U.S. exchanges offer more risky and wide-ranging products such as 
+cryptocurrency futures, swaps, and other derivatives.  Such companies, which are more lucrative 
+than their U.S. counterparts, also let traders – including less sophisticated retail traders – trade 
+these complicated cryptocurrency products on high margin.  These non-U.S. companies are 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 19 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 20 of 64
+
+
+--- PAGE 21 ---
+
+17
+typically subject to the regulations, or lack thereof, of their country of residence.4  FTX Trading is 
+one of these non-U.S. based companies which, as reflected in its definition of Digital Assets, (see 
+footnote 3 above), offers customers a myriad of complex products that can be traded.
+58. Although they typically face more regulation in the U.S. versus overseas, 
+cryptocurrency and U.S.-based cryptocurrency businesses/exchanges, including Coinbase and 
+FTX US, remain underregulated in the U.S. compared to traditional securities and commodities, 
+and the exchanges on which they trade.  Indeed, instead of federal regulations, cryptocurrency 
+exchanges are subject to state-by-state regulations covering “money transmitters” (such as Western 
+Union and PayPal).5
+59. Each state (except Montana) has its own set of money transmitter laws, which often 
+differ wildly in degree of regulation.  For example, New York State is not “crypto-friendly.”  For 
+any New York resident to transact on an exchange, that exchange must have a BitLicense issued 
+by the New York State Department of Financial Services, which is very difficult and expensive to 
+get.  By contrast, Wyoming and Florida are more friendly – both have exempted crypto businesses 
+from money transmission licenses.
+60. Whatever the various state regulations provide, the protections afforded by money 
+transmitter laws are particularly inadequate for cryptocurrency exchanges.  Most prominently, they 
+involve insufficient protection of customer funds.   Exchanges like FTX US and Coinbase that 
+offer brokerage services and liquid marketplaces for trading often store significant customer assets 
+4 Through the use of a Virtual Private Network (“VPN”), U.S.-based investors often circumvent location 
+blocking to access non-U.S. exchanges.  
+5 Money transmitter regulations originated in the early 1900s with so-called “immigrant banks.”  To protect 
+immigrants from fraudsters, states began to impose licensing requirements on money transmission agents 
+that would collect funds from local immigrant communities and forward it by steamship to their families in 
+Europe and elsewhere.  
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 20 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 21 of 64
+
+
+--- PAGE 22 ---
+
+18
+for long periods (in contrast to the short period to transmit such property).  Without corresponding 
+protections these customer funds are at risk.  
+61. The custody of customer funds is why brokerages and exchanges are typically the 
+domain of significant federal agencies like the SEC and the CFTC, which have far stricter rules 
+around custody of customer property.6  Indeed, SEC Chairman Gary Gensler has been an advocate 
+of stricter regulation that would recognize cryptocurrencies as securities.  In April 2022, he opined 
+that “the platforms themselves [should be] registered and regulated much like exchanges. . . . These 
+crypto platforms play roles similar to those of traditional regulated exchanges. Thus, investors 
+should be protected in the same way.” 
+62. In this context, where it was well-known that regulations did not provide protection 
+of customers, it was incumbent on the FTX Executive Defendants to ensure the FTX Group – 
+which was handling billions in customer property – to institute company safeguards and 
+procedures consistent with their fiduciary duty and duty of care.
+63. The second type of Cryptocurrency exchanges are “decentralized exchanges” (a/k/a 
+“DEXs”).  DEXs use customer liquidity pools, which are basically funded by investors who 
+deposit their crypto assets into a pool.  In turn they earn a yield from the transaction fees charged 
+to users.  DEXs play an integral role in the world of Decentralized Finance (“DeFi”).  The world 
+of DeFi is typically controlled and enforced by smart contracts – self-executing contracts where 
+terms of the agreement are directly written into lines of code.  DEXs are totally unregulated and 
+when transacting in DeFi there are zero restrictions.
+64. DeFi is also where crypto owners engage in “yield farming” as discussed below.
+6 For these reasons, the bankruptcy status of FTX US stands in sharp contrast to those parts of the FTX US 
+companies that are regulated by the SEC and CFTC, and remain solvent.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 21 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 22 of 64
+
+
+--- PAGE 23 ---
+
+19
+3. The Creation of Bitcoin
+65. Bitcoin was the first cryptocurrency and remains the most prominent, popular, and 
+valuable (and ultimately led to the creation of Alameda).  Bitcoin was created in 2009 by an 
+anonymous developer (or group of developers).  Like other cryptocurrencies, Bitcoin are 
+generated, traded, and stored using a blockchain.  The transactions on the Bitcoin blockchain are 
+validated by a “proof-of-work” consensus – the process of solving complex math problems – 
+which, as stated, is also the process through which “miners” are awarded new Bitcoins.
+66. Bitcoin first became available to buy, sell and trade on online exchanges in 2010.  
+In April 2011, the price of Bitcoin crossed the $1 threshold for the first time.  While it has been 
+very volatile, the price of Bitcoin overtime has risen meteorically.  Bitcoin reached $1,000 per coin 
+in November 2013.  By late 2017, when Defendant Bankman-Fried began trading Bitcoin, the 
+price was on another massive upswing.  Prices hit $10,000 per coin for the first time in November 
+2017 and reached about $20,000 in December 2017.
+67. Bitcoin’s market-cap exceeded $134 billion in December 2017.  Other well-known 
+Cryptocurrencies such as Litecoin (which began trading in 2011) and Ethereum (which began 
+trading in 2015) had market-caps exceeding $3 billion and $16 billion, respectively, by December 
+2017.  Bitcoin’s current market cap exceeds $330 billion.
+B. Defendant Bankman-Fried Co-Founds Alameda Research in November 2017
+68.  The meteoric rise and catastrophic collapse of the FTX Group, and resulting 
+billions of dollars in misused, misappropriated, or converted Customer Property, was set in motion 
+by Defendant Bankman-Fried’s co-founding of Alameda in late-2017.  Alameda was founded to 
+capitalize on the spreads between Bitcoin prices in the U.S. and Asia.  While purportedly a 
+“quantitative” trading firm (firms that use mathematical models and data to inform decisions) 
+focusing on cryptocurrencies, Alameda was in fact a firm – run by arrogant and inexperienced 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 22 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 23 of 64
+
+
+--- PAGE 24 ---
+
+20
+management and traders unable or unwilling to create proper internal controls – that employed 
+risky strategies and made huge bets that cryptocurrency prices would continue to increase.  
+69. Defendant Bankman-Fried graduated from Massachusetts Institute of Technology 
+(“MIT”) in 2014 with a degree in Physics.  Defendant Wang, who graduated in 2015 with degrees 
+in Mathematics and Computer Science, was Defendant Bankman-Fried’s roommate at MIT. 
+70. Following graduation, Defendant Bankman-Fried worked at Jane Street Capital 
+LLC (“Jane Street”) as a trader specializing in exchange-traded funds (“ETFs”).  Jane Street is a 
+preeminent global proprietary quantitative trading giant known for its comprehensive focus on risk 
+and risk controls.  Among Defendant Bankman-Fried’s colleagues at Jane Street was Defendant 
+Ellison.
+71. After a few years, in 2017, Defendant Bankman-Fried left Jane Street, believing he 
+could make more money elsewhere.  Ultimately, Defendant Bankman-Fried’s search caused him 
+to stumble upon cryptocurrency.  Indeed, in an interview with Yahoo, Defendant Bankman-Fried 
+claimed to have decided on cryptocurrency from the “bunch of things that seemed like maybe very 
+high upside,” explaining that “[t]here was huge demand, huge volatility, huge inflows, huge price 
+appreciation, huge amounts of attention and interest—and the infrastructure wasn’t there.”  
+Specifically, Defendant Bankman-Fried noticed the wildly different prices of Bitcoin on 
+exchanges around the world and the potential for arbitraging those price discrepancies.
+72. Today, Bitcoin prices are uniform (or very close) across all exchanges.  However, 
+in late 2017, Defendant Bankman-Fried purportedly saw huge differences in the value of Bitcoin 
+on various exchanges.  The opportunity for arbitrage was especially compelling in Asia, where 
+massive profits could be realized by buying Bitcoin cheaply in the U.S. and selling it expensively 
+in Japan and South Korea.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 23 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 24 of 64
+
+
+--- PAGE 25 ---
+
+21
+73. In October 2017, after leaving Jane Street, Defendant Bankman-Fried was working 
+as director of development at the Centre for Effective Altruism (“CEA”) – a charity focusing on 
+“using evidence and reason to figure out how to benefit others as much as possible.”  According 
+to Defendant Bankman-Fried, during that time he “was trading all night and, in theory, working 
+all day” and, “after a month or two” he quit the CEA to focus on Cryptocurrency trading. 
+74. Defendant Bankman-Fried has admitted that these first investments in 
+cryptocurrency were made with no expertise in cryptocurrency or knowledge about the underlying 
+blockchain technology.  Indeed, in a May 2022 article in the Financial Times, Defendant 
+Bankman-Fried admitted that: “I first got involved with no f*&%ing clue what a blockchain was, 
+I was just doing arbitrage.”
+75. Nevertheless, without any expertise, Defendant Bankman-Fried’s trading quickly 
+generated millions of dollars and, in November 2017, he co-founded Alameda with Defendant 
+Wang (who was then at Google), and Tara Mac Aulay (a one-time Chief Executive Officer of CEA 
+with no trading experience), to take advantage of the (as he has described it) “free money” 
+available from the Japan arbitrage strategy, and to a lesser extent, a similar strategy in South Korea.
+76. Alameda began in a three-bedroom apartment in Berkeley, California, with the 
+downstairs serving as its office.  Defendant Bankman-Fried named the company after the county 
+in which Berkeley is located and, as he has acknowledged, added “Research” for an air of 
+legitimacy because “[i]f you named your company like ‘We Do Cryptocurrency Bitcoin Arbitrage 
+Multinational Stuff,’ no one’s going to give you a bank account.”  However, “everyone wants a 
+Research Institute.”  The firm initially managed a few million dollars from a mix of the employees’ 
+own funds and high-interest cryptocurrency loans from wealthy investors.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 24 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 25 of 64
+
+
+--- PAGE 26 ---
+
+22
+77. In addition to Defendants Bankman-Fried and Wang, and Ms. Mac Aulay, early 
+Alameda employees included Defendant Singh.  Defendant Singh – who was best friends with 
+Defendant Bankman-Fried’s brother in high school – graduated in 2017 with a Bachelor of Science 
+(BS) in Electrical Engineering and Computer Science Engineering from the University of 
+California, Berkeley.  Following five months working on applied machine learning at Facebook, 
+Defendant Singh joined Alameda as Director of Engineering.
+78. By December 2017, Alameda Research was successfully capitalizing on the 
+persistent but hard to exploit price differences between cryptocurrencies (mainly Bitcoin) in the 
+U.S. and in Japan, where Bitcoin traded at a roughly 10-20% premium.  Alameda Research had 
+purportedly generated as much as $1 million in profit per day from the strategy.
+79. However, as more sophisticated investors joined the cryptocurrency arbitrage 
+space, by January 2018 the price discrepancy in the U.S. and Japan of Bitcoin and other 
+cryptocurrencies decreased and the strategy became less profitable to Alameda. Accordingly, as 
+discussed below, Alameda expanded to trading more broadly across the entire cryptocurrency 
+domain and moved its headquarters from California to Hong Kong due to the difficulty of 
+establishing and maintaining relationships with banks in the U.S. as a cryptocurrency trading firm. 
+C. Several Alameda Staffers Leave in a Dispute Over Failed Internal Controls
+80. Despite his time at Jane Street, a firm known for its obsession with risk and 
+controlling risk, Defendant Bankman-Fried did not create internal controls at Alameda and, indeed, 
+seemed to actively object to any controls that may have restricted his activities.
+81.    By early 2018, colleagues at Alameda – including Ms. Mac Aulay – proposed 
+setting up rigorous structures and systems for risk, compliance, and accounting based on concerns 
+about the company’s poor approach in these areas.  According to the Wall Street Journal, 
+Defendant Bankman-Fried was placing huge bets on cryptocurrencies while largely disregarding 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 25 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 26 of 64
+
+
+--- PAGE 27 ---
+
+23
+the risk of those trades and staffers believed Alameda needed to do a better job tracking its trading 
+to properly account for its gains and losses.  
+82. Staffers also had concerns about how the firm’s trading capital was commingled 
+with money dedicated to run the firm.  That made it harder to track Alameda’s performance and 
+its operating expenses.  Defendant Bankman-Fried was reportedly dismissive of the idea of 
+increased controls, stating that controls could limit Alameda’s activity and potential profit.  
+According to a former software engineer, Defendant Bankman-Fried “didn’t want to feel 
+constrained . . .  But as a result we ended up not really knowing how much money we even had.”
+83. By early 2018, Defendant Bankman-Fried had placed a series of big bets, including 
+one on the price of Ethereum.  Alameda had made solid profits with the Bitcoin arbitrage but 
+suffered losses from other wagers betting on price moves.  According to 2018 documents written 
+by Defendant Bankman-Fried, he acknowledged that Alameda’s lack of accounting and risk 
+controls led to trading losses.  “No one was ultimately making sure that our trading and accounting 
+were OK.  We did a lot of sloppy trades, many of which some people were at the time worried 
+about.”  Defendant Bankman-Fried conceded that the issues helped precipitate “a number of 
+clashes” at the firm.  According to one early venture capital investor who described “red flags” at 
+Alameda, “[a] few months before we met Sam, Alameda lost north of $10M - a huge amount of 
+their assets - on ‘trade errors.’ We could never figure out if this was due to fraud, incompetence, 
+or a well-meaning mistake.”
+84. Following the losses, in April 2018, Ms. Mac Aulay and other staffers quit, leaving 
+Alameda with only about a dozen less-experienced employees.  While Defendant Bankman-Fried 
+told the Wall Street Journal that these staffers left because of personal disputes and lack of 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 26 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 27 of 64
+
+
+--- PAGE 28 ---
+
+24
+productivity, Ms. Mac Aulay tweeted on November 16 that “I and a group of others all quit, in 
+part because of concerns over risk management and business ethics.” 
+D. Defendant Ellison and Sam Trabucco Join Alameda
+85. After graduating from Stanford in 2016 with a B.S. in Mathematics, Defendant 
+Ellison went to work at Jane Street as a junior trader.  After less than two years trading equities at 
+Jane Street, in March 2018 Defendant Ellison joined Alameda.  Defendant Ellison has 
+acknowledged she was a comparatively inexperienced trader – and lacked knowledge about 
+aspects of crypto – but that most of Alameda Research’s traders were less experienced than she 
+was: “I was like a trader for . . . not that long at Jane Street but a year and a half, which was kind 
+of more trading experience than a lot of Alameda traders had at the time. I kind of wanted to come 
+in and be like an expert on everything, but there was still lots of stuff in the crypto world that I 
+knew nothing about.”
+86. Sam Trabucco graduated from MIT – where he was friends with Defendant 
+Bankman-Fried and Wang – in 2015 with degrees in Mathematics and Computer Science.   After 
+graduation, Defendant Trabucco went to work for Susquehanna International Group (“SIG”) as a 
+trader on SIG’s bond ETF desk for approximately two years.  In March 2019, Defendant Trabucco 
+left SIG and joined Alameda as a trader.  At the time, like Defendant Ellison, Defendant Trabucco 
+did not have any experience trading cryptocurrencies.
+E. Defendants Bankman-Fried and Wang Launch FTX in May 2019
+87. In late 2018, the team at Alameda had grown frustrated about the inefficiencies in 
+cryptocurrency exchanges and Defendant Bankman-Fried believed they could do better.  
+According to Defendant Bankman-Fried, while attending meetings in Hong Kong, he received 
+encouragement from large players in cryptocurrency.  He summoned Defendant Wang to Hong 
+Kong, and they went to work creating the FTX Group.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 27 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 28 of 64
+
+
+--- PAGE 29 ---
+
+25
+88. The decision was controversial at Alameda.  According to Defendant Singh, 
+Alameda Research was “hugely understaffed” and its best trader and best engineer, Defendants 
+Bankman-Fried and Wang, leaving for Hong Kong to develop the new project was risky.
+89. But the idea for the FTX Group served another function beyond creating an 
+innovative exchange.  Defendants Bankman-Fried thought the FTX Group could generate revenue 
+to fund Alameda’s activities.  As more sophisticated investors engaged in cryptocurrency 
+arbitrage, the opportunities to exploit market efficiencies had decreased.  Despite marketing 
+materials offering investors and lenders “high returns with no risk” and “no downside,” finding 
+investors and dependable lenders was difficult since banks and traditional Wall Street firms largely 
+shunned crypto because of the lack of regulation and oversight.
+90. In late 2018, Alameda relocated from Berkeley to Hong Kong.
+91. FTX – which stood for “Fu-Tures eXchange” – was registered as an Antigua and 
+Barbuda limited company in April 2019 and then launched the exchange from its Hong Kong 
+offices on May 9, 2019.  The FTX Group intended to alleviate a variety of issues that existing 
+crypto spot trading exchanges and crypto derivatives exchanges experienced, such as time-
+consuming trading procedures and low liquidity.
+92. As would later become significant, the FTX Executive Defendants did not 
+implement internal controls over customer property when they created and launched the FTX 
+Group, nor did they do so later.  In his recent testimony before the House Financial Services 
+Committee, Mr. Ray said:
+there was [sic] no corporate controls, no corporate oversight, no 
+independent board, and, the owners of the business, the senior 
+management, had virtual control of the accounts of each of the silos 
+and could move money or assets as they desired, undetected by 
+customers. So, to the extent there were rules, and there were very 
+few, obviously they were made to be broken.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 28 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 29 of 64
+
+
+--- PAGE 30 ---
+
+26
+93. In addition to the identity of its co-founders, Alameda’s relationship with the FTX 
+Group was intertwined from the start.  Alameda was the FTX Group’s largest initial customer.  
+Indeed, Defendant Bankman-Fried acknowledged the crucial role of Alameda in the beginning as 
+the main “liquidity provider” accounting for “half the volume on the exchange.”  Defendant 
+Bankman-Fried further explained that Alameda “helped solve the problem of how’d you get users 
+without volume, or volume without users.”
+F. FTX Creates Its Proprietary Token – FTT – in July 2019
+94. To generate additional revenue, approximately two months after its May 2019 
+debut, the FTX Group launched its proprietary token – FTT – on July 27, 2019.   FTT was launched 
+with an initial supply of 350 million, 175 million of which were “locked” (i.e., non-circulating) 
+tokens held at FTX.com and scheduled to “unlock” over a three-year period.  
+95. FTT started as an incentive tool – a “frequently flyer” program for customers.  
+FTX.com offered rewards in exchange for ownership of the FTT tokens, including trading 
+discounts and preferred status on its site.  Defendant Bankman-Fried promised investors 
+“guaranteed liquidity” in FTT, implying that the risk of buying FTT tokens was nonexistent.  
+Customers were also permitted to use their FTT tokens as collateral to increase their leverage – 
+i.e., trade on “margin.”  As investors, enticed by the trading discounts, embraced FTT to trade on 
+FTX, the newly minted token became one of the biggest sources of trading revenue for the 
+exchange. 
+96. To maintain the value of FTT and keep its price stable, Alameda, still based in Hong 
+Kong, served as the token’s main market maker.  That meant it bought and sold the majority of 
+FTT on the exchange and, as a major trader, had the ability to set prices for the token.  Moreover, 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 29 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 30 of 64
+
+
+--- PAGE 31 ---
+
+27
+by keeping half the tokens uncirculated, FTX.com and Alameda could artificially prop up the price 
+while still counting the uncirculated tokens as assets.
+97. FTT opened trading on July 31, 2019 at approximately $1.72 per token.    
+G. Binance Makes a Strategic Investment in FTX and FTT
+98. Binance, which is the world’s largest crypto exchange, was founded in China in 
+2017 by Changpeng Zhao and subsequently relocated in September 2017 after the Chinese 
+government banned crypto exchanges.  Registered in the Cayman Islands and Seychelles, Binance 
+has offices in Abu Dhabi, Bahrain, Dubai and Paris.
+99. On December 19, 2019, Binance announced a strategic partnership with FTX and 
+long-term investment in FTT.  While the specific amount of Binance’s investment in FTX and 
+FTT was not disclosed, Defendant Bankman-Fried said at the time it was in the “tens of millions” 
+and valued FTX in the “hundreds of million of dollars.”  
+100. As part of the agreement, Binance listed FTT on its exchange and received an 
+allocation of FTT as part of its investment in FTX.
+V. FTX’S REGULATORY DISCLOSURES AND CUSTOMER AGREEMENTS 
+101. FTX US provided each of its U.S. Customers with “FTX US Regulation and 
+Licensure Information.”  That disclosure listed the 40 U.S. states for which FTX US had a money 
+transmitter license, as well as Washington D.C. and Puerto Rico.  The disclosure also implied that 
+FTX US had customer protections in place:
+West Realm Shires Services Inc. (‘FTX US’) is generally regulated 
+on both the Federal and State level and the primary regulatory 
+compliance obligations are within the United States. FTX US is 
+required to comply with many financial services and consumer 
+protection laws. . . . On the State level, the primary issues arise 
+around consumer protection and money transmission laws.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 30 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 31 of 64
+
+
+--- PAGE 32 ---
+
+28
+102. FTX US also provided each of its U.S. Customers with the “FTX.US User 
+Agreement” – between U.S. customers and West Realm Services – which made it clear that both 
+cryptocurrency and cash was held exclusively for the benefit of customers and title to any assets 
+remained with the customers:
+ As part of your FTX.US Account, FTX.US provides qualifying users access 
+to accounts for you to store, track, transfer, and manage your balances of 
+cryptocurrency and/or dollars or other supported currency. All 
+cryptocurrency or dollars (or other supported currencies) that are held in 
+your account are held by FTX.US for your benefit.
+ Title to cryptocurrency represented in your FTX.US Account shall at all 
+times remain with you and shall not transfer to FTX.US.
+ FTX.US does not represent or treat assets in your FTX.US Account as 
+belonging to FTX.US.
+ Your FTX.US Account allows you to hold and transfer US dollars which 
+are held by FTX.US for your benefit at U.S. banks. . . .  To the extent you 
+hold USD fiat balances (and such balances are not held in stablecoins or 
+other investments), those fiat balances are held in customer omnibus 
+accounts at FDIC-insured banks (Silvergate Bank and Signature Bank for 
+customers of the FTX.US, and Evolve Bank & Trust for users of our virtual 
+accounts, as of August 2022).
+103. FTX.com likewise provided its “FTX Terms of Service” – between non-U.S. 
+Customers and FTX Trading – which also made it clear that the title and ownership of customers’ 
+cryptocurrencies remained with the customers and could not be loaned to FTX Trading (or 
+Alameda):
+ Title to your Digital Assets shall at all times remain with you and shall not 
+transfer to FTX Trading.
+ 
+ None of the Digital Assets in your Account are the property of, or shall or 
+may be loaned to, FTX Trading; FTX Trading does not represent or treat 
+Digital Assets in User’s Accounts as belonging to FTX Trading.
+ You control the Digital Assets held in your Account. At any time, subject 
+to outages, downtime, and other applicable policies (including the Terms), 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 31 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 32 of 64
+
+
+--- PAGE 33 ---
+
+29
+you may withdraw your Digital Assets by sending them to a different 
+blockchain address controlled by you or a third party.
+104. Accordingly, while Customer Property held at FTX US and FTX.com was not 
+subject to segregation requirements such as those in the U.S. Commodity Exchange Act or SEC 
+Rule 15c3-3 (both of which prohibit commingling of firm and customer assets), by its own terms 
+of service, the FTX Group was contractually prohibited from using customer property for its own 
+purposes or treating customer property as belonging to the FTX Group or Alameda.
+VI. FTX CUSTOMERS DEPOSIT MONEY AT ALAMEDA 
+105. Despite the foregoing contract terms requiring the FTX Group to hold customer 
+funds in accounts for the benefit of customers, the FTX Group actually directed customers to 
+deposit funds in accounts belonging to Alameda as a workaround to use regulated banks.
+106. Because regulated banks were cautious about dealing with cryptocurrency 
+companies like the FTX Group, some FTX customers were instructed to make deposits at FTX by 
+wiring the funds to Alameda’s bank accounts at Silvergate Bank (“Silvergate”).  Silvergate, which 
+describes itself as a “leading provider of innovative financial infrastructure solutions and services 
+for the growing digital currency industry,” is among the few Federal Reserve member banks 
+through which customers can “on ramp” funds into crypto exchanges like FTX.
+107. Moreover, according to a civil complaint against Defendant Ellison filed by the 
+SEC:
+From the start of FTX’s operations in or around May 2019 until at 
+least 2021, FTX customers deposited fiat currency (e.g., U.S. 
+Dollars) into bank accounts controlled by Alameda. Billions of 
+dollars of FTX customer funds were so deposited into Alameda-
+controlled bank accounts. Ellison was aware that Alameda was 
+receiving FTX customer funds.
+At least some of these bank accounts were not in Alameda’s name, 
+but rather in the name of North Dimension Inc. (“North 
+Dimension”), an Alameda subsidiary. North Dimension’s website 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 32 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 33 of 64
+
+
+--- PAGE 34 ---
+
+30
+does not disclose any connection to Alameda. Ellison knew that 
+Bankman-Fried had directed FTX to have customers send funds to 
+North Dimension in an effort to hide the fact that the funds were 
+being sent to an account controlled by Alameda.
+108. These deposits, which Defendant Bankman-Fried has admitted totaled as much as 
+$6 billion, were, according to Defendant Bankman-Fried, not sent to FTX Group accounts and/or 
+were “miscounted” as Alameda funds. 
+VII. ALAMEDA’S RISKIER STRATEGIES
+A. Alameda Changes to Riskier Strategies 
+109. Alameda was ostensibly founded as a “quantitative” trading firm – i.e., a firm that 
+engaged in trading based on complex mathematical analysis – and began with a comparatively 
+safe strategy of U.S. to Asia Bitcoin arbitrage that Defendant Bankman-Fried described as “free 
+money.”  Alameda was also a market-maker that provided liquidity – high-frequency buying and 
+selling of crypto assets exchanges throughout the day – and generated revenue by collecting a 
+spread on each trade.
+110. However, as arbitrage opportunities dried up, beginning no later than 2020, 
+Alameda was engaging in much risker strategies.  For example, as the price of Bitcoin and 
+Ethereum began to increase drastically in 2020, Alameda made substantial long bets on those and 
+other cryptocurrencies.  As Mr. Trabucco noted in an April 2021 tweet, Alameda moved away 
+from its original strategy of arbitrage and spreads, and toward long positions:
+2 years ago, Alameda maintained pretty strict delta neutrality most 
+of the time, generally trying quite hard to make sure our PNL was 
+from spreads and arbs. Today, not so much -- we got ... uh, really 
+long in winter 2020, for instance.
+Mr. Trabucco attributed Alameda’s change in strategy going “where the money is.”  Defendant 
+Ellison likewise tweeted in 2021 relating to “wasting time trying to trade back and forth for a few 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 33 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 34 of 64
+
+
+--- PAGE 35 ---
+
+31
+points of edge and the way to really make money is figure out when the market is going to go up 
+and get balls long before that.”
+111. Far from “quant” trading, Defendant Ellison – who was named co-CEO of Alameda 
+with Mr. Trabucco in 2021 – has characterized her trades as utilizing “elementary school math.”  
+Co-CEO Trabucco likewise admitted in 2021 that Alameda was making bets on certain 
+cryptocurrency based upon nothing more than the timing of Elon Musk’s tweets.
+112. In addition, by 2021, up to 30% of Alameda’s traders were engaged in “yield 
+farming.”  Yield farming is a very risky investment strategy where owners deposit their crypto into 
+pools which can be used by borrowers to speculate on or create other tokens and the owner earns 
+a return when the liquidity generates income.  Yield farming is risky because the digital assets 
+often have an initial run-up in price as investors put money in and then a crash as they get out.  
+B. Cryptocurrency’s Historic Bull Market
+113. Fortunately for the FTX Group and Alameda, Alameda’s change in strategy to 
+riskier long positions coincided with a historic cryptocurrency bull market.  For example, Bitcoin 
+was trading at less than $5,000 per coin on March 11, 2020 and, by April 13, 2021 the price reached 
+more than $63,000.  Following a correction in the spring and summer of 2021, the price reached 
+an all-time high in November 2021 of nearly $69,000 per coin.  Similarly, Ethereum (the most 
+prominent altcoin), was trading around $100 in March 2020 and reached an all-time high of more 
+than $4,800 per coin in November 2021.
+114. This bull market resulted in a flood of market participants creating new crypto 
+companies and blockchains, which created and issued their own coins and tokens.  Alameda and 
+Defendant Bankman-Fried invested in numerous of these new companies and cryptocurrencies as 
+a prominent proponent of the industry.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 34 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 35 of 64
+
+
+--- PAGE 36 ---
+
+32
+C. Alameda Used FTTs to “Borrow” Customer Funds
+115. The FTX Group’s proprietary token – FTT – likewise rode the wave of the bull 
+market.  FTT was trading around $2 per token in March 2020 and reached an all-time high 
+exceeding $85 per coin in September 2021.
+116. The FTX Group’s “spot margin” trading feature enabled customers to lend or 
+borrow other customers’ assets.  Like yield farming, customers could deposit a cryptocurrency – 
+such as a Bitcoin or FTT token – and lend it to another user and earn yield on it.
+117. Alameda, as a “customer” of the FTX Group, took advantage of this feature to 
+“borrow” customer funds using FTT tokens it held as collateral.  Even if the FTX Group created 
+more FTT tokens, because these coins never made it onto the open market it would not drive down 
+the coin’s value.  As a result, these tokens held their market value, allowing Alameda to borrow 
+against them – essentially receiving free money to trade with.
+118. Moreover, the higher FTT traded, the more “collateral” Alameda had to take out 
+loans.  According to the SEC, Defendant Ellison, acting at the direction of Defendant Bankman-
+Fried, purchased FTT tokens “on various platforms in order to increase the price of those tokens 
+and inflate the value of Alameda’s collateral, which allowed Alameda to borrow even more money 
+from external lenders at increased risk to the lenders and to FTX’s investors and customers.”
+119. Crucially, the FTX Group exempted Alameda from the normal auto-liquidation 
+procedure governing other customers under which FTX Group would automatically sell collateral 
+on losing leveraged trades.
+VIII. THE FTX GROUP’S AND ALAMEDA’S MASSIVE SPENDING
+120. From 2020 to 2022, enriched by new capital and the increased customer deposits 
+brought on by the bull market, the FTX Group and Alameda engaged in massive (and risky) 
+investments and spending.  
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 35 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 36 of 64
+
+
+--- PAGE 37 ---
+
+33
+A. More Than $1.7 Billion in Loans to the FTX Executive Defendants
+121. For example, between March 2020 and September 2022, the FTX Executive 
+Defendants gave themselves massive loans from Alameda.  Defendant Bankman-Fried received 
+more than $1 billion and Defendants Singh and Wang also borrowed $554 million and $224.7 
+million, respectively.  According to Mr. Ray, in hindsight it is clear the loans to the FTX Executive 
+Defendants were poorly documented, and at times not documented at all.
+122. Indeed, Mr. Ray has testified that:
+The loans that were given to Mr. Bankman-Fried were not just one loan, it 
+was numerous loans, some of which were documented by individual 
+promissory notes. There’s no description of what the purpose of the loan 
+was. In one such instance, he signed both as the issuer of the loan as well as 
+the recipient of the loan. But we have no information at this time as to what 
+the purpose or the use of those funds were, and that is part of our 
+investigation.
+123. It appears these loans were never repaid.
+124. Moreover, as discussed below, the FTX Group – at the direction of Defendant 
+Bankman-Fried – also purchased hundreds of millions in Bahamian real estate on behalf of the 
+Individual Defendants and others. 
+B. More Than $5 Billion in Venture Investments
+125. In addition, Alameda and the FTX Group made hundreds of venture investments in 
+other crypto companies and digital assets totaling more than $5 billion.  For example, in late 2021 
+through early 2022, Alameda invested more than $1.1 billion in Genesis Digital Assets, a Bitcoin 
+mining company.  Alameda and the FTX Group also lent crypto currency company Voyager 
+Digital $150 million.
+126. As Mr. Ray has described, these investments were often made without any 
+legitimate valuation:
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 36 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 37 of 64
+
+
+--- PAGE 38 ---
+
+34
+There was over $5 billion of investments made. Certainly there’s 
+some value there, and we will try to get that value and sell those 
+assets. But oftentimes, even when he made those sorts of 
+investments, whether it was directly or through others in 
+management, sometimes [Defendant Bankman-Fried] would do that 
+really without any pro forma or any valuation. Not really quite sure 
+how some of the purchase price numbers were derived. So, it gives 
+you a sort of worry, obviously, that the purchases were overvalued.
+127. Some details shared by the Financial Times shows that the venture investments by 
+Alameda and the FTX Group amounted to almost 500 different investments, including investments 
+by Alameda and the FTX Group in dozens of speculative tokens created by other crypto 
+companies. 
+C. Naming Rights and Promotional Spending
+128. The FTX Group’s wild spending also extended into other areas.
+129. For example, in March 2021, the FTX Group entered a $135 million deal with 
+Miami-Dade County to rename the “American Airlines Arena” – which acts as the home area for 
+the Miami Heat – “FTX Arena.”
+130. In June 2021, the FTX Group acquired the naming rights to TSM – an “e-sports” 
+organization that competes in videogame competitions – for $210 million.  Also in June 2021, 
+Major League Baseball and the FTX Group announced a new long-term, global partnership that 
+“established FTX as the Official Cryptocurrency Exchange brand of MLB.”
+131. In February 2022, FTX spent a reported $7 million to buy 30-seconds of advertising 
+time during the Super Bowl for a spot featuring Larry David sarcastically predicting – presciently, 
+it turns out – that FTX would not make it. 
+IX. BINANCE SELLS ITS STAKE IN FTX
+132. In July 2021, Binance announced that it had sold its stake in FTX.com back to the 
+FTX Group.  While the initial investment and exit sum were not disclosed, Mr. Zhao revealed in 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 37 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 38 of 64
+
+
+--- PAGE 39 ---
+
+35
+a November 2022 Tweet that “[a]s part of Binance’s exit from FTX equity last year, Binance 
+received roughly $2.1 billion USD equivalent in [FTT tokens and Binance USD]” (a “stablecoin” 
+tied to U.S. Dollars).
+133. In an interview, Defendant Bankman-Fried implied that FTX’s separation from 
+Binance was at least in part attributable to “quite the barrage” of warnings Binance was receiving 
+from regulators around the world.  In what has now been proven to be the height of irony, 
+Defendant Bankman-Fried implicitly criticized Binance’s regulator issues by stating that “there 
+are some differences between how we run our businesses.  I think there are ways I would have 
+reacted, responded, and run things differently.  And we have been running things differently.”
+134. At nearly the same time, FTX announced it had raised $900 million from 60 high-
+profile investors, including Sequoia Capital, Paradigm Capital, Softbank, in the largest ever 
+funding round for a Crypto exchange that valued FTX at $18 billion – up from a $1.2 billion 
+valuation a year before.  This was part of nearly $1.8 billion that the FTX Group raised in several 
+rounds of funding.  Defendant Bankman-Fried sold a stake in the company for $300 million during 
+these rounds of funding.
+X. THE FTX GROUPS’ PROPERTY PURCHASES
+135. The FTX Group relocated from Hong Kong to the Bahamas in September 2021, 
+reportedly citing the favorable regulatory environment amidst regulators worldwide beginning to 
+examine cryptocurrencies and China outlawing cryptocurrency transactions.
+136. In the ensuing year, the FTX Group – through various subsidiaries including its 
+Bahamian subsidiary FTX Holdings Ltd. (itself a subsidiary of Bahamas based subsidiary FTX 
+Digital Markets Ltd. (“FTX Digital”)) – purchased more than 35 properties in the Bahamas for 
+more than $250 million in real estate, including luxury condos and vacation homes for 
+management, and land for a future corporate headquarters. 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 38 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 39 of 64
+
+
+--- PAGE 40 ---
+
+36
+137. Mr. Ray has declared that:
+[C]orporate funds of the FTX Group were used to purchase homes 
+and other personal items for employees and advisors and that there 
+does not appear to be documentation for certain of these transactions 
+as loans, and that certain real estate was recorded in the personal 
+name of these employees and advisors on the records of the 
+Bahamas.
+138. The most expensive property was a $30 million penthouse in a luxury resort 
+community, which records was a residence for “key personnel.”  Reports are that the FTX 
+Executive Defendants and Defendant Ellison (and other insiders) lived together in the penthouse 
+or adjacent condos.
+XI. CRYPTOCURRENCY’S BEAR MARKET CAUSES INDUSTRY LIQUIDITY 
+PROBLEMS
+139. Beginning in fall of 2021, cryptocurrency entered an “crypto winter” in which 
+prices fell steadily and drastically.  For example, Bitcoin dropped from its all-time high of nearly 
+$69,000 in November 2021 to below $34,000 in January 2022.  After a minor rally, Bitcoin fell 
+again from approximately $47,000 in March 2022 to below $18,000 in June 2022.  Ethereum 
+likewise declined from its all-time high of $4,800 in November 2021 to below $900 in June 2022. 
+140. During roughly the same period, FTT – which Alameda was using as collateral – 
+fell from its all-time high of $85 in September 2022 to around $23 in June 2022.
+141. In addition to hitting Alameda’s long bets on crypto prices hard and decreasing the 
+value of FTT tokens held by Alameda and used as collateral, falling cryptocurrency prices set off 
+a liquidity problem throughout the interrelated crypto industry.  
+142. For example, in May 2022, the price of the then-$18-billion “stablecoin” called 
+TerraUSD – which was supposed to maintain a $1 price pegged to the U.S. Dollar – fell to $0.35 
+in a matter of days and its companion token, Luna, which was meant in turn to stabilize 
+TerraUSD’s price, fell from $80 to almost nothing within a few days.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 39 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 40 of 64
+
+
+--- PAGE 41 ---
+
+37
+143. Within a month, a prominent crypto hedge fund named Three Arrow Capital 
+collapsed due to up to $200 million in losses to its Luna investments.
+144. In June 2022, Voyager Digital – in which Alameda and the FTX Group were 
+investors and lenders – announced that Alameda would provide Voyager Digital $500 million in 
+financing to address liquidity problems caused by default by Three Arrows Capital on a $660 
+million loan from Voyager Digital.  The attempt to rescue its investment in Voyager Digital failed 
+when, in July 2022, Voyager Digital declared bankruptcy when it was unable to redeem 
+withdrawals from customers.  
+145. The FTX Group also extended credit to other crypto companies, including more 
+than $100 million to Celsius and a $250 million revolving credit line to crypto lender BlockFi.  
+Both Celsius and BlockFi have since declared bankruptcy. 
+146. The falling prices and escalating industry problems motivated the FTX Executive 
+Defendants and Defendant Ellison increasingly to shift additional funds to Alameda in a scheme 
+to plug holes in the fund’s balance sheet, including covering loans (which, as of June 2022, were 
+as much as $7.4 billion) and margin calls.
+147. On September 20, 2022, FTT closed at $22.80 per token, down from over $85 per 
+token little more than a year earlier on September 9, 2021.
+XII. FTX AND ALAMEDA COLLAPSE REVEALING A CUSTOMER PROPERTY 
+SHORTFALL
+A. CoinDesk Reports on Alameda’s Alarming Balance Sheet
+148. On November 2, 2022, CoinDesk – a news site that reports on the cryptocurrency 
+industry – published a report further detailing the intertwined relationship between Alameda and 
+FTX and revealing troublesome details about Alameda’s balance sheet, including that it was 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 40 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 41 of 64
+
+
+--- PAGE 42 ---
+
+38
+heavily laden with FTX’s proprietary token, FTT, and other tokens affiliated with Defendant 
+Bankman-Fried’s companies.
+149. Citing internal Alameda documents, CoinDesk reported that, as of June 30, 2022, 
+Alameda’s $14.6 billion in assets included $3.66 billion worth of “unlocked FTT” (FTT tokens 
+“unlocked” – i.e., entered circulation – on a set schedule while the “locked” tokens were held at 
+FTX).  Notably, Alameda’s $3.66 billion of FTT constituted the majority of the $5.1 billion in 
+FTT then in circulation.  Alameda’s balance sheet included another $2.66 billion in otherwise 
+opaque “FTT collateral” and $3.37 billion of “crypto held.”  The balance sheet also included $292 
+million of “unlocked SOL” and $863 million of “locked SOL,” referring to the native token issued 
+by Solana, a public blockchain platform in which Defendant Bankman-Fried was an early investor.  
+Alameda also held “SRM” – the token issued by Serum, another exchange co-founded by 
+Defendant Bankman-Fried.  Alameda’s balance sheet listed only $134 million of cash and 
+equivalents and a $2 billion “investment in equity securities.”
+150. Put another way, Alameda had comparatively little cash on hand or stable assets.   
+Alameda’s largest asset categories consisted of tokens created by FTX and other tokens affiliated 
+with FTX and Defendant Bankman-Fried.  The CoinDesk article quoted the CEO of Swan Bitcoin 
+– a platform that allows investors to acquire Bitcoin – as questioning the concentration of FTT on 
+Alameda’s balance sheet:
+It's fascinating to see that the majority of the net equity in the 
+Alameda business is actually FTX’s own centrally controlled and 
+printed-out-of-thin-air token.
+151. According to CoinDesk, Defendant Ellison – who was by then the sole CEO of 
+Alameda – initially declined to comment on the article.  But as concern about Alameda and FTX 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 41 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 42 of 64
+
+
+--- PAGE 43 ---
+
+39
+increased, on November 6, 2022 she tweeted a claim that the balance sheet reported by CoinDesk 
+did not reflect all of Alameda’s assets:
+A few notes on the balance sheet info that has been circulating 
+recently: - that specific balance sheet is for a subset of our corporate 
+entities, we have > $10b of assets that aren’t reflected there.
+152. The CoinDesk article reported Alameda’s had $8 billion in liabilities, including 
+$7.4 billion in loans and $292 million of “locked FTT.”
+B. Binance’s Announcement of Its Intent to Sell All Its FTT Tokens Causes the 
+Price to Crash
+153. Four days later, on November 6, 2022, Mr. Zhao reacted to the CoinDesk 
+revelations about Alameda’s balance sheet by tweeting that Binance would sell all its FTT tokens 
+received when it sold its FTX stake in July 2021:
+As part of Binance’s exit from FTX equity last year, Binance 
+received roughly $2.1 billion USD equivalent in cash (BUSD and 
+FTT). Due to recent revelations that have come to light, we have 
+decided to liquidate any remaining FTT on our books.
+154. The Crypto community immediately speculated that Binance was attempting to 
+destroy the FTX Group or Mr. Zhao was retaliating for Defendant Bankman-Fried’s 2021 
+comments about the regulatory scrutiny directed at Binance.  Indeed, early in the morning on 
+November 7, 2022, Defendant Bankman-Fried sent a tweet blaming Mr. Zhao for spreading false 
+rumors of insolvency and claiming, falsely as it turns out, that assets at the FTX Group were safe:
+A competitor is trying to go after us with false rumors.  FTX is fine. 
+Assets are fine.
+155. Defendant Bankman-Fried also falsely tweeted that the FTX Group did not invest 
+customer property for its own purposes:
+FTX has enough to cover all client holdings.  We don’t invest client 
+assets (even in treasuries).
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 42 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 43 of 64
+
+
+--- PAGE 44 ---
+
+40
+156. Regardless, the news had a devastating effect on FTT’s price.  Concerns about the 
+solvency of FTX and Alameda caused a major sell-off of FTT beginning on the evening of 
+November 7.  The price fell from around $22 per token on November 7 to below $5 November 8, 
+wiping out more than $2 billion in value in the space of 24 hours.
+C. FTX Sustains Billions in Customer Withdrawals and Halts Withdrawals
+157.  At the same time the price of FTT was falling, FTX was suffering from massive 
+customer withdrawals.  On the morning of November 8, 2022, Defendant Bankman-Fried wrote a 
+message to FTX staff stating that “[o]n an average day, we have tens of millions of dollars of net 
+in/outflows. Things were mostly average until this weekend, a few days ago,” and revealing that 
+“[i]n the last 72 hours, we’ve had roughly $6b of net withdrawals from FTX” and withdrawals 
+from FTX.com, are “effectively paused.”
+158. Put another way, the rapid withdrawals by customers concerned about FTT’s value 
+and FTX’s liquidity caused FTX to halt withdrawals, thereby depriving customers of their property 
+that was supposed to be held in accounts for their benefit.
+159. According to Arkham Intelligence – a blockchain analytics firm – the FTX Group’s 
+balances were $8.4 billion as of November 5, 2022 and dropped to $1.1 billion as of November 
+10, 2022
+D. The Lack of Controls Causes Binance to Withdraw Its Offer to Save FTX 
+Trading
+160. Ultimately, the missing customer funds enabled by the lack of controls at FTX 
+prevented a company-saving sale.
+161. Amid the liquidity crisis brought on by massive withdrawal requests at FTX, 
+Defendant Bankman-Fried scrambled to raise money from venture capitalists and other investors 
+before approaching Binance, which agreed to help.  On November 8, 2022, Mr. Zhao tweeted 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 43 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 44 of 64
+
+
+--- PAGE 45 ---
+
+41
+concerning the FTX Group’s liquidity crisis and announced that Binance had agreed to acquire 
+FTX Trading pending due diligence:
+This afternoon, FTX asked for our help.  There is a significant 
+liquidity crunch.  To protect users, we signed a non-binding LOI, 
+intending to fully acquire FTX.com and help cover the liquidity 
+crunch.  We will be conducting a full DD in the coming days.
+162. The agreement was limited to FTX Trading.  Binance was not going to purchase 
+FTX US.
+163. However, the final death knell for the FTX Group came just one day later, on 
+November 9, 2022, when Binance announced it was walking away from the agreement to purchase 
+FTX Trading.  Alarmingly, in a series of tweets Binance stated that FTX was beyond help and 
+referred to missing customer funds:
+As a result of corporate due diligence, as well as the latest news 
+reports regarding mishandled customer funds and alleged US 
+agency investigations, we have decided that we will not pursue the 
+potential acquisition of FTX.com.
+In the beginning, our hope was to be able to support FTX’s 
+customers to provide liquidity, but the issues are beyond our control 
+or ability to help.
+164. At the same time, Defendant Bankman-Fried sought emergency funding from other 
+investors, including U.S. investors, to cover a shortfall at FTX of approximately $8 billion.  As 
+part of this effort, Defendant Bankman-Fried circulated a balance sheet to potential investors that 
+listed a negative $8 billion entry labeled as a “hidden, poorly internally labeled ‘fiat@ account.’”  
+This entry reflected customer funds intended to be deposited at the FTX Group that were instead 
+deposited in Alameda’s Silvergate accounts.
+E. Insiders Confirm that Customer Funds Were Intentionally Misappropriated 
+165. Also on November 9, 2022, as Defendant Bankman-Fried scrambled for emergency 
+funding, Defendant Ellison held a meeting with Alameda employees during which she revealed 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 44 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 45 of 64
+
+
+--- PAGE 46 ---
+
+42
+what has now been widely reported:  that she and Defendants Bankman-Fried, Wang, and Singh 
+knew FTX customer funds had been improperly used by Alameda.  
+166. Similarly, according to a November 10, 2022 affidavit submitted to the Supreme 
+Court of the Bahamas (and submitted to this Court by the Joint Provisional Liquidators of FTX 
+Digital on December 14, 2022), on November 9, 2022, the Executive Director of the Securities 
+Commission of the Bahamas met with the CEO of FTX Digital Markets – Ryan Salame – and 
+certain counsel for the FTX Digital and FTX US, who “advised that clients’ assets which may have 
+been held with FTX Digital were transferred to Alameda Research ( ) to cover financial losses of 
+Alameda.”
+167. Mr. Salame also reported “that there were only three (3) persons who had the 
+necessary codes (or passwords) to transfer clients’ assets to Alameda in this manner, that is, the 
+founders of FTX namely Sam Bankman-Fried, Nishad Singh and Zixio (Gary) Wang.”
+XIII. THE BANKRUPTCY OF ALAMEDA RESEARCH AND FTX – AND THE 
+MISSING CUSTOMER PROPERTY
+168. On November 10, 2022, FTX Trading and FTX US halted all trading and 
+withdrawals, and Defendant Bankman-Fried announced that Alameda was being wound down.  He 
+also posted lengthy tweets explaining how he “f[***]ed up.”
+169. Also on November 10, 2022, Defendant Bankman-Fried resigned his position as 
+CEO of the FTX Group and, as majority owner of all the FTX Group and Alameda companies, 
+authorized the appointment of an independent CEO and the filing of Chapter 11 bankruptcy 
+proceedings.
+170. The next day, on November 11, 2022, the 134 separate Debtors simultaneously 
+initiated the Bankruptcy Proceedings.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 45 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 46 of 64
+
+
+--- PAGE 47 ---
+
+43
+171. In his declaration in support of Debtors’ first day pleadings, Mr. Ray stated that 
+among the objectives in the Bankruptcy Proceedings is “the location and security of property of 
+the estate, a substantial portion of which may be missing or stolen.”  He also noted that “[n]ever 
+in my career have I seen such a complete failure of corporate controls,” including “compromised 
+systems integrity” and “the concentration of control in the hands of a very small group of 
+inexperienced, unsophisticated and potentially compromised individuals.”
+172. Mr. Ray listed the failures on the Individual Defendants, including:
+ The FTX Group did not keep appropriate books and records, or security 
+controls, with respect to its digital assets;
+ Mr. Bankman-Fried and Mr. Wang controlled access to digital assets of the 
+main businesses in the FTX Group;
+ The absence of daily reconciliation of positions on the blockchain;
+ The use of software to conceal the misuse of customer funds;
+ The secret exemption of Alameda from certain aspects of FTX.com’s auto-
+liquidation protocol; and 
+ The absence of independent governance as between Alameda (owned 90% 
+by Mr. Bankman-Fried and 10% by Mr. Wang) and the [FTX.com].
+173. On December 12, 2022, Mr. Ray submitted written testimony to Congress that, 
+among other things, further detailed the failed internal controls and procedures that allowed the 
+misappropriation of customer property, including:
+ The use of computer infrastructure that gave individuals in senior 
+management access to systems that stored customer assets, without security 
+controls to prevent them from redirecting those assets;
+ The storing of certain private keys to access hundreds of millions of dollars 
+in crypto assets without effective security controls or encryption;
+ The ability of Alameda, the crypto hedge fund within the FTX Group, to 
+borrow funds held at FTX.com to be utilized for its own trading or 
+investments without any effective limits;
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 46 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 47 of 64
+
+
+--- PAGE 48 ---
+
+44
+ The commingling of assets;
+ The lack of complete documentation for transactions involving nearly 500 
+investments made with FTX Group funds and assets; 
+ The absence of audited or reliable financial statements;
+ The lack of personnel in financial and risk management functions, which 
+are typically present in any company close to the size of FTX Group; and 
+ The absence of independent governance throughout the FTX Group.
+174. Finally, in his December 13, 2022 live testimony before the House Financial 
+Services Committee, Mr. Ray confirmed that the FTX Executive Defendants transferred untold 
+billions in assets to Alameda and the missing funds and losses attributable to those funds are 
+substantial:
+We know it’s a big number, it’s in the millions on the customer 
+accounts. And we know it’s several billion dollars in losses. 
+Assigning those losses to customer accounts will be our next 
+challenge.
+175. Notably, customers did not intentionally undertake any risk by their deposits at the 
+FTX Group.  They were neither equity investors or lenders to the FTX Group and their customer 
+property, under the agreements with the FTX Group, were required to be maintained on behalf of 
+customers.
+XIV. THE REGULATORY ACTIONS AND FEDERAL CRIMINAL CHARGES
+176. On December 9, 2022, a federal grand jury sitting in the United States District Court 
+for the Southern District of New York (S.D.N.Y.) issue a sealed indictment charging Defendant 
+Bankman-Fried with eight counts, including wire fraud on customers and conspiracy to commit 
+wire fraud on customers.  Among other things, the grand jury charged that Defendant Bankman-
+Fried “agreed with others” and “along with others, engaged in a scheme” in order “to defraud 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 47 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 48 of 64
+
+
+--- PAGE 49 ---
+
+45
+customers of FTX.com by misappropriating those customers’ deposits, and using those deposits 
+to pay expenses and debts of Alameda Research . . . and to make investments.”
+177. On December 12, 2022, Bahamian authorities arrested Defendant Bankman-Fried 
+at the request of the U.S. government, based on the sealed indictment.
+178. On December 13, 2022, the SEC filed a civil complaint in the S.D.N.Y. alleging 
+two violations of federal securities laws in connection with raising more than $1.8 billion from 
+equity investors beginning in 2019. The SEC alleges that Defendant Bankman-Fried raised more 
+than $1.8 billion from equity investors since May 2019 by promoting FTX as a trustworthy 
+company while, “orchestrating a massive, years-long fraud, diverting billions of dollars of the 
+trading platform’s customer funds for his own personal benefit and to help grow his crypto 
+empire.”
+179. Also on December 13, 2022, the CFTC likewise filed a civil complaint in the 
+S.D.N.Y. against Defendants Bankman-Fried, FTX Trading and Alameda alleging two fraud-
+related violations of the Commodity Exchange Act.  Among other things, the CFTC alleges that 
+“unbeknownst to all but a small circle of insiders, FTX customers deposits, including fiat currency 
+and digital assets such as bitcoin (BTC) and ether (ETH), that were intended to be used for trading 
+or custodies on FTX, were regularly accepted, held by, and/or appropriated by Alameda for its 
+own use.”
+180. On December 21, 2022, Defendants Wang and Ellison pleaded guilty to federal 
+charges in the S.D.N.Y.  Defendant Wang pleaded guilty to conspiracy to commit wire fraud, wire 
+fraud, conspiracy to commit commodities fraud and conspiracy to commit securities fraud.  
+Defendant Ellison pleaded guilty to two counts of wire fraud, two counts of conspiracy to commit 
+wire fraud, conspiracy to commit commodities fraud, conspiracy to commit securities fraud and 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 48 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 49 of 64
+
+
+--- PAGE 50 ---
+
+46
+conspiracy to commit money laundering.  Also on December 21, 2022, the SEC and CFTC filed 
+civil cases against Defendants Wang and Ellison.
+XV. CLASS ACTION ALLEGATIONS
+181. Plaintiffs bring this action pursuant to Rules 23(a), 23(b)(1)(B) and 23(b)(3) of the 
+Federal Rules, made applicable to this Adversary Proceeding by Bankruptcy Rule 7023, on behalf 
+of themselves and the members of the proposed Customer Class who deposited or held customer 
+property with FTX US and/or FTX.com.  The four requisites for class certification in Federal Rule 
+23(a) have been satisfied, as have the requirements of Federal Rule 23(b)(1)(B) and 23(b)(3).
+182. The members of the Customer Class are so numerous that joinder of all members 
+is impracticable.  Although the exact number of Customer Class members is presently unknown 
+and can only be ascertained through appropriate notice and discovery, the Plaintiffs reasonably 
+believe that the Customer Class includes more than one million members.
+183. Plaintiffs’ claims asserted in this Adversary Proceeding are typical of the claims of 
+the proposed Customer Class as all members of the proposed Customer Class were similarly 
+affected by the Defendants’ unlawful conduct, as alleged in this Adversary Complaint.
+184. Plaintiffs will fairly and adequately protect and represent the interests of the 
+members of the proposed Customer Class and have retained counsel competent and experienced 
+in adversary proceedings under Bankruptcy Rule 7001, and class action litigation under Federal 
+Rule 23 to recover misappropriated, misused, or stolen customer funds from commodities 
+brokerages, securities broker-dealers, and asset managers.
+185. Common questions of law and fact exist as to all members of the proposed 
+Customer Class and predominate over any questions solely affecting individual members.  Among 
+the many questions of law and fact common to the proposed Customer Class are:
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 49 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 50 of 64
+
+
+--- PAGE 51 ---
+
+47
+(a) Whether the Customer Class is entitled to a declaratory judgment that members of 
+the Customer Class have priority rights to return of cash held on their behalf at FTX US or 
+FTX.com that was misappropriated, misused, or outright stolen by Defendants;
+(b) Whether the Customer Class is entitled to a declaratory judgment that members of 
+the Customer Class have priority rights to return of digital assets held on their behalf at FTX US 
+or FTX.com that was misappropriated, misused, or outright stolen by Defendants;
+(c) Whether the FTX Defendants committed breach of contract by misappropriating, 
+misusing, or stealing customer property, and are thereby liable to the Customer Class;
+(d) Whether the FTX Defendants committed breach of fiduciary duty by 
+misappraising, misusing, or stealing customer property, and are thereby liable to the Customer 
+Class;
+(e) Whether the FTX Defendants committed conversion by misappropriating, 
+misusing, or stealing customer property, and are thereby liable to the Customer Class;
+(f) Whether the FTX Defendants acted negligently by misappropriating, misusing, or 
+stealing customer property, and are thereby liable to the Customer Class; and
+(g) Whether the Alameda Defendants aided and abetted the FTX Defendants 
+misconduct and are thereby liable to the Customer Class.
+186. The Customer Class should be certified under Fed. R. Civ. P. 23(b)(1)(B).  The 
+prosecution of separate actions by individual customers of FTX US and FTX.com would create a 
+risk of adjudications with respect to individual class members that, as a practical matter, would be 
+dispositive of the interests of other customers who are not parties to the individual adjudications, 
+or would substantially impair or impede their ability to protect their interests.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 50 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 51 of 64
+
+
+--- PAGE 52 ---
+
+48
+187. The Customer Class should also be certified under Fed. R. Civ. P. 23(b)(3).  
+Questions of law or fact common to class members predominate over any questions affecting only 
+individual members.  Additionally, a class action under Fed. R. Civ. P. 23(b)(3) is superior to all 
+other available methods for the fair and efficient adjudication of this controversy.  Furthermore, as 
+the damages suffered by individual Customer Class members may be relatively small, the expense 
+and burden of individual litigation make it impossible for members of the Customer Class to 
+individually redress the wrongs done to them. There will be no unusual difficulty in the 
+management of this action as a class action.
+XVI. DECLARATORY JUDGMENT CAUSES OF ACTION
+COUNT I:  Declaratory Judgment Against FTX US and FTX 
+Trading
+188. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+189. Members of the proposed Customer Class deposited or held U.S. Dollars, other fiat 
+currencies, or cryptocurrencies at FTX US.  Under the terms of the FTX US User Agreement, FTX 
+US is required to hold such customer property in accounts on behalf of customers and in the name 
+of customers.  Specifically, the FTX US User Agreement provides that customer property:
+ Is held in Customer accounts by FTX US for Customers’ benefit;
+ Title to Cryptocurrency shall remain with Customers and shall not transfer 
+to FTX.US;
+ FTX.US will not represent or treat Customer Property in accounts a 
+belonging to FTX.US; and
+ Customers’ U.S. Dollars are held by FTX.US for Customers’ benefit in 
+omnibus Customer accounts at U.S. banks.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 51 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 52 of 64
+
+
+--- PAGE 53 ---
+
+49
+190. Members of the proposed Customer Class likewise deposited or held U.S. Dollars, 
+other fiat currencies, or Digital Assets (as that term is defined in the FTX Terms of Service) at 
+FTX Trading.  Under the terms of the FTX Terms of Service, FTX Trading is required to hold 
+such Customer Property in accounts on behalf of customers and in the name of customers.  
+Specifically, the FTX Terms of Service provide that customer Digital Assets:
+ Shall remain titled with Customers and not transfer to FTX Trading;
+ 
+ Are not the property of, nor shall or may be loaned to, FTX Trading; and
+ Remain in the control of Customers.
+191. The FTX US User Agreement and FTX Terms of Service did not permit the FTX 
+Group to use Customer Property for its own purposes, including borrowing such customer property 
+for any purpose or otherwise using it for operating expenses, to pay creditors, or to make, 
+collateralize and/or repay loans to or on behalf of Alameda, or to fund trading activities by 
+Alameda.  Accordingly, any such conduct by FTX US and FTX Trading, or any other conduct, 
+that resulted with the removal of customer property from Customer accounts or uses of that 
+property as collateral, was an impermissible co-mingling, misappropriation, misuse, or conversion 
+of customer property.
+192. Plaintiffs are entitled to declaratory judgment that:
+(a) U.S. Dollars, other fiat currencies or cryptocurrencies currently held in customer 
+accounts or wallets by FTX US is not property of FTX US’s estate or the estate of any associated 
+Debtors; 
+(b) U.S. Dollars, other fiat currencies or crypto currencies currently held by FTX US 
+or its any associated debtors that is traceable as customer property that should have been held in 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 52 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 53 of 64
+
+
+--- PAGE 54 ---
+
+50
+customer accounts or wallets is not property of FTX US’s estate or the estate of any associated 
+Debtors; 
+(c) Such U.S. Dollars, other fiat currencies or cryptocurrencies currently held in 
+customer accounts or wallets by FTX US or are traceable as customer property that should have 
+been held in customer accounts or wallets, that is consequently not property of FTX US’s estate 
+or the estate of any associated Debtors, cannot be used to pay non-customer expenses, claims or 
+creditors until FTX US customers are repaid all their U.S. Dollars, other fiat currencies or 
+cryptocurrencies deposited or held at FTX US;
+(d) U.S. Dollars, other fiat currency, or Digital Assets currently held in customer 
+accounts or wallets by FTX Trading are not property of FTX Trading’s estate or the estate of any 
+associated Debtors; 
+(e) U.S. Dollars, other fiat currency, or Digital Assets currently held by FTX Trading 
+or its any associated Debtors that is traceable as customer property that should have been held in 
+customer accounts or wallets is not property of FTX Trading’s estate or the estate of any associated 
+Debtors; and
+(f) Such U.S. Dollars, other fiat currency, or Digital Assets currently held in customer 
+accounts or wallets by FTX Trading or are traceable as customer property that should have been 
+held in customer accounts or wallets, that is consequently not property of FTX Trading estate or 
+the estate of any associated Debtors, cannot be used to pay non-customer expenses, claims or 
+creditors until FTX Trading Customers are repaid all their U.S. Dollars, other fiat currency, or 
+Digital Assets deposited or held at FTX Trading.
+193. Alternatively, if the Court determines that U.S. Dollars, other fiat currency, 
+cryptocurrencies or other Digital Assets currently held in Customer accounts or wallets by FTX 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 53 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 54 of 64
+
+
+--- PAGE 55 ---
+
+51
+US or FTX Trading, or are traceable as Customer Property that should have been held in customer 
+accounts or wallets, are property of the FTX US or FTX Trading estates, or the estate of any 
+associated Debtors, Plaintiffs are entitled to a declaratory judgment that customers are entitled to 
+priority payment from such customer property before it can be used to pay non-customer expenses, 
+claims or creditors.
+COUNT II:  Declaratory Judgment Against Alameda
+194. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+195. Members of the proposed Customer Class deposited or held U.S. Dollars, other fiat 
+currencies or cryptocurrencies at FTX US.  Under the terms of the FTX US User Agreement, FTX 
+US is required to hold such customer property in accounts or wallets on behalf of customers and 
+in the name of customers.
+196. Members of the proposed Customer Class likewise deposited or held U.S. Dollars, 
+other fiat currencies, or Digital Assets (as that term is defined in the FTX Terms of Service) at 
+FTX Trading.  Under the terms of the FTX Terms of Service, FTX Trading is required to hold 
+such customer property in accounts or wallets on behalf of customers and in the name of customers.
+197. The FTX US User Agreement and FTX Terms of Service did not permit the FTX 
+Group to direct, give, loan, or otherwise transfer customer property to Alameda, including 
+borrowing such customer property to use it to collateralize and/or repay loans to or on behalf of 
+Alameda, or to fund trading activities by Alameda.
+198. Alameda likewise had no, and has no, right, title or interest in any Customer 
+Property from FTX.  Plaintiffs are entitled to declaratory judgment that:
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 54 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 55 of 64
+
+
+--- PAGE 56 ---
+
+52
+(a) U.S. Dollars, other fiat currencies or cryptocurrencies traceable as customer 
+property that was directed, given, loaned, or otherwise transferred to Alameda by FTX US is not 
+property of Alameda’s estate or the estate of any associated debtors, and cannot be used to pay 
+non-customer expenses, claims or creditors until FTX US customers are repaid all their U.S. 
+Dollars, other fiat currencies or cryptocurrencies they deposited or held at FTX US; and 
+(b) U.S. Dollars, other fiat currency, or Digital Assets traceable as customer property 
+that was directed, given, loaned, or otherwise transferred to Alameda by FTX Trading is not 
+property of Alameda’s estate or the estate of any associated debtors, and cannot be used to pay 
+non-customer expenses, claims or creditors until FTX Trading customers are repaid all their U.S. 
+Dollars, other fiat currency, or Digital Assets they deposited or held at FTX Trading.
+199. Alternatively, if the Court determines that U.S. Dollars, other fiat currency, 
+cryptocurrencies or other Digital Assets currently at Alameda are property of the Alameda estate, 
+or the estate of any associated Debtors, Plaintiffs are entitled to a declaratory judgment that 
+Customers are entitled to priority payment from such customer property before it can be used to 
+pay non-customer expenses, claims or creditors of Alameda.
+XVII. COMMON LAW CAUSES OF ACTION
+COUNT III:  Breach of Contract Against FTX US and FTX 
+Trading
+200. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+201. Members of the proposed Customer Class deposited or held U.S. Dollars, other fiat 
+currencies or cryptocurrencies at FTX US.  Under the terms of the FTX US User Agreement, FTX 
+US is required to hold such customer property in accounts or wallets on behalf of customers and 
+in the name of customers.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 55 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 56 of 64
+
+
+--- PAGE 57 ---
+
+53
+202. Members of the proposed Customer Class likewise deposited or held U.S. Dollars, 
+other fiat currencies, or Digital Assets (as that term is defined in the FTX Terms of Service) at 
+FTX Trading.  Under the terms of the FTX Terms of Service, FTX Trading is required to hold 
+such customer property in accounts or wallets on behalf of customers and in the name of customers.  
+203. The FTX US User Agreement and FTX Terms of Service did not permit the FTX 
+Group to use customer property for its own purposes, including borrowing such customer property 
+for any purpose or otherwise using it for operating expenses, to pay creditors, or to make, 
+collateralize and/or repay loans to or on behalf of Alameda, or to fund trading activities by 
+Alameda.  Accordingly, any such conduct by FTX US and FTX Trading, or any other conduct, 
+that resulted with the removal of customer property from Customer accounts or wallets or uses of 
+that property as collateral, was a breach of the FTX US User Agreement and FTX Terms of 
+Service.
+204. As set forth above, FTX US and FTX Trading used, and/or allowed the FTX Group 
+and Alameda, to use customer property for their own purposes, including borrowing such customer 
+property to use for as operating expenses, to pay creditors, or to make, collateralize and/or repay 
+loans to or on behalf of Alameda, or to fund trading activities by Alameda.
+205. By failing to maintain customer property in customer accounts or wallets, and the 
+resulting co-mingling, misappropriation, misuse, or conversion of customer property constituted 
+breaches of the FTX US User Agreement by and FTX Terms of Service.
+206. As a direct and proximate consequence of FTX US’s and FTX Trading’s breaches 
+as described in this Adversary Complaint, Plaintiffs and the members of the proposed Customer 
+Class have been unable to withdraw their customer property and been denied the use of their 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 56 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 57 of 64
+
+
+--- PAGE 58 ---
+
+54
+customer property since no later than November 8, 2022, and have been damaged thereby at an 
+amount to be determined at trial. 
+COUNT IV:  Breach of Fiduciary Duty Against FTX US, FTX 
+Trading and FTX Executive Defendants
+207. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+208. FTX US, FTX Trading and the FTX Executive Defendants were responsible for 
+preserving the safety and security of customer property that Customers held, deposited, paid, 
+delivered and/or entrusted to FTX US and/or FTX Trading to allow such customers to trade 
+cryptocurrency and other Digital Assets.  Accordingly, FTX US, FTX Trading and the FTX 
+Executive Defendants owed fiduciary duties to Plaintiffs and the members of the proposed 
+Customer Class.
+209. FTX US, FTX Trading and the FTX Executive Defendants breached their fiduciary 
+duties to Plaintiffs and the members of the proposed Customer Class by, among other things, 
+intentionally, knowingly, recklessly, willfully, or negligently:
+(a) Failing to establish adequate internal controls and procedures at the FTX Group to 
+preserve the safety and security of property that customers held, deposited, paid, delivered and/or 
+entrusted to FTX US and/or FTX Trading;
+(b) Commingling the property of FTX US, FTX Trading and Alameda with customer 
+property;
+(c) Failing to properly safeguard and segregate customer property as required by the 
+FTX US User Agreement, the FTX Terms of Service, applicable regulations and/or common law; 
+and
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 57 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 58 of 64
+
+
+--- PAGE 59 ---
+
+55
+(d) Using, or directing, authorizing, or causing FTX US, FTX Trading and/or Alameda 
+to use Customer Property for their own purposes, including borrowing such customer property to 
+use for as operating expenses, to pay creditors, or to make, collateralize and/or repay loans to or 
+on behalf of Alameda, or to fund trading activities by Alameda.  
+210. As a direct and proximate consequence of the breaches of fiduciary duty by FTX 
+US, FTX Trading and the FTX Executive Defendants as described in this Adversary Complaint, 
+Plaintiffs and the members of the proposed Customer Class have been unable to withdraw their 
+customer property and been denied the use of their customer property since no later than November 
+8, 2022, and have been damaged thereby at an amount to be determined at trial.
+COUNT V:  Negligence Against FTX US, FTX Trading and 
+the FTX Executive Defendants
+211. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+212. At all times relevant hereto, FTX US, FTX Trading and the FTX Executive 
+Defendants exercised dominion and control over and jointly had custodial responsibility for 
+customer property deposited or held at FTX and required to be held on behalf of customers of FTX 
+US and FTX Trading by the FTX US User Agreement, the FTX Terms of Service, applicable 
+regulations and/or common law.
+213. At all times relevant hereto, the FTX Defendants, by reason of their dominion and 
+control over customer property deposited or held at FTX US and FTX.com Entities, owed 
+Plaintiffs and members of the proposed Customer Class a duty of care in the handling of customer 
+property required to be held in at FTX US and FTX Trading.
+214. Each of the FTX Defendants was in privity or near privity with Plaintiffs and 
+members of the proposed Customer Class because they were aware that customers were reliant on 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 58 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 59 of 64
+
+
+--- PAGE 60 ---
+
+56
+the proper handling of customer property in designated customer accounts or wallets, were a 
+discrete group, and because the FTX Defendants intended that Plaintiffs and members of the 
+proposed Customer Class rely upon the continuing proper treatment of customer property to assure 
+such property was available for withdrawal, use or transfer.
+215. FTX US, FTX Trading and the FTX Executive Defendants breached their duty of 
+care by, among other things, intentionally, knowingly, recklessly, willfully, or negligently:
+(a) Failing to establish adequate internal controls and procedures at FTX to preserve 
+the safety and security of customer property that customers held, deposited, paid, delivered and/or 
+entrusted to FTX US and/or FTX Trading;
+(b) Commingling the property of FTX US, FTX Trading and Alameda with customer 
+property;
+(c) Failing to properly safeguard and segregate customer property as required by the 
+FTX US User Agreement, the FTX Terms of Service, applicable regulations and/or common law; 
+and
+(d) Using, or directing, authorizing, or causing FTX US, FTX Trading and/or Alameda 
+to use customer property for their own purposes, including borrowing such customer property to 
+use for as operating expenses, to pay creditors, or to make, collateralize and/or repay loans to or 
+on behalf of Alameda, or to fund trading activities by Alameda.  
+216. As a direct and proximate consequence of the breaches of their duty of care by duty 
+by FTX US, FTX Trading and the FTX Executives as described in this Adversary Complaint, 
+Plaintiffs and the members of the proposed Customer class have been unable to withdraw their 
+Customer Property and been denied the use of their Customer Property since no later than 
+November 8, 2022, and have been damaged thereby at an amount to be determined at trial.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 59 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 60 of 64
+
+
+--- PAGE 61 ---
+
+57
+COUNT VI:  Conversion Against FTX US, FTX Trading and 
+THE FTX Executive Defendants
+217. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+218. At all times prior to the Bankruptcy Proceedings, Plaintiffs and the members of the 
+proposed Customer Class retained title to the Customer Property they deposited with FTX US and 
+FTX Trading and the right to withdraw the funds they deposited at all times.  FTX US, FTX 
+Trading and the FTX Executive Defendants exercised dominion and control over such customer 
+property held or deposited at FTX US and FTX Trading, and interfered with the possessory rights 
+of Plaintiffs and the members of the proposed Customer Class, in derogation of those rights.
+219. As set forth above, FTX US, FTX Trading and the FTX Executive Defendants 
+interfered with the possessory rights of Plaintiffs and the members of the proposed Customer Class 
+by, using, directing, authorizing, or causing FTX US, FTX Trading and/or Alameda to use up to 
+$10 billion customer property for their own purposes, including borrowing such customer property 
+to use for as operating expenses, to pay creditors, or to make, collateralize and/or repay loans to or 
+on behalf of Alameda, or to fund trading activities by Alameda.
+220. As a direct and proximate consequence of FTX US, FTX Trading and the FTX 
+Executive Defendants transferring up to $10 billion in customer property to Alameda, Plaintiffs 
+and the members of the proposed Customer class have been unable to withdraw their customer 
+property and been denied the use of their customer property since no later than November 8, 2022, 
+and have been damaged thereby at an amount to be determined at trial. 
+COUNT VII:  Aiding and Abetting Breach of Fiduciary Duty 
+Against Alameda and Defendant Ellison
+221. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 60 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 61 of 64
+
+
+--- PAGE 62 ---
+
+58
+222. As set forth above, FTX US, FTX Trading and the FTX Executive Defendants 
+breached their fiduciary duties to Plaintiffs and the members of the proposed Customer Class by, 
+using, directing, authorizing, or causing FTX US, FTX Trading and/or Alameda to use up to $10 
+billion in customer property for their own purposes, including borrowing such customer property 
+to use for as operating expenses, to pay creditors, or to make, collateralize and/or repay loans to or 
+on behalf of Alameda, or to fund trading activities by Alameda.
+223. As a direct and proximate consequence of Alameda and Defendant Ellison 
+accepting and using up to $10 billion in customer property, Alameda and Defendant Ellison aided 
+and abetted breaches of fiduciary duty FTX US, FTX Trading and the FTX Executive Defendants.  
+As a result, Plaintiffs and the members of the proposed Customer Class have been unable to 
+withdraw their customer property and been denied the use of their customer property since no later 
+than November 8, 2022, and have been damaged thereby at an amount to be determined at trial. 
+COUNT VIII:  Aiding and Abetting Conversion Against 
+Alameda and Defendant Ellison
+224. Plaintiffs repeat and reallege the averments in paragraphs 1 through 187 of this 
+Adversary Complaint as if fully set forth herein.
+225. As set forth above, FTX US, FTX Trading and the FTX Executive Defendants 
+interfered with the possessory rights of Plaintiffs and the members of the proposed Customer Class 
+by, using, directing, authorizing, or causing FTX US, FTX Trading and/or Alameda to use up to 
+$10 billion customer property for their own purposes, including borrowing such customer property 
+to use for as operating expenses, to pay creditors, or to make, collateralize and/or repay loans to or 
+on behalf of Alameda, or to fund trading activities by Alameda.
+226. As a direct and proximate consequence of Alameda and Defendant Ellison 
+accepting and using up to $10 billion in customer property, Alameda and Defendant Ellison 
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 61 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 62 of 64
+
+
+--- PAGE 63 ---
+
+59
+interfered with the possessory rights of Plaintiffs and the members of the proposed Customer Class 
+to their customer property, in derogation of those rights, and therefore aided and abetted the 
+conversion by FTX US, FTX Trading and the FTX Executive Defendants.  As a result, Plaintiffs 
+and the members of the proposed Customer Class have been unable to withdraw their customer 
+property and been denied the use of their customer property since no later than November 8, 2022, 
+and have been damaged thereby at an amount to be determined at trial.
+XVIII.  PRAYER FOR RELIEF
+WHEREFORE, Plaintiffs, on their own behalf, on behalf of the proposed Customer 
+Class, pray for relief and judgment, as follows:
+A. Determining that this action is a proper class action and certifying Plaintiffs as class 
+representatives under Rule 23(a), 23(b)(1)(B) and (b)(3) of the Federal Rules;
+B. Declaring that any customer property – U.S. Dollars, other fiat currencies, 
+cryptocurrencies, and/or Digital Assets – that customers deposited or held at FTX US and/or FTX 
+Trading and were contractually required to be held for customers are not property of the FTX 
+Group, FTX US, FTX Trading, Alameda or affiliated Debtor estates or, in the alternative, 
+customers have priority to repayment of customer property;
+C. Awarding compensatory damages in favor of Plaintiffs and other Customer Class 
+members against all Defendants, jointly and severally, for the damages sustained by the proposed 
+Customer Class a result of the wrongdoings of Defendants, in an amount to be proved at trial, 
+including interest thereon;
+D. Awarding Plaintiffs and the Customer Class their reasonable costs and expenses 
+incurred in this action, including counsel fees and expert fees; and
+E. Granting such other and further relief as the Court may deem just and proper.
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 62 of 63
+Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 63 of 64
+
+
+--- PAGE 64 ---
+
+60
+XIX.  JURY TRIAL DEMAND
+Plaintiffs hereby demand a trial by jury of all issues so triable.
+Dated:  December 27, 2022 
+Wilmington, Delaware
+CHIMICLES
+ SCHWARTZ KRINER & 
+DONALDS
+ON-SMITH LLP
+/s/ Robert K. Kriner, Jr.                       
+Robert J. Kriner, Jr. (Del. Bar.
+ No. #2546)
+Scott M. Tucker (Del. Bar. No. #4925)
+2711 Centervi
+lle Rd, Suite 201
+Wilm
+ington, Delaware 19808
+Tel.
+ (302) 656-2500
+robertkriner@chimicles.com
+ENTWISTLE & CAPPUCCI LLP
+Andrew J. Entwistle (pro hac vice pending)
+500 W. 2nd Street, Suite 1900
+Austin, Texas 78701
+Tel: (512) 710-5960
+aentwistle@entwistle-law.com
+-and- 
+Robert N. Cappucci (pro hac vice pending)
+Joshua K. Porter (pro hac vice pending)
+230 Park Avenue, 3rd Floor
+New York, NY 10169 
+Tel: (212) 894-7200
+Fax: (212) 894-7272
+rcappucci@entwistle-law.com
+jporter@entwistle-law.com
+Counsel For Plaintiffs Austin Onusz, Cedric 
+Kees van Putten, Nicholas J. Marshall and 
+Hamad Dar 
+  
+Case 22-50513-JTD    Doc 1    Filed 12/27/22    Page 63 of 63Case 1:22-cr-00673-LAK     Document 466-1     Filed 07/26/24     Page 64 of 64

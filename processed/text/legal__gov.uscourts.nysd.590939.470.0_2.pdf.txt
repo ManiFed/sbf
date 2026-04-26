@@ -1,0 +1,990 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ 
+ 
+UNITED STATES OF AMERICA,  
+ 
+ -against- 
+ 
+RYAN SALAME,  
+ 
+   Defendant. 
+ 
+ 
+Case No.: 1:22-cr-00673-LAK 
+ 
+ 
+ 
+ 
+ 
+ 
+PETITION FOR A WRIT OF ERROR CORAM NOBIS,  
+OR ALTERNATIVELY FOR A WRIT OF AUDITA QUERELA 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 1 of 33
+
+
+--- PAGE 2 ---
+
+TABLE OF CONTENTS 
+INTRODUCTION .......................................................................................................................... 1 
+BACKGROUND ............................................................................................................................ 2 
+ARGUMENT .................................................................................................................................. 4 
+I. The Court has the Authority to Grant the Requested Relief. .......................................... 5 
+II. Salame’s Plea Agreement did not Waive This Challenge to his Conviction. ................. 9 
+III. The Court Should Grant the Requested Relief Because the Government Failed 
+to Honor an Implied Commitment that Induced Salame’s Plea. ....................................11 
+I V. Alternatively, the Government’s Conditioning of its Decision on Whether to 
+Prosecute Bond on Salame’s Acceptance of the Plea Arrangement was 
+Improper. ....................................................................................................................... 22 
+PRAYER FOR RELIEF ................................................................................................................ 26 
+ 
+  
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 2 of 33
+
+
+
+--- PAGE 3 ---
+
+ii 
+TABLE OF AUTHORITIES 
+Cases 
+Allyn v. Comm’r of Corr. Servs., 708 F. Supp. 592 (S.D.N.Y . 1989) ...................................... 24, 25 
+Bemis v. United States, 30 F.3d 220 (1st Cir. 1994) ...................................................................... 14 
+Blackledge v. Allison, 431 U.S. 63 (1977) .............................................................. 8, 13, 14, 20, 21 
+Blanton v. United States, 94 F.3d 227 (6th Cir. 1996) .................................................................... 7 
+Bordenkircher v. Hayes, 434 U.S. 357 (1978) .......................................................................... 2, 22 
+Brady v. United States, 397 U.S. 742 (1970) ................................................................................ 22 
+Brown v. United States, 565 F.2d 862 (3d Cir. 1977) ........................................................ 14, 18, 20 
+Chang v. United States, 250 F.3d 79 (2d Cir. 2001) ............................................................. 8, 9, 21 
+Collins v. Holinka, 510 F.3d 666 (7th Cir. 2007) ............................................................................ 7 
+Correale v. United States, 479 F.2d 944 (1st Cir. 1973) ............................................................... 17 
+Crow v. United States, 397 F.2d 284 (10th Cir. 1968) ...................................................... 24, 25, 26 
+Dean v. United States, 418 F. Supp. 2d 149 (E.D.N.Y . 2006)......................................................... 6 
+Dugan v. United States, 521 F.2d 231 (5th Cir. 1975) ............................................................ 14, 20 
+Fleming v. United States, 146 F.3d 88 (2d Cir. 1998) ................................................................. 5, 7 
+Gonzalez v. United States, 722 F.3d 118 (2d Cir. 2013) ........................................................... 8, 21 
+Harman v. Mohn, 683 F.2d 834 (4th Cir. 1982) ................................................................ 23, 25, 26 
+Heflin v. United States, 358 U.S. 415 (1959) .................................................................................. 5 
+In re Altro, 180 F.3d 372 (2d Cir. 1999).......................................................................................... 9 
+Machibroda v. United States, 368 U.S. 487 (1962) ...................................................................... 19 
+Peavy v. United States, 31 F.3d 1341 (6th Cir. 1994) ................................................................... 18 
+Persico v. United States, 418 F. App’x 24 (2d Cir. 2011) ............................................................... 7 
+Raines v. United States, 423 F.2d 526 (4th Cir. 1970) .................................................................. 21 
+Santobello v. New York, 404 U.S. 257 (1971) ........................................................................... 1, 12 
+Shen v. United States,  
+No. 1:22-CV-8014-GHW, 2023 WL 4978104 (S.D.N.Y . Aug. 3, 2023) ........................ 7, 20, 21 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 3 of 33
+
+
+--- PAGE 4 ---
+
+iii 
+Spence v. Superintendent, Great Meadow Corr. Facility,  
+219 F.3d 162 (2d Cir. 2000) ...................................................................................................... 12 
+Taylor v. Kavanagh, 640 F.2d 450 (2d Cir. 1981) ......................................................................... 12 
+Townsend v. Burke, 334 U.S. 736 (1948) ...................................................................................... 15 
+Trotter v. United States, 359 F.2d 419 (2d Cir. 1966) ............................................................. 14, 18 
+U.S. ex rel. McGrath v. LaVallee, 319 F.2d 308 (2d Cir. 1963) .................................................... 18 
+U.S. ex rel. Oliver v. Vincent, 498 F.2d 340 (2d Cir. 1974) ..................................................... 13, 18 
+United States v. Abbott, 241 F.3d 29 (1st Cir. 2001) ......................................................... 15, 23, 25 
+United States v. Al-Arian, 514 F.3d 1184 (11th Cir. 2008) ........................................................... 15 
+United States v. Aller, 486 F. Supp. 3d 752 (S.D.N.Y . 2020) ......................................................... 7 
+United States v. Battle, 447 F.2d 950 (5th Cir. 1971) ............................................................. 16, 17 
+United States v. Blackner, 721 F.2d 703 (10th Cir. 1983) ....................................................... 14, 18 
+United States v. Bullock, 725 F.2d 118 (D.C. Cir. 1984) ............................................................... 14 
+United States v. Carbone, 739 F.2d 45 (2d Cir. 1984) .................................................................... 5 
+United States v. Carlino, 400 F.2d 56 (2d Cir. 1968) ............................................................ 6, 8, 21 
+United States v. Cieslowski, 410 F.3d 353 (7th Cir. 2005) ............................................................ 12 
+United States v. Clements, 992 F.2d 417 (2d Cir. 1993) ............................................................... 15 
+United States v. Daniels, 821 F.2d 76 (1st Cir. 1987) ................................................................... 23 
+United States v. Delvalle, 94 F.4th 262 (2d Cir. 2024) ............................................................. 1, 12 
+United States v. DeMartino, 112 F.3d 75 (2d Cir. 1997)................................................................. 6 
+United States v. Durrani, 115 F. App’x 500 (2d Cir. 2004) ............................................................ 7 
+United States v. Elenes-Lopez,  
+No. CR-75-447-PHX-CAM, 1990 WL 10023717 (D. Ariz. Sept. 19, 1990) ............................. 6 
+United States v. Espinoza-Soto,  
+No. CIV . 94-662 TUC RMB, 1994 WL 16013615 (D. Ariz. Oct. 24, 1994) .............................. 6 
+United States v. Feldman, 939 F.3d 182 (2d Cir. 2019) .................................................... 13, 17, 18 
+United States v. Garcia, -- F. Supp. 3d --, 2024 WL 3413997 (D.N.M. 2024) ............................... 6 
+United States v. Garcia, 956 F.2d 41 (4th Cir. 1992) .................................................................... 15 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 4 of 33
+
+
+--- PAGE 5 ---
+
+iv 
+United States v. Ghebreziabher, 701 F. Supp. 115 (E.D. La. 1988) ................................................ 6 
+United States v. Gotti, 399 F. Supp. 2d 252 (S.D.N.Y . 2005) ................................................. 12, 19 
+United States v. Graves, 374 F.3d 80 (2d Cir. 2004) ......................................................... 13, 17, 18 
+United States v. Hammerman, 528 F.2d 326 (4th Cir. 1975) ...................................... 14, 16, 17, 18 
+United States v. Hernandez, 242 F.3d 110 (2d Cir. 2001) ........................................................10, 11 
+United States v. Keogh, 391 F.2d 138 (2d Cir. 1968) ............................................................ 7, 8, 20 
+United States v. Khalaf, 116 F. Supp. 2d 210 (D. Mass. 1999) ....................................................... 6 
+United States v. Knights, 968 F.2d 1483 (2d Cir. 1992) ................................................................ 16 
+United States v. LaPlante, 57 F.3d 252 (2d Cir. 1995) ................................................................... 5 
+United States v. Marquez, 909 F.2d 738 (2d Cir. 1990) .................................................... 23, 24, 25 
+United States v. Mergen, 764 F.3d 199 (2d Cir. 2014) ..................................................................11 
+United States v. Morgan, 202 F.2d 67 (2d Cir. 1953) ..................................................................... 8 
+United States v. Morgan, 346 U.S. 502 (1954) ....................................................................... 2, 6, 8 
+United States v. Nelson, 277 F.3d 164 (2d Cir. 2002) ............................................................. 12, 22 
+United States v. Nuckols, 606 F.2d 566 (5th Cir. 1979) .......................................................... 22, 25 
+United States v. Raifsnider, 663 F.3d 1004 (8th Cir. 2011)........................................................... 18 
+United States v. Reyes, 945 F.2d 862 (5th Cir. 1991) ...................................................................... 5 
+United States v. Roberts, 570 F.2d 999 (D.C. Cir. 1977) .............................................................. 15 
+United States v. Robinson,  
+No. 15-CR-00010-SI-3, 2019 WL 1560447 (N.D. Cal. Apr. 10, 2019)...................................... 6 
+United States v. Schmick, 21 F.3d 11 (2d Cir. 1994) ..................................................................... 10 
+United States v. Seng Chen Yong, 926 F.3d 582 (9th Cir. 2019) ................................................... 23 
+United States v. Singleton,  
+47 F.3d 1177 (Table), 1995 WL 66792 (9th Cir. 1995) ....................................................... 17, 19 
+United States v. Sperling,  
+No. 73 CR. 441 (MBM), 2003 WL 21518359 (S.D.N.Y . July 1, 2003) ..................................... 5 
+United States v. Tablie, 166 F.3d 505 (2d Cir. 1999) ...................................................................... 2 
+United States v. Tribote, 297 F.2d 598 (2d Cir. 1961) ..................................................... 7, 9, 20, 21 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 5 of 33
+
+
+--- PAGE 6 ---
+
+v 
+United States v. Tursi, 576 F.2d 396 (1st Cir. 1978) ..................................................................... 22 
+United States v. Usher, 703 F.2d 956 (6th Cir. 1983) ................................................................... 26 
+United States v. Valdez-Pacheco, 237 F.3d 1077 (9th Cir. 2001) ................................................... 2 
+United States v. Valenciano, 495 F.2d 585 (3d Cir. 1974) ............................................................ 18 
+United States v. Whalen, 976 F.2d 1346 (10th Cir. 1992) ............................................................. 23 
+United States v. White, 366 F.3d 291 (4th Cir. 2004) .............................................................. 15, 19 
+United States v. Williams, 536 F.2d 247 (8th Cir. 1976) ............................................................... 20 
+United States v. Wolfson, 558 F.2d 59 (2d Cir. 1977) ............................................................... 8, 21 
+United States v. Wright, 43 F.3d 491 (10th Cir. 1994) .................................................................. 23 
+Zilich v. Reid, 36 F.3d 317 (3d Cir. 1994) ............................................................................... 18, 20 
+Statute 
+All Writs Act, 28 U.S.C. § 1651 ................................................................................................. 1, 7 
+Other Authorities 
+28 U.S.C. § 2255 advisory committee’s notes to Rule 2 ................................................................ 6 
+Black’s Law Dictionary (12th ed. 2024) ....................................................................................... 15 
+  
+ 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 6 of 33
+
+
+--- PAGE 7 ---
+
+INTRODUCTION 
+Pursuant to the All Writs Act, 28 U.S.C. § 1651(a), Defendant Ryan Salame  respectfully 
+petitions for a writ of error coram nobis, or of audita querela, to hold the Government to its 
+assurance that it would not continue investigating Michelle Bond if Salame pleaded guilty or, in 
+the alternative, to vacate his conviction in this case.   
+Although Salame pleaded guilty to multiple counts  in this matter , recent developments 
+confirm that his conviction must be vacated.  As shown below, the Government used the plea 
+negotiations to threaten Salame’s domestic partner and the mother of his child, Michelle Bond.  In 
+an effort to induce Salame ’s plea, Government lawyers conveyed that they would discontinue 
+investigating Bond if Salame pleaded guilty.  Considering Salame’s manifest desire to protect 
+Bond, Salame responded by agreeing to enter into a plea agreement.   
+Yet the Government failed to abide by its word , recently resuming its investigation into 
+Bond and pursuing an indictment against her.  In this Circuit, when a defendant enters a plea in 
+reliance “on a promise … of the prosecutor,” “such promise must be fulfilled.”  United States v. 
+Delvalle, 94 F.4th 262, 268 (2d Cir. 2024)  (quoting Santobello v. New York, 404 U.S. 257, 262 
+(1971)).  That precedent requires post -conviction relief here— either an order setting aside the 
+guilty-plea conviction on the basis of the Government’s breach, or an order for specific 
+performance of the pledge not to pursue charges against Bond. 
+Alternatively, relief should be granted because there are serious questions about the 
+lawfulness of the Government’s tactics in trying to induce Salame to plead guilty.  Indeed, 
+Government counsel should have been aware that the Supreme Court has long been skeptical of 
+“a prosecutor’s offer during plea bargaining of adverse or lenient treatment for some person other 
+than the accused,” as that sort of condition “might pose a greater danger of inducing a false guilty 
+plea by skewing the assessment of the risks a defendant must consider.”  Bordenkircher v. Hayes, 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 7 of 33
+
+
+--- PAGE 8 ---
+
+2 
+434 U.S. 357, 365 n.8 (1978).  Ignoring that precedent, the Government nonetheless sought to use 
+Salame’s caring for the mother of his child against him.  And that is an independent basis for 
+granting Salame post-conviction relief.  
+To be sure, “the All Writs Act does not confer an independent basis of jurisdiction; it merely 
+provides a tool … in cases over which jurisdiction is conferred by some other source.”  United 
+States v. Tablie, 166 F.3d 505, 506–07 (2d Cir. 1999).  But no independent jurisdictional basis is 
+necessary to decide the instant petition, which “is a step in the [above -captioned] criminal case 
+and not … the beginning of a separate civil proceeding.”  United States v. Morgan, 346 U.S. 502, 
+506 n.4 (1954); see also United States v. Valdez-Pacheco, 237 F.3d 1077, 1079 (9th Cir. 2001). 
+BACKGROUND
+1 
+Salame was charged by information with one count of conspiracy to make unlawful 
+political contributions and defraud the Federal Election Commission and one count of conspiracy 
+to operate an unlicensed money transmitting business.  Dkt. No 262.  On September 7, 2023, 
+Salame pleaded guilty to both charges as part of a plea bargain, Dkt. No. 283, and t he plea 
+agreement (“Agreement”) was memorialized  in writing.  By entering this Agreement, Salame 
+forewent many available legal defenses to the charges brought against him. 
+Before Salame plead ed guilty to these charges and during the Government’s underlying 
+investigation, the Government conveyed to Salame that it was also investigating separate alleged 
+campaign-finance violations by Michelle Bond, Salame’s domestic partner and the mother to his 
+eight-month-old child.  Decl. of Ryan Salame ¶ 5 (“Salame Declaration”); Dkt. No. 283 at 21:18–
+22:9.  Thereafter, during an April 28, 2023 video conference call with Salame’s counsel, Assistant 
+ 
+1 Given the Court’s familiarity with the underlying subject matter, Salame does not provide here a full summary of all 
+background information.  Rather, Salame respectfully refers the Court to previous filings in this matter for a more 
+thorough discussion of the events that led to his being charged.   
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 8 of 33
+
+
+
+--- PAGE 9 ---
+
+3 
+U.S. Attorney Danielle Sassoon read from prepared talking points and explained that, although she 
+could not put this condition within the four corners of the Agreement (as she said is often the 
+practice of the office), “if we conclude” the investigation  “as to [ Salame], that would conclude 
+th[e] facet of the investigation” into Bond.  Salame Decl. ¶ 6.  In other words, Sassoon represented 
+that Salame’s pleading guilty would also terminate the investigation into Bond. 
+Salame’s lawyers, who also represented Bond, were surprised by such a direct statement 
+tying a plea to Bond’s investigation, and they communicated their understanding of this statement 
+to both Salame and Bond.  Salame Decl. ¶ 7.  Salame’s lead lawyers had long careers in DOJ, and, 
+as they relayed to Salame,  neither had seen such clear inducement presented in pre -charging 
+discussions.  Id. ¶ 8.  That Sassoon was reading from talking points reinforced defense counsel’s 
+impression that the assurance was sincere, and not a thoughtless or off -hand comment.  Indeed, 
+defense counsel was so certain of the sincerity that, once Salame entered the Agreement, defense 
+counsel put their file in storage as to Bond, believing the matter had concluded.  Id. ¶ 9.   
+Based on Sassoon’s representations, Salame signed the Agreement even though it did not 
+mention the condition regarding Bond and instead included a boilerplate integration clause stating 
+that the writing “supersedes any prior understandings, promises, or conditions between this Office 
+and the defendant.”  Agreement at 7; Salame Decl. ¶ 10 .  For similar reasons, when asked at his 
+plea allocution whether “anyone made any promises other than whatever is set forth in the plea 
+agreement that induced [him] to plead guilty,” Salame answered in the negative.  Dkt. No. 283 
+at 19:20–23; Salame Decl. ¶ 10.  One of Salame’s main motives for accepting the plea arrangement 
+was his understanding that, if he did so, the G overnment would not pursue campaign -finance 
+charges against Bond.  Salame Decl. ¶ 12.  And he took Government counsel at their word. 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 9 of 33
+
+
+--- PAGE 10 ---
+
+4 
+Yet despite Salame’s cooperation, the Government failed to honor its implied commitment 
+not to pursue the campaign- finance charges against  Bond.  Id. ¶ 13.  Rather, now that the 
+Government was able to secure Salame’s plea, it has resumed pursuing charges against Bond. 
+The Government’s inducement of a plea has real -life consequences.  In advance of 
+sentencing, the Government recommended a sentence “within the range of five to seven years’ 
+imprisonment.”  Dkt. No. 436 at 1.  Instead, this Court sentenced Salame to 90 months’ 
+imprisonment followed by three years of supervised release.  Dkt. No. 445 at 3–4.  The Court also 
+ordered Salame to pay $500,200 in assessments and fines and $5,593,177.91 in restitution—an 
+obligation Salame has already satisfied.  Dkt. No. 445 at 7.  Salame is scheduled to begin his prison 
+sentence on October 13, 2024.  Salame Decl. ¶ 4. 
+ARGUMENT 
+The Government’s actions require post-conviction relief for either of two reasons.  First, 
+binding authority confirms that Government  assurances made during plea negotiations must be 
+fulfilled.  Here, the Government failed to follow through on its implied assurances, and thus it falls 
+to the Court to require the Government to do so.  Second, and alternatively, if the Government is 
+not held to its assurances , the Court should nonetheless grant post -conviction relief because the 
+assurances made during the plea negotiations were unlawfully coercive, and the entire plea 
+agreement and conviction must be vacated.   
+Accordingly, Salame requests the following relief: (i) holding the Government to its 
+assurance that Bond would no longer be the subject of investigation, as that assurance induced 
+Salame’s plea; or (ii) in the alternative, if the foregoing r elief is not granted, entering an order 
+vacating Salame’s conviction. 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 10 of 33
+
+
+--- PAGE 11 ---
+
+5 
+I. The Court has the Authority to Grant the Requested Relief. 
+This Court may grant the requested relief in the form of a writ of coram nobis or audita 
+querela.  True, a motion to set aside a guilty-plea conviction based on the government’s breach of 
+a plea agreement or to obtain specific performance of a plea agreement’s terms would ordinarily 
+be brought pursuant to 28 U.S.C. § 2255.  See United States v. Carbone , 739 F.2d 45, 46 (2d Cir. 
+1984).  But that provision only applies  if the petitioner is “in custody,” 28 U.S.C. § 2255(a), and 
+cannot “be used to question a sentence which the prisoner has not begun to serve,” Heflin v. United 
+States, 358 U.S. 415, 418 (1959) .  Here, Salame has not yet begun serving his term of 
+imprisonment, and thus he cannot file a Section 2255 motion.   
+Nevertheless, “the writs of error coram nobis and audita querela remain available” as 
+avenues for non- custodial petitioners to seek similar collateral relief “with respect to criminal 
+convictions.  Coram nobis is available to redress an adverse consequence resulting from an 
+illegally imposed criminal conviction or sentence.”  United States v. LaPlante , 57 F.3d 252, 253 
+(2d Cir. 1995).  It “is essentially a remedy of last resort” for convicted defendants who are not “in 
+custody … [and] therefore cannot pursue direct review or collateral relief by means of a writ of 
+habeas corpus.”  Fleming v. United States, 146 F.3d 88, 89–90 (2d Cir. 1998).  Similarly, “[a]udita 
+querela is probably available where there is a legal, as contrasted with an equitable, objection to a 
+conviction that has arisen subsequent to the conviction and that is not redressable pursuant to 
+another post-conviction remedy.”  LaPlante , 57 F.3d at 253.  “The distinction between the two 
+writs” is “largely, if not entirely, one of … timing, not substance.”  United States v. Sperling, No. 
+73 CR. 441 (MBM), 2003 WL 21518359, at *4 (S.D.N.Y . July 1, 2003)  (Mukasey, J.) (quoting 
+United States v. Reyes, 945 F.2d 862, 863 n.1 (5th Cir. 1991)). 
+In this case, the Government failed to honor the implied assurances it gave to secure 
+Salame’s guilty plea, which any reasonable person would have interpreted as an assurance that the 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 11 of 33
+
+
+--- PAGE 12 ---
+
+6 
+Government would discontinue any investigation of Bond.  Indeed, even if the Government were 
+to argue that it caveated its assurance or attempted to walk it back later, it was clearly intended to 
+be taken as a promise.  Alternatively, the Government’s conditioning its investigation of Bond on 
+Salame’s pleading guilty rendered Salame’s plea not truly voluntary.   
+In the former scenario, Salame’s guilty-plea conviction would have been rendered invalid 
+by virtue of the Government’s subsequent violation of its own commitments, in which case a writ 
+of audita querela would lie.  See United States v. Khalaf, 116 F. Supp. 2d 210, 217 (D. Mass. 1999); 
+United States v. Ghebreziabher, 701 F. Supp. 115, 117 (E.D. La. 1988); United States v. Garcia, -
+- F. Supp. 3d --, 2024 WL 3413997, at *7 (D.N.M. 2024); United States v. Elenes-Lopez, No. CR-
+75-447-PHX-CAM, 1990 WL 10023717, at *3 (D. Ariz. Sept. 19, 1990) ; United States v. 
+Espinoza-Soto, No. CIV . 94-662 TUC RMB, 1994 WL 16013615, at *2 (D. Ariz. Oct. 24, 1994); 
+United States v. Robinson, No. 15- CR-00010-SI-3, 2019 WL 1560447, at *5, *6 (N.D. Cal. Apr. 
+10, 2019).  In the latter scenario, the Government’s plea condition would have been invalid at the 
+time Salame’s plea was entered and thus could be challenged via petition for a writ of coram nobis.  
+See United States v. Carlino, 400 F.2d 56, 57–58 (2d Cir. 1968) ; Dean v. United States , 418 F. 
+Supp. 2d 149, 155, 157 (E.D.N.Y . 2006) .  Either way, Salame is entitled to relief, and even 
+“misstyl[ing] his motion” would not be a basis to “bar[] [ Salame] from an appropriate remedy.”  
+28 U.S.C. § 2255 advisory committee’s notes to Rule 2.  Rather, “[t]he court should construe it as 
+whichever one is proper under the circumstances and decide it on its merits.”  Id. ; accord United 
+States v. DeMartino, 112 F.3d 75, 81 (2d Cir. 1997). 
+Once it is established that the Court may enter a writ of coram nobis or audita querela, the 
+Court turns to Section 2255 proceedings for guidance on the applicable procedures.
+2  “Because of 
+ 
+2 “Since [a] motion in the nature of … coram nobis is not specifically authorized by any statute enacted by Congress, 
+the power to grant such relief … come[s] from the all -writs section of the Judicial Code.”  Morgan, 346 U.S. at 506  
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 12 of 33
+
+
+
+--- PAGE 13 ---
+
+7 
+the similarities between coram nobis proceedings and § 2255 proceedings, the § 2255 procedure 
+often is applied by analogy in coram nobis cases.”  Fleming v. United States , 146 F.3d 88, 90 n.2 
+(2d Cir. 1998) (quoting Blanton v. United States, 94 F.3d 227, 235 (6th Cir. 1996)).  “A motion in 
+a criminal case … nominally … bearing [the] ancient title … audita querela ” also “may be treated 
+as one under § 2255, because the caption on a document does not matter.”  Collins v. Holinka, 510 
+F.3d 666, 667 (7th Cir. 2007).  Thus, the same procedures that govern motions pursuant to § 2255 
+also govern petitions for writs of coram nobis or audita querela.   
+It follows that, whether this filing is called a § 2255 motion or a petition for a writ of coram 
+nobis or audita querela, similar principles apply in determining whether Salame is entitled to a 
+hearing or to discovery.  See United States v. Durrani, 115 F. App’x 500, 502–03 (2d Cir. 2004).  
+His “allegations” need only “cross [a] rather low threshold [to] entitl[e] him to an evidentiary 
+hearing on his petition ….”  United States v. Keogh, 391 F.2d 138, 142 (2d Cir. 1968) (Friendly, J.).  
+“A petitioner is entitled to a hearing on a writ of error coram nobis ” or of audita querela “‘if his 
+petition alleges facts which would support a claim of deprivation of constitutional right, and some 
+material issue of fact is in dispute.’ ”  Shen v. United States , No. 1:22-CV-8014-GHW, 2023 WL 
+4978104, at *5 (S.D.N.Y . Aug. 3, 2023) (quoting United States v. Tribote, 297 F.2d 598, 600, 601 
+(2d Cir. 1961)).  And “‘this Court must, in deciding whether [petitioner] is entitled to a hearing, 
+assume the facts alleged to be true[.]”  Id. 
+For instance, the Second Circuit has previously held in one case  that the question of 
+“[w]hether [a coram nobis petitioner] in fact was represented by counsel or whether he can … 
+show[] that he did not intelligently waive this right can only be determined in a hearing.  That 
+ 
+(citing 28 U.S.C. §  1651(a)).  “A writ of audita querela  is” likewise available “under the All Writs Act, 28 U.S.C. 
+§ 1651(a).”  United States v. Aller, 486 F. Supp. 3d 752, 764 (S.D.N.Y . 2020) (quoting Persico v. United States, 418 
+F. App’x 24, 25 (2d Cir. 2011)). 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 13 of 33
+
+
+--- PAGE 14 ---
+
+8 
+hearing may be had upon affidavits or other evidentiary matter … and would not necessarily 
+require that [the petitioner]  be brought to the [district court] to testify orally.  But unless the 
+affidavits clearly show that [ his] contention is without foundation, he should be present at the 
+hearing and be permitted to testify.”  United States v. Morgan, 202 F.2d 67, 69 (2d Cir. 1953) , 
+aff’d, 346 U.S. 502 (1954) .  On appeal, the Supreme Court agreed, explaining that, while  “[i]t is 
+presumed the proceedings were correct and the burden rests on the accused to show otherwise,” 
+given the “barren” “state of the record,” he  “[wa]s entitled to an opportunity to attempt to show 
+that this conviction was invalid.”  Morgan, 346 U.S. at 512–13; see also Keogh, 391 F.2d at 148–
+49; cf. Carlino, 400 F.2d at 58; United States v. Wolfson, 558 F.2d 59, 65–66 (2d Cir. 1977). 
+Recent Second Circuit caselaw on hearings and discovery in §  2255 proceedings charts a 
+similar course: “To warrant a hearing, [a § 2255] motion must set forth specific facts supported by 
+competent evidence, raising detailed and controverted issues of fact that, if proved at a hearing, 
+would entitle [the movant] to relief.”  Gonzalez v. United States, 722 F.3d 118, 131 (2d Cir. 2013).  
+To be sure, “[i]n determining whether the assertions in a § 2255 motion warrant discovery or a 
+hearing, the court must also take into account admissions made by the defendant at his plea hearing 
+….  ‘[S]ubsequent presentation of conclusory allegations unsupported by specifics is subject to 
+summary dismissal[.]’”  Id. (quoting Blackledge v. Allison , 431 U.S. 63, 74 (1977)).  But 
+“allegations that [a] plea was induced by an unkept promise [a]re not vague or conclusory where,” 
+for example, “the motion ‘indicate[s] exactly what the terms of the promise were; when, where, 
+and by whom the promise had been made; and the identity of one witness to its communication[.]’”  
+Id. (emphasis omitted) (quoting Blackledge, 431 U.S. at 76).  Moreover, a “district judge … may 
+employ a variety of measures in an effort to avoid the need for an evidentiary hearing.”  Chang v. 
+United States, 250 F.3d 79, 86 (2d Cir. 2001) (quoting Blackledge, 431 U.S. at 81).  “It may instead 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 14 of 33
+
+
+--- PAGE 15 ---
+
+9 
+be perfectly appropriate … for the district court to proceed by requiring that the record be expanded 
+to include letters, documentary evidence, and, in an appropriate case, even affidavits.”  Id.  
+All told, although the Second Circuit has acknowledged the “tendency to try to avoid 
+hearings in coram nobis and habeas corpus proceedings,” its caselaw has also admonished that a 
+court “cannot refuse a hearing ” simply “because it is improbable that a prisoner can prove his 
+claims.”  Tribote, 297 F.2d at 603–04.  As will be shown in due course, Salame is entitled to a 
+hearing, or at least to discovery on his claim for post-conviction relief. 
+II. Salame’s Plea Agreement did not Waive This Challenge to his Conviction. 
+Salame anticipates that the Government will argue that he waived this challenge through 
+the Agreement.  The Government would be mistaken.  The Second Circuit generally “interpret[s] 
+plea agreements under principles of contract law” but recognizes that, “unlike ordinary contracts, 
+plea agreements call for defendants to waive fundamental constitutional rights, and … that the 
+Government generally drafts the agreement and enjoys significant advantages in bargaining 
+power,” and accordingly “resolv[es] any ambiguities against the Government.”  In re Altro , 180 
+F.3d 372, 375 (2d Cir. 1999).  Applying those principles, Salame has not waived this challenge. 
+Salame’s plea Agreement states in part: 
+It is agreed (i) that the [ Salame] will not file a direct appeal; nor bring a collateral 
+challenge, including but not limited to an application under Title 28, United States 
+Code, Section 2255 and/or Section 2241, of  any sentence equal to or below the 
+Stipulated Guidelines Sentence of 120 months’ imprisonment and (ii) that the 
+Government will not appeal any sentence equal to or above the Stipulated 
+Guidelines Sentence.  This provision is binding on the parties even if the Court 
+employs a Guidelines analysis different from that stipulated to herein.  Furthermore, 
+it is agreed that any appeal as to the [Salame] ’ s sentence that is not foreclosed by 
+this provision will be limited to that portion of the sentencing calculation that is 
+inconsistent with (or not addressed by) the above stipulation. 
+ 
+Agreement at 5 (both emphases added).   
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 15 of 33
+
+
+--- PAGE 16 ---
+
+10 
+The waivers in this passage should be limited to  their “literal terms.”  United States v. 
+Schmick, 21 F.3d 11, 12 n.1 (2d Cir. 1994).  For starters, that Salame agreed not to appeal or bring 
+a collateral challenge to his sentence  does not foreclose a challenge to his conviction.  This issue 
+is controlled by the Second Circuit’s decision in United States v. Hernandez, 242 F.3d 110 (2d Cir. 
+2001).  In that case, Hernandez moved before sentencing to withdraw his guilty plea based on 
+ineffective assistance of counsel.  The district court denied the motion and sentenced Hernandez.  
+Hernandez appealed, and on appeal the government “argu[ed] that the plea agreement forecloses 
+defendant’s right to take this appeal.”  Id . at 113.  The Second Circuit rejected that argument , 
+notwithstanding that the waiver in the Hernandez  plea agreement was materially identical to the 
+waiver in Salame’s Agreement: 
+It is further agreed (i) that the [Hernandez] will neither appeal, nor otherwise litigate 
+under Title 28, United States Code, Section 2255, any sentence within or below the 
+stipulated Guidelines range of 120- 135 months and (ii) that the Government will 
+not appeal any sentence within or above the Stipulated Guidelines range ….  
+Furthermore, it is agreed that any appeal as to the [Hernandez] ’ s sentence that is 
+not foreclosed by this provision will be limited to that portion of the sentencing 
+calculation that is inconsistent with (or not addressed by) the above stipulation. 
+ 
+Id. (italics added by the Second Circuit).  The Second Circuit held that the “plain” language of the 
+waiver “clearly” did not bar Hernandez’s appeal of his conviction: 
+By the plain terms of this agreement, the waiver applies only to an appeal or motion 
+to vacate regarding the defendant’s “sentence.”  In this case, the defendant is not 
+appealing any aspect of his sentence; he is appealing the denial of his motion to 
+withdraw his guilty plea, an issue related to the merits of the underlying conviction.  
+Therefore, the plea agreement clearly does not bar this appeal. 
+ 
+Id. (citation omitted).  There is no material difference between Hernandez’s waiver and Salame’s 
+in this case.  Hence, Salame, too, may collaterally challenge his conviction. 
+Moreover, if there were any doubt about the scope of the Agreement’s waiver, the waiver 
+must be construed in Salame’s favor to allow this collateral challenge .  The Second Circuit ’s 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 16 of 33
+
+
+--- PAGE 17 ---
+
+11 
+“precedents indicate that specifically in the context of claimed waivers of appellate rights plea 
+agreements are to be applied narrowly and construed strictly against the Government.”  Hernandez, 
+242 F.3d at 113 (cleaned up).  This rule of construction is “quite settled.”  United States v. Mergen, 
+764 F.3d 199, 208 (2d Cir. 2014).   
+At any rate, “[e]ven if the plain language of the plea [A]greement barred this” post -
+conviction petition for relief, the Court should “not enforce such a waiver of … rights in this case 
+because” Salame “is challenging the constitutionality of the process by which he waived those 
+rights.”  See Hernandez, 242 F.3d at 113. 
+III. The Court Should Grant t he Requested Relief Because t he Government Failed to 
+Honor an Implied Commitment that Induced Salame’s Plea. 
+As shown above, there is ample authority confirming this Court’s authority to grant the 
+requested relief, and the first reason to do so is the Government’s failure to honor its implied 
+commitment not to pursue investigation of Bond if Salame accepted the government’s offer and 
+pleaded guilty.  As noted, AUSA Sas soon strongly implied to Salame’s lawyers during plea 
+negotiations that the Government would “conclude” its investigation into Bond if Salame pleaded 
+guilty.  Salame Decl. ¶ 6.  There can be no doubt about that assurance, as all evidence points toward 
+its sincerity.  AUSA Sassoon read from prepared talking points, confirming that her statement, “as 
+is often the case here, if we conclude as to Ryan, we would conclude this facet of the investigation,” 
+was not off the cuff.  Id. ¶ 8.  Salame, who was primarily focused on protecting the mother of his 
+child, responded by pleading guilty.   Id.  ¶ 12.  And defense counsel, who have a wealth of 
+experience in this arena, understood this to be a sincere assurance and put their documents 
+collected from Bond in storage as soon as Salame executed the Agreement.  Id. ¶ 9.   
+Yet the Government failed to honor its commitment not to continue investigating Bond if 
+Salame accepted the government’s offer and pleaded guilty.  Id. ¶ 13.  He is therefore entitled to 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 17 of 33
+
+
+--- PAGE 18 ---
+
+12 
+withdraw his guilty plea or to obtain specific performance—that is, termination of any 
+investigation into Bond and the dismissal of campaign-finance charges against Bond.  See Spence 
+v. Superintendent, Great Meadow Corr. Facility , 219 F.3d 162, 174 (2d Cir. 2000)  (“Ordinarily, 
+the remedy for the [government’s] breach of a plea agreement is either to enforce the bargain made 
+or to allow the defendant to withdraw his guilty plea.”) ; Taylor v. Kavanagh, 640 F.2d 450, 454 
+(2d Cir. 1981) (“Relief for misconduct committed during a plea negotiation includes the setting 
+aside of the plea or ordering specific performance of the agreement.”). 
+1.  In this Circuit, prosecutors are kept to their assurances, and the Court has an important 
+role in determining whether such assurances were made.  The Second Circuit requires that, “when 
+a plea rests in any significant degree on a promise or agreement of the prosecutor, so that it can be 
+said to be part of the inducement or consideration, such promise must be fulfilled.”  Delvalle , 94 
+F.4th at 268 (quoting Santobello, 404 U.S. at 262); accord United States v. Gotti, 399 F. Supp. 2d 
+252, 258 (S.D.N.Y . 2005) (“Notwithstanding [a] generic integration clause, if there was such a 
+promise, due process would require the Government to abide by it, provided that the promise in 
+fact induced” the guilty plea).   This is true even “if [a] defendant ha[s] … received an undisclosed 
+promise from … the government.”  Delvalle , 94 F.4th at 268.  Furthermore, “a guilty plea … may 
+be invalidated”—that is, subject to withdrawal—“if it [wa]s induced by … misrepresentation[.] ”  
+United States v. Nelson, 277 F.3d 164, 207 (2d Cir. 2002) (quotation marks omitted). 
+Even where there is a written plea agreement, a court may still “inquir[e] into whether oral 
+promises may have induced a plea, thereby rendering it involuntary[.]”   United States v. 
+Cieslowski, 410 F.3d 353, 361 (7th Cir. 2005).  The Second Circuit “ha[s] long recognized that 
+plea agreements are significantly different from commercial contracts.  [Judicial] review of a plea 
+agreement is not limited to its four corners, and [courts] construe them strictly against the 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 18 of 33
+
+
+--- PAGE 19 ---
+
+13 
+government.”  United States v. Feldman, 939 F.3d 182, 189 (2d Cir. 2019)  (quotation marks 
+omitted).  This “relaxed approach to the parol evidence rule … applies even when a plea agreement 
+contains a merger clause[,]” where the court may still “consider the government’s oral and written 
+statements in [its] interpretive exercise.”  Id. at 190.  The Second Circuit confirmed as much in an 
+earlier case where a “written [plea] agreement contain[ed] an integration clause, explicitly 
+disclaiming the effectiveness of any prior oral representations.”  United States v. Graves, 374 F.3d 
+80, 84 (2d Cir. 2004).  In that case, the Second Circuit concluded that, “if [the defendant] was 
+induced to enter into the plea agreement by representations that were made and not intended to be 
+carried out, that sort of improper inducement might well provide a basis for invalidating the 
+agreement, or at least for permitting withdrawal of the plea.”  Id. 
+Moreover, just as a formulaic merger clause in a plea agreement does not allow the 
+government to escape accountability for oral assurances made to a defendant in order to secure a 
+guilty plea, a defendant’s “assurance to the … court at the time of the acceptance of his plea that 
+no promises had been made to him” does not always “overcome the evidence to the contrary,” 
+given the “pressures which unhappily but not uncommonly have induced such assurances.”  U.S. 
+ex rel. Oliver v. Vincent, 498 F.2d 340, 342 n.1 (2d Cir. 1974).  “[T]he federal courts cannot fairly 
+adopt a per se rule excluding all possibility that a defendant’s representations at the time his guilty 
+plea was accepted were so much the product of such factors as misunderstanding, duress, or 
+misrepresentation” as to invalidate the plea.  Blackledge, 431 U.S. at 74–75.  “An analogy is to be 
+found in the law of contracts.…  [E]ven a … provision declaring that the contract contains the 
+complete agreement of the parties, and that no antecedent or extrinsic representations exist, does 
+not conclusively bar subsequent proof that such additional agreements exist and should be given 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 19 of 33
+
+
+--- PAGE 20 ---
+
+14 
+force.’”  Id. at 75 n.6. 3  As the Tenth Circuit explains, “ [i]f the rule were otherwise, the strong 
+policy favoring full disclosure of plea agreements could be emasculated by boilerplate answers 
+and assurances that there were no agreements connected with the plea.”  United States v. Blackner, 
+721 F.2d 703, 709 (10th Cir. 1983) .  Thus, where a defendant “asserted that his guilty plea had 
+been induced and coerced by promises … made by … an Assistant United States Attorney,” “[a] 
+pre-sentencing colloquy between a trial judge and defendant ” was “not conclusive.  The making 
+of such promises … in bad faith may be trickery so flagrant as to violate [his] constitutional rights.”  
+Trotter v. United States, 359 F.2d 419, 420 (2d Cir. 1966) (quotation marks omitted).  
+Caselaw from other circuits is similar: Numerous courts have held that hearings were 
+necessary to adjudicate “post-sentence application[s] [that] inform[ed] … trial court[s], for the first 
+time, of … plea agreement term[s] that … prosecutor[s] allegedly failed to honor.”  United States 
+v. Bullock, 725 F.2d 118, 119 (D.C. Cir. 1984); accord United States v. Hammerman, 528 F.2d 326, 
+331 (4th Cir. 1975)  (“[The defendant]’s denial [at the allocution] of any inducement or 
+commitment leaves untouched our determination that the assistant prosecutor’s misrepresentation 
+induced the plea.”); Brown v. United States, 565 F.2d 862, 863 n.2 (3d Cir. 1977) (“Although [the 
+defendant] denied under oath the existence of any plea negotiations at the plea hearing, the record 
+does not preclude the possibility that such a bargain was in fact made.  And this is especially so 
+since the trial court failed to ascertai n whether the defendant had been instructed to respond 
+untruthfully.”); Dugan v. United States, 521 F.2d 231, 232–33 (5th Cir. 1975); Blackner, 721 F.2d 
+at 709 (“[T]he court did discuss with the defendant that he had no ‘assurances.’  However, because 
+the court was not informed of the Government’s agreement not to ‘say anything at the time of 
+ 
+3 Although Blackledge predates the current Federal Rule of Criminal Procedure 11, “the advent of modern Rule 11 
+procedures” has not “robbed that decision of all currency.”  Bemis v. United States , 30 F.3d 220, 223 n.3 (1st Cir. 
+1994). 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 20 of 33
+
+
+
+--- PAGE 21 ---
+
+15 
+sentencing,’ … that … ‘ … does not estop [the defendant]  from seeking to withdraw his plea.’” 
+(quoting United States v. Roberts, 570 F.2d 999, 1007 (D.C. Cir. 1977)).   
+Buttressing the foregoing principles is the rule that “the prosecution must shoulder the 
+burden of disclosing, in the first instance, all material information of plea agreements ….”  United 
+States v. Abbott, 241 F.3d 29, 35 (1st Cir. 2001); see also United States v. Clements, 992 F.2d 417, 
+419 (2d Cir. 1993) ; Barbara J. Van Arsdale et al., Federal Procedure, Lawyers Edition §  22:975 
+(June 2024 update) (“Even though all parties have an obligation to disclose a plea bargain fully to 
+the court, the government has a compelling duty to fully disclose its offer ….”). 
+Indeed, beyond the general enforceability of a prosecutor’s oral assurances , this case 
+implicates the more fundamental principle that the Government cannot take advantage of a bargain 
+induced by mis leading representations.  Even the circuits that apply a harsher policy against 
+enforcing oral conditions of otherwise -written plea bargains nonetheless agree that “[p]arol 
+evidence may be considered … where … government overreaching is alleged.”  United States v. 
+Al-Arian, 514 F.3d 1184, 1191 (11th Cir. 2008).  Overreaching, in the contract-law context, refers 
+to “[t]he act or an instance of taking unfair commercial advantage of another, esp. by fraudulent 
+means.”  Black’s Law Dictionary (12th ed. 2024).  Thus, “[p]roof of the Government’s refusal to 
+abide by … an oral promise” that induced a written agreement to plead guilty “would clearly 
+constitute evidence of ‘government overreaching’ or ‘fraud in the inducement,’ admissible without 
+running afoul of the parol evidence rule.”  United States v. White, 366 F.3d 291, 295 (4th Cir. 2004) 
+(quoting United States v. Garcia, 956 F.2d 41, 44 & n.4 (4th Cir. 1992) ); see also Townsend v. 
+Burke, 334 U.S. 736, 740 (1948)  (“[T]his … defendant was … overreached by the prosecution’s 
+submission of misinformation to the court ….”).   
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 21 of 33
+
+
+--- PAGE 22 ---
+
+16 
+At bottom, there can be no dispute that “the Government ought not be allowed to lure the 
+defendant into a plea on false information.”  United States v. Battle, 447 F.2d 950 (5th Cir. 1971); 
+see also Hammerman, 528 F.2d at 330, 331 (“We view the prosecutor’s prediction as likely to 
+inculcate belief and reliance and therefore an essential element of the plea bargain.…  It does not 
+matter that the prediction or promise was made in good faith ….”);  United States v. Knights, 968 
+F.2d 1483, 1488 (2d Cir. 1992) (“Not only would it be unfair for the government to rely upon such 
+known, pre -agreement circumstances …, it would have been fraudulent to have induced a 
+defendant’s plea with a promise that the government already knew it was not going to keep.”).  
+2.  Yet the record in this case confirms that, by failing to abide by its assurances, the 
+Government did just that —inducing Salame to plead guilty and then failing to live up to its 
+assurances.  Here, the Government informed Salame’s counsel, who in turn informed Salame, that 
+his acceptance of a plea bargain would also “conclude” the “facet” of the U.S. Attorney’s 
+investigation of Bond for alleged campaign- finance violations.  Salame Decl. ¶  6.  As the 
+Government no doubt understood, that “prediction … [w]as likely to inculcate belief and reliance 
+and therefore [was] an essential element of the plea bargain.”  See Hammerman, 528 F.2d at 330.  
+Though the written Agreement and Salame’s plea allocution did not mention this assurance, AUSA 
+Sassoon told Salame’s counsel that the G overnment could not put the condition within the four 
+corners of the Agreement, which Salame took to mean that the commitment would be honored 
+without regard to whether it was aired in open court.  Salame Decl. ¶ 11.  But the Government later 
+failed to honor that commitment when it continued to investigate and pursue charges against Bond.  
+Salame is entitled to hold the G overnment to its assurance by either withdrawing his plea or 
+obtaining an order directing specific performance. 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 22 of 33
+
+
+--- PAGE 23 ---
+
+17 
+As noted above, t hat Salame’s “plea [A]greement contains a merger clause” is not 
+dispositive; “the merger clause is not ironclad and [a court] consider[s] the government’s oral and 
+written statements in [its] interpretive exercise.”  See F eldman, 939 F.3d at 190.  Even if the 
+Government’s assurance had been akin to a mere “expression of optimism” regarding its 
+investigation into Bond, Salame would nonetheless be entitled to some relief if the Government’s 
+representation “was misleading …  [T]he government may not … rely exclusively on omissions 
+of prior undertakings and representations from the four corners of the written agreement as 
+effective nullification of them.”  Id.  Indeed, Feldman is just one of multiple cases in which 
+prosecutorial statements falling short of firm “promises” were held to constitute enforceable 
+inducements of guilty pleas.  See Graves, 374 F.3d at 85 (“[W]e feel compelled to return this matter 
+to the District Court for a factual inquiry as to exactly what was said about ‘proactive cooperation,’ 
+what understanding was reasonably conveyed to the Defendant concerning the cooperation.”); 
+Battle, 447 F.2d at 951 (holding that defendant accepting guilty plea was entitled to hearing on his 
+argument “that the essence, though admittedly not unambiguous, of these conversations was that 
+a light, if not minimal, sentence was in order and that the Government would not ask for … more”); 
+United States v. Singleton, 47 F.3d 1177 (Table), 1995 WL 66792, at *3 (9th Cir. 1995) (“[The 
+defendant] could have reasonably believed the terms of his plea agreement to include immunity 
+from grand jury subpoenas.”); Hammerman, 528 F.2d at 330 (“We view the prosecutor’s prediction 
+as likely to inculcate belief and reliance and therefore an essential element of the plea bargain.”); 
+cf. Correale v. United States, 479 F.2d 944, 947 (1st Cir. 1973) (“Prosecutorial misrepresentations, 
+though made in good faith, even to obtain a just, and here a mutually desired end, are not 
+acceptable.…  Nor are contradictory or confusing statements of the law adequate.”).     
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 23 of 33
+
+
+--- PAGE 24 ---
+
+18 
+Similarly, that Salame disclaimed during his plea colloquy that other promises were made 
+is “not conclusive.”  Trotter, 359 F.2d at 420 (quoting U.S. ex rel. McGrath v. LaVallee, 319 F.2d 
+308, 314 (2d Cir. 1963)); accord Oliver, 498 F.2d at 342 n.1.  As one appellate court noted in an 
+appeal from a post-conviction proceeding, “[w]hile [the defendant’s] responses to the questions 
+posed by … the district attorney during the colloquy appear to conclusively negate [the 
+defendant’s] allegations in his habeas petition, total reliance on the colloquy is misplaced ….  ‘The 
+possibility exists that an inherent part of the out -of-court understanding was that [the defendant] 
+would respond negatively to an open court inquiry as to whether promises had been made.’”  Zilich 
+v. Reid, 36 F.3d 317, 322 (3d Cir. 1994)  (quoting United States v. Valenciano, 495 F.2d 585, 587 
+(3d Cir. 1974)); accord Brown, 565 F.2d at 863 n.2; Hammerman , 528 F.2d at 331 (recognizing 
+“possibility that fear that a truthful response might jeopardize the [plea] bargain may well produce 
+an answer [at the plea allocution] that is false”).  As Salame intends to show if afforded a hearing 
+or discovery, that is what happened here. 
+3.  In light of the record showing that the Government made assurances to induce a plea 
+and then failed to follow through, Circuit precedent confirms that a hearing, or at least discovery, 
+is required.  Courts have held that several types of evidence may suffice to entitle a defendant to a 
+hearing regarding undisclosed assurances or commitments by the government that the defendant 
+alleges induced his or her guilty plea.  For  instance, “the prosecutor’s own remarks at the plea 
+allocution” may give rise to “f actual issues … as to whether [the defendant] was led to believe” 
+that there were other commitments or assurances undergirding his or her plea arrangement, Graves, 
+374 F.3d at 85, as may other concessions by prosecutors, Feldman, 939 F.3d at 188, 190; see also 
+Peavy v. United States, 31 F.3d 1341, 1345 (6th Cir. 1994); United States v. Raifsnider, 663 F.3d 
+1004, 1010 (8th Cir. 2011) ; Blackner, 721 F.2d at 708.  Likewise, in another case, the “parol 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 24 of 33
+
+
+--- PAGE 25 ---
+
+19 
+evidence c[ame] … from the district court’s own observation of the plea negotiations.…  [T]he 
+district court concluded that [the defendant’s] agreement to plead guilty was influenced by his 
+understanding that he would not be required to cooperate with the Government,” which “had an 
+obvious effect on [his] understanding of the terms of the signed plea agreement.”  Singleton, 1995 
+WL 66792, at *3.   
+But neither a government concession nor an on-the- record statement by the district court 
+is necessary to secure a hearing as to the existence of an undisclosed term or commitment of a plea 
+bargain.  For instance, the Fourth Circuit confirmed in a § 2255 proceeding that such a hearing 
+was warranted notwithstanding the plea agreement’s integration clause: 
+Although neither defense nor Government counsel has directly attested under oath 
+to the existence of an oral agreement (nor were they questioned about the agreement 
+during the Rule 11 hearing), both have made express representations in their court 
+submissions, acting as officers of the court, and those representations directly 
+contradict each other.  When, as here, the factual allegations “relate[] primarily to 
+purported occurrences outside the courtroom and upon which the record could, 
+therefore, cast no real light,” and where the ultimate resolution rests on a credibility 
+determination, an evidentiary hearing is especially warranted.  Accordingly, we 
+remand for an evidentiary hearing on the question of whether the Government did 
+make the alleged oral promi se that [the defendant’s] plea was conditional, 
+permitting him to appeal denial of the suppression motion. 
+ 
+White, 366 F.3d at 302 (quoting Machibroda v. United States , 368 U.S. 487, 494–95 (1962) ); 
+accord Gotti, 399 F. Supp. 2d at 258 (deciding “the question of whether the Government induced 
+[the defendant’s] guilty plea by means of an oral promise or representation not reflected in the 
+written agreement” only after “[the AUSA] and [the defendant’s counsel], who were the lead 
+negotiators as the parties neared a plea agreement, have each submitted affidavits concerning their 
+respective recollections of any oral promises or representations ….”).   
+Elsewhere, the Fifth Circuit held that, although at “the guilty plea hearing,” “the district 
+court questioned both defendants and their lawyers as to whether any promises in connection with 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 25 of 33
+
+
+--- PAGE 26 ---
+
+20 
+their pleas had been made and received negative replies,” “[a]n evidentiary hearing [wa]s required 
+to explore [the defendant’s] contention that his guilty plea resulted from an unkept plea bargain”: 
+“When [a] petitioner goes beyond mere allegations by pres enting credible affidavits that raise a 
+substantial inference that an unkept bargain was in fact made, § 2255 requires an evidentiary 
+hearing.”  Dugan, 521 F.2d at 232–33, 234, 233.
+4  The takeaway from this body of caselaw is that, 
+as one court put it, “[i]f the allegations … go[] beyond matters covered in the Rule 11 proceedings 
+or [a]re supported by credible affidavits that raised substantial inference that an unkept plea bargain 
+was in fact made, section 2255 … or dinarily require[s] a hearing.”  United States v. Williams, 536 
+F.2d 247, 250 (8th Cir. 1976). 
+Here, Salame has put forth enough to warrant a hearing, or at least discovery,  on whether 
+an oral assurance by the government regarding the campaign- finance investigation into  Bond 
+induced Salame’s guilty plea.  Per the Second Circuit, a coram nobis petitioner’s “allegations” 
+need only “cross [a] rather low threshold [to] entitl[e] him to an evidentiary hearing on his petition 
+….”  Keogh, 391 F.2d at 142.  Salame easily clears that threshold:  “[H]is petition alleges facts 
+which would support a claim of deprivation of constitutional right, and some material issue of fact 
+is in dispute.”  Shen, 2023 WL 4978104, at *5 (quoting Tribote , 297 F.2d at 600).  The swor n 
+affidavits that accompany the instant petition establish, at the very least, a “material issue of fact.”   
+Moreover, although this C ourt “is not ‘obliged to accept as facts mere conclusory 
+allegations,’” the Court “must, in deciding whether [petitioner] is entitled to a hearing, assume the 
+ 
+4 Similarly, the Third Circuit held that a habeas petitioner was entitled to an evidentiary hearing on whether the 
+prosecution had made undisclosed assurances to secure his guilty plea, even though he denied the existence of such 
+promises during the plea colloquy—since th at petitioner “offered specific testimony that, if true, would negate the 
+voluntariness of his plea and establish that he pled guilty only because of a belief he would receive probation in return 
+for waiving his right to trial.”  Zilich, 36 F.3d at 321; see also Brown, 565 F.2d at 863 n.2 (reaching same conclusion 
+because “[t]he specific allegations of the complaint” seeking post -conviction review, “viewed against the record 
+established at the … plea hearing are not so ‘palpably incredible’ as to warrant summary dismissal of the  petition on 
+the basis of the pleadings” (quoting Blackledge, 431 U.S. at 76)).   
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 26 of 33
+
+
+
+--- PAGE 27 ---
+
+21 
+facts alleged to be true.”  Shen , 2023 WL 4978104, at *5 (quoting Tribote , 297 F.2d at 601).  
+Salame’s allegations are more than sufficient in this respect.  According to the Supreme Court and 
+the Second Circuit, a defendant’ s post-conviction “allegations that [a] plea was induced by an 
+unkept promise [a]re not vague or conclusory where,” as here, “the motion ‘indicate[s] exactly 
+what the terms of the promise were; when, where, and by whom the promise had been made; and 
+the identity of one witness to its communication[.]’”  Gonzalez, 722 F.3d at 131 (emphasis omitted) 
+(quoting Blackledge, 431 U.S. at 76).  Indeed, such “assertions … warrant discovery or a hearing” 
+even in the face of contradictory “admissions made by the defendant at his plea hearing ….”  Id.    
+Alternatively, even if this Court concludes that a live hearing is not yet warranted, the Court 
+should at least take the “permissible intermediate step” of “requiring that the record be expanded 
+to include letters, documentary evidence, and, in an appropri ate case, even affidavits.”  Chang, 
+250 F.3d at 86 (quoting Raines v. United States, 423 F.2d 526, 529–30 (4th Cir. 1970)).  Indeed, in 
+a case holding that a coram nobis petitioner was not entitled to a live hearing, the Second Circuit 
+explained that the district court considering the petition at least “had the benefit of … [the 
+petitioner’s] moving affidavit, counter -affidavits filed by the government, and various exhibits 
+including copies of correspondence between [the petitioner’s] counsel and the government prior 
+to [his] change of plea.”  Carlino, 400 F.2d at 58; see also Wolfson, 558 F.2d at 65–66.  In this 
+case, some discovery would likely be required to obtain such documentary evidence. 
+For these reasons, Salame is entitled to a hearing, or at least to discovery, on his claim that 
+his plea was induced by the government’s unkept assurance that it would not pursue the campaign-
+finance charges against Bond.  “ [C]oncern for efficiency must not outweigh our concern for 
+individual rights,” and thus a court should not “refuse a hearing” simply because the court thinks 
+it “improbable that a [petitioner] can prove his claims.”  Tribote, 297 F.2d at 603–04.   
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 27 of 33
+
+
+--- PAGE 28 ---
+
+22 
+IV. Alternatively, the Government’s Conditioning of its Decision on Whether to Prosecute 
+Bond on Salame’s Acceptance of the Plea Arrangement was Improper. 
+Alternatively, the Government acted improperly by making the assurance in the first place.  
+As the Second Circuit confirms, a  guilty plea” also “may be invalidated if it is ‘induced by … 
+promises that are by their nature improper.’”  Nelson , 277 F.3d at 207 (quoting Brady v. United 
+States, 397 U.S. 742, 755 (1970)).  In this case, even if the Government’s suggestion that it would 
+not prosecute Bond was not an aspect of Salame’s plea bargain, that implied commitment was 
+improper by nature and is grounds for him to withdraw the plea.  Indeed, when viewed through 
+the lens of the distinct power imbalance between a prosecutor and the subject of an investigation, 
+such inducements are particularly inappropriate. 
+1.  The Supreme Court has long been skeptical of a prosecutor using his or her position to 
+make assurances about third parties to induce pleas.  In fact, the Supreme Court flagged this issue 
+almost 50 years ago, noting that “a prosecutor’s offer during plea bargaining of adverse or lenient 
+treatment for some person other  than the accused  … might pose a greater danger of inducing a 
+false guilty plea by skewing the assessment of the risks a defendant must consider.”  
+Bordenkircher, 434 U.S. at 364 n.8.  That is no doubt why the “general consensus” among federal 
+courts of appeals is “that guilty pleas made in consideration of lenient treatment as against third 
+persons pose a greater danger of  coercion than purely bilateral plea bargaining, and that, 
+accordingly, ‘special care must be taken to ascertain the voluntariness of’ guilty pleas entered in 
+such circumstances.”  United States v. Nuckols, 606 F.2d 566, 569 (5th Cir. 1979) (emphasis added) 
+(quoting United States v. Tursi , 576 F.2d 396, 398 (1st Cir. 1978)).  “A plea negotiation that 
+includes a benefit to a third person can place pressure on a defendant in two respects.  The 
+defendant feels the weight of his own concern to have the benefit conferred and also endures the 
+entreaty of the third person who is anxious to receive the benefit.”  United States v. Marquez, 909 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 28 of 33
+
+
+--- PAGE 29 ---
+
+23 
+F.2d 738, 742 (2d Cir. 1990).  Understanding this power imbalance, the Fourt Circuit highlights 
+that “prosecutors [must] exercise a high standard of good faith in negotiating such pleas ,” and 
+“courts accepting such pleas [must] examine them carefully to insure that the accused understands 
+the plea agreement and the consequences not only to himself, but to such third persons as may be 
+affected ….”  Harman v. Mohn, 683 F.2d 834, 838 (4th Cir. 1982).   
+Nevertheless, the Second Circuit has not proscribed such bargains across the board but has 
+instead held that “[t]he inclusion of a third-party benefit in a plea bargain is simply one factor for 
+a district court to weigh in making the overall determination whether the plea is voluntarily 
+entered.”  Marquez, 909 F.2d at 742.  In evaluating a such condition, several criteria are relevant.   
+First, “[w]here the plea is entered after the prosecutor threatens prosecution of a third party, 
+courts have afforded the defendant an opportunity to show that probable cause for the prosecution 
+was lacking when the threat was made.”  Id.  Indeed, “a defendant may successfully challenge the 
+voluntariness of his plea by showing that probable cause to prosecute the third party did not exist 
+at the time the defendant pleaded guilty, even if the Government had probable cause to prosecute 
+at an earlier time.”  United States v. Seng Chen Yong, 926 F.3d 582, 592 (9th Cir. 2019).  For 
+example, in a case where, “[a]t the [post -conviction] evidentiary hearing, [a defendant] offered 
+evidence plausibly showing that the prosecution never had the requisite probable cause” to charge 
+the third party and “the government merely averred that the prosecution had acted in good faith,” 
+the Tenth Circuit held that a remand was necessary, explaining that “there [wa]s no evidence from 
+which to conclude that the prosecution had probable cause to indict those persons it  allegedly 
+threatened to indict.”  United States v. Wright, 43 F.3d 491, 499 (10th Cir. 1994); see also United 
+States v. Daniels, 821 F.2d 76, 80–81 (1st Cir. 1987)  (similar); United States v. Abbott, 241 F.3d 
+29, 35–37 (1st Cir. 2001) (similar); United States v. Whalen, 976 F.2d 1346, 1349 (10th Cir. 1992) 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 29 of 33
+
+
+--- PAGE 30 ---
+
+24 
+(similar); Crow v. United States, 397 F.2d 284, 285 (10th Cir. 1968)  (“Relief is sought … on the 
+grounds that officers threatened the prosecution of another person unless appellant pleaded guilty 
+.…  A hearing must be held to determine the issue of voluntariness unless the files and records of 
+the case show conclusively that the plea was knowingly and voluntarily entered.”). 
+Conversely, the Second Circuit held in another case that a plea condition that threatened a 
+third party (the defendant’s wife) was permissible, but only after the Second Circuit noted that the 
+court in which the defendant was convicted had already “conducted a thorough Rule 11 
+allocution.”  Marquez, 909 F.2d at 742–43.  In that case, the Second Circuit noted that “ the facts 
+concerning the involvement of defendant’s wife in the criminal activity and the extent of her 
+benefit were fully aired before the District Court when she and her husband entered their pleas at 
+the same hearing.  Both were ably represented by separate counsel.”  Id.  Of course, there has been 
+no such “air[ing]” of the facts here.  Similarly, a court in this district held that a plea secured by a 
+threat to prosecute a defendant’s daughter was valid because it fulfilled certain criteria:  
+Both the [defendant] and her daughter had already been arrested and indicted by 
+the time the government began its plea negotiations with the petitioner.  [Her 
+daughter] was indicted for eight separate felony offenses.  [The defendant] does not 
+even challenge the underlying prosecution of her daughter as not being in good 
+faith.  She merely asserts that by making her daughter’s plea contingent upon her 
+guilty plea, the government forced her to make an involuntary plea.  All of the 
+details of the plea were fr eely discussed in open court.  [The daughter’s] attorney 
+made a statement representing his own agreement with the terms of the plea bargain 
+negotiated between petitioner and the district attorney.  The court was fully aware 
+of the circumstances of the plea and repeatedly sought to ascertain [the defendant’s] 
+state of mind as to her decision to accept its conditions. 
+ 
+Allyn v. Comm’r of Corr. Servs., 708 F. Supp. 592, 594 (S.D.N.Y . 1989).  Again, there has been no 
+similar investigation into the Government’s assurances here.   
+ 2.  This authority confirms that, at a minimum, the Court should conduct a hearing or permit 
+Salame to engage in discovery to afford him an opportunity to show that, judged according to the 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 30 of 33
+
+
+--- PAGE 31 ---
+
+25 
+foregoing guidelines for third-party-related conditions in plea bargains, the Government’s implied 
+condition regarding the campaign-finance charges against Bond was improper.   
+First, there was no mention during Salame’s plea allocution of the government’s intention 
+not to pursue campaign- finance charges against Bond if Salame  accepted the plea arrangement.  
+See generally Dkt. No. 283.  Thus, it cannot be said that “the facts concerning the involvement,” 
+if any, “of [Bond] in the criminal activity” to which Salame pleaded guilty “and the extent of her 
+benefit were fully aired before the District Court,” which is a relevant consideration in determining 
+whether a third-party-related plea condition is permissible.  See Marquez, 909 F.2d at 742–43; cf. 
+Harman, 683 F.2d at 838 (“[C]ourts accepting such pleas [must] examine them carefully to insure 
+that the accused understands ….”); Allyn , 708 F. Supp. at 594 (“All of the details of the plea were 
+freely discussed in open court.”); Crow, 397 F.2d at 285–86; Abbott, 241 F.3d at 35–37.  Another 
+consideration underscoring the impropriety of the government’s third-party condition in this case 
+is that Bond was not involved in the  conduct to which Salame pleaded guilty.  Salame pleaded 
+guilty to campaign-finance- related charges, but those charges differ substantially from the 
+violations of which Bond is accused.  See Salame Decl. ¶ 5; Nuckols, 606 F.2d at 570 (holding that 
+fact-finding hearing was necessary as to propriety of plea arrangement because “[t]here is no 
+evidence indicating that appellant’s wife was an accomplice to appellant’s criminal conduct, or 
+implicated in any other that would have justified her prosecution”); cf. Marquez, 909 F.2d at 742–
+43 (“[T]he facts concerning the involvement of defendant ’s wife in the criminal activity and the 
+extent of her benefit were fully aired before the District Court ….”).  Furthermore, unlike situations 
+in which courts have approved third-party-connected conditions in plea arrangements, Salame and 
+Bond had the same counsel at the time Salame entered his plea.  See Salame Decl. ¶ 7; cf. Marquez, 
+909 F.2d at 743 (“Both [the defendant and the third party] were ably represented by separate 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 31 of 33
+
+
+--- PAGE 32 ---
+
+26 
+counsel.”); Harman, 683 F.2d at 837–38 (“[The defendant] was represented by separate counsel, 
+so there can be no claim that an attorney sacrificed one client to free another.”); United States v. 
+Usher, 703 F.2d 956, 958 (6th Cir. 1983).   
+In sum, because the Government “threatened the prosecution of another person”—Bond—
+“unless [Salame] pleaded guilty,” and because the “records of the case” do not “show conclusively 
+that the plea was knowingly and voluntarily entered” according to the criteria of voluntariness 
+discussed above, “[a] hearing must be held,” or at least discovery must be allowed, “to determine 
+the issue of voluntariness.”  See Crow, 397 F.2d at 285. 
+PRAYER FOR RELIEF 
+WHEREFORE, Salame prays this court grant the following relief: 
+(i) An order dismissing with prejudice any indictment of Michelle Bond for the 
+campaign-finance offenses the investigation of which was supposed be 
+concluded by Salame’s guilty plea in this case; 
+(ii) Alternatively, if the foregoing relief is not granted, an order vacating and 
+setting aside the judgment of conviction entered against Salame on May 28, 
+2024; 
+(iii) An order scheduling a fact-finding hearing on the allegations in the instant  
+petition; or 
+(iv) An order permitting the parties to take discovery on the allegations in the 
+instant petition; and 
+(v) Any other and further relief as this Court may deem just and proper. 
+  
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 32 of 33
+
+
+--- PAGE 33 ---
+
+27 
+August 21, 2024             Respectfully submitted,  
+ 
+/s/ H. Christopher Bartolomucci 
+ H. Christopher Bartolomucci* 
+  (D.C. Bar No.453423) 
+ Brian J. Field*  
+   (D.C. Bar No. 985577) 
+ SCHAERR | JAFFE LLP 
+ 1717 K Street NW, Suite 900 
+ Washington, DC 20006 
+ Telephone: (202) 787-1060 
+ Facsimile: (202) 776-0136 
+ Email: cbartolomucci@schaerr-jaffe.com 
+ Email: bfield@schaerr-jaffe.com 
+ 
+ *Pro hac vice motion submitted 
+ 
+Counsel for Ryan Salame 
+ 
+Case 1:22-cr-00673-LAK     Document 470     Filed 08/21/24     Page 33 of 33

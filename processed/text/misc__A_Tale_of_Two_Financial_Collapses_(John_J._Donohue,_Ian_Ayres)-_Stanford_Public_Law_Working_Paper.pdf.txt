@@ -1,0 +1,262 @@
+
+
+--- PAGE 1 ---
+
+1 
+ 
+ 
+A Tale of Two Financial Collapses 
+October 11, 2025 
+ 
+Abstract 
+The contours of the financial collapse of Silicon Valley Bank and FTX are similar:  
+management oversights and a failure to hedge against sudden price moves led to a typical run-
+on-the bank phenomenon. The Bank collapse cost the FDIC $20 billion, while the FTX collapse 
+imposed no socialized losses, with all qualified claims paid with interest from FTX assets. 
+Despite the greater social harm, no criminal prosecution was launched against Silicon Valley 
+Bank. Yet with unprecedented speed, the government secured a 25-year sentence on Sam 
+Bankman-Fried, while evidence of the FTX terms of service permitting his actions was kept 
+from the jury. 
+ 
+In what one commentator has called one of “the most successful bankruptc[ies] in American 
+history,”1 FTX announced this year that all qualified FTX customer claims would be repaid in 
+full with 18 percent interest, even after paying the lawyers and other professionals who have 
+overseen the bankruptcy more than a $1 billion in fees. 
+ 
+We were not surprised by this.  As we wrote a year and a half ago, the Debtors' own analysis 
+showed that even at its lowest point during the run on the exchange in the fall of 2022, FTX had 
+sufficient assets to cover its customer deposits.2 What it lacked was sufficient liquid assets to 
+do so on the spot, after a two-day run on the exchange used up all $5 billion of cash and cash 
+equivalents on hand. By the time of Bankman-Fried's trial in the fall of 2023, the FTX estate had 
+a positive net asset value in the billions of dollars, thanks to the rebound in the overall crypto 
+market and the spectacular performance of some of the investments Bankman-Fried had 
+made. The judge in Bankman-Fried's case, while allowing the government to assert repeatedly 
+throughout the trial that there was an $8 billion hole in FTX and customers would never be 
+repaid, ruled that the defense was not permitted to introduce evidence to refute that claim. That 
+ 
+1 Kevin O'Leary on Money Rehab, September 15, 2025, 
+https://open.spotify.com/episode/5fbtvEboTaGZHPqHvkL1jw?si=4f9bc616015f435b&nd=1&dlsi=12a1dd23ab134a
+c5.  
+2 Ian Ayres & John Donohue, “FTX Was Never Really Bankrupt,” Project Syndicate, January 26, 2024, 
+https://www.project-syndicate.org/commentary/ftx-never-really-bankrupt-can-make-creditors-and-customers-whole-
+by-ian-ayres-and-john-donohue-2024-01?barrier=accesspaylog. We noted in that piece that we are colleagues and 
+friends of the parents of FTX founder Sam Bankman-Fried. 
+ 
+ 
+
+
+
+--- PAGE 2 ---
+
+2 
+ 
+ruling is one of the many that the defense has challenged in its appeal of the conviction, which 
+will be argued before the Second Circuit Court of Appeals on November 4th. 
+The unusual spectacle of a supposedly bankrupt company repaying 100 cents on the dollar with 
+interest highlights the government’s extraordinarily punitive response to the collapse of FTX, 
+compared to a host of other recent corporate failures in the financial sector. Consider by way of 
+contrast the collapse of Silicon Valley Bank (SVB) in March 2023, five months after FTX 
+imploded. Both failures followed similar patterns—rapid growth, concentrated customer bases, 
+asset-liability mismatches, and devastating “bank runs” triggered by public loss of confidence.  
+Yet the legal and financial consequences could not have been more different.  SVB's collapse 
+required an extraordinary government bailout that socialized losses of roughly $20 billion, while 
+no executives faced criminal charges. Meanwhile, FTX's collapse—in which customer claims in 
+bankruptcy are being repaid with interest from the company's own assets—led to the prosecution 
+and 25-year imprisonment of Sam Bankman-Fried. This stark disparity in treatment reveals 
+troubling questions about prosecutorial priorities, the rush to judgment in high-profile cases, and 
+whether a substantial injustice has been committed. 
+The Parallel Structure of Two Collapses 
+The fundamental mechanics underlying both failures were remarkably similar. SVB experienced 
+explosive growth during the pandemic, with deposits tripling from 2020 to 2022, while serving a 
+highly concentrated customer base of technology startups and venture capital firms. The bank 
+invested the balance of customer funds in long-term government securities and mortgage-backed 
+securities. Both forms of investment created a classic duration mismatch—short-term liabilities 
+to customers backed by long-term assets vulnerable to fluctuating valuations due to interest rate 
+changes and defaults.  
+FTX's collapse followed an analogous pattern. The exchange grew rapidly from launch in 2019 
+to become the world's second-largest cryptocurrency platform by 2021, with a $40 billion market 
+valuation for the International and US exchanges combined.3 Like SVB's concentrated 
+investments in tech startups, FTX had concentrated exposure through its relationship with 
+Alameda Research, the trading firm that served multiple roles for the exchange including market 
+maker and payment processor.4 When crypto markets crashed in 2022, Alameda's asset values 
+fell approximately 70-80%,5 creating liquidity pressures similar to SVB's underwater securities 
+portfolio. 
+Both institutions faced the same grim sequence: asset devaluation, followed by public 
+expressions of concern that triggered massive withdrawal demands, culminating in liquidity 
+crises that forced a suspension of withdrawals. SVB's attempt to raise capital by announcing a 
+ 
+3 FTX $32 billion, FTX US $8 billion (https://www.cnbc.com/2022/01/31/crypto-exchange-ftx-valued-at-32-billion-
+amid-bitcoin-price-plunge.html). 
+4 “FTX didn't have its own bank accounts, so it used Alameda bank accounts” (Wang’s testimony, trial transcript, p. 
+456). The bank knew that Alameda acted as a payment processor for FTX 
+(https://x.com/rsalame7926/status/1812109005868933198), as did many customers 
+(https://x.com/SiegeRhino2/status/1593124406121082880). 
+5 Bankman-Fried says 80% (https://sambf.substack.com/p/ftx-pre-mortem-overview). 
+
+
+
+--- PAGE 3 ---
+
+3 
+ 
+$1.8 billion loss on the sale of securities spooked depositors, leading to $42 billion in withdrawal 
+requests in a single day. Similarly, a tweet from Binance CEO Changpeng Zhao questioning 
+FTX's financial stability triggered $5 billion in withdrawals over a two-day period, exhausting 
+the exchange's liquid assets on hand. 
+The parallels extend to risk management failures. SVB's leadership failed to hedge against 
+interest rate risk despite clear warnings, investing heavily in long-term U.S. treasuries and 
+mortgage-backed securities that lost value when the Federal Reserve hiked interest rates in 2022 
+to combat inflation. FTX leadership similarly failed to hedge against a drop in crypto prices6 and 
+to appreciate the growing debt in what is referred to as the "fiat@" account—a payment 
+processing arrangement that had passively accumulated an $8 billion liability as customer 
+deposits outpaced withdrawals.7 These may constitute negligence worthy of civil liability or 
+regulatory sanctions, but the criminal law requires proof of intent to defraud.  
+The analogy to banks may at first glance seem misplaced. Banks’ central business model is to 
+reloan customer deposits to other customers at a profit. Typical brokerages are different.   
+Vanguard or Fidelity can’t take the money you thought you had invested in an index fund and 
+lend it to another customer. But exchanges that allow customers to trade on margin, as FTX did, 
+are different. The whole purpose of a margin exchange is to permit customers to finance a 
+portion of their purchases on the exchange with assets borrowed from other customers. FTX’s 
+terms of service authorized such loans with regard to its margin account customers who opted for 
+FTX margin accounts. A substantial majority of the funds deposited on FTX came from 
+customers who opted into the margin trading program. To do so, they had to agree to Section 
+16.4 of the terms of service, which governed margin traders. The provision clearly stated that 
+Under certain market conditions, it may become difficult or impossible to liquidate a position 
+[and] there is no assurance or guarantee that any such program activities will be sufficient or 
+effective in liquidating your position. As a result, you may lose all of your Assets or incur a 
+negative balance in your Account. In addition, even if you have not suffered any liquidations or 
+losses, your Account balance may be subject to clawback due to losses suffered by other Users.”8 
+ 
+6 “Another topic in the Google Doc was ‘hedging’ as a top priority. That referred to whether Alameda should go 
+further in hedging its positions, such as selling crypto and buying Nasdaq futures. Ellison said she was skeptical and 
+didn’t do anything about it.” (https://www.cnbc.com/2023/10/12/caroline-ellison-cross-examination-in-bankman-
+fried-fraud-trial-.html). “Sam mentioned the possibility of——of selling short some S&P 500 futures, and then a 
+few days after that, the price of a bunch of cryptocurrencies fell, and then after that, Sam sent a bunch more 
+messages being angry at Alameda for not doing——for not doing that.” (Wang’s testimony, trial transcript, p. 562, 
+https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.358.0.pdf). 
+7 “Q. Now, in the months following June 2022, there was a project to get a clearer picture of what Alameda's net 
+asset value was, right? A. Yes. Q. And that included getting a clearer picture of the fiat@ liability that was owed by 
+Alameda? A. Yes. Q. And I think by November of 2022, after that project had been completed, I think you estimated 
+the fiat@ liability was roughly negative 8 billion. A. In November, yes . . . Q. All right. But that would include 
+getting a better accounting for the fiat deposits and withdrawals on the Alameda bank accounts, right? A. Well, by 
+2022——by 2022, we were no longer using——FTX was no longer using Alameda bank accounts. Q. Right. It had 
+its own bank accounts by that point, right? A. Yes. Q. But you had the issue with the fiat@ liability still existing, 
+right? A. Yes.” (Wang’s testimony, trial transcript, pp. 527-555, 
+https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.358.0.pdf). 
+8 https://www.dropbox.com/scl/fi/jg5cq53yaf9b86h4h80nh/FTX-Terms-of-
+Service.pdf?rlkey=bdu464oxicubdr4d6r52vynpu&dl=0 
+
+
+
+--- PAGE 4 ---
+
+4 
+ 
+The terms of service were expressly governed by English law. But the judge refused to admit 
+expert testimony about what was permissible under FTX's terms of service. A defendant's expert, 
+Lawrence Akka, was prepared to testify that under UK law, the loans to Alameda—and the uses 
+that Alameda made of the funds—were permissible. To quote Akka: “FTX was obliged to 
+honour customer withdrawals (i.e. to repay the debt of fiat currency that it owed), but was not 
+constrained to use fiat currency for any particular purpose in the interim.”9 This doesn’t rule out 
+the possibility that FTX breached its civil duty to its margin customers by allowing for excessive 
+lending to Alameda—albeit now satisfied by the full payments in bankruptcy—but it does refute 
+the idea that any borrowing of customer funds was blatant theft under criminal law. 
+The Vastly Different Financial Outcomes 
+Despite these structural similarities, there were two huge differences between the two failures.  
+Financially, SVB was not only unable to meet immediate demands for liquidity.  It was also 
+insolvent, meaning its liabilities exceeded its assets. As a result, SVB's collapse threatened 
+systemic financial stability and required an unprecedented government intervention. The FDIC's 
+decision to guarantee all deposits including those above the $250,000 insurance limit cost the 
+Federal Deposit Insurance Fund approximately $20 billion.  
+In stark contrast, a financial analysis done at the request of the Debtors after the FTX exchange's 
+closure confirmed that at the height of the crisis and the temporary low point of asset value, the 
+exchange remained solvent, with a positive net asset value.10 The subsequent recovery in 
+cryptocurrency markets along with Bankman-Fried’s prescient venture investments in many of 
+the most successful startups of the past five years11 left the Debtor Estate with enough funds to 
+reimburse customers’ petition-date claims in full with 18% interest, with billions left over.12  
+Criminal Charges: The Disparity in Treatment 
+While the financial harm of the SVB collapse was far greater, the government, viewing the SVB 
+case as a classic example of a loss triggered by bad luck and bad judgment, declined to bring 
+criminal charges against any SVB executives.  
+In contrast, federal prosecutors moved with extraordinary speed to indict Bankman-Fried and his 
+associates.  For federal white-collar criminal cases in 2022, the average time it took the 
+ 
+9 Expert Notice of Lawrence Akka, August 16, 2023, 
+https://storage.courtlistener.com/recap/gov.uscourts.nysd.590939/gov.uscourts.nysd.590939.236.1.pdf. 
+10 At petition-date prices: ~$14.5B of assets, 
+https://storage.courtlistener.com/recap/gov.uscourts.deb.188450/gov.uscourts.deb.188450.507.1.pdf, $9.2B of 
+customer liabilities, 
+https://storage.courtlistener.com/recap/gov.uscourts.deb.188450/gov.uscourts.deb.188450.15521.0.pdf. Steven 
+Church, “FTX has billions more than needed to repay bankruptcy victims,” May 7, 2024. 
+https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-
+victims. 
+11 https://x.com/HarryStebbings/status/1923151410964623754. 
+12 https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-
+victims. 
+
+
+
+--- PAGE 5 ---
+
+5 
+ 
+government from opening an investigation to seeking an indictment was 452 days.13 In 
+Bankman-Fried’s case, it took 33 days.14 A day after withdrawals were halted on the FTX 
+exchange, the government launched a criminal investigation of the co-founders.15 Within the 
+week,16 prosecutors were in negotiations with Bankman-Fried’s three co-founders to get them to 
+testify against Bankman-Fried in return for vastly reduced sentences, indicating that they had 
+already fixed on Bankman-Fried as their real target. Three weeks later, they had secured 
+cooperation agreements with two17 of the three co-founders and an indictment of Bankman-Fried 
+and had him arrested and imprisoned in the Bahamas. This “prosecutorial equivalent of breaking 
+the sound barrier”18 suggests the government knew the outcome it wanted from the start and was 
+determined to foreclose any public doubts or discussion before they began. No doubt cognizant 
+of the risk the jury would react badly to their unseemly rush to judgment, the government moved 
+preemptively to bar the defense from introducing evidence at trial concerning “the reasons for or 
+timing of the defendant’s prosecution and extradition” on the ground that it would serve only to 
+“distract the jury from evidence of the defendant’s guilt or to encourage jury nullification.”19 
+While the SVB executives had made catastrophically poor risk-management decisions, the 
+government gave them the benefit of an assumption that they had not acted with criminal intent.  
+Given the speed at which the government moved against Bankman-Fried, it is clear that they did 
+not afford him the benefit of any doubt. This is particularly striking, given Bankman-Fried’s very 
+public commitment to “earning to give”—amassing wealth specifically for philanthropic 
+purposes. His fellow co-founders had similarly altruistic motivations. Instead of asking 
+themselves why someone committed to giving away his wealth would deliberately steal from 
+customers, the prosecution successfully moved to exclude evidence of Bankman-Fried's 
+philanthropic commitments from the trial.20  
+The defense cannot raise the government’s targeting of Bankman-Fried in their appeal.  But the 
+facts are out there, and worth serious consideration. Prosecutors in this country have more power 
+over our lives than any other government actors, and almost unbridled discretion in selecting 
+whom to go after and what crimes to charge them with. As Justice (then Attorney General) 
+ 
+13 https://web.archive.org/web/20230121090733/https://trac.syr.edu/reports/708/. 
+14 The indictment was made public on December 12th simultaneous with Bankman-Fried’s arrest, but the 
+government had to have gone to the grand jury to obtain it at least a couple of days earlier.  Similarly, while 
+Ellison’s and Wang’s allocutions were not made public until December 15th, the government would not have gone to 
+the grand jury without being confident they had an agreement, since their pleas and allegations against Bankman-
+Fried were the only “evidence” of a crime the government had at the time. 
+15 Withdrawals were halted on November 8 and the government began their investigation on November 9 
+https://review.law.stanford.edu/wp-content/uploads/sites/3/2025/02/Lipson-Skeel-77-Stan.-L.-Rev.-369.pdf 
+16 See Wang’s testimony (Tr. 471): “Q. How many days passed between FTX's bankruptcy and when you came in 
+and met with the government? A. Six days.” 
+17 https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2022/12/21/1671676065196-
+Caroline_Ellison_Plea_Agreement.pdf, 
+https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/2022/12/21/1671676058536-
+Gary_Wang_Plea_Agreement.pdf. 
+18 Ankush Khardori, The Indictment of SBF is a Bombshell: Federal Prosecutors Broke New Ground with This 
+Shockingly Fast Arrest, New York (Dec. 13, 2022). 
+19 ECF No. 204, p. 36.  Judge Kaplan granted the motion. EFC No. 289, pp. 10-11. 
+20 Trial transcript, p. 955.  See, Barbara Fried, “The Trial of Sam Bankman-Fried,” 
+https://barbarafried1110.substack.com/p/the-trial-of-sam-bankman-fried. 
+
+
+
+--- PAGE 6 ---
+
+6 
+ 
+Robert Jackson remarked almost a century ago, “It is in this realm, in which the prosecutor picks 
+some person whom he dislikes or desires to embarrass, or selects some group of unpopular 
+persons and then looks for an offense, that the greatest danger of abuse of prosecuting power 
+lies.”21 
+ 
+21 https://www.justice.gov/sites/default/files/ag/legacy/2011/09/16/04-01-1940.pdf. 

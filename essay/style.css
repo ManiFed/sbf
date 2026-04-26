@@ -15,6 +15,9 @@
   --dark-text:   #f0ede8;
   --card-bg:     #ffffff;
   --focus-ring:  #0b57d0;
+  --scrolly-sticky-top: 8vh;
+  --scrolly-steps-pad-top: 6vh;
+  --scrolly-steps-pad-bottom: 16vh;
   --toc-w:       240px;
   --content-max: 720px;
   --serif:       Georgia, 'Times New Roman', serif;
@@ -1174,7 +1177,7 @@ body.toc-open { overflow: hidden; }
    ESSAY SECTIONS
 ═══════════════════════════════════ */
 .essay-section {
-  padding: 3rem 2rem 3.5rem;
+  padding: 1.8rem 2rem 2.4rem;
   max-width: calc(var(--content-max) + 4rem);
   margin: 0 auto;
 }
@@ -1291,7 +1294,7 @@ body.toc-open { overflow: hidden; }
   transform: translateY(-2px);
 }
 
-.subsection { margin-top: 3.5rem; }
+.subsection { margin-top: 1.4rem; }
 
 .subsection h3 {
   font-size: 1.18rem;
@@ -1303,7 +1306,7 @@ body.toc-open { overflow: hidden; }
 .subsection--nested {
   padding-left: 1.5rem;
   border-left: 2px solid var(--border);
-  margin-top: 2.25rem;
+  margin-top: 0.9rem;
 }
 
 .subsection--nested h4 {
@@ -2498,7 +2501,7 @@ p:last-child { margin-bottom: 0; }
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   position: relative;
-  margin: 3rem 0;
+  margin: 1.2rem 0;
 }
 
 .s9b-sticky {
@@ -2764,7 +2767,7 @@ p:last-child { margin-bottom: 0; }
 
   .section-title { font-size: 1.55rem; margin-bottom: 1.5rem; }
   .subsection h3 { font-size: 1.03rem; margin-bottom: 0.9rem; }
-  .subsection--nested { margin-top: 1.6rem; padding-left: 0.75rem; }
+  .subsection--nested { margin-top: 0.64rem; padding-left: 0.75rem; }
   .casefile-toggle { grid-template-columns: 1fr auto; gap: 0.6rem; padding: 0.9rem 0.9rem 0.7rem; }
   .casefile-tab    { grid-column: 1 / -1; width: fit-content; }
   .casefile-charge { font-size: 0.87rem; }
@@ -2789,7 +2792,7 @@ p:last-child { margin-bottom: 0; }
   .scrolly-crypto,
   .scrolly-deal,
   .scrolly-repay,
-  .scrolly-sentence { gap: 1.15rem; margin: 1.5rem 0; }
+  .scrolly-sentence { gap: 1.15rem; margin: 0.8rem 0; }
   .recap-card {
     margin: 0.5rem auto 1.25rem;
     padding: 1rem 0.95rem 0.95rem;
@@ -2885,7 +2888,7 @@ p:last-child { margin-bottom: 0; }
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   position: relative;
-  margin: 3rem 0;
+  margin: 1.2rem 0;
 }
 
 .scrolly-layout--split-reverse {

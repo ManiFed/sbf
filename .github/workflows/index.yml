@@ -6,8 +6,13 @@ on:
       - "legal/**"
       - "media/**"
       - "misc/**"
-      - "scripts/index_files.py"
+      - "scripts/**"
+      - "requirements.txt"
   workflow_dispatch:
+
+concurrency:
+  group: source-index
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -36,5 +41,5 @@ jobs:
       - name: Commit updated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-         commit_message: "Update index + extracted text"
-         file_pattern: source_index.csv processed/text/**
+          commit_message: "Update index + extracted text"
+          file_pattern: source_index.csv processed/text/**

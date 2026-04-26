@@ -78,6 +78,35 @@ function createScrollyStepObserver(container, steps, applyStep) {
   return sync;
 }
 
+function initScrollyBottomAlign(container, stickySelector, stepsSelector) {
+  const sticky = container?.querySelector(stickySelector);
+  const stepsWrap = container?.querySelector(stepsSelector);
+  if (!sticky || !stepsWrap) return;
+
+  const sync = throttleWithRaf(() => {
+    const stickyStyle = getComputedStyle(sticky);
+    if (stickyStyle.position !== 'sticky') {
+      stepsWrap.style.paddingBottom = '0px';
+      return;
+    }
+    const stickyTop = parseFloat(stickyStyle.top || '0') || 0;
+    const stickyHeight = sticky.getBoundingClientRect().height;
+    const bottomPad = Math.max(window.innerHeight - stickyTop - stickyHeight, 0);
+    stepsWrap.style.paddingBottom = `${Math.round(bottomPad)}px`;
+  });
+
+  sync();
+  requestAnimationFrame(sync);
+  window.addEventListener('resize', sync, { passive: true });
+  window.addEventListener('load', sync, { passive: true, once: true });
+
+  if ('ResizeObserver' in window) {
+    const ro = new ResizeObserver(sync);
+    ro.observe(sticky);
+    ro.observe(stepsWrap);
+  }
+}
+
 // ── Hero particle canvas ──
 (function () {
   const canvas = document.getElementById('hero-canvas');
@@ -928,6 +957,7 @@ lazyInit('#collapse-pipeline', (container) => {
 
   window.addEventListener('scroll', syncWithinSection, { passive: true });
   window.addEventListener('resize', syncWithinSection, { passive: true });
+  initScrollyBottomAlign(container, '.cp-sticky', '.cp-steps');
   applyStep(0);
   syncWithinSection();
 });
@@ -1001,6 +1031,7 @@ lazyInit('.scrolly-9b', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.s9b-sticky', '.s9b-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 
@@ -1051,6 +1082,7 @@ lazyInit('#bank-run-scrolly', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.sbr-sticky', '.sbr-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 
@@ -1093,6 +1125,7 @@ lazyInit('#crypto-scrolly', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.sca-sticky', '.sca-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 
@@ -1123,6 +1156,7 @@ lazyInit('#deal-scrolly', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.sdl-sticky', '.sdl-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 
@@ -1167,6 +1201,7 @@ lazyInit('#repayment-scrolly', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.srp-sticky', '.srp-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 
@@ -1202,6 +1237,7 @@ lazyInit('#sentence-scrolly', (container) => {
   }
 
   applyStep(0);
+  initScrollyBottomAlign(container, '.sst-sticky', '.sst-steps');
   createScrollyStepObserver(container, steps, applyStep);
 });
 

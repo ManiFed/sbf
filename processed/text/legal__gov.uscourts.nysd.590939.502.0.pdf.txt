@@ -1,0 +1,663 @@
+
+
+--- PAGE 1 ---
+
+1 
+ 
+ 
+ 
+ 
+ 
+             
+       September 17, 2024 
+ 
+BY ECF   
+         
+Honorable Lewis A. Kaplan 
+United States District Judge  
+Daniel Patrick Moynihan  
+United States Courthouse  
+500 Pearl Street 
+New York, NY 10007-1312 
+ 
+Re:  United States v. Caroline Ellison, 22 Cr. 673 (LAK) 
+ 
+Dear Judge Kaplan:  
+ 
+The Government writes in advance of defendant Caroline Ellison’s sentencing scheduled 
+for September 24, 2024, at 3:00 p.m., to advise the Court of her extraordinary cooperation that was 
+crucial to the Government’s successful prosecution of Samuel Bankman- Fried for one of the 
+largest financial frauds in history.  This letter describes Ellison’s substantial assistance in the 
+investigation of wrongdoing at Alameda Research and FTX, and the trial of Bankman-Fried.  
+ 
+As detailed below, Ellison’s testimony was a cornerston e of the trial against Bankman -
+Fried.  As Alameda’s nominal CEO and Bankman-Fried’s former girlfriend, Ellison was uniquely 
+positioned to explain not only the what and how of Bankman- Fried’s crimes, but also the why .  
+Her credible and compelling testimony was notably consistent with her statements to the 
+Government beginning before she was ever criminally charged, and with statements she made 
+during FTX’s collapse before she became aware of the Government’s investigation.  Throughout, 
+she was forthcoming about her own grave misconduct and the role she played in furthering 
+Bankman-Fried’s scheme and its concealment.  In her many meetings with the Government, 
+Ellison approached her cooperation with remarkable candor, remorse, and seriousness.  She 
+dedicated herself to extensive document review that helped identify key corroborating documents 
+in an investigation hamstrung by Bankman-Fried’s systematic destruction of evidence.  And she 
+persevered despite hars h media  and public  scrutiny and Bankman- Fried’s efforts to publicly 
+weaponize her personal writings to discredit and intimidate her.   
+ 
+In light of these facts, and assuming that Ellison continues to comply with the terms of her 
+cooperation agreement, commits no additional crimes before sentencing, and appears for her  
+sentencing as scheduled, the Government intends to move at sentencing, pursuant to Section 5K1.1 
+ 
+ 
+ 
+The Jacob K. Javits Federal Building 
+26 Federal Plaza, 37th Floor 
+New York, New York 10278  
+             
+           
+             
+      
+U.S. Department of Justice 
+ 
+United States Attorney 
+Southern District of New York 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 1 of 14
+
+
+--- PAGE 2 ---
+
+2 
+ 
+of the U.S. Sentencing Guidelines (the “Guidelines” or “U.S.S.G.”), that the Court sentence Ellison 
+in light of the factors set forth in Section 5K1.1(a) of the Guidelines.1   
+ 
+Offense Conduct 
+ Ellison played a core role in Bankman- Fried’s criminal schemes, but as the Government 
+noted in Bankman- Fried’s sentencing submission, only he was involved in all aspects of the 
+schemes.  Ellison never worked at FTX and played no role in designing the coding systems that 
+granted Alameda special treatment on FTX and permitted Alameda to accrue a negative balance 
+on FTX by withdrawing FTX customer funds.  And Ellison worked as a trader at Alameda at the 
+time Bankman -Fried, as then -CEO of Alameda,  implemented a system to use Alameda bank 
+accounts to accept, and then spend, FTX fiat deposits.  (Tr. 657).  Once she became aware of these 
+features, however, Ellison exploited them at Bankman- Fried’s direction to misappropriate FTX 
+customer funds.  She had no knowledge of, or involvement in, Bankman-Fried’s illegal campaign 
+finance scheme.  
+Although not an architect of Alameda’s capacity to spend FTX customer funds, as Ellison’s 
+responsibilities at Alameda grew,  and as greater intimacy and trust developed with Bankman-
+Fried, she was given an  increasingly significant role in Bankman- Fried’s crimes.  One of the 
+earliest examples is when Bankman -Fried sold FTX stock to Binance, another cryptocurrency 
+exchange.  By the middle of 2021, Binance was FTX’s primary competitor and Bankman- Fried 
+wanted to buy back Binance’s  FTX stock.  Bankman-Fried repeatedly told Ellison that buying 
+back the stock was “really important” to him, largely because Binance was a major competitor and 
+Bankman-Fried viewed Binance’s leader as a rival.  (Tr. 668).  At the time, Binance’s equity in 
+FTX was worth approximately $2 billion, and FTX’s revenue was only half that amount. 
+According to her trial testimony, Ellison told Bankman- Fried, “We don’t really have the money 
+for this, we’ll have to borrow from FTX to do it.”  (Tr. 668).  Bankman-Fried responded, “That’s 
+okay. I think this is really important, we have to get it done.”  (Id.).  Bankman-Fried then 
+repurchased the FTX shares owned by Binance using a mix of FTX funds and customer deposits. 
+(GX-1024). The transfer came from Alameda’s main account on FTX, which was able  to make 
+the transfer, notwithstanding the fact that it had insufficient funds, because of the allow negative 
+feature that had been enabled on its account. The transfers were directed personally by Bankman-
+Fried. (GX-317).  This incident is one among several examples where despite voicing reservations 
+to Bankman-Fried that what they were doing was wrong, Ellison nonetheless willingly participated 
+in misconduct.  ( See, e.g., Tr. 664 (“I remember one conversation we had about when FTX was 
+first being audited, when I asked him whether this line of credit would show up on the FTX audit 
+because I was concerned that, you know, it would raise concerns with investors and other people 
+who were seeing the audit, and he said, like, No, don’t worry, the auditors aren’t going to look at 
+that.”)).  
+As another example, d espite cautioning Bankman -Fried against it, Ellison was complicit 
+in Bankman-Fried’s decision to make billions of dollars of additional venture investments  in the 
+fall of 2021, despite the known risk that this would put Alameda in a position of having to repay 
+ 
+1 Prior to sentencing, the Government also expects that the parties will submit a consent 
+preliminary order of forfeiture that, among other things, will require Ellison to forfeit property 
+constituting proceeds traceable to the wire fraud offenses.   
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 2 of 14
+
+
+
+--- PAGE 3 ---
+
+3 
+ 
+its lenders using FTX customer funds in the event of a market downturn.  Specifically, in the fall 
+of 2021, Bankman- Fried asked Ellison to determine what would happen if Alameda spent $3 
+billion more on venture investments. (Tr. 703-10).  Ellison prepared an analysis, which she shared 
+with Bankman-Fried.  (GX-36).  As background, Alameda did not have outside investors.  Instead, 
+its trading operations were funded primarily through open term loans by third party cryptocurrency 
+lenders such as BlockFi, Genesis Capital, BitGo, Ledn, Celsius, Voyager, and others.  Those loans 
+were typically structured as follows: Alameda pledged collateral in the form of FTT, FTX’s “native 
+token,” to the third-party lender, and then the lender lent dollars, Bitcoin, or Ethereum to Alameda, 
+which agreed to repay the lent funds with interest on demand.  In the fall of 2021, Ellison told 
+Bankman-Fried that Alameda had more loans than assets, and that without certain FTX -related 
+cryptocurrencies such as FTT, Solana, and Serum, Alamed a’s net asset value was negative $2.7 
+billion.  (Tr. 710).  Her analysis also showed that in the event of a market downturn and the recall 
+of Alameda’s loans, the only way to repay third-party loans would be to borrow billions of dollars 
+of FTX customer funds.  (GX-36).  Ellison told Bankman-Fried that she thought that new venture 
+investments were a bad idea and too risky.  (Tr. 710-11).  Notwithstanding the risks , Bankman-
+Fried told her “he wanted to go ahead with billions of dollars of venture investments.”  (Tr. 729). 
+From late 2021 through the first  quarter of 2022, Bankman- Fried directed billions of dollars in 
+spending, which used FTX customers’ money.  For a period of time, the details of these 
+investments were unknown to Ellison, who later had to track down information on where the 
+money was spent.  
+The risks Ellison predicted in the Fall of 2021 became a reality in June 2022.  In May 2022, 
+the cryptocurrency stablecoin Terra and its sister token, Luna, collapsed in value, triggering a 
+collapse of several other cryptocurrency businesses such as the firm Three Arrows and the lenders 
+Celsius and Voyager. The instability in the cryptocurrency market caused Alameda’s lenders to 
+recall nearly all of their loans, and Alameda was required to repay in excess of $6 billion on 
+demand. Ellison rais ed the issue wi th Bankman- Fried, who had been copied on some of the 
+repayment demands from lenders, and asked what to do.  As several witnesses testified at trial, 
+Bankman-Fried asked Ellison, Wang, and Singh to work on a spreadsheet to calculate Alameda’s 
+balances on FTX and net asset value.  (Tr. 425-26).  That spreadsheet indicated that Alameda had 
+a negative $11 billion balance on FTX, and was borrowing $13 billion in customer funds.  (GX-
+50).  Bankman-Fried reviewed the spreadsheet and then participated in a conversation with Ellison, 
+Wang, and Singh about Alameda’s balances.  (Tr. 439-40).  After that conversation, Bankman-
+Fried turned to Ellison and told her to “go ahead and return the borrows” to “lenders who loaned 
+Alameda money and were asking for it back.”   (Tr. 440- 41).  After that, as Ellison testified,  
+Bankman-Fried continued to direct her “to use FTX customer funds to repay loans.”   (Tr. 765).  
+Alameda proceeded to repay the third- party lenders using FTX customer funds.  (GX-1017A to 
+GX-1017K).  Of the $6.5 billion that was repaid to Alameda’s lenders, almost 70 percent was 
+customer money.  (GX-1018).  This scenario was far from unexpected—it was precisely the market 
+downturn scenario that Bankman- Fried had asked Ellison to analyze in the Fall of 2021, and a 
+reason that she had advised against additional venture investing.  Consistent with their analysis in 
+the Fall of 2021, Bankman- Fried and Ellison both understood that the only way to repay lenders 
+in this scenario was by using customer funds —the only differe nce was that by June 2022, FTX 
+had billions of dollars more in customer deposits available for Alameda to misappropriate, which 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 3 of 14
+
+
+--- PAGE 4 ---
+
+4 
+ 
+was used to repay lenders in full.  By September 2022, it was clear to Bankman-Fried and Ellison 
+that Alameda had spent so much customer money that it could not be repaid.   
+To conceal their wrongdoing, and at Bankman- Fried’s direction, Ellison created 
+misleading versions of Alameda’s balance sheet, and sent fraudulent balance sheets to Alameda’s 
+lenders to forestall demands for repayment and obtain new loans.  As explained above, Alameda 
+financed its trading operation principally through large, open-term loans from third-party lenders, 
+like Genesis, BlockFi, Voyager, Ledn, Bit Go, and others.  In May and June 2022, those lenders 
+recalled nearly all of their loans, which Alameda repaid using customer funds.  (Tr. 645, 753-54).  
+After that point, in order to obtain new loans from these third-party lenders, the lenders requested 
+that Alameda provide an updated balance sheet.  After receiving these requests, Ellison sent 
+Bankman-Fried a draft balance sheet and said, “I think it looks bad, I don’t think we can send this 
+to Genesis, do you agree?”  (Tr. 785).  And he said, “Yeah, that sounds right.”  (Id.). 
+The reason Bankman-Fried and Ellison believed they could not send the real balance sheet 
+to lenders was because it showed that Alameda was borrowing around $10 billion from FTX and 
+had made about $5 billion in related -party loans to FTX executives like Bankman- Fried, Wang, 
+and Singh.  (GX-44).  Then Bankman-Fried told Ellison to “prepare some alternative ways of 
+presenting the information and send them to him.”  (Tr. 786).  Ellison prepared seven alternatives 
+to the real balance sheet, which omitted or hid Alameda’s borrowing from FTX and the large loans 
+to FTX executives.  (GX-44).  Bankman-Fried told Ellison, “[W]e should use alternative 7” (Tr. 
+795), referring to one of the tabs of a spreadsheet she shared with him, and she sent that to Genesis 
+and other lenders.  (GX-17, GX-419).  The spreadsheet was misleading in several ways: among 
+other things, it concealed that Alameda was borrowing billions of dollars from FTX and that these 
+loans were callable at any time; it overstated Alameda’s assets and understated its liabilities; and 
+it concealed the billions of dollars of related -party loans made by Alameda to FTX insiders, like 
+Bankman-Fried.  
+After receiving the fraudulent balance sheet, Alameda’s lenders extended new loans.  (GX-
+1014).  Had the lenders known about the undisclosed borrowing from FTX’s customers, and the 
+true state of the balance sheet, they would not have lent Alameda money.   (Tr. 1217-24).  But 
+because of the fraud, a number of lenders had large loans to Alameda outstanding at the time of its 
+bankruptcy.  Alameda’s defaults on those loans threw several lenders into financial crisis and, in 
+the case of BlockFi, caused the firm’s bankruptcy just a few weeks after FTX’s bankruptcy.  (Tr. 
+1228).  
+In the face of snowballing FTX customer concerns and withdrawals in November 2022, 
+Ellison acceded to Bankman-Fried’s request to post tweets meant to reassure FTX customers about 
+Alameda’s balance sheet, despite believing the tweets to be misleading, after Bankman-Fried said, 
+“I can’t be the one to tweet because I don’t want to be associated with Alameda.”  (Tr. 898-900).  
+As Ellison acknowledged in her testimony, over the course of her time at Alameda  working for 
+Bankman-Fried she became more willing to lie.  ( See Tr. 807- 08 (“I think [Bankman- Fried’s 
+expressed attitude about lying and stealing] made me more willing to do things like lie and steal 
+over time.  When I started working at Alameda, I don’t think I would have believed it if you told 
+me that a few years later I would be sending false balance sheets to our lenders or taking customer 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 4 of 14
+
+
+--- PAGE 5 ---
+
+5 
+ 
+money, but over time it was something that I became more comfortable with when I was working 
+there.”)).   
+As FTX collapsed, Bankman- Fried persisted in publicly denying knowledge and fault.  
+Ellison, on the other hand, expressed relief that the fraud was exposed, and responsibility for her 
+wrongdoing.  In an all-hands meeting with her Alameda employees on November 9, 2022— which 
+unbeknownst to Ellison was being recorded— Ellison shared with her employees what had 
+happened over the course of 2022, including that “Alameda had made billions of dollars of venture 
+investments and had bought back FTX equity from Binance using open-term loans and that when 
+the loans had been recalled, we had to use or we did use FTX customer funds to repay them, which 
+had caused the shortfall,” that those involved had been Ellison, Bankman-Fried, Wang, and Singh, 
+and that Bankman-Fried had made the decision on using user deposits.   (Tr. 931, 1093-94; GX-
+433E-T; see also Tr. 1142-1151 (Drappi testimony about the all -hands meeting)).  While others, 
+like Ryan Salame, tried to withdraw substantial sums of money from their FTX accounts in the 
+days before FTX declared bankruptcy, Ellison did not.   
+As Ellison also disclosed to the Government, although it was not her responsibility to 
+interface directly with FTX investors, she played a limited role in the conspiracy to defraud FTX 
+investors, including by agreeing to hide information from FTX auditors.  ( Tr. 664).  She also 
+flagged certain chats that related to a scheme to inflate the value of FTT, FTX’s native 
+cryptocurrency token, through Alameda trading activity.  (Tr. 671 -77).  Bankman -Fried created 
+the token, and then conspired to engage in trading that would inflate its value.  FTT was a 
+substantial portion of the value on Alameda’s balance sheet, but Ellison and Bankman-Fried were 
+well aware that its paper value far exceed ed its liquid value if Alameda were ever to sell large 
+quantities of the token.  (Tr. 678-81).  Bankman-Fried repeatedly touted that Alameda had positive 
+net asset value, even accounting for its borrowing from FTX customers.  But he and Ellison well 
+knew that they could never repay Alameda’s debt to FTX customers by selling FTT and other 
+“Sam coins” on Alameda’s balance sheet, which were illiquid coins that would have plummeted 
+in value if sold in large quantities.  (Tr. 678-83).   
+Without any indication that the Government knew about Bankman- Fried’s bribery of 
+Chinese officials (which the Government had heard about from another witness, and would later 
+corroborate with additional former Alameda employees), Ellison informed the Government about 
+Bankman-Fried’s conspiracy to unfreeze Alameda’s Chinese cryptocurrency accounts by bribing 
+an official of the Chinese government.  Bankman-Fried told Ellison that cryptocurrency transfers 
+should be made to private cryptocurrency addresses provided by another Alameda employee, 
+David Ma,  to unfreeze the accounts.   A total of approximately $140 million in bribes was 
+transferred to such private crypto wallets.  (PSR ¶ 34).   
+Procedural History 
+ On November 16, 2022, five days after FTX filed for bankruptcy, federal law enforcement 
+agents executed a judicially  authorized search warrant at the residence where Ellison was then 
+living, and seized her cellphone and other electronic devices.  That same day, Ellison’s attorneys 
+relayed Ellison’s interest in assisting the Government.  Ellison’s attorneys provided an attorney 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 5 of 14
+
+
+--- PAGE 6 ---
+
+6 
+ 
+proffer to the Government on December 7, 2022, and Ellison began proffering with the 
+Government the next day, on December 8, 2022.   
+On December 9, 2022, a grand jury sitting in the Southern District of New York returned 
+an eight-count Indictment charging Bankman -Fried with conspiracy to commit wire fraud, wire 
+fraud, conspiracy to commit commodities fraud, conspiracy to commit securities fraud, conspiracy 
+to commit money laundering, and conspiracy to defraud the United States and commit campaign 
+finance violations.  See United States v. Bankman-Fried, 22 Cr. 673 (LAK), Dkt. 1.  The charges 
+against Bankman-Fried were unsealed on December  13, 2022, the same day the SEC and CFTC 
+announced the initiation of civil proceedings against Bankman- Fried, and after Bankman -Fried 
+was arrested in the Bahamas on a federal arrest warrant.   
+Ellison proffered with the Government several times in December 2022 and provided 
+credible and detailed information to the Government about her own crimes and those of her 
+coconspirators, including Bankman-Fried.  On December 19, 2022, Ellison pleaded guilty before 
+the Honorable Ronnie Abrams pursuant to a cooperation agreement with the Government.  Ellison 
+pleaded guilty to a Superseding Information that charged Ellison in seven counts with: (1) 
+conspiracy to commit wire fraud, in violation of 18 U.S.C. § 1349; (2) wire fraud on customers, in 
+violation of 18 U.S.C. § 1343; (3) conspiracy to commit wire fraud on lenders, in violation of 
+§ 1349; (4) wire fraud on lenders, in violation of 18 U.S.C § 1343; (5) conspiracy to commit 
+commodities fraud, in violation of 18 U.S.C. § 371; (6) conspiracy to commit securities fraud, in 
+violation of 18 U.S.C. § 371; and (7) conspiracy to commit money la undering, in violation of 18 
+U.S.C. § 1956(h).  See United States v. Bankman-Fried, 22 Cr. 673 (LAK), Dkt. 8.  
+Bankman-Fried consented to extradition and arrived in the United States on December 21, 
+2022, after which Ellison’s and Gary Wang’s guilty pleas were unsealed.  
+ Subsequent to her guilty plea, Ellison met with the Government approximately 20 times, 
+and spent additional time outside of these meetings reviewing documents, emails, and spreadsheets 
+in order to identify and decode relevant documents for the Government.    
+ Ellison testified at Bankman -Fried’s trial in October 2023.  Ellison testified for 
+approximately three days.  At the conclusion of the trial, Bankman -Fried was convicted on all  
+seven counts of the Superseding Indictment : wire fraud and conspiracy to commit wire fraud on 
+FTX’s customers; wire fraud and conspiracy to commit wire fraud on Alameda Research’s lenders; 
+conspiracy to commit securities fraud on FTX’s investors; conspiracy to commit commodities 
+fraud on FTX’s customers; and conspiracy to commit money laundering. 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 6 of 14
+
+
+--- PAGE 7 ---
+
+7 
+ 
+The Presentence Investigation Report and the Applicable Guidelines Range 
+ 
+ The U.S. Probation Office issued a final Presentence Investigation Report on July 10, 2024.  
+In the PSR, the Probation Office calculates the otherwise applicable Guidelines sentence to be life 
+imprisonment, based on an offense level of 43 and a criminal history category of I.  (PSR ¶  95).  
+Because this exceeds the statutorily authorized maximum sentences, the guideline term of 
+imprisonment is 1,320 months.  (PSR ¶ 95).  The calculations of the Probation Office, which are 
+not disputed by the parties, are set forth in paragraphs 50 through 68 of the Presentence Report.  
+The offense level is driven principally by the loss amount of over $10 billion, which under 
+U.S.S.G. § 2B1.1(b)(1)(P), results in a 30-level increase to the offense level.   (PSR ¶ 55).   
+ 
+Cooperation and Significance of Assistance 
+By the measure of each factor set forth in Section 5K1.1(a) of the Guidelines, Ellison’s 
+cooperation was not only substantial, but exemplary.   
+ 
+Timeliness of Ellison’s Cooperation 
+ Ellison’s cooperation was very timely.  Although she  did not blow the whistle on any 
+misconduct before FTX’s collapse, she came clean  prior to FTX’s declaring bankruptcy to her 
+employees on November 9, 2022.  She voluntarily traveled back to the United States  from Hong 
+Kong, assisted the FTX bankruptcy in the time-sensitive recovery of assets, and expressed interest 
+in cooperating immediately after a search of her residence, prior to being charged.  What is 
+particularly unusual about the speed of Ellison’s cooperation is how many times she met with the 
+Government in a short span of time, and how quickly she pleaded guilty to the full slate of 
+misconduct related to her participation in a complex financial fraud.  That required numerous 
+lengthy meetings with the Government in short succession, as well as  a mindset that she was 
+prepared to be fully candid with the Government from the outset of her cooperation, and accept 
+complete responsibility for her crimes without minimization or evasion.  The timeliness of 
+Ellison’s cooperation contributed to the speed with which the Government was able to indict 
+Bankman-Fried, ensuring that he did not flee the Bahamas or further obstruct the Government’s 
+investigation.  It also enabled the Government to prepare for trial on a timeline that was atypically 
+fast for a case of this nature.   
+The Value of Ellison’s Cooperation 
+ Ellison’s testimony was critical to indict and convict Bankman-Fried, and to understanding 
+both the timeline of the fraud schemes, and the various layers of wrongdoing.  In short, the “what” 
+and “how” of the crimes, as well as the “why,” would have been difficult to prove without Ellison’s 
+testimony, and, at the very least , the Government’s evidence on these points would have been 
+incomplete.  
+ A common refrain from Bankman-Fried in the aftermath of FTX’s collapse was that he did 
+not learn of Alameda’s debt to FTX until the eleventh hour, and that he was at most negligent in 
+overseeing his businesses.  Ellison’s testimony gave the lie to that narrative.  The trial evidence 
+established that Bankman-Fried directed Ellison to create spreadsheets, make monetary transfers, 
+post tweets, and communicate with outside parties in a deliberate and self -protective attempt to 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 7 of 14
+
+
+--- PAGE 8 ---
+
+8 
+ 
+leave no trace of his own fingerprints.  Bankman -Fried appointed Ellison and Sam Trabucco co-
+CEOs of Alameda in the summer of 2021, explaining “that he thought it was important to separate 
+Alameda and FTX more optically and not have [Bankman-Fried] be too officially associated with 
+Alameda” because “it was a concern that a lot of FTX customers had that Alameda and FTX’s 
+relationship was too close and, therefore, that FTX might favor Alameda over other traders.”  (Tr. 
+683).  Upon being appointed CEO, Ellison ’s salary did not change, Bankman-Fried did not grant 
+her an equity stake in Alameda (over which he retained 90% ownership), and Ellison continued to 
+report to Bankman-Fried.  (Tr. 685-87).  As Ellison explained, “for any major decisions I would 
+always run them by Sam, and I would always ultimately defer to Sam if he thought that we should 
+do something.”  (Tr. 687).  The purpose of this arrangement was laid bare in the aftermath of 
+FTX’s collapse.   
+After Alameda’s spending of FTX customer funds was exposed, Bankman-Fried launched 
+a public relations campaign that revolved around the false assertion that he “was not involved at 
+all in Alameda trading and hadn’t been for years,” and that he was “intenti onally not getting 
+involved in it because [he] was concerned about a conflict of interest.”  (Tr. 2578- 80).  He also 
+claimed that he had “walled” himself off from Alameda trading and risk management, effectively 
+laying the blame at Ellison’s feet, Alameda’ s nominal CEO.  (Tr. 2581- 82).  This fiction was 
+impossible to maintain at trial in the face of overwhelming evidence of Bankman-Fried’s oversight 
+of Alameda, including, most prominently, the facts that Ellison recounted during her testimony.  
+(See, e.g., Tr. 2570 (Bankman- Fried testimony that he had “some involvement” in “higher -level 
+discussions and hedging-related trading discussions”)).  Despite Bankman-Fried’s care not to draft 
+a single spreadsheet and to autodelete his Signal communications, the documentary evidence 
+corroborated Ellison’s account that not only was Bankman-Fried well aware of Alameda’s misuse 
+of FTX customer funds, but he was also the ultimate decision -maker who engineered the fraud 
+against FTX customers and investors, and Alameda’s lenders.  ( See, e.g. , GX-44, GX-50, and 
+associated metadata exhibits GX- 44M, GX-50M; see also, e.g., Tr. 737- 38 (describing update 
+documents about Alameda that Ellis on “regularly” sent to Bankman- Fried for “comments and 
+feedback”).     
+Of the cooperating witnesses, Ellison was the only one who worked at Alameda through 
+2022.  She was therefore uniquely positioned to describe Bankman-Fried’s continued oversight of 
+Alameda’s trading, his involvement in repaying Alameda’s lenders with FTX customer funds in 
+2022, the state of Alameda’s balance sheet throughout 2022, Alameda’s inability to repay its 
+gargantuan debt to FTX customers, and Bankman- Fried’s continued insistence on making 
+additional investments using FTX customer funds into the Fall  of 2022.  Ellison rebutted 
+Bankman-Fried’s false assertion that he did not know about Alameda’s negative balance on FTX 
+until the Fall of 2022, and that he was too distracted and overextended to pay sufficient attention 
+to Alameda.  (See, e.g., Tr. 764-77).  Her testimony was corroborated by other witnesses, including 
+Singh and Wang, who also described the discussions with Bankman-Fried in June 2022 about the 
+size of Alameda’s negative balance on FTX.  ( See GX-50, GX-50M).  Ellison also provided 
+significant assistance in understanding Alameda’s finances.  After FTX’s collapse, it became clear 
+that, by design, FTX and Alameda lacked appropriate corporate controls and trustworthy systems 
+for tracking financial information.  This made reconstructing the flow of funds particularly 
+challenging.  Ellison provided information about the significance of various Alameda accounts to 
+assist in calculating Alameda’s NAV and the us e of FTX customer funds, and helped translate 
+various financial spreadsheets that did not conform to traditional accounting conventions.   
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 8 of 14
+
+
+--- PAGE 9 ---
+
+9 
+ 
+Ellison’s cooperation was also important to charge and prove  Bankman-Fried’s fraud on 
+Alameda’s lenders, a serious fraudulent scheme in its own right that ultimately threw several of 
+Alameda’s lenders into financial crisis, and, in the case of BlockFi, caused the firm’s bankruptcy 
+just a few weeks after FTX’s bankruptcy.  (Tr. 1228).  Ellison was Bankman- Fried’s sole co-
+conspirator in the scheme to defraud Alameda’s lenders.  At the outset of her cooperation, she 
+described creating a spreadsheet with multip le tabs at Bankman -Fried’s direction; the first tab 
+contained Alameda’s accurate balance sheet, and the remaining tabs were different ways Ellison 
+proposed of obfuscating Alameda’s true financial condition in order to deceive its lenders.  Ellison 
+described Bankman -Fried selecting which fraudulent balance sheet to share with Alameda’s 
+lenders.  That balance sheet became the template used in the ensuing months to forestall the recall 
+of Alameda’s loans and mislead Alameda’s lenders into extending new loans.  At the time Ellison 
+described the fraud on Alameda’s lenders, the Government had yet to identify the seven- tab 
+spreadsheet.  The spreadsheet was ultimately identified because in addition to proffering with the 
+Government, Ellison combed through hundreds of google documents and excel spreadsheets in the 
+Government’s discovery to identify relevant evidence, including the seven-tab spreadsheet.  The 
+document metadata confirmed Ellison’s account: the spreadsheet was created at the time of 
+Alameda’s fraud on its lenders, after one of Alameda’s lenders had asked for an updated balance 
+sheet.  ( See GX-44M).  Metadata also showed that Bankman -Fried reviewed the spreadsheet 
+immediately before Ellison converted one of the fraudulent spreadsheet tabs into a balance sheet 
+to send to an Alameda lender.  (See GX-44M; Tr. 783-803).  There could be no innocent or credible 
+explanation for his review of the spreadsheet, and Ellison’s testimony about the spreadsheet, the  
+spreadsheet itself, and the accompanying metadata, led to the  inescapable conclusion that 
+Bankman-Fried was lying when he claimed no intent to defraud, and no knowledge of Alameda’s 
+debt to FTX customers in the Spring of 2022.  
+In her review of discovery materials, Ellison also flagged the importance of Government 
+Exhibit 36, a spreadsheet entitled “NAV Minus Sam Coins.”  As described above, this spreadsheet 
+contained Ellison’s analysis in response to Bankman- Fried’s request that Ellison determine the 
+risks if Alameda spent $3 billion more on venture investments.  (Tr. 707 -10).  At first glance, the 
+spreadsheet was impenetrable and looked nothing like a traditional financial analysis.  The second 
+tab of the spreadsheet, “questions ,” contained over 120 rows, some with mathematical 
+calculations, others with questions, and some additional analysis out of sequence in columns E, F, 
+and G.  Without Ellison’s testimony, the context of this document, and its meaning, would have 
+been impossible to relay coherently to the jury.  But with her testimony, it was proof of Bankman-
+Fried’s guilty intent, his knowledge, and his motive.  As Ellison explained, her analysis in the 
+spreadsheet showed: (1) Alameda’s positive net asset value depended  on large amounts of “Sam 
+coins” on the balance sheet, which had dubious liquid value, and without which Alameda had a 
+negative net asset value; (2) Alameda was already borrowing heavily from FTX customers; and 
+(3) if Alameda made an additional $3 billion in ve nture investments, in the event of a market 
+downturn, it would not be able to repay its lenders without borrowing billions more from FTX 
+customers.  After reviewing this analysis with Ellison, Bankman- Fried did not dispute the risks, 
+but decided to make the investments anyway.  (Tr. 710-29; GX-36).  Ellison spent substantial 
+amounts of time explaining this spreadsheet to the Government, and then preparing to testify about 
+the spreadsheet in a manner that would be accessible to a jury.   
+Ellison’s testimony about Government Exhibit 36 is just one example of how her testimony 
+gave the jury a more complete picture of how the criminal scheme escalated, and refuted Bankman-
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 9 of 14
+
+
+--- PAGE 10 ---
+
+10 
+ 
+Fried’s excuses that he inadvertently got in over his head.  Given Bankman-Fried’s disingenuous 
+campaign in the media —and then in his testimony—to portray himself as well -meaning but 
+hapless, this was a case where it was particularly important to shed light on Bankman-Fried’s 
+motive, even if it was not an element of the crime.  As Bankman -Fried’s former associate and 
+romantic partner, Ellison described Bankman-Fried’s outsize appetite for risk, his desire for power 
+and influence, and his cavalier attitude a bout honesty, in a compelling and credible manner.  Her 
+testimony about Bankman-Fried’s influence and power over her was all the more credible because 
+Ellison at no point has attempted to wield that as an excuse for her own misjudgments and 
+wrongdoing.  Instead, she expressed genuine shame and remorse on the stand, as she does now 
+before sentencing.  
+The information Ellison provided about bribery of Chinese officials was crucial to charging 
+Bankman-Fried with conspiracy to commit FCPA bribery.  Without the Bahamas consent, the 
+Government did not proceed on this count at trial, but Ellison testified about the bribery scheme 
+to help the jury understand how the criminal relationship of trust between Ellison and Bankman-
+Fried developed, and how Bankman-Fried had a cavalier attitude about the law when it served the 
+needs of his business.  (Tr. 827-40).   
+As confirmed by SEC and CFTC, Ellison also provided valuable assistance to the SEC and 
+CFTC in their parallel investigations for similar reasons.  From her first proffer, Ellison answered 
+questions in a room filled with law enforcement agents, Assistant U.S. Attorneys, and 
+representatives from the SEC and CFTC who were conducting their own parallel investigations.  
+The SEC’s civil complaints relied in part on information provided by Ellison or corroborated by 
+her.  I n addition to the SEC’s interest in the fraud on FTX investors, Ellison provided the SEC 
+with detailed information about the potential manipulation of “Sam coins,” including FTT, and 
+information us eful to ongoing investigations of other cryptocurrency frauds and market 
+manipulation by other market makers in the crypto industry.  
+ 
+As described by the CFTC, Ellison voluntarily provided substantial assistance to the CFTC 
+in its civil enforcement actions against Mr. Bankman -Fried, the FTX and Alameda entities, and 
+others. Ms. Ellison entered into a written Cooperation Agreement with the CFTC’s Division of 
+Enforcement on December 20, 2022, and the CFTC entered into a Consent Order of Judgement on 
+Liability as to the CFTC’s civil charges against her on December 23, 2022.  See CFTC v. Bankman-
+Fried et al. , No. 22- cv-10503 (S.D.N.Y. Dec. 23, 2022), ECF No. 26.  In t hat order, Ellison 
+admitted that she engaged in the charged conduct and accepted responsibility for her actions. 
+ 
+  
+Both before and after the date of Ellison’s cooperation agreement with the Division of 
+Enforcement, she provided material assistance in connection with the CFTC’s action against FTX, 
+Alameda and Bankman-Fried.  The CFTC’s action against the FTX and Alameda entities resulted 
+in a $12.7 Billion consent judgment, with all monetary relief used to compensate to FTX customers 
+and victims of FTX’s fraud. See Consent Order For Permanent Injunction and Other Equitable 
+Relief Against Defendants FTX Trading Ltd. d/b/a FTX.com and Alameda Research, LCC, CFTC 
+v. Bankman-Fried et al., No. 22- cv-10503 (S.D.N.Y. Aug. 7, 2024), ECF No. 44.  The CFTC’s 
+action against Bankman -Fried continues, and Ms. Ellison has agreed to continue providing 
+information to the CFTC, and to testify in that action, as needed. 
+ 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 10 of 14
+
+
+--- PAGE 11 ---
+
+11 
+ 
+Ellison’s Truthfulness and Reliability 
+ As noted above, Ellison stood out not only for the speed of her cooperation, but for her 
+consistent candor beginning in her very first meeting with the Government.  She accepted full 
+responsibility from her very first proffer and did not minimize or shift blame.  She provided as 
+much detail as possible about crimes that the Government was already investigating, and alerted 
+the Government to other criminal activity too.  Among other things, she disclosed the conspiracy 
+to defraud Alameda’s lenders, as well as the bribery of Chinese officials.  Even before she knew 
+what documents the Government had obtained, or what information the Government had about the 
+creators of those documents, Ellison was forthright that she drafted some of the most incriminating 
+documents in the case, including the seven- tab spreadsheet of misleading balance sheets used to 
+defraud Alameda’s lenders.  She was candid that although she raised concerns with Bankman-
+Fried at several points along the way, she ultimately put up minimal resis tance to participating in 
+wrongdoing and deceit.  She was also honest that she became more comfortable with lying and 
+deceit the longer she worked at Alameda.   
+ Ellison’s testimony was credible for its consistency and her earnest demeanor on the stand.  
+But it was also corroborated by exhibits, spreadsheets, chats, the testimony of other witnesses 
+(such as Yedidia, Drappi, Singh, and Wang), and the Government’s interviews with other former 
+Alameda employees.   
+ Documents contemporaneous with the fraud show that Bankman-Fried wielded significant 
+influence over Ellison in their personal and professional relationship—a dynamic that does not 
+excuse Ellison’s misjudgments but that corroborates her role and culpability in the fraud schemes 
+relative to Bankman-Fried.  Ellison’s private writings during her employment at Alameda and her 
+on-again, off -again romantic relationship with Bankman -Fried illustrate the imbalanced power 
+dynamic between Ellison and Bankman- Fried, and that she routinely deferred to him and sought 
+his approval (witnesses who were familiar with Ellison and Bankman -Fried’s relationship made 
+similar observations to the Government) .  Ellison’s handwritten journal, which law enforcement 
+seized from Ellison’s residence, and for which she gave consent to search, described her 
+unhappiness at work in the Bahamas where she felt her “self -worth” was “coming from Sam’s 
+approval.”  She wrote that the times “I feel worst” are “interacting with Sam” and “feeling left out 
+and powerless in group decisions.”  Even when Ellison and Bankman- Fried were romantically 
+involved, she confided in him that when he avoided her it made her “feel insecure ,” that she felt 
+“we’re always in manager/employee mode,” and that “when you are around, I have an instinct to 
+shrink and become smaller and quieter and defer to others.”  The Government found no evidence 
+that Ellison enjoyed the wealth generated by the fraud.  Instead, in a letter to Bankman- Fried that 
+is characteristic of the sentiments she was expressing during her time in the Bahamas, she 
+described being “stretched beyond [her] limits at work,” “unhappy and overwhelmed” by her job, 
+unexcited to go to work, and feeling “like there’s [no] end in sight.”  ( See also Tr. 763 (Ellison 
+describing her “constant state of dread” in the Spring of 2022)).    
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 11 of 14
+
+
+--- PAGE 12 ---
+
+12 
+ 
+ Oftentimes, a defendant will come before the G overnment or the C ourt to accept 
+responsibility and express remorse, and it requires a degree of trust that these are not merely self-
+serving remarks to obtain a lower sentence or a disingenuous appeal to the Court’s mercy.  Rarely, 
+however, does the Court have an independent basis to credit the defendant’s earnest remorse and 
+acceptance as it does here in the form of Ellison’s remarks at the November 9, 2022 all -hands 
+meeting, which Ellison did not know were being recorded, and during which she acknowledged 
+her wrongdoing not out of self -interest, but because she understood that she had wronged her 
+employees, FTX customers, Alameda’s lenders, and others affected by FTX’s collapse.   
+Professional and Personal Consequences from Cooperation 
+ 
+ Ellison cooperated at great personal and professional cost, enduring harsh media and public 
+scrutiny and attempted witness tampering by Bankman-Fried.   
+ 
+During her time as CEO of Alameda, Ellison kept a relatively low profile, doing few 
+interviews and public appearances.  Ellison’s attitude toward the spotlight places her in marked 
+contrast with Bankman-Fried, who graced the covers of magazines like Fortune and Forbes, and 
+cultivated a high public profile.  ( See GX-1619 (January 5, 2022 chat where Ellison says her 
+“instincts are more toward under the radar,” and Bankman-Fried responds, “Same, except exactly 
+the opposite.”) ).  In part because of FTX’s astounding rise and fall, and in part because of 
+Bankman-Fried’s former relationship with the media, this case received outsized press attention.  
+Substantial media attention was directed at Ellison in particular, due to her role in the crimes, 
+Bankman-Fried’s statements that he was not responsible for what took place at Alameda, and her 
+prior relationship with Bankman-Fried and cooperation against her former boyfriend.   
+ 
+Unlike typical press and public attention for criminal conduct, the scrutiny of Ellison was 
+extremely personal and probing.  The most salient example is the New York Times article published 
+on July 20, 2023, Inside the Private Writings of Caroline Ellison, Star Witness in the FTX Case.  
+The article claimed to “offer new insight into Ms. Ellison’s psychology during the final months of 
+FTX,” drew from Ellison’s “thoughts on private Google documents” that were “personal and raw,” 
+dissected her former romantic relationship with Bankman -Fried, and quoted Ellison’s private 
+writings about being unhappy and overwhelmed, and hurt and rejected by Bankman- Fried.  
+Bankman-Fried provided Ellison’s otherwise private documents to the New York Times in an effort 
+to damage her credibility and reputation in the court of public opinion, and to intimidate her in 
+advance of her trial testimony.  As the Court observed at Bankman-Fried’s detention hearing about 
+the documents Bankman-Fried provided to the press:  
+ 
+[T]he content of these documents in some respects tends to support the conclusion 
+they are extremely, in some parts, personal and intimate.  Those parts are 
+relationship oriented, not business, commercially or legally oriented . . . parts of the 
+content . . . are something that someone who has be en in a relationship, or is in a 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 12 of 14
+
+
+--- PAGE 13 ---
+
+13 
+ 
+relationship, would be very unlikely to share with anybody, le[a]st [of all] the New 
+York Times, except to hurt, discredit, and frighten the subject of the material. 
+ 
+(8/11/2023 Tr. at 36-37).   
+ 
+ While public scrutiny of a criminal defendant’s or cooperator’s criminal misconduct is 
+understandable, Ellison endured far more than that.  She was mobbed outside the courthouse for 
+comment and photographs, making it difficult to enter and exit without an escort, her physical 
+appearance was scrutinized  and criticized, and she was mocked in memes and other content on 
+social media.  She was featured in Michael Lewis’s New York Times bestseller, Going Infinite, 
+which included details about Ellison that she had shared with a therapist, who in turn divulged that 
+information to Lewis.  Her cooperation required her to testify against her former boss and 
+boyfriend, who at the time of their personal and professional relationship held the lion’s share of 
+power and influence at FTX and Alameda.  And on top of humiliating her in the press, Bankman-
+Fried laughed, visibly shook his head, and scoffed at Ellison during her testimony.  (Tr. 873).  
+News articles about her trial testimony, accompanied by her photograph, abounded.  Numerous 
+films and TV shows are in production about the downfall of FTX, which will only perpetuate the 
+public scrutiny Ellison has faced to date.   The Government cannot think of another cooperating 
+witness in recent history who has received a greater  level of attention and harassment.  The 
+attendant professional consequences of this level of notoriety are obvious and unlikely to be short-
+lived.  Throughout, however, and certainly during her testimony, Ellison steadfastly remained 
+candid and dedicated to telling the truth—as emb arrassing as it often was for her— and in assisting 
+with bringing the most culpable party to justice.  
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 13 of 14
+
+
+--- PAGE 14 ---
+
+14 
+ 
+ 
+Conclusion 
+  As set forth above, the Government believes that Ellison  provided substantial assistance 
+to the Government.  Accordingly, as discussed, assuming Ellison continues to comply with the 
+terms of her cooperation agreement, the Government intends to request at sentencing that the Court 
+sentence Ellison in light of the factors set forth in Section 5K1.1(a) of the Guidelines. 
+ 
+Respectfully submitted, 
+ 
+      DAMIAN WILLIAMS 
+        United States Attorney 
+ 
+ 
+     By:    /s/ Danielle R. Sassoon    
+Danielle R. Sassoon 
+Danielle Kudla 
+Thane Rehn 
+Nicolas Roos 
+      Assistant United States Attorneys 
+      Southern District of New York 
+ 
+ 
+cc: Anjan Sahni, Esq. (by ECF) 
+ Stephanie Avakian, Esq. 
+ Peter G. Neiman, Esq. 
+ Nicholas Werle, Esq. 
+ 
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 502     Filed 09/17/24     Page 14 of 14

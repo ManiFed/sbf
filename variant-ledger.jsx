@@ -151,11 +151,8 @@ function VariantLedger() {
           <span style={ledger.brandSub}>COUNSEL TERMINAL · v3.11</span>
         </div>
         <div style={ledger.topNav}>
-          <span>DOSSIER</span>
-          <span>RECORD</span>
-          <span style={ledger.navActive}>COLLOQUY</span>
-          <span>APPEAL</span>
-          <span>SUPPORT</span>
+          <a href="/" style={ledger.navActive}>AI</a>
+          <a href="/essay/" style={ledger.navLink}>ESSAY</a>
         </div>
         <div style={ledger.topClock}>
           <span style={ledger.statusDot} /> LIVE · {utc} UTC
@@ -501,6 +498,7 @@ const ledger = {
   brandMark: { color: ACCENT, fontSize: 16 },
   brandSub: { color: FG_DIM, fontWeight: 400, fontSize: 10, letterSpacing: '0.18em', marginLeft: 4 },
   topNav: { display: 'flex', gap: 26, color: FG_DIM, fontSize: 11, letterSpacing: '0.18em' },
+  navLink: { color: FG_DIM, textDecoration: 'none', paddingBottom: 4 },
   navActive: { color: ACCENT, borderBottom: `1px solid ${ACCENT}`, paddingBottom: 4 },
   topClock: {
     color: OK,

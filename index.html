@@ -2,49 +2,215 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>SBFTX·AI — Counsel Terminal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free SBF Hub</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
   <style>
-    html, body, #root {
+    :root {
+      --bg: #090805;
+      --panel: #12100a;
+      --border: #2c2718;
+      --fg: #ece4cc;
+      --dim: #9d9278;
+      --accent: #e8c87b;
+      --ok: #7ed492;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
       margin: 0;
-      padding: 0;
-      height: 100%;
-      background: #0c0b07;
+      min-height: 100%;
+      background: radial-gradient(circle at 20% 0%, #16120a 0%, var(--bg) 55%);
+      color: var(--fg);
+      font-family: Inter, system-ui, sans-serif;
     }
 
-    body {
-      font-family: "Inter", ui-monospace, monospace;
-      -webkit-font-smoothing: antialiased;
-      text-rendering: optimizeLegibility;
+    .shell {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      padding: 24px;
     }
 
-    #root {
-      /* Lift contrast/brightness and scale slightly so dense terminal text is easier to read. */
-      filter: contrast(1.16) brightness(1.14) saturate(1.05);
-      transform: scale(1.03);
-      transform-origin: top left;
-      width: calc(100% / 1.03);
-      height: calc(100% / 1.03);
+    .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .brand {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      letter-spacing: 0.14em;
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 13px;
+      color: var(--accent);
+    }
+
+    .brand small {
+      color: var(--dim);
+      letter-spacing: 0.16em;
+      font-size: 10px;
+    }
+
+    .hero {
+      width: min(980px, 100%);
+      margin: 52px auto 24px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(28px, 5vw, 52px);
+      line-height: 1.06;
+      letter-spacing: -0.015em;
+    }
+
+    .subtitle {
+      margin-top: 14px;
+      color: var(--dim);
+      max-width: 62ch;
+      line-height: 1.6;
+    }
+
+    .grid {
+      width: min(980px, 100%);
+      margin: 26px auto 0;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      border: 1px solid var(--border);
+      background: linear-gradient(180deg, #141108 0%, var(--panel) 100%);
+      padding: 22px;
+      text-decoration: none;
+      color: inherit;
+      transition: transform .16s ease, border-color .16s ease, box-shadow .16s ease;
+      min-height: 230px;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: var(--accent);
+      box-shadow: 0 16px 36px rgba(0,0,0,.24);
+    }
+
+    .kicker {
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      color: var(--accent);
+      letter-spacing: .16em;
+      font-size: 11px;
+    }
+
+    .card h2 {
+      margin: 0;
+      font-size: 24px;
+      letter-spacing: -0.01em;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--dim);
+      line-height: 1.6;
+    }
+
+    .meta {
+      margin-top: auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 12px;
+      color: var(--ok);
+      letter-spacing: .08em;
+    }
+
+
+    .resources {
+      width: min(980px, 100%);
+      margin: 16px auto 0;
+      border: 1px solid var(--border);
+      background: #0f0d08;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .resources-label {
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 11px;
+      letter-spacing: .14em;
+      color: var(--dim);
+    }
+
+    .resource-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 12px;
+      letter-spacing: .08em;
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      background: #141108;
+    }
+
+    .resource-link:hover {
+      border-color: var(--accent);
+    }
+
+    @media (max-width: 860px) {
+      .shell { padding: 16px; }
+      .grid { grid-template-columns: 1fr; }
+      .hero { margin-top: 34px; }
     }
   </style>
-
-  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-  <div id="root"></div>
+  <div class="shell">
+    <header class="top">
+      <div class="brand">◆ FREE SBF <small>UNIFIED HUB</small></div>
+    </header>
 
-  <script type="text/babel" src="canned.jsx"></script>
-  <script type="text/babel" src="portrait.jsx"></script>
-  <script type="text/babel" src="variant-ledger.jsx"></script>
+    <section class="hero">
+      <h1>Sam Bankman FREED</h1>
+      <p class="subtitle">
+        Legal dossier + interactive AI terminal for exploring the case record, arguments, timelines, and source-backed claims.
+      </p>
+    </section>
 
-  <script type="text/babel">
-    ReactDOM.createRoot(document.getElementById('root')).render(<VariantLedger />);
-  </script>
+    <section class="grid" aria-label="Choose destination">
+      <a class="card" href="/essay/">
+        <div class="kicker">DOSSIER</div>
+        <h2>Read the Essay</h2>
+        <p>Browse the full legal write-up, timeline, exhibits, glossary, and linked argument structure.</p>
+        <div class="meta"><span>OPEN</span><span>→ /essay/</span></div>
+      </a>
+
+      <a class="card" href="/ai/">
+        <div class="kicker">MODEL</div>
+        <h2>Launch AI Terminal</h2>
+        <p>Run direct prompts in the counsel terminal and export transcripts of each exchange.</p>
+        <div class="meta"><span>OPEN</span><span>→ /ai/</span></div>
+      </a>
+
+    </section>
+
+    <section class="resources" aria-label="External resources">
+      <div class="resources-label">RESOURCES</div>
+      <a class="resource-link" href="https://freesbf.org" target="_blank" rel="noopener noreferrer">↗ FreeSBF.org</a>
+    </section>
+  </div>
 </body>
 </html>

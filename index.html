@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SBF Defense Argument Assistant</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #171a21;
+      --panel-2: #20242d;
+      --text: #f3f4f6;
+      --muted: #a1a1aa;
+      --border: #2f3542;
+      --accent: #9ca3ff;
+      --accent-2: #c4b5fd;
+      --danger: #fb7185;
+      --good: #86efac;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top left, #252846 0, #0f1115 38%, #090a0d 100%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    .shell {
+      width: min(1100px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 32px 0;
+      min-height: 100vh;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: 20px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .title h1 {
+      margin: 0 0 8px;
+      font-size: clamp(28px, 4vw, 44px);
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+
+    .title p {
+      margin: 0;
+      color: var(--muted);
+      max-width: 720px;
+      line-height: 1.5;
+    }
+
+    .status-card {
+      border: 1px solid var(--border);
+      background: rgba(23, 26, 33, 0.8);
+      border-radius: 18px;
+      padding: 14px 16px;
+      min-width: 180px;
+      box-shadow: 0 18px 50px rgba(0,0,0,0.25);
+    }
+
+    .status-dot {
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: var(--muted);
+      margin-right: 8px;
+    }
+
+    .status-dot.ok { background: var(--good); }
+    .status-dot.bad { background: var(--danger); }
+
+    .chat-panel {
+      border: 1px solid var(--border);
+      background: rgba(23, 26, 33, 0.86);
+      backdrop-filter: blur(12px);
+      border-radius: 26px;
+      overflow: hidden;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.35);
+      display: grid;
+      grid-template-rows: auto 1fr;
+      min-height: 560px;
+    }
+
+    .toolbar {
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+      align-items: center;
+      background: rgba(32, 36, 45, 0.7);
+    }
+
+    .toolbar small {
+      color: var(--muted);
+    }
+
+    .toolbar button,
+    .composer button,
+    .suggestions button {
+      border: 0;
+      border-radius: 999px;
+      cursor: pointer;
+      font-weight: 650;
+      transition: transform 0.15s ease, opacity 0.15s ease, background 0.15s ease;
+    }
+
+    button:hover { transform: translateY(-1px); }
+    button:disabled { cursor: not-allowed; opacity: 0.55; transform: none; }
+
+    .secondary {
+      background: #272b36;
+      color: var(--text);
+      padding: 9px 13px;
+    }
+
+    .messages {
+      padding: 22px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      max-height: 66vh;
+    }
+
+    .message {
+      max-width: 82%;
+      border-radius: 20px;
+      padding: 14px 16px;
+      line-height: 1.55;
+      white-space: pre-wrap;
+      border: 1px solid transparent;
+    }
+
+    .message.user {
+      align-self: flex-end;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: #111827;
+    }
+
+    .message.assistant {
+      align-self: flex-start;
+      background: var(--panel-2);
+      border-color: var(--border);
+    }
+
+    .message.system {
+      align-self: center;
+      max-width: 92%;
+      color: var(--muted);
+      background: rgba(255,255,255,0.04);
+      border-color: var(--border);
+      font-size: 14px;
+    }
+
+    .suggestions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 2px;
+    }
+
+    .suggestions button {
+      padding: 10px 13px;
+      background: rgba(156, 163, 255, 0.12);
+      color: #d8dbff;
+      border: 1px solid rgba(156, 163, 255, 0.25);
+    }
+
+    .composer-wrap {
+      border: 1px solid var(--border);
+      background: rgba(23, 26, 33, 0.92);
+      border-radius: 24px;
+      padding: 14px;
+      box-shadow: 0 18px 60px rgba(0,0,0,0.28);
+    }
+
+    .composer {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: end;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 56px;
+      max-height: 180px;
+      resize: vertical;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: #10131a;
+      color: var(--text);
+      padding: 14px 16px;
+      font: inherit;
+      outline: none;
+      line-height: 1.45;
+    }
+
+    textarea:focus {
+      border-color: rgba(156, 163, 255, 0.75);
+      box-shadow: 0 0 0 4px rgba(156, 163, 255, 0.12);
+    }
+
+    .send {
+      padding: 15px 20px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: #111827;
+      min-width: 104px;
+    }
+
+    .hint {
+      margin: 10px 4px 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    code {
+      background: rgba(255,255,255,0.08);
+      padding: 2px 5px;
+      border-radius: 6px;
+    }
+
+    @media (max-width: 720px) {
+      header {
+        flex-direction: column;
+      }
+
+      .status-card {
+        width: 100%;
+      }
+
+      .message {
+        max-width: 94%;
+      }
+
+      .composer {
+        grid-template-columns: 1fr;
+      }
+
+      .send {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <section class="title">
+        <h1>SBF Defense Argument Assistant</h1>
+        <p>
+          A source-grounded chat interface for exploring defense-oriented arguments, case materials, and retrieved evidence from your dataset.
+          This is a simulator, not Sam Bankman-Fried.
+        </p>
+      </section>
+
+      <aside class="status-card">
+        <div><span id="statusDot" class="status-dot"></span><strong id="statusText">Checking API</strong></div>
+        <small id="statusDetail">Calling <code>/</code></small>
+      </aside>
+    </header>
+
+    <section class="chat-panel">
+      <div class="toolbar">
+        <small>Backend endpoint: <code id="endpointLabel">/ask</code></small>
+        <button class="secondary" id="clearBtn">Clear chat</button>
+      </div>
+
+      <div class="messages" id="messages">
+        <div class="message system">
+          Ask a question. The backend will retrieve relevant chunks, call the provider fallback router, and return a cited answer.
+        </div>
+        <div class="suggestions" id="suggestions">
+          <button data-prompt="What is the strongest defense argument about intent?">Intent defense</button>
+          <button data-prompt="What evidence most hurts the defense?">Weakest evidence</button>
+          <button data-prompt="What did SBF say after sentencing?">After sentencing</button>
+          <button data-prompt="Summarize the best argument that FTX was solvent or recoverable.">Solvency argument</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="composer-wrap">
+      <form class="composer" id="chatForm">
+        <textarea id="question" placeholder="Ask something like: What is the strongest defense argument about intent?" autocomplete="off"></textarea>
+        <button class="send" id="sendBtn" type="submit">Ask</button>
+      </form>
+      <p class="hint">
+        This frontend expects a FastAPI backend with <code>POST /ask</code> returning <code>{"answer":"..."}</code>.
+        Keep provider keys on the backend only.
+      </p>
+    </section>
+  </main>
+
+  <script>
+    const API_BASE = "";
+    const ASK_ENDPOINT = `${API_BASE}/ask`;
+
+    const messages = document.getElementById("messages");
+    const form = document.getElementById("chatForm");
+    const questionInput = document.getElementById("question");
+    const sendBtn = document.getElementById("sendBtn");
+    const clearBtn = document.getElementById("clearBtn");
+    const suggestions = document.getElementById("suggestions");
+    const statusDot = document.getElementById("statusDot");
+    const statusText = document.getElementById("statusText");
+    const statusDetail = document.getElementById("statusDetail");
+
+    function addMessage(role, text) {
+      const el = document.createElement("div");
+      el.className = `message ${role}`;
+      el.textContent = text;
+      messages.appendChild(el);
+      messages.scrollTop = messages.scrollHeight;
+      return el;
+    }
+
+    function setLoading(isLoading) {
+      sendBtn.disabled = isLoading;
+      questionInput.disabled = isLoading;
+      sendBtn.textContent = isLoading ? "Thinking..." : "Ask";
+    }
+
+    async function checkApi() {
+      try {
+        const res = await fetch(`${API_BASE}/`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        statusDot.classList.add("ok");
+        statusText.textContent = "API online";
+        statusDetail.textContent = data.message || "Ready";
+      } catch (error) {
+        statusDot.classList.add("bad");
+        statusText.textContent = "API offline";
+        statusDetail.textContent = "Start backend or set API_BASE";
+      }
+    }
+
+    async function ask(question) {
+      addMessage("user", question);
+      const thinking = addMessage("assistant", "Retrieving evidence and calling model fallback...");
+      setLoading(true);
+
+      try {
+        const res = await fetch(ASK_ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question })
+        });
+
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(`HTTP ${res.status}: ${text}`);
+        }
+
+        const data = await res.json();
+        thinking.textContent = data.answer || "No answer returned.";
+      } catch (error) {
+        thinking.textContent = `Error: ${error.message}`;
+      } finally {
+        setLoading(false);
+        questionInput.focus();
+      }
+    }
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const question = questionInput.value.trim();
+      if (!question) return;
+      questionInput.value = "";
+      ask(question);
+    });
+
+    questionInput.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        form.requestSubmit();
+      }
+    });
+
+    suggestions.addEventListener("click", (event) => {
+      const button = event.target.closest("button[data-prompt]");
+      if (!button) return;
+      ask(button.dataset.prompt);
+    });
+
+    clearBtn.addEventListener("click", () => {
+      messages.innerHTML = `
+        <div class="message system">
+          Chat cleared. Ask a new question to retrieve evidence and generate an answer.
+        </div>
+      `;
+      messages.appendChild(suggestions);
+    });
+
+    checkApi();
+  </script>
+</body>
+</html>

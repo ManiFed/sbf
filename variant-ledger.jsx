@@ -210,7 +210,7 @@ function VariantLedger() {
               <Row k="CONVICTED" v="NOV 2, 2023" />
               <Row k="COUNTS" v="7 / 7" />
               <Row k="SENTENCE" v="25 YR" />
-              <Row k="FACILITY" v="MDC BROOKLYN" />
+              <Row k="FACILITY" v="FCI LOMPOC I" />
               <Row k="DAYS SERVED" v="1,183" tone="warn" />
             </dl>
           </section>

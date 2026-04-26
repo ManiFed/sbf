@@ -1,6 +1,6 @@
 import os
 import requests
-from search_chunks import search
+from scripts.search_chunks import search
 
 SYSTEM_PROMPT = """
 You are a transparent defense-argument assistant for the Sam Bankman-Fried case.

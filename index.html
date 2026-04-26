@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SBFTX·AI — Entry</title>
+  <title>Free SBF Hub</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
@@ -136,6 +136,40 @@
       letter-spacing: .08em;
     }
 
+
+    .resources {
+      width: min(980px, 100%);
+      margin: 16px auto 0;
+      border: 1px solid var(--border);
+      background: #0f0d08;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .resources-label {
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 11px;
+      letter-spacing: .14em;
+      color: var(--dim);
+    }
+
+    .resource-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-family: "JetBrains Mono", ui-monospace, monospace;
+      font-size: 12px;
+      letter-spacing: .08em;
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      background: #141108;
+    }
+
+    .resource-link:hover {
+      border-color: var(--accent);
+    }
+
     @media (max-width: 860px) {
       .shell { padding: 16px; }
       .grid { grid-template-columns: 1fr; }
@@ -146,13 +180,13 @@
 <body>
   <div class="shell">
     <header class="top">
-      <div class="brand">◆ SBFTX·AI <small>UNIFIED ENTRY</small></div>
+      <div class="brand">◆ FREE SBF </div>
     </header>
 
     <section class="hero">
-      <h1>One place to enter the dossier or interrogate the model.</h1>
+      <h1>Sam Bankman FREED</h1>
       <p class="subtitle">
-        Use the dossier for the long-form legal narrative, timeline, and source-grounded exhibits. Use the model for conversational, adversarial query-and-response against the same record.
+        Legal dossier + interactive AI terminal for exploring the case record, arguments, timelines, and source-backed claims.
       </p>
     </section>
 
@@ -170,6 +204,12 @@
         <p>Run direct prompts in the counsel terminal and export transcripts of each exchange.</p>
         <div class="meta"><span>OPEN</span><span>→ /ai/</span></div>
       </a>
+
+    </section>
+
+    <section class="resources" aria-label="External resources">
+      <div class="resources-label">RESOURCES</div>
+      <a class="resource-link" href="https://freesbf.org" target="_blank" rel="noopener noreferrer">↗ FreeSBF.org</a>
     </section>
   </div>
 </body>

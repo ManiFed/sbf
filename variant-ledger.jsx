@@ -151,7 +151,7 @@ function VariantLedger() {
           <span style={ledger.brandSub}>COUNSEL TERMINAL · v3.11</span>
         </div>
         <div style={ledger.topNav}>
-          <a href="/" style={ledger.navActive}>AI</a>
+          <a href="/ai/" style={ledger.navActive}>AI</a>
           <a href="/essay/" style={ledger.navLink}>ESSAY</a>
         </div>
         <div style={ledger.topClock}>

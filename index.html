@@ -337,7 +337,7 @@
 
     async function checkApi() {
       try {
-        const res = await fetch(`${API_BASE}/`);
+        const res = await fetch("/api/ask");
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         statusDot.classList.add("ok");

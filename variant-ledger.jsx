@@ -4,14 +4,29 @@
 // subtle motion feedback, progressive character reveal on bot replies.
 
 function VariantLedger() {
-  const [messages, setMessages] = React.useState([
-    {
-      role: 'bot',
-      text:
-        "Counsel is online. State your charge — I will respond with the record. Cooperator testimony, headline narratives, and tabloid color are not weighted.",
-      done: true,
-    },
-  ]);
+  const STORAGE_KEY = 'sbftx_chat_messages_v1';
+  const initialMessages = React.useMemo(
+    () => [
+      {
+        role: 'bot',
+        text:
+          "Counsel is online. State your charge — I will respond with the record. Cooperator testimony, headline narratives, and tabloid color are not weighted.",
+        done: true,
+      },
+    ],
+    []
+  );
+  const [messages, setMessages] = React.useState(() => {
+    try {
+      const raw = window.localStorage.getItem(STORAGE_KEY);
+      if (!raw) return initialMessages;
+      const parsed = JSON.parse(raw);
+      if (!Array.isArray(parsed) || parsed.length === 0) return initialMessages;
+      return parsed;
+    } catch (_err) {
+      return initialMessages;
+    }
+  });
   const [draft, setDraft] = React.useState("");
   const [thinking, setThinking] = React.useState(false);
   const [pulse, setPulse] = React.useState(0); // increments to flash transmit feedback
@@ -29,6 +44,15 @@ function VariantLedger() {
   React.useEffect(() => {
     if (scrollRef.current) scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
   }, [messages, thinking]);
+
+  // persist chat history on each message update
+  React.useEffect(() => {
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(messages));
+    } catch (_err) {
+      // intentionally noop if storage is unavailable
+    }
+  }, [messages, STORAGE_KEY]);
 
   // progressive reveal: when last message is a bot in-progress, tick it forward
   React.useEffect(() => {

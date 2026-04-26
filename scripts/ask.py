@@ -60,20 +60,20 @@ def chat_completion(url, api_key, model, prompt, extra_headers=None):
 def call_openrouter(prompt):
     return chat_completion(
         url="https://openrouter.ai/api/v1/chat/completions",
-        api_key=os.environ["OPENROUTER_API_KEY"],
-        model=os.getenv("OPENROUTER_MODEL", "qwen/qwen2.5-7b-instruct:free"),
+        api_key=os.getenv("OPENROUTER_API_KEY"),
+        model="qwen/qwen3-32b",
         prompt=prompt,
         extra_headers={
-            "HTTP-Referer": "https://github.com/ManiFed/sbf-data",
-            "X-Title": "SBF Defense Argument Assistant",
+            "HTTP-Referer": "https://sbf-data.vercel.app",
+            "X-Title": "sbf-data",
         },
     )
 
 def call_groq(prompt):
     return chat_completion(
         url="https://api.groq.com/openai/v1/chat/completions",
-        api_key=os.environ["GROQ_API_KEY"],
-        model=os.getenv("GROQ_MODEL", "qwen-qwq-32b"),
+        api_key=os.getenv("GROQ_API_KEY"),
+        model="qwen/qwen3-32b",
         prompt=prompt,
     )
 
@@ -145,11 +145,6 @@ def call_model(prompt):
     providers = [
         ("OpenRouter", "OPENROUTER_API_KEY", call_openrouter),
         ("Groq", "GROQ_API_KEY", call_groq),
-        ("Fireworks", "FIREWORKS_API_KEY", call_fireworks),
-        ("GitHub Models", "GH_MODELS_TOKEN", call_github_models),
-        ("Hugging Face", "HF_TOKEN", call_huggingface),
-        ("Ollama Cloud", "OLLAMA_API_KEY", call_ollama_cloud),
-        ("Local Ollama", None, call_local_ollama),
     ]
 
     errors = []

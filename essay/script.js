@@ -936,11 +936,13 @@ lazyInit('#collapse-pipeline', (container) => {
 lazyInit('.scrolly-9b', (container) => {
 
   const steps     = container.querySelectorAll('.s9b-step');
+  const stepsWrap = container.querySelector('.s9b-steps');
   const numEl     = document.getElementById('s9b-num');
   const yearEl    = document.getElementById('s9b-year');
   const fillEl    = document.getElementById('s9b-fill');
   const statusEl  = document.getElementById('s9b-status');
   const card      = container.querySelector('.s9b-card');
+  const sticky    = container.querySelector('.s9b-sticky');
   const wangEl    = document.getElementById('s9b-wang');
   const singhEl   = document.getElementById('s9b-singh');
   const ellisonEl = document.getElementById('s9b-ellison');
@@ -1000,7 +1002,21 @@ lazyInit('.scrolly-9b', (container) => {
     steps.forEach((s, j) => s.classList.toggle('active', j === i));
   }
 
+  function syncEndPadding() {
+    if (!stepsWrap || !sticky) return;
+    if (getComputedStyle(sticky).position !== 'sticky') {
+      stepsWrap.style.paddingBottom = '0px';
+      return;
+    }
+    const stickyTop = parseFloat(getComputedStyle(sticky).top || '0') || 0;
+    const stickyHeight = sticky.offsetHeight;
+    const bottomPad = Math.max(window.innerHeight - stickyTop - stickyHeight, 0);
+    stepsWrap.style.paddingBottom = `${Math.round(bottomPad)}px`;
+  }
+
   applyStep(0);
+  syncEndPadding();
+  window.addEventListener('resize', syncEndPadding, { passive: true });
   createScrollyStepObserver(container, steps, applyStep);
 });
 

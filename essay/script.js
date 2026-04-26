@@ -1,4 +1,5 @@
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const isMobileEssayViewport = () => window.matchMedia('(max-width: 760px)').matches;
 
 function throttleWithRaf(fn) {
   let scheduled = false;
@@ -35,6 +36,15 @@ function lazyInit(selector, init, options = { threshold: 0 }) {
 function createScrollyStepObserver(container, steps, applyStep) {
   const stepList = Array.from(steps || []);
   if (!container || !stepList.length) return () => {};
+
+  if (isMobileEssayViewport()) {
+    stepList.forEach((step, index) => {
+      step.addEventListener('click', () => applyStep(index));
+      step.addEventListener('touchstart', () => applyStep(index), { passive: true });
+    });
+    applyStep(0);
+    return () => {};
+  }
 
   const getClosestStepIndex = () => {
     const viewportAnchor = window.innerHeight * 0.5;
@@ -636,6 +646,20 @@ onIdle(() => (function () {
     });
     term.addEventListener('focus', () => show(term));
     term.addEventListener('blur', () => tooltip.classList.remove('visible'));
+    term.addEventListener('click', (e) => {
+      e.preventDefault();
+      const isOpen = tooltip.classList.contains('visible') && tooltip.textContent === term.dataset.tip;
+      if (isOpen) {
+        tooltip.classList.remove('visible');
+        return;
+      }
+      show(term);
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.term') || e.target.closest('#term-tooltip')) return;
+    tooltip.classList.remove('visible');
   });
 
   function positionTooltip(e) {
@@ -1331,6 +1355,22 @@ onIdle(() => {
       tooltip.classList.remove('visible');
       activeEl = null;
     });
+    el.addEventListener('click', (e) => {
+      e.preventDefault();
+      const isOpen = tooltip.classList.contains('visible') && activeEl === el;
+      if (isOpen) {
+        tooltip.classList.remove('visible');
+        activeEl = null;
+        return;
+      }
+      showTooltip(el);
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.num-pop') || e.target.closest('#num-pop-tooltip')) return;
+    tooltip.classList.remove('visible');
+    activeEl = null;
   });
 
   const reposition = throttleWithRaf(() => {

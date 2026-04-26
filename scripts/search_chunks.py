@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-CHUNK_DIR = Path("processed/chunks")
+BASE_DIR = Path(__file__).resolve().parent.parent
+CHUNK_DIR = BASE_DIR / "processed" / "chunks"
 
 def search(query, top_k=5):
     results = []

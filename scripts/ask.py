@@ -170,8 +170,8 @@ def ask(question):
     context = build_context(results)
     prompt = build_prompt(question, context)
 
-    answer, provider = call_model(prompt)
-    return f"{answer}\n\nProvider used: {provider}"
+    answer, _provider = call_model(prompt)
+    return answer
 
 if __name__ == "__main__":
     while True:

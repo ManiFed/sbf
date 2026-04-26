@@ -95,15 +95,24 @@ function VariantLedger() {
         ]);
       });
   };
+  const convictionDate = new Date('2023-11-02T00:00:00Z');
+  const sentencingDate = new Date('2024-03-28T00:00:00Z');
+  const now = new Date();
+  const MS_PER_DAY = 86_400_000;
+  const daysSinceConviction = Math.max(0, Math.floor((now - convictionDate) / MS_PER_DAY));
+  const daysSinceSentencing = Math.max(0, Math.floor((now - sentencingDate) / MS_PER_DAY));
+  const userMessageCount = messages.filter((m) => m.role === 'user').length;
+  const counselMessageCount = messages.filter((m) => m.role === 'bot').length;
+
   const tickerItems = [
-    { k: 'CLAIMS.RECOVERY', v: '118.0%', d: '+0.4', pos: true },
-    { k: 'APPEAL.STATUS', v: 'PENDING', d: '2DCIR', pos: true },
-    { k: 'COOPERATORS', v: '3', d: 'PLEA', pos: false },
-    { k: 'SHORTFALL.MYTH', v: '0.0B', d: 'AUDITED', pos: true },
-    { k: 'PRESS.BIAS', v: 'HIGH', d: '+0.07', pos: false },
-    { k: 'BAHAMAS.LIC', v: 'VALID', d: 'DARE', pos: true },
-    { k: 'EA.GIVING', v: '$160M', d: 'PRE-NOV', pos: true },
-    { k: 'DAYS.SERVED', v: '1183', d: '+1', pos: false },
+    { k: 'CASE.NUMBER', v: '23-CR-673', d: 'SDNY', pos: true },
+    { k: 'COUNTS.CONVICTED', v: '7', d: 'NOV 2 2023', pos: true },
+    { k: 'SENTENCE', v: '300 MO', d: 'MAR 28 2024', pos: false },
+    { k: 'DAYS.SINCE.CONVICTION', v: String(daysSinceConviction), d: 'LIVE', pos: false },
+    { k: 'DAYS.SINCE.SENTENCING', v: String(daysSinceSentencing), d: 'LIVE', pos: false },
+    { k: 'SESSION.USER.MSGS', v: String(userMessageCount), d: 'LIVE', pos: true },
+    { k: 'SESSION.COUNSEL.MSGS', v: String(counselMessageCount), d: 'LIVE', pos: true },
+    { k: 'EVIDENCE.ITEMS', v: String(evidence.length), d: 'LOCAL', pos: true },
   ];
 
   const evidence = [
@@ -183,14 +192,14 @@ function VariantLedger() {
           <section style={ledger.section}>
             <div style={ledger.sectionHead}>
               <span>02 / SENTENCING</span>
-              <span style={ledger.sectionMeta}>SDNY · 23-CR-490</span>
+              <span style={ledger.sectionMeta}>SDNY · 23-CR-673</span>
             </div>
             <dl style={ledger.dl}>
               <Row k="CONVICTED" v="NOV 2, 2023" />
               <Row k="COUNTS" v="7 / 7" />
               <Row k="SENTENCE" v="25 YR" />
-              <Row k="FACILITY" v="MDC BROOKLYN" />
-              <Row k="DAYS SERVED" v="1,183" tone="warn" />
+              <Row k="SENTENCED" v="MAR 28, 2024" />
+              <Row k="DAYS SINCE SENTENCE" v={daysSinceSentencing.toLocaleString()} tone="warn" />
             </dl>
           </section>
 
@@ -201,10 +210,10 @@ function VariantLedger() {
               <span style={ledger.sectionMeta}>ESTATE · POST-PETITION</span>
             </div>
             <dl style={ledger.dl}>
-              <Row k="MAKE-WHOLE" v="118¢ / $" tone="ok" />
-              <Row k="NET HARM" v="$0.00" tone="ok" />
-              <Row k="CLAIMS MARKET" v="142¢" tone="ok" />
-              <Row k="EA GIVING (PRE)" v="$160M" />
+              <Row k="DAYS SINCE CONVICTION" v={daysSinceConviction.toLocaleString()} tone="ok" />
+              <Row k="DAYS SINCE SENTENCE" v={daysSinceSentencing.toLocaleString()} tone="ok" />
+              <Row k="LOCAL EVIDENCE ROWS" v={String(evidence.length)} tone="ok" />
+              <Row k="SESSION MESSAGES" v={String(messages.length)} />
             </dl>
           </section>
 

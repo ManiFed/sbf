@@ -197,6 +197,11 @@ def call_model(prompt):
     providers = [
         ("OpenRouter", "OPENROUTER_API_KEY", call_openrouter),
         ("Groq", "GROQ_API_KEY", call_groq),
+        ("Fireworks", "FIREWORKS_API_KEY", call_fireworks),
+        ("GitHub Models", "GH_MODELS_TOKEN", call_github_models),
+        ("Hugging Face", "HF_TOKEN", call_huggingface),
+        ("Ollama Cloud", "OLLAMA_API_KEY", call_ollama_cloud),
+        ("Local Ollama", None, call_local_ollama),
     ]
 
     errors = []

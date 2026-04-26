@@ -1,0 +1,475 @@
+
+
+--- PAGE 1 ---
+
+Exhibit C 
+Contemporaneous Document Written by Samuel Bankman-Fried 
+Case No. 22-cr-673 (LAK) 
+Page 1 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 1 of 13
+
+
+--- PAGE 2 ---
+
+Nishad joined Alameda as a developer in mid December.  In his time here, he has grown a lot, 
+and contributed a lot.  He’s also given a lot of feedback, and I think the feedback has been quite 
+helpful and perceptive.    
+When Nishad joi
+ned, he was fairly inexperienced as a developer--he had graduated college 6 
+months earlier.  Because of this he was seen as an unfailing nice person, good team player, 
+good cultural influence, and relatively weak programmer. 
+The dev team exper
+ienced increasing tension over time, as a result, primarily, of tensions 
+surrounding Nathan.  Nishad became worried about these tensions, and did what he could to 
+ease them.  He talked with the developers, thought about possible fixes, and talked to 
+management about the problems and what might help them. 
+He also dove i
+nto the code, and did what he could to address the technical disputes.  While 
+many were busy complaining about code messiness, Nishad jumped in and cleaned up the 
+code.  While many complained about it being too hard to learn the code, Nishad read through it 
+and quickly became proficient. 
+It became clear
+ that the dev team would really benefit from a good manager, but that there were 
+no natural candidates.  Gary didn’t like managing people or others’ emotions; Nathan was an 
+asshole; and Nishad was inexperienced and didn’t have the technical respect of his team.  I 
+floated the idea, tentatively, about Nishad being the dev manager anyway and received a lot of 
+negative feedback.  I think the feedback was right, in that it would have caused a lot of problems 
+because of people’s lack of technical respect for him--but that it would probably have been the 
+second best solution to the problem at hand (behind firing Nathan). 
+By Marc
+h it had become clear that not only was Nishad a pleasure to interact with, he also had 
+become quite good at his job: he was producing more code than anyone but Gary, could 
+diagnose problems in the system, and could create new features. 
+He has now becom
+e an extremely valuable member of Alameda.  He’s taken on important 
+projects in dev and ops, become proficient enough to watch trading, and continued to be great 
+for morale.  He’s cleaned up most of the codebase, and written important new code. 
+Below are pi
+eces of feedback that Nishad has given over time.  I endorse most of what he said. 
+Some of these I i
+nclude because they’re important to the overall story of Alameda.  Others are 
+here just as a demonstration of the responsibility, empathy, and thoughtfulness he’s displayed 
+at Alameda. 
+Feel free to only
+ read the emails (May 7th and 25th); they include most of the important 
+commentary. 
+Page 2 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 2 of 13
+
+
+--- PAGE 3 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 3 of 13
+
+
+--- PAGE 4 ---
+
+Page 4 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 4 of 13
+
+
+--- PAGE 5 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Page 5 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 5 of 13
+
+
+--- PAGE 6 ---
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 6 of 13
+
+
+--- PAGE 7 ---
+
+Page 7 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 7 of 13
+
+
+--- PAGE 8 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 8 of 13
+
+
+--- PAGE 9 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 9 of 13
+
+
+--- PAGE 10 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+Page 10 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 10 of 13
+
+
+--- PAGE 11 ---
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Page 11 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 11 of 13
+
+
+--- PAGE 12 ---
+
+●  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Page 12 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 12 of 13
+
+
+--- PAGE 13 ---
+
+●  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 13
+Case 1:22-cr-00673-LAK     Document 523-3     Filed 10/16/24     Page 13 of 13

@@ -1,0 +1,799 @@
+
+
+--- PAGE 1 ---
+
+[Type text] 
+ 
+ 
+ 
+ 
+ 
+ 
+              November 13, 2024 
+BY ECF   
+         
+Honorable Lewis A. Kaplan 
+United States District Judge  
+Daniel Patrick Moynihan  
+United States Courthouse  
+500 Pearl Street 
+New York, NY 10007-1312 
+ 
+Re:  United States v. Gary Wang, 22 Cr. 673 (LAK) 
+ 
+Dear Judge Kaplan:  
+ 
+The Government writes in advance of defendant Gary Wang ’s sentencing scheduled for 
+November 20, 2024, at 10:00 a.m., to advise the Court of his outstanding cooperation, which was 
+significant to the Government’s ability to bring criminal charges within a month of FTX’s 
+bankruptcy, convict Samuel Bankman-Fried at trial, and recover hundreds of millions of dollars in 
+assets for the benefit of victims . This submission describes Wang ’s substantial assistance in the 
+investigation of wrongdoing at FTX, the prosecution and trial of Bankman- Fried, and in other 
+matters. 
+ 
+As detailed below,  Wang was the first of Bankman -Fried’s co-conspirators to begin 
+cooperating with the Government and the first cooperating witness to testify at Bankman-Fried’s 
+trial and describe the fraud scheme. As the first co-conspirator to cooperator, he disclosed firsthand 
+knowledge that established that Bankman-Fried had committed fraud , and information that was 
+used to obtain legal process relating to other FTX and Alameda Research employees, indict 
+Bankman-Fried within a month of FTX’s collapse, a nd seize and forfeit hundreds of millions in 
+assets. At Bankman -Fried’s trial, Wang provided crucial testimony about the special privileges 
+that had been granted to Alameda Research on the FTX exchange, and how Bankman- Fried and 
+others abused those features to steal billions of dollars in customer funds. Prior to and at trial, 
+Bankman-Fried had falsely suggested that he was unaware of Alameda’s special privileges and 
+did not know how to do computer coding. Wang proved those assertions to be lies, and provided 
+important testimony about how Bankman-Fried directed the creation of those features of the code 
+and was involved in abusing those features. In addition to his trial testimony, Wang has aided the 
+bankruptcy estate in recovering assets, assisted other law enforcement agencies in their own 
+investigations, and made himself available to testify in other criminal cases.  
+ 
+Wang has also provided substantial assistance – and in the process taken steps to right past 
+wrongs – by putting his extraordinary computer programing skills to use in detecting potential 
+fraud in the stock and cryptocurrency markets. As described in the redacted portion of this 
+ 
+ 
+ 
+The Jacob K. Javits Federal Building 
+              26 Federal Plaza, 37th Floor 
+              New York, New York 10278 
+ 
+U.S. Department of Justice 
+ 
+United States Attorney 
+Southern District of New York 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 1 of 16
+
+
+--- PAGE 2 ---
+
+ Page 2 
+ 
+ 
+submission, using principles that Wang developed at FTX for know-your-customer due diligence 
+and improper trading detection, Wang has built an interface that the Government has begun using 
+for detecting potential fraud by publicly traded companies. Wang has also been working on a tool 
+for detection of potential illegal activity in cryptocurrency markets, which in the event Wang is 
+sentenced to a period of time served, the Government understands he will complete as part of his 
+ongoing cooperation.  
+ 
+What is particularly notable about Wang’s cooperation in this case is that he decided to 
+cooperate immediately, even though he was not involved in many aspects of the criminal 
+enterprise, and there was little documentary evidence linking Wang to the frauds  on FTX’s 
+customers and investors. Specifically, while Wang was involved in implementing certain computer 
+code provisions, it was not until late 2021 or 2022 that he learned Alameda had made use of 
+approximately $3 billion in customer funds. And like Nisha d Singh, it was not until September 
+2022 that Wang learned that Alameda had used in excess of $10 billion in customer funds and 
+would not be able to repay its debt. While Wang remained employed at FTX following these 
+realizations, he did not spend a dime of customer money, and took minimal steps to further the 
+fraud at that point. Unlike Bankman- Fried and his co- conspirators, Wang did not make false 
+statements to customers, lenders, or investors; he was not involved in spending customers’ money 
+at any time; he did not falsify revenue, engage in money laundering, or commit campaign finance 
+violations; and he did not profit from the scheme. In fact, there were very few documents in the 
+trial evidence, beyond the computer code, implicat ing Wang in the fraud. It is easy to imagine 
+another person in Wang’s position who would have denied awareness and responsibility, argued 
+he was merely present and nothing more, or at a minimum waited to see how the Government’s 
+investigation developed to determine whether he or could elude responsibility. Wang’s decision, 
+instead, to immediately accept responsibility, and in the process provide evidence to the 
+Government that allowed it to bring charges so quickly is in and of itself remarkable.    
+ 
+In light of these facts, and assuming that Wang continues to comply with the terms of his  
+cooperation agreement, commits no additional crimes before sentencing, and appears for his  
+sentencing as scheduled, the Government intends to move at sentencing, pursuant to Section 5K1.1 
+of the U.S. Sentencing Guidelines (the “Guidelines” or “U.S.S.G.”), that the Court sentence Wang 
+in light of the factors set forth in Section 5K1.1(a) of the Guidelines.  
+ 
+I. Background and Offense Conduct  
+ 
+Wang was born in China and moved to the United States when he was seven years old. 
+(Presentence Investigation Report (PSR) ¶¶ 63-64, ECF No. 514). During high school, Wang met 
+Bankman-Fried at a summer math camp. (Trial Tr. at 310). Wang attended college at MIT, where 
+he reconnected with Bankman-Fried, who was also a student. (Trial Tr. at 310-11). After college, 
+Wang became a software engineer at Google in Boston, while Bankman-Fried moved to New York 
+to become a trader at Jane Street. (Trial Tr. 188; PSR ¶ 66).  
+ 
+In 2017, Bankman-Fried approached Wang about starting a cryptocurrency trading firm. 
+(Trial Tr. at 312). They moved to Berkeley, California, where Bankman- Fried founded Alameda 
+Research. (Trial Tr. at 312-16). Wang was made a 10% owner of the firm. (Id.). However, he was 
+not one of the publicly named co-founders, nor was he in a leadership position. Instead, he focused 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 2 of 16
+
+
+--- PAGE 3 ---
+
+ Page 3 
+ 
+ 
+on writing computer code to assist Alameda in its trading operations. As Bankman-Fried conceded 
+during his own testimony at trial, Wang was “basically building out the computer systems 
+themselves.” (Trial Tr. at 2310). Wang never took on a greater role at Alameda.  
+ 
+In 2019, Bankman -Fried suggested that he and Wang found a cryptocurrency exchange, 
+which became known as FTX. (Trial Tr. at 318). Wang was the chief technical officer. (Trial Tr. 
+at 303). He made $200,000 a year and was granted equity in FTX. (Trial Tr. at 324). Bankman-
+Fried owned 60 percent while Wang owned 17 percent and Singh owned 5 percent. ( Id.). Wang 
+and Bankman-Fried did not share responsibilities equally. (Trial Tr. at 322). Wang was responsible 
+for writing the computer code and reviewing others’ code. (Id.). As Singh testified, their jobs were 
+“similar in that [they] both wrote code.” (Trial Tr. at 1304). Bankman -Fried, on the other hand, 
+was involved in public relations, talking to investors, speaking to the media, talking to customers, 
+giving interviews, doing advertisements, raising funds, lobbying, directing strategy, and directing 
+spending. (Trial Tr. at 323). Wang did none of those things. When Wang and Bankman- Fried 
+disagreed about something, Bankman-Fried made the decision. (Id.).  
+ 
+Over time, Wang’s role – particularly any notional leadership role –  diminished. Wang 
+worked so much on correcting “bugs” in FTX’s computer code that his colleagues, such as Adam 
+Yedidia, “were concerned” that he “might burn out.” (Trial Tr. at 213). By the time FTX moved 
+to the Bahamas in 2021, Wang was no longer seated near Bankman-Fried (Singh was). Wang did 
+not supervise any software engineers. (Trial Tr. at 323). Wang considered leaving at various points, 
+but was concerned about what would happen to FTX since the technical coding team at FTX was 
+small.  
+ 
+A. Fraud on FTX Customers  
+ 
+The evidence at Bankman -Fried’s trial proved that over the course of multiple years, 
+Bankman-Fried stole and directed the misappropriation of billions of dollars in customers’ funds. 
+The fraud is one of the largest financial frauds ever, resulting in billi ons of dollars in losses and 
+thousands of affected victims. While Wang was not the mastermind of this fraud, and was not 
+directly involved in the actual misappropriation of customers’ funds, he contributed to the fraud 
+by unwittingly putting in place computer cod e, which, he later came to understand, was used by 
+Bankman-Fried to misappropriate customer money. As Wang described at trial, he “gave special 
+privileges to Alameda Research on FTX, which allowed it to withdraw unlimited amounts of funds 
+from the platform,” and together with his co-conspirator they “lied about this to the public.” (Trial 
+Tr. at 304). Wang testified about two special privileges, in particular, that allowed Alameda to take 
+customer funds: (1) the “ability to withdraw funds or transfer funds regardless of what [Alameda] 
+had in its account, even if that would cause the account balance to become negative,” and (2) “a 
+very large line of credit which allowed [Alameda] to have open orders and open positions, 
+essentially without limit.” (Trial Tr. at 305 -06, 350). As a result of Alameda’s ability to incur a 
+negative balance on FTX, and its line of credit, it withdrew over $8 billion from FTX, leaving the 
+exchange unable to pay customers. (Trial Tr. at 309-10, 351). This was an incredibly serious crime, 
+for which Wang has accepted responsibility and expressed remorse. 
+ 
+Wang’s involvement began, unwittingly, early in his time at FTX. In July 2019, Bankman-
+Fried asked Wang and Singh to make an addition to FTX’s code to permit Alameda to have a 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 3 of 16
+
+
+--- PAGE 4 ---
+
+ Page 4 
+ 
+ 
+negative balance in its account. (Trial Tr. at 352-53). Bankman-Fried told Wang and Singh that he 
+wanted to pay for various FTX -related expenses from Alameda’s accounts, including expenses 
+relating to FTT, the native cryptocurrency of FTX. (Trial Tr. at 352-53, 359). Bankman-Fried also 
+told Wang that  the ability  for FTX  to maintain a negative balance was necessary for making 
+conversions from U.S. dollars to stablecoins. (Trial Tr. at 364). At that time, Singh added an “allow 
+negative” feature to FTX’s computer code. (Trial Tr. at 359-60).  
+ 
+In late 2019, Wang overheard Bankman-Fried talking to an Alameda trader about Alameda 
+having a negative balance on FTX. (Trial Tr. at 375). At that time, the Alameda trader had asked 
+Bankman-Fried whether it was permissible for Alameda to continue to withdraw from FTX, even 
+if it had a negative balance. (Id.). Bankman-Fried responded that as long as the amount withdrawn 
+from FTX was less than FTX’s total trading revenue (between $50 and $100 million), it was fine 
+for Alameda to keep withdrawing. (Id.).  
+ 
+Then, by chance, at the very end of 2019 or in early 2020, Wang did a database query to 
+check what Alameda’s balances were at the time. When he checked, Wang observed that the 
+balance was negative by more than what FTX’s trading revenue was at the time. (Trial Tr. at 376). 
+The implication of this discovery was that Alameda was taking FTX customer funds. (Id.). Wang 
+was “surprised because it didn’t line up with what [he had] heard [Bankman- Fried] say earlier,” 
+so Wang went to speak to Bankman-Fried. (Trial Tr. at 377). In response, Bankman-Fried insisted 
+that Wang was mistaken, and asked Wang whether he was including the value of Alameda’s FTT. 
+(Id.). Including the value of Alameda’s FTT meant that Alameda’s balance was no longer negative 
+by more than what FTX’s trading revenue. As the trial evidence established, including Alameda’s 
+FTT did not truly address Alameda’s negative balance because the FTT was illiquid and could not 
+be sold at the value on the balance sheet, as Bankman- Fried well knew.  Bankman -Fried’s 
+explanation did not make “total sense” to Wang but he mistakenly “trusted his judgment.” (Trial 
+Tr. at 380).  
+ 
+At some time not long after FTX’s founding, Bankman-Fried directed Wang to grant a line 
+of credit on FTX to Alameda. Initially, the line of credit was not particularly large. Alameda was 
+one of the main market markers on FTX, and over time there were instances when Alameda ran 
+into issues doing market making because it did not have enough collateral on FTX. (Trial Tr. at 
+398). When that happened, Alameda traders told Bankman-Fried, who, in turn, told Wang to “take 
+up Alameda’s line of credit.” (Id.). After this happened a few times, Bankman-Fried told Wang to 
+take the line of credit high enough so this would not be an issue again. (Id.). Wang told Bankman-
+Fried he could set it to $65 billion, and Bankman-Fried told him to do it. (Id.).  
+ 
+In late 2021, Wang did a database query and saw that Alameda had withdrawn 
+approximately $3 billion from FTX using its line of credit. (Trial Tr. at 400). He mentioned it to 
+Bankman-Fried. (Id.). While Wang had no involvement in using Alameda’s special privileges or 
+withdrawing customer funds, he did not – as his sentencing submission observes – “disable” the 
+special privileges and “continued to maintain FTX’s overall digital infrastructure.” (Wang Sent. 
+Sub. at 16, ECF No. 535).  
+ 
+In June 2022, prices for several cryptocurrencies had fallen, and some of Alameda’s lenders 
+were asking for their money back. (Trial Tr. at 422). Bankman- Fried asked Wang to help figure 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 4 of 16
+
+
+--- PAGE 5 ---
+
+ Page 5 
+ 
+ 
+out Alameda’s balances on FTX. ( Id.). Wang was not involved in Alameda’s borrowing from 
+lenders and did not know how much had been borrowed. (Trial Tr. at 441). Wang worked on a 
+spreadsheet about Alameda’s balances with Singh and Caroline Ellison, and Bankman -Fried 
+reviewed it. (Trial Tr. at 426; see also GX-50). Wang determined that Alameda’s main account on 
+FTX had a negative balance of $2.7 billion, and Alameda owed $11 billion in fiat deposits that had 
+been processed by the firm. (Trial Tr. at 433- 34). In total, combining all of Alameda’s accounts, 
+Wang saw that Alameda’s total balance on FTX was negative $11 billion. (Trial Tr. at 436). 
+Because FTX’s revenues were approximately $1.5 billion, Wang knew in June 2022 that the 
+remaining amount of funds taken by Alameda had to be customer funds. (Trial Tr. at 437- 38). 
+After doing these calculations, Wang met with Bankman-Fried, Ellison, and Singh, and after some 
+discussion, Bankman-Fried told Ellison that Alameda could go ahead and return borrowed funds 
+to Alameda’s lenders. (Trial Tr. at 440). Wang had no involvement in repaying those lenders, did 
+not know how they were being repaid, and did not know the amount of the repayment.  
+ 
+Then, in September 2022, Bankman -Fried and Ellison learned  that Bloomberg was 
+planning to publish an article about the relationship between FTX and Alameda. (Trial Tr. at 442). 
+Bankman-Fried said it would be bad for FTX. (Trial Tr. at 443). Soon thereafter,  Bankman-Fried 
+shared a Google document with Wang and Singh about shutting down Alameda. (Id.; see also GX-
+18). Bankman-Fried, Wang, and Singh discussed the idea, and then had a second discussion that 
+included Ellison. (Trial Tr. at 447- 48). In that second discussion, Wang asked Ellison how much 
+money Alameda had borrowed from FTX, and she said $14 billion. (Trial Tr. at 449). Wang then 
+told Bankman-Fried that, in his opinion, such a large deficit meant that Alameda could not shut 
+down because it did not have the assets to repay the debt. (Trial Tr. at 450). Bankman- Fried did 
+not shut down Alameda. (Id.).  
+ 
+On Sunday, November 6, 2022, FTX customers had begun to withdraw their money from 
+the exchange. (Trial Tr. at 451). Singh woke up Wang at his apartment and told him there w as a 
+large amount of customer withdrawals, and they were getting backed up in the system. (Id.). Wang 
+started working to speed up customer withdrawals. (Trial Tr. at 452). Bankman- Fried instructed 
+Wang to calculate how much additional money needed to be deposited on to FTX so that customers 
+could withdraw all their funds. (Trial Tr. at 452- 53). Wang totaled customer balances, excluding 
+Alameda, and found that there was sufficient money to cover customer withdrawals. (Trial Tr. at 
+453). Wang gave that conclusion to Bankman-Fried, who responded by asking whether Wang was 
+counting “the special Korean accounts.” (Trial Tr. at 453-54). Wang did not know what Bankman-
+Fried was talking about, so Bankman- Fried explained that there was a hidden account that 
+displayed Alameda’s “fiat” liability, meaning the amount of money it had taken in fiat deposi ts. 
+(Id.). Singh knew about the account and shared the account information with Wang. (Trial Tr. at 
+454). After including that hidden account, Wang determined that FTX was $8 billion short  of 
+having sufficient funds to cover customer withdrawals . (Trial Tr. at 457).  Between November 7 
+and November 10, Wang worked principally to liquidate funds and facilitate customer 
+withdrawals.  
+ 
+On November 11, 2022, FTX declared bankruptcy. On November 12, Bankman- Fried 
+asked Wang to drive with him to the Bahamas Securities Commission. (Trial Tr. at 465). During 
+the drive, Bankman- Fried expressed a preference for transferring FTX’s remaining asse ts to 
+Bahamas regulators or liquidators. ( Id.). Bankman- Fried preferred authorities in the Bahamas 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 5 of 16
+
+
+--- PAGE 6 ---
+
+ Page 6 
+ 
+ 
+because “they seemed friendly and seemed willing to let him stay in control of the company.” 
+(Trial Tr. at 465 -66). After arriving at the Bahamas Securities Commission, Bankman- Fried, his 
+father, and attorneys met with the regulators while Wang was left outside to wait. (Trial Tr. at 
+466). After his meeting with the regulators, Bankman- Fried told Wang that the regulators were 
+“going to order us to transfer the assets … to the Bahamas.” ( Id.). Bankman-Fried, Wang, and the 
+Bahamas regulators went back to FTX’ s office. (Trial Tr. at 467). The U.S. bankruptcy estate’s 
+attorneys told Bankman- Fried that he should not transfer any funds that were the subject of the 
+bankruptcy, but he told Wang to “ignore the instructions and continue transferring the funds.” 
+(Trial Tr. at 470).  
+ 
+B. Fraud on FTX Investors  
+ 
+In addition to accepting responsibility for his involvement in FTX’s fraud on its customers, 
+Wang also took responsibility for securities fraud. Wang never spoke to the media and had very 
+little contact with investors. Nonetheless, because FTX had an open floor plan, he overhead some 
+of Bankman-Fried’s conversations with investors. (Trial Tr. at 400). During some of those calls, 
+Wang overheard Bankman-Fried make statements that Alameda did not receive special treatment 
+on FTX, which Wang knew were false because Alameda had unique functionality on FTX. (PSR 
+¶ 43). At the time Wang heard Bankman-Fried lying to investors, he did not yet know that Alameda 
+was exploiting special privileges to withdraw customer money. But after learning that, he 
+continued to operate the code in a way that he knew was incompatible with information provided 
+to FTX investors.  
+ 
+C. Compensation, Spending, and Loans   
+ 
+Wang received an annual salary of $200,000 from FTX. (PSR ¶ 78). He did not withdraw 
+any significant amount of money from FTX. In contrast to all of his co-defendants, Wang did not 
+engage in significant personal spending: indeed, he is able to return some of his salary as forfeiture 
+because he did not spend it all.  
+ 
+At various times during his tenure at FTX, Wang was given loans from Alameda to make 
+investments in companies affiliated with FTX, or in which Bankman-Fried wanted to invest. (Trial 
+Tr. at 325, 580). Bankman-Fried or attorneys acting at his direction presented the loan agreements 
+to Wang. (Id.). They told Wang that the loans were for corporate investments, but did not give him 
+additional details. (Trial Tr. at 608 -10). Wang understood that the expectation was that he would 
+sign the loans. ( Id.). Those loans totaled $200 to $300 million. (Trial Tr. at 326). None of the 
+money went to Wang; instead, it was used for investments by FTX, Alameda, or Bankman-Fried. 
+(Trial Tr. at 639). To the extent Wang’s name was listed on some of those investments – such as a 
+purchase of Robinhood stock – he did not know about it. In connection with his plea and 
+sentencing, Wang has also agreed to forfeit any interest he might have in any company investment 
+on which he was listed as an owner.  
+ 
+The only money that Wang ever received beyond his salary was an unsolicited, one -time 
+loan of $1 million that Bankman-Fried sent to Wang’s FTX account after Wang expressed that he 
+was anxious about paying interest on the company loans that Wang had signed. (Trial Tr. at 324-
+25). At some point Wang drew $200,000 from that line of credit. (Trial Tr. at 575 -76). He feared 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 6 of 16
+
+
+--- PAGE 7 ---
+
+ Page 7 
+ 
+ 
+that his then -fiancée would have nowhere to live in the event  of a conflict between the United 
+States and China, so he loaned her $200,000 to purchase a small property in hopes of securing 
+residency in St. Kitts. (Trial Tr. at 583). Wang’s then-fiancée soon thereafter repaid the money to 
+Wang, and he used it to pay taxes. In other words, Wang did not ultimately spend any of that line 
+of credit on anything other than taxes.  
+ 
+II. Procedural History  
+ 
+On November 13, 2022, counsel for Wang contacted the Government about cooperating 
+with its investigation. On November 14, Wang’s counsel informed the Government that Wang 
+wished to leave the Bahamas to travel to New York and meet with the Government. There was, 
+however, a problem: authorities in the Bahamas had made Wang surrender his passport. (Trial Tr. 
+at 592-93). Although he had been advised that he would be getting the passport back, there were 
+unexplained delays in it being returned. To get Wang out of the Bahamas, the Government 
+arranged for him to go to the U.S. embassy, request an emergency passport, and leave the country. 
+On November 16, Wang left the Bahamas and traveled to the United States. On the morning of 
+November 17, Wang met with the Government and proffered for several hours. (Trial Tr. at 471). 
+At the time Wang met with the Government, he had not been arrested or charged with any crimes. 
+(Id.). He was the first FTX employee, first member of the conspiracy, and first trial witness to be 
+interviewed by the Government. 
+ 
+  At Wang’s first meeting, he voluntarily surrendered his laptop and two phones, which 
+contained voluminous data, including FTX’s codebase, Slack, emails, and preserved Signal 
+messages. At that first meeting, and multiple other meetings in November and December 2022, 
+Wang walked the Government through FTX’s code, with a particular focus on the code portions 
+that permitted Alameda to have special privileges on FTX.  
+ 
+On December 9, 2022, a grand jury sitting in the Southern District of New York returned 
+an eight-count Indictment charging Bankman -Fried with conspiracy to commit wire fraud, wire 
+fraud, conspiracy to commit commodities fraud, conspiracy to commit securities fraud, conspiracy 
+to commit money laundering, and conspiracy to defraud the United States and commit campaign 
+finance violations. On December 12, 2022, Bankman- Fried was arrested. The charges against 
+Bankman-Fried were unsealed on December 13, 2022, the  same day the SEC and CFTC 
+announced the initiation of civil proceedings against Bankman-Fried. 
+ 
+On December 19, 2022, Wang pleaded guilty before the Honorable Ronnie Abrams to four 
+counts: (1) conspiracy to commit wire fraud, in violation of 18 U.S.C. § 1349; (2) wire fraud on 
+customers, in violation of 18 U.S.C. § 1343; (3) conspiracy to commit commodities fraud, in 
+violation of 18 U.S.C. § 371; and (4) conspiracy to commit securities fraud, in violation of 18 
+U.S.C. § 371. Wang was uninvolved in the wire fraud on Alameda’s lenders, the money laundering 
+conspiracy, or the campaign finance violations, and as a result he did not plead guilty to any of 
+those offenses.  
+ 
+In total, Wang met with the Government at least 20 times, and spent additional time outside 
+of these meetings reviewing computer code, documents, emails, and spreadsheets in order to 
+identify and decode relevant documents for the Government. 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 7 of 16
+
+
+--- PAGE 8 ---
+
+ Page 8 
+ 
+ 
+Wang testified at Bankman-Fried’s trial in October 2023 for three  days. He was the first 
+cooperating witness to testify. At the conclusion of the trial, Bankman-Fried was convicted on all 
+seven counts of the superseding indictment.  
+ 
+III. The Presentence Investigation Report and the Applicable Guidelines Range  
+ 
+The United States Probation Office issued a final Presentence Investigation Report on 
+September 30, 2024. In the PSR, the Probation Office calculates the otherwise applicable 
+Guidelines sentence to be 292 to 365 months’ imprisonment, based on an offense level of 40 and 
+a criminal history category of I. (PSR ¶ 83). The calculations of the Probation Office are set forth 
+in paragraphs 44 through 61 of the Presentence Report. The offense level is driven principally by 
+the loss amount of over $10 billion, which under U.S.S.G. § 2B1.1(b)(1)(P), results in a 30- level 
+increase to the offense level. (PSR ¶ 47). Of the four defendants convicted of the fraud on FTX’s 
+customers, Wang is the only defendant whose guidelines are not life imprisonment.  
+ 
+IV. Wang’s Cooperation and the Significance of his Assistance   
+ 
+Under Section 5K1.1 of the Guidelines, the appropriate reduction in a defendant’s sentence 
+for his cooperation is determined based on, among other things, “the significance and usefulness 
+of the defendant’s assistance,” the “truthfulness, completeness, and reliability” of his information, 
+the “nature and extent” of his cooperation, and the “timeliness of the defendant’s assistance.” As 
+measured by those factors, Wang’s cooperation was not only timely, significant, and reliable, but 
+extraordinary.   
+ 
+A. The Timeliness of Wang’s Cooperation   
+ 
+Wang’s cooperation was very timely. FTX declared bankruptcy on November 11, 2022, 
+and on November 17, 2022, Wang was interviewed at the U.S. Attorney’s Office. While Wang 
+began proffering less than a week after the company’s collapse, it appears his cooperation would 
+have started even sooner, but for the fact that he was detained in the Bahamas by being deprived 
+of his passport. It took intervention by the Government to get Wang out of the Bahamas, and he 
+began proffering the morning after he returned to the United States.  
+ 
+Wang was the first FTX employee to be interviewed by the Government. At the time of 
+Wang’s interview, the Government had interviewed one other witness – a former Alameda 
+employee who would not end up being a trial witness. Wang was the first witness to give the 
+Government any information about the code -based ways in which Bankman- Fried 
+misappropriated money from FTX customers. Thus, it was after Wang’s first interview that the 
+Government began to have an understanding of how Bankman-Fried had stolen customers’ money. 
+Wang was the first cooperating witness to be interviewed and the first to be thoroughly debriefed. 
+Wang was interviewed four times before Bankman -Fried was indicted, and by the time of 
+Bankman-Fried’s indictment, the Government was already in a position to enter into a cooperation 
+agreement with Wang. By comparison, Ellison was interviewed for the first time the day before 
+Bankman-Fried’s indictment, and while Singh was interviewed in November 2022, he was not 
+fully debriefed and signed to a cooperation agreement until early the next year. Measured against 
+almost any other white collar prosecution, the timeliness of Wang’s cooperation was extraordinary.  
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 8 of 16
+
+
+--- PAGE 9 ---
+
+ Page 9 
+ 
+ 
+The timeliness of Wang’s assistance contributed to the Government’s ability to seek an 
+indictment against Bankman -Fried. Before Wang started cooperating, the Government did not 
+know the ways in which Bankman-Fried and his co-conspirators had misappropriated money from 
+FTX customers. Wang immediately advanced the investigation by describing one of the means by 
+which Bankman-Fried stole money, providing sufficient evidence for the Government to bring 
+fraud charges. Wang also provided the Government with valuable documentary evidence that was 
+not previously in its possession. The Government first obtained access to FTX’s computer code, 
+including the portions that gave special advantages to Alameda, from Wang’s laptop. Wang also 
+provided the Government with Slack and Signal messages, which the Government did not have 
+access to prior to that point.  
+ 
+The significance of the timing of Wang’s cooperation is also underscored by what the 
+Government did not know when Wang began proffering. A t the time of Wang’s first interview, 
+the Government did not have sufficient evidence to charge Wang – it was he who inculpated 
+himself at that very first interview. While the Government may well have developed sufficient 
+information to bring charges, without Wang’s early acceptance of responsibility, the Government 
+would not have been able to bring charges against Bankman-Fried, Wang, or any co-conspirators 
+with the speed and efficiency  that it did, which, in turn, might have posed additional risk to the 
+Government’s ability to arrest and try Bankman-Fried, secure assets, and reassure victims and the 
+public of its ability to render justice swiftly and effectively . With respect to Wang, given the 
+paucity of documentary evidence inculpating him, and his absence from several important events 
+in 2021 and 2022, its possible that it would have been difficult to amass the evidenc e to charge 
+Wang with any type of expediency. Thus, the timing of his cooperation is notable both in assessing 
+the substantial assistance he provided, but also in considering his early acceptance of 
+responsibility.  
+ 
+B. The Nature, Extent, Usefulness, and Significance of Wang’s Cooperation  
+ 
+Wang’s extensive cooperation has come in three forms, all significant. First, he provided 
+substantial assistance in the investigation and prosecution of Bankman-Fried, and the recovery of 
+stolen assets. Second, he has aided other law enforcement agencies and the bankruptcy estate. 
+Third, he has used his computer programing skills to aid prosecutors in the development of tools 
+to detect potential fraud in financial markets.   
+ 
+1. Wang’s Assistance in the Prosecution of Bankman-Fried  
+ 
+Wang’s information and testimony were crucial  to bringing charges against Bankman-
+Fried, securing a conviction at trial against Bankman- Fried, and seizing  assets that have been 
+forfeited as crime proceeds.  
+ 
+First, Wang provided substantial assistance in the investigation of the collapse of FTX and 
+the prosecution of Bankman-Fried. Over his first several interviews with the Government, Wang 
+described in detail FTX’s computer code and the hidden special advantages that had been granted 
+to Alameda. That information was important because it helped to reveal one of the ways in which 
+Bankman-Fried misappropriated customers’ money. While Singh also provided information about 
+FTX’s code, Wang’s cooperation stands out because he was the first to provide the information, 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 9 of 16
+
+
+--- PAGE 10 ---
+
+ Page 10 
+ 
+ 
+and because he recalled specific, one- on-one conversations with Bankman- Fried about the code 
+provisions in question. For instance, as described above, Wang informed the Government about 
+the existence of Alameda’s $65 billion line of credit, how the line of  credit came to be so large, 
+what such a large line of credit allowed Alameda to do, and Bankman -Fried’s involvement in 
+directing the line of credit to be so large. There was no other witness that the Government met with 
+who had direct conversations with Bankman-Fried about setting such a large line of credit.  
+  
+Wang also provided valuable information about Bankman-Fried’s mental state. Like Singh, 
+Wang did not have a lot of visibility into Alameda’s balances or its spending until the fall of 2022. 
+However, while he may not have appreciated its significance at the time, Wang was able to recount 
+the exercise in June 2022 that revealed an A lameda liability in excess of $10 billion. And he 
+recalled that after doing that calculation, Bankman-Fried instructed Ellison to repay lenders, which 
+ultimately corroborated Ellis on’s testimony at trial. Wang, like Singh, recalled conversations 
+around Bankman -Fried’s proposal in September 2022 to shut down Alameda. From his 
+involvement in those conversations, Wang was able to testify about Bankman-Fried’s knowledge 
+of the large, unrepayable hole in FTX’s balance sheet. Additionally, because Ellison was not a 
+FTX employee, and Wang was uniquely positioned to describe the falsity of Bankman- Fried’s 
+tweets in November 2022.  
+ 
+Second, Wang provided important information about Bankman- Fried’s location prior to 
+Bankman-Fried’s arrest. Following FTX’s bankruptcy, there was uncertainty as to where 
+Bankman-Fried was residing in the Bahamas. Bankman- Fried appeared in several televised  
+interviews, and the backdrop did not appear to be the penthouse apartment that Bankman- Fried 
+had once lived in. Without precise location information, the Government was concerned that 
+authorities in the Bahamas would not arrest Bankman-Fried. Wang was able to identify Bankman-
+Fried’s location. Specifically, the Government provided Wang with several still photographs of 
+Bankman-Fried’s televised appearances in November and December 2022. From those Wang 
+correctly identified the apartment Bankman -Fried was l iving in, leading to Bankman- Fried’s 
+arrest.  
+ 
+Third, Wang provided important trial testimony. Wang was the first cooperating witness 
+to testify. He testified over three days. Wang began his testimony by candidly describing his own 
+culpability in the fraud on FTX customers. (Trial Tr. at 304- 10). He then described how FTX, its 
+code, and its database function. As part of that testimony, Wang described the special features that 
+Bankman-Fried had directed be added to FTX’s code, and the result of those features being in 
+place. That testimony was particular ly important because Bankman -Fried had claimed publicly 
+before trial that he did not know how to code and was unfamiliar with the coding features at issue 
+in the case. Wang testified about conversations in June and September 2022, which established 
+Bankman-Fried’s knowledge of the fraud on FTX customers and Alameda’s large negative balance 
+on FTX. For example, Wang described how Bankman- Fried asked him to include in Alameda’s 
+balance calculation the secret account of their “Korean friend,” which reflected A lameda’s total 
+fiat liability. That testimony was one of several examp les of Bankman -Fried acting deceptively 
+and concealing his criminal conduct. Wang also testified about the false statements Bankman -
+Fried made to investors, and the false statements Bankman -Fried made on Twitter in November 
+2022. Like his other testimony, Wang’s information rebutted one of Bankman- Fried’s trial 
+defenses, that he did not know his tweets were false, and did not intend to mislead when he tweeted. 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 10 of 16
+
+
+--- PAGE 11 ---
+
+ Page 11 
+ 
+ 
+Wang finished his testimony by describing Bankman- Fried’s late-stage efforts to transfer 
+FTX assets to regulators in the Bahamas who Bankman-Fried perceived as “more likely to let him 
+stay in control of the company.” (Trial Tr. at 470). While Wang was largely excluded from 
+Bankman-Fried’s conversations with authorities in the Bahamas, and it is likely the case that 
+Bankman-Fried was misleading Wang about the circumstances, Wang’s testimony was valuable 
+in establishing that Bankman-Fried committed bankruptcy fraud.  
+ 
+Fourth, Wang provided valuable documentary evidence to the Government. The most 
+notable piece of evidence was the full FTX computer code. In addition, Wang provided a trove of 
+Slack and Signal communications, many of which may have been deleted but for Wang’s efforts 
+to preserve them.  
+ 
+Finally, Wang provided substantial assistance in the recovery of victims’ money. In the 
+wake of FTX’s bankruptcy, Wang worked many hours aiding the bankruptcy estate in transferring 
+assets for safekeeping. Once he began cooperating with the Government, Wang also provided 
+valuable information that aided the Government in obtaining crime proceeds for seizure.  
+ 
+2. Wang’s Assistance to Other Law Enforcement Agencies and the Bankruptcy Estate  
+ 
+Wang has also provided substantial assistance to other law enforcement agencies and the 
+FTX bankruptcy estate, and offered to testify in two other criminal trials.  
+ 
+Wang has assisted the Department of Justice in other investigations. He has met with the 
+FBI to help analyze FTX’s database for evidence of criminality by third parties unrelated to the 
+fraud at FTX. He has volunteered to testify in two other criminal trials. Ultimately he was not 
+needed for one of the trials, in which he would have testified about the values at which certain 
+cryptocurrencies were trading on FTX. The other trial is pending, and he may be called to testify  
+about the hack of FTX by third parties shortly after FTX’s bankruptcy. Wang has also assisted the 
+Department of Justice’s National Cryptocurrency Enforcement Team and the United States 
+Attorney’s Office for the District of Columbia in connection with a separate investigation 
+concerning the hack of FTX by answering questions about, among other things, how FTX held 
+assets and its security protocols. 
+ 
+Beyond the Department of Justice, as confirmed by the SEC and the CFTC, Wang provided 
+valuable assistance to both agencies in their parallel investigations. From his first proffer, Wang  
+answered questions in a room filled with law enforcement agents, Assistant U.S. Attorneys, and 
+representatives from the SEC and CFTC who were conducting their own parallel investigations.  
+Based on conversations with the SEC and our review of the SEC’s civil complaints, we understand 
+that the SEC’s civil complaints relied in part on information provided by Wang or corroborated by 
+him.  
+ 
+With respect to the CFTC, Wang  provided substantial assistance to the CFTC in its civil 
+enforcement actions against Bankman-Fried and the FTX and Alameda Research entities, as well 
+as in related matters involving possible violations of the Commodity Exchange Act. On December 
+19, 2022, Wang entered into a cooperation agreement with the CFTC, and on December 23, 2022, 
+he entered into a consent order of judgment on liability with the CFTC. Both before and after the 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 11 of 16
+
+
+--- PAGE 12 ---
+
+ Page 12 
+ 
+ 
+date of Wang’s cooperation agreement, he provided material assistance in connection with the 
+CFTC’s action against FTX, Alameda and Bankman -Fried. The CFTC’s action against the FTX 
+and Alameda Research entities resulted in a $12.7 billion consent judgment, with all monetary 
+relief to be used to compensate to FTX customers and victims of FTX’s fraud.  See Consent Order 
+For Permanent Injunction and Other Equitable Relief Against Defendants FTX Trading Ltd. d/b/a 
+FTX.com and Alameda Research, LCC, CFTC v. Bank man-Fried, No. 22- cv-10503 (S.D.N.Y. 
+Aug. 7, 2024), ECF No. 44.  The CFTC’s action against Bankman-Fried continues, and Wang has 
+agreed to continue providing information to the CFTC, and to testify in that action, as needed. 
+ 
+Wang also cooperated with an investigation being conducted by the New York Attorney 
+General’s Office. Wang shared information on three occasions, and the state prosecutors found his 
+information helpful in advancing their investigation.  
+ 
+Finally, Wang has helped the FTX debtors since the bankruptcy. Wang assisted in 
+preserving assets after FTX’s cybersecurity breach in the first hours of the bankruptcy. As the 
+Government understands it, by working through the night, Wang was able to help preserve 
+approximately $800 million dollars in assets. Wang has also assisted the bankruptcy by answering 
+technical questions about the exchange’s code, database, and security infrastructure. Furthermore, 
+Wang has provided information that may assist the estate in its adversary proceedings. Wang also 
+made himself available to the bankruptcy’s independent examiner, and has had multiple meetings 
+providing information.  
+ 
+3. Wan
+g’s Assistance in Creating Tools to Detect Future Financial Fraud  
+ 
+According to every witness the Government interviewed, Wang is an exceptional computer 
+programmer. While the special privileges granted to Alameda were a central part of Wang’s trial 
+testimony, that programming work represented a tiny fraction of the coding work Wang did at 
+FTX. Most of Wang’s work was unrelated to the criminal enterprise, and some of the programming 
+innovations at FTX were considered industry leading thanks to Wang’s skill. At FTX, Wang 
+created an automated know-your-customer system, which used forms of filtering and geographic 
+blocking to exclude potential problematic users and accounts. Wang also created a risk and 
+liquidation engine, which monitored accounts’ trading behavior to make sure they did not become 
+over-leveraged or engage in manipulative trading.  
+ 
+The computer coding concepts that Wang implemented at FTX have implications for fraud 
+detection. Since he began cooperating with the Government, Wang has created a tool for the 
+detection of potential fraud in the stock market.
+1 Specifically,  
+ 
+ 
+ 
+ 
+1 The Government respectfully requests that the portion of its sentencing brief providing details 
+about the fraud detection tools being developed by Wang be maintained under seal. The public 
+disclosure of those details could potentially undermine the effectiveness of the tool. The proposed 
+redaction an d sealing will still permit the public discussion of the general nature of Wang’s 
+proactive cooperation.  
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 12 of 16
+
+
+--- PAGE 13 ---
+
+ Page 13 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+          
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 13 of 16
+
+
+--- PAGE 14 ---
+
+ Page 14 
+ 
+ 
+  
+ 
+ 
+ 
+The tool has significant potential value to the Government.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To provide further assistance, Wang is in the process of developing a similar tool for 
+cryptocurrency markets, which – if he is sentenced to a time served sentence – the Government 
+hopes it will be able to take advantage of early next year.  
+ 
+Wang’s willingness to use his skills proactively, to help detect other criminal activity in 
+financial markets, distinguishes his cooperation from the vast majority of cooperating witnesses to 
+appear before this Court.  
+ 
+C. Wang’s Truthfulness and Reliability  
+ 
+Wang’s testimony was truthful and was corroborated by other evidence. From his first 
+meeting, Wang took responsibility for his involvement in the fraud on FTX’s customers. While 
+there were several parts of the fraud that Wang was not involved in, he immediately took 
+responsibility for his conduct and pled guilty for his involvement in crimes. Wang was entirely 
+forthcoming in his first proffer, and in the next 19 meetings with the Government. While he never 
+made publicly false or deceptive statements, was not in volved in spending customer money, and 
+was not tied to the fraud through a paper record, he immediately disclosed his role. He also 
+volunteered details, including conversations with Bankman- Fried, that inculpated Wang and that 
+the Government would never have discovered but for his cooperation.  
+ 
+Wang was consistent in every single meeting and throughout his trial testimony. He 
+approached interviewing with the Government with seriousness and dedication. Wang took a 
+multi-hour bus ride every time he met with the Government, each time dressed in a suit. He was 
+focused on every interview, was willing to go over portions of the computer code again and again 
+until investigators understood it, and made preparations in between interviews so that the time 
+would be productive. The cross-examination of Wang at trial was uneventful in large part because 
+there were no inconsistencies, even unintentional, in what Wang had told the Government in any 
+of his meetings with the Government or in his testimony that defense counsel could exploit.  
+ 
+In short, Wang  was fully committed to cooperation , and to telling the truth. He brought 
+information and evidence to the Government’s attention, and the information uncovered by the 
+Government in its own investigation corroborated things that Wang disclosed previously.  
+ 
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 14 of 16
+
+
+--- PAGE 15 ---
+
+ Page 15 
+ 
+ 
+V. Restitution and Remission 
+ 
+At Bankman -Fried’s sentencing, the Court declined to order restitution “due to the 
+complexity of the case and the number of victims,” and instead granted the Government’s motion 
+to authorize the United States to compensate victims with finally forfeited as sets through a 
+remission process. ( ECF No. 424 at 6). The Court ordered the same at Ellison’s and Singh’s 
+sentencings. The Court should do the same here. As explained in the Government’s submission 
+ahead of Bankman -Fried’s sentencing, ordering restitution would be extremely costly and 
+administratively impractical in this case. (ECF No.  410 at 109-112).  Therefore, the Government 
+seeks to return all stolen assets to victims through a remission process, consistent with its frequent 
+approach in complex fraud cases with numerous victims.  See id.  at 110 (citing United States v. 
+Madoff, 09 Cr. 213 (DC), Dkt. 106 & United States v. Bonventre , 10 Cr. 228, Dkt. 318 (Madoff 
+Ponzi scheme); United States v. Sharma, 18 Cr. 340, Dkt. 407 (multi-million dollar cryptocurrency 
+scheme); United States v. Dos Santos , 20 Cr. 398, Dkt. 283 (multi -million dollar cryptocurrency 
+scheme)). 
+ 
+Accordingly, the Government respectfully requests that the Court include the following 
+language regarding restitution in its sentence and judgment: 
+ 
+The Court declines to order restitution, based on its finding that determining 
+complex issues of fact related to the cause and amount of the victim’s losses would 
+complicate and prolong the sentencing process. It instead grants the government’s 
+motion to authorize the United States to compensate victims with finally forfeited 
+assets through a remission process, as restitution would be impractical in this case. 
+  
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 15 of 16
+
+
+--- PAGE 16 ---
+
+ Page 16 
+ 
+ 
+VI. Conclusion    
+ 
+The Government believes that Wang  provided – and continues to provide – substantial 
+assistance to the Government in its investigation and prosecution of wrongdoers, and in its 
+recovery of assets for victims. Accordingly, as discussed, assuming Wang continues to comply 
+with the terms of his cooperation agreement, the Government intends to request at sentencing that 
+the Court sentence Wang in light of the factors set forth in Section 5K1.1(a) of the Guidelines. 
+ 
+Respectfully submitted, 
+ 
+      DAMIAN WILLIAMS 
+        United States Attorney  
+ 
+ 
+     By:    /s/  Nicolas Roos        
+Danielle R. Sassoon 
+Danielle Kudla 
+Thane Rehn 
+Nicolas Roos 
+      Assistant United States Attorneys 
+            Southern District of New York 
+ 
+ 
+cc: Ilan Graff, Esq.  
+ Alex Miller, Esq.  
+Case 1:22-cr-00673-LAK     Document 538     Filed 11/13/24     Page 16 of 16

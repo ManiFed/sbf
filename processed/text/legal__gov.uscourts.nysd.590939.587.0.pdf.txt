@@ -1,0 +1,1511 @@
+
+
+--- PAGE 1 ---
+
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  x  
+UNITED STATES OF AMERICA 
+ 
+  - v. - 
+ 
+SAMUEL BANKMAN-FRIED, 
+   a/k/a “SBF,” 
+ 
+                 Defendant. 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ 
+ 
+ 
+22 Cr. 673 (LAK) 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  x  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GOVERNMENT’S MEMORANDUM 
+IN OPPOSITION TO DEFENDANT’S MOTION 
+FOR A NEW TRIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        SEAN BUCKLEY 
+        Attorney for the Government 
+        Southern District of New York 
+ 
+ 
+Danielle Kudla 
+Thane Rehn 
+Nicolas Roos 
+Assistant United States Attorneys 
+ 
+- Of Counsel -  
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 1 of 49
+
+
+--- PAGE 2 ---
+
+ 
+TABLE OF CONTENTS 
+ 
+ 
+PRELIMINARY STATEMENT .................................................................................................... 1 
+BACKGROUND ............................................................................................................................ 3 
+I. PROCEDURAL HISTORY................................................................................................ 3 
+II. THE GOVERNMENT’S CASE AT TRIAL ...................................................................... 3 
+ARGUMENT ................................................................................................................................ 11 
+I. APPLICABLE LAW ........................................................................................................ 11 
+A. Motion for a New Trial under Rule 33 ....................................................................... 11 
+B. Motion for a New Trial Based on New Evidence ....................................................... 12 
+II. BANKMAN-FRIED’S MOTION FOR A NEW TRIAL SHOULD BE DENIED .......... 13 
+A. The “Customers Were Made Whole” and “Liquidity Not Solvency” Claims Are 
+Both Factually Incorrect and Legally Irrelevant ......................................................... 13 
+B. The Defendant’s Proffered Evidence is Not “Newly Discovered” And is 
+Immaterial ................................................................................................................... 16 
+C. The Defendant’s Claims of Witness Intimidation Do Not Excuse His Lack of 
+Diligence in Presenting this Evidence at Trial ............................................................ 34 
+D. The “Newly Discovered” Evidence Would Not Have Resulted in an Acquittal 
+Because the Evidence at Trial Was Overwhelming .................................................... 37 
+E. The Defendant’s Other Claims Are Meritless ............................................................ 40 
+CONCLUSION ............................................................................................................................. 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 2 of 49
+
+
+--- PAGE 3 ---
+
+ 
+TABLE OF AUTHORITIES 
+ 
+Cases                      Page(s) 
+Buie v. Sullivan, 
+    923 F.2d 10 (2d Cir. 1990)........................................................................................................ 35 
+In re Aguinda, 
+241 F.3d 194 (2d Cir. 2001)...................................................................................................... 43 
+In re Drexel Burnham Lambert, Inc., 
+861 F.2d 1307 (2d Cir. 1988).................................................................................................... 43 
+Liteky v. United States, 
+510 U.S. 540 (1994) .................................................................................................................. 43 
+Smith v. Phillips, 
+455 U.S. 209 (1982) .................................................................................................................. 35 
+U.S. ex rel. Jones v. DeRobertis, 
+766 F.2d 270 (7th Cir. 1985) .................................................................................................... 37 
+United States v. Bayless, 
+201 F.3d 116 (2d Cir. 2000)................................................................................................ 42, 43 
+United States v. Bergstein, 
+788 F. App’x 742 (2d Cir. 2019) .............................................................................................. 16 
+United States v. Calderon, 
+944 F.3d 72 (2d Cir. 2019)........................................................................................................ 21 
+United States v. Cruz, 
+481 F. App’x 650 (2d Cir. 2012) .............................................................................................. 42 
+United States v. Cuevas Pimentel, 
+815 F. Supp. 81 (D. Conn. 1993) .............................................................................................. 34 
+United States v. DiPaolo, 
+835 F.2d 46 (2d Cir. 1987)........................................................................................................ 27 
+United States v. Ebbers, 
+458 F.3d 110 (2d Cir. 2006)...................................................................................................... 36 
+United States v. Ferguson, 
+246 F.3d 129 (2d Cir. 2001)...................................................................................................... 12 
+United States v. Forbes, 
+790 F.3d 403 (2d Cir. 2015)...................................................................................................... 17 
+United States v. Gambino, 
+59 F.3d 353 (2d Cir. 1995)........................................................................................................ 11 
+United States v. Guang, 
+511 F.3d 110 (2d Cir. 2007)...................................................................................................... 12 
+United States v. Lange, 
+834 F.3d 58 (2d Cir. 2016)........................................................................................................ 32 
+United States v. Middlemiss, 
+217 F.3d 112 (2d Cir. 2000)...................................................................................................... 26 
+United States v. Owen, 
+500 F.3d 83 (2d Cir. 2007)................................................................................................. passim 
+United States v. Pinto, 
+850 F.2d 927 (2d Cir. 1988)...................................................................................................... 37 
+ 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 3 of 49
+
+
+--- PAGE 4 ---
+
+ 
+United States v. Pisani, 
+773 F.2d 397 (2d Cir. 1985)...................................................................................................... 43 
+United States v. Polanco, 
+510 F. App’x 10 (2d Cir. 2013) ................................................................................................ 36 
+United States v. Polo, 
+No. 94 Cr. 219 (RPP), 1998 WL 691221 (S.D.N.Y. Sept. 30, 1998) ................................. 28, 31 
+United States v. Praetorius, 
+622 F.2d 1054 (2d Cir.1979)..................................................................................................... 36 
+United States v. Saint Clair, 
+No. 22-2100-CR, 2024 WL 413422 (2d Cir. Feb. 5, 2024) ...................................................... 21 
+United States v. Sanchez, 
+969 F.2d 1409 (2d Cir. 1992).................................................................................................... 12 
+United States v. Siddiqi, 
+959 F.2d 1167 (2d Cir. 1992).................................................................................................... 12 
+United States v. Stewart, 
+433 F.3d 273 (2d Cir. 2006)...................................................................................................... 12 
+United States v. Stewart, 
+907 F.3d 677 (2d Cir. 2018)...................................................................................................... 36 
+United States v. Turkish, 
+623 F.2d 769 (2d Cir.1980)....................................................................................................... 36 
+United States v. Vargas, 
+961 F.3d 566 (2d Cir. 2020)...................................................................................................... 42 
+United States v. Vavages, 
+151 F.3d 1185 (9th Cir. 1998) .................................................................................................. 37 
+United States v. Wallach, 
+935 F.2d 445 (2d Cir. 1991)...................................................................................................... 34 
+United States v. Wedd, 
+993 F.3d 104 (2d Cir. 2021)...................................................................................................... 43 
+United States v. Williams, 
+205 F.3d 23 (2d Cir. 2000).................................................................................................. 36, 37 
+United States v. Wong, 
+78 F.3d 73 (2d Cir. 1996).......................................................................................................... 12 
+United States v. Yannai, 
+791 F.3d 226 (2d Cir. 2015)...................................................................................................... 12 
+United States v. Zagari, 
+111 F.3d 307 (2d Cir. 1997)................................................................................................ 12, 38 
+Statutes 
+7 U.S.C. §§ 9(1) .............................................................................................................................. 3 
+15 U.S.C. §§ 78j(b) ......................................................................................................................... 3 
+18 U.S.C. § 371 ............................................................................................................................... 3 
+18 U.S.C. § 1349 ............................................................................................................................. 3 
+18 U.S.C. § 1956(h) ........................................................................................................................ 3 
+18 U.S.C. §§ 1343 ........................................................................................................................... 3 
+28 U.S.C. § 455(a) ........................................................................................................................ 42 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 4 of 49
+
+
+--- PAGE 5 ---
+
+ 
+Rules 
+Federal Rule of Criminal Procedure 17 ........................................................................................ 26 
+Federal Rule of Criminal Procedure 33 ................................................................................. passim 
+Federal Rules of Evidence 613(b) and 801 ................................................................................... 34 
+  
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 5 of 49
+
+
+--- PAGE 6 ---
+
+PRELIMINARY STATEMENT 
+ A jury convicted Samuel Bankman -Fried on all counts following a f our-week trial. The 
+trial featured the testimony of three of his coconspirators with direct, first-hand knowledge of his 
+massive fraud; expert analysis of FTX’s insolvency and the defendant’s use of funds; thousands 
+of contemporaneous documents , including spreadsheets, Signal messages, balance sheets, and 
+code repositories; and perjurious testimony from the defendant himself. The jury deliberated for 
+fewer than five hours before returning a unanimous verdict. 
+ The defendant now moves under Federal Rule of Criminal Procedure 33 for a new trial on 
+the basis of alleged newly discovered evidence . (Dkt. 584 (“Mot”)). The motion is a transparent 
+attempt to relitigate  questions the jury decided, reassert factual claims the record refutes, and 
+advance a political narrative the defendant committed to writing before his arrest.  
+The purported evidence on which Bankman-Fried relies for his motion does not come close 
+to meeting the standard for a new trial.  The proffered witnesses were fully known to the defense 
+before trial, and are therefore not “newly discovered .” The defense’s decision not to put the 
+witnesses on his witness list or compel their testimony forecloses any claim that their post -trial 
+views are newly discovered.  Moreover, the defendant  has not shown that any of this evidence 
+would have been material to the outcome of  trial, as it would have been both factually irrelevant 
+and legally inadmissible . The defendant has also failed to show that this evidence would have 
+likely led to an acquittal on any count, as the evidence of his guilt was and remains overwhelming.  
+ The motion’s most aggressive claim —that FTX was solvent, that customers have since 
+been made whole, and that the prosecution therefore rested on a lie —is factually wrong, legally 
+irrelevant, and deeply misleading. The solvency argument rests on dubious accounting 
+methodologies that have been rejected by experts, restructuring professionals, and most notably 
+the jury. FTX did not have the Bitcoin , Ethereum, and other cryptocurrency that customers had 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 6 of 49
+
+
+--- PAGE 7 ---
+
+2 
+deposited. The fact that FTX had illiquid assets on its books —like FTT tokens (a currency the 
+defendant manipulated) that were unsellable but the defendant claimed were worth billions, or 
+illiquid venture investments that later appreciated in value —does not mean the company was 
+solvent. The defendant’s claim is no different than saying “Lehman Brothers was not insolvent, 
+just illiquid”—after all, the underlying assets in those mortgage -backed securities have long since 
+recovered in value. As this Court obse rved previously, criminal fraud is complete at the moment 
+of misappropriation. The defendant directed Alameda Research to take customer funds, had his 
+engineers code undisclosed privileges enabling that extraction, and used financial documents 
+designed to mislead Alameda’s largest lenders. All of this occurred before the bankruptcy filing. 
+What successor management recovered afterward, through years of litigation, asset monetization, 
+and a rising crypto market , does not reach back and render the defendant’s  misappropriation 
+lawful. A bank robber is not acquitted because the stolen funds were eventually recovered. The 
+jury rejected the defendant’s solvency narrative after hearing the trial evidence. Rule 33 does not 
+authorize the defendant to retry the question.  
+ Finally, the defendant’s weaponization narrative offers no basis for a new trial . For one 
+thing, the defendant’s claim to political victimhood is incoherent on its own terms: The defendant 
+was one of the largest Democratic donors in 2020 and 2022, and his campaign finance crimes were 
+in furtherance of making those contributions , so the notion he was targeted for his Democratic 
+politics by the prior presidential administration is fanciful. For another, the defendant planned to 
+make these complaints even before he was convicted at trial as part of a cynical, pre -planned 
+strategy to seek leniency. His list of things to do included appearing on Tucker Carlson’s program, 
+“coming out as a Republican,” criticizing the bankruptcy lawyers as a “cartel,” and leveraging 
+private political donations as the foundation for a political repositioning. He is now moving 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 7 of 49
+
+
+--- PAGE 8 ---
+
+3 
+through his list. In an interview with Tucker Carlson, through articles that he has seeded, and in 
+his own X.com posts, the defendant has denied criminal liability, attacked the bankruptcy 
+administration, and cast himself as the victim of a politicized prosecution.  The present motion, 
+which the defendant immediately posted on X.com and circulated to the press, is merely the 
+judicial phase of the same public relations campaign . Rule 33 does not provide for new trials 
+whenever it would be public relations boon to have one, however, and the defendant has failed to 
+come forward with facts or law showing his trial was unfair.  
+Accordingly, the motion should be denied. 
+BACKGROUND 
+I. Procedural History  
+The defendant was charged in indictment S6 22 Cr. 673 (LAK) (the “Indictment”) in seven 
+counts: Counts One and Three charged him with wire fraud, in violation of 18 U.S.C. §§ 1343 and 
+2. Counts Two and Four charged him  with conspiracy to commit wire fraud, in violation of 18 
+U.S.C. § 1349. Count Five charged him  with conspiracy to commit securities fraud, in violation 
+of 18 U.S.C. § 371 and 15 U.S.C. §§ 78j(b) and 78ff. Count Six charged him with conspiracy to 
+commit commodities fraud, in violation of 18 U.S.C. § 371 and 7 U.S.C. §§ 9(1) and 13(a)(5). 
+Count Seven charged him with conspiracy to commit money laundering, in violation of 18 U.S.C. 
+§ 1956(h). (See Indictment, Dkt. No. 1.) 
+Following a four-week trial, the jury returned a guilty verdict on all seven counts.  
+II. The Government’s Case at Trial  
+The defendant was convicted of orchestrating one of the largest frauds in history, stealing 
+more than $8 billion from the customers of his cryptocurrency exchange, FTX.com. The defendant 
+represented FTX as a safe and trustworthy exchange where customer money was protected. In 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 8 of 49
+
+
+--- PAGE 9 ---
+
+4 
+reality, the defendant covertly diverted billions of dollars of FTX customer money to his crypto-
+currency trading firm, Alameda Research. He spent the money on Alameda ’s expenses, specula-
+tive investments, and charitable donations, and used it to repay Alameda ’s lenders, make illegal 
+political campaign contributions, and enrich himself. The defendant’s misappropriation of his cus-
+tomers’ deposits was exposed in November 2022, when FTX declared bankruptcy after customers 
+attempted to withdraw more money from FTX than the exchange had on hand, revealing a multi-
+billion-dollar shortfall in FTX’s balance sheet. 
+The evidence at trial included seventeen witnesses, among them three cooperating wit-
+nesses who conspired with the defendant  to commit fraud, other former FTX and Alameda em-
+ployees, a financial expert who traced the defendant’s misappropriation and spending of FTX cus-
+tomer funds, and customer, investor, and lender victims of the defendant ’s scheme. The Govern-
+ment also presented documentary evidence including portions of the FTX codebase, financial rec-
+ords, internal company emails and financial analysis, fraudulent balance sheets, the defendant ’s 
+tweets and testimony before Congress, and private messages between the defendant  and his co-
+conspirators. 
+A. The Defendant’s Fraud on FTX Customers  
+In 2019, the defendant founded FTX, which he controlled until FTX declared bankruptcy 
+in November 2022. (Tr. 464, 650).1 On FTX, customers from all over the world could buy and sell 
+cryptocurrencies, such as Bitcoin, convert dollars to cryptocurrency and vice versa, and trade in 
+cryptocurrency derivatives. (Tr. 65 -66, 109, 141 -42, 319-21). At the time he founded FTX, the 
+defendant was also CEO of Alameda, a cryptocurrency trading firm that he had founded in 2017. 
+(Tr. 107-08, 312). The defendant held out FTX and Alameda as separate entities, but in fact took 
+ 
+1 Citations to “Tr.” refer to the trial transcript.  
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 9 of 49
+
+
+--- PAGE 10 ---
+
+5 
+money that FTX customers deposited with that exchange, and secretly transferred it to Alameda. 
+1. The Defendant Moves FTX Customer Deposits to Alameda 
+The defendant directly, and through FTX, represented to customers that their funds would 
+not be used by FTX. ( See, e.g., Tr.  658, 1289). These misrepresentations were made in FTX’s 
+advertisements (Tr. 111; GX-900, 905), its terms of service (Tr. 1915; GX -558), on its website 
+and in its policy documents (Tr. 80- 81, 339-40, 1901; GX -340), and in the defendant ’s public 
+statements, such as his tweets and Congressional testimony (Tr. 1899). The defendant testified 
+before Congress that FTX had a robust risk management system and protected customer deposits 
+by “maintaining adequate liquid resources to ensure the platform can return the customer’s assets 
+upon request,” ensuring “customer assets are custodied,” and protecting “against misuse or 
+misallocation of custo mer assets.” (GX 914A, 916T). The defendant  repeatedly asserted on 
+Twitter, in response to reporters’ inquiries, in statements to his investors, and in other fora, that 
+Alameda did not have privileged access to FTX, that customer assets were safe, and that Alameda 
+operated as a wholly separate entity from FTX. (Tr. 279, 400- 08, 420, 867- 70, 1367; see, e.g. , 
+GX 817, 850). 
+Contrary to those representations, the defendant  viewed FTX customer funds as “a good 
+source of capital, and he set up [a] system that allowed Alameda to borrow from FTX” (Tr. 654), 
+intentionally using FTX’s infrastructure to misappropriate billions of dollars. At the time FTX 
+declared bankruptcy, Alameda had borrowed approximately $8 billion of customer money from 
+the exchange that could not be repaid to meet customer withdrawal requests. (Tr. 351, 355). 
+The defendant misappropriated funds deposited by FTX customers both in the form of fiat 
+currency (like dollars) and cryptocurrency. (Tr. 132-39, 644- 45). He accomplished this in two 
+ways: 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 10 of 49
+
+
+--- PAGE 11 ---
+
+6 
+First, at the defendant’s direction, FTX told customers to deposit fiat currency into bank 
+accounts that were in fact controlled by Alameda. (Tr. 156-57, 654- 55; GX 568). Alameda 
+regularly spent these funds, resulting in a multi -billion-dollar deficit of FTX customer funds.  
+(Tr. 656; GX 1050). 
+Second, the defendant  secretly introduced special features into FTX ’s computer code, 
+which permitted Alameda to spend and withdraw unlimited amounts of customer money from 
+FTX. (Tr.  304-09, 358- 59, 390- 91). Cooperating witness Gary Wang implemented changes to 
+FTX’s codebase at the defendant ’s direction, as did Nishad Singh, another  cooperator and high-
+level FTX executive. (Tr.  322, 358). The specific code changes included an “ allow negative ” 
+feature, which permitted Alameda to accrue a negative balance when  making transfers and 
+withdrawals; a $65 billion line of credit; and an exemption from the automatic liquidation feature 
+on FTX. (Tr. 307- 09, 358- 59, 373, 1361- 64; GX -644). As the defendant  publicly touted, FTX 
+would automatically liquidate a typical client ’s account once its negative balance exceeded the 
+amount of any posted collateral. But the secret code features the defendant implemented permitted 
+Alameda to maintain a negative balance, borrow funds from other FTX customers and withdraw 
+funds from the e xchange without sufficient collateral using a multi -billion-dollar line of credit, 
+and evade auto-liquidation. (Tr. 349-75, 381-96, 658-59). 
+Taking advantage of these hidden capabilities, the defendant “borrowed” billions of dollars 
+of FTX customer funds, accruing a multi-billion-dollar negative balance in Alameda’s account—
+money that was now owed to FTX customers, unbeknownst to them. (Tr. 355, 664, 1464- 65, GX 
+1004). By spending customer funds, FTX created a significant deficit in its cryptocurrency wallets 
+and in the accounts that were supposed to be holding customer fiat deposits (GX -1051), while 
+customers were kept in the dark, believing that they could withdraw the balance in their account 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 11 of 49
+
+
+--- PAGE 12 ---
+
+7 
+at any time. (Tr. 79-81, 339-40, 1289-93, 1760; GX 425, 539). Customers never agreed for their 
+funds to be transferred this way, and doing so contradicted what the defendant said publicly about 
+how FTX treated customer funds. (See, e.g., Tr. 438-39, 1225). 
+2. The Defendant Secretly Uses FTX Customers’ Deposits 
+  To conceal his control of Alameda, the defendant named co-conspirator (later, cooperating 
+witness) Caroline Ellison as CEO of Alameda in 2021. (Tr. 683- 87). When FTX collapsed, the 
+defendant falsely claimed he was walled off from Alameda and was unaware of the extent of 
+Alameda’s spending of FTX customer funds. ( See, e.g. , GX 2503, 2508, 2508- T). The trial 
+evidence established, however, that the defendant directed Alameda’s borrowing and spending of 
+FTX customer funds, which resulted in the multi -billion-dollar hole in FTX’s balance sheet. In 
+particular, in the Fall of 2021, the defendant decided that Alameda should spend an additional $3 
+billion on venture investments. (Tr. 707- 10). At the time, Alameda’s trading operations were 
+funded primarily through open- term loans by third- party cryptocurrency lenders, who could 
+request repayment on demand. (Tr. 692, 809, 815). Ellison advised the defendant  against making 
+additional investments, presenting him with analysis showing that in the event of a market 
+downturn and the recall of Alameda’s loans, the only way to repay third -party loans would be to 
+borrow billions more from FTX customer funds. (Tr. 703-06, 712-15, 717-19, 693-98; GX 36).  
+ Nonetheless, from late 2021 into 2022, the defendant  directed billions of dollars in 
+spending, using FTX customers’ money. That included investing hundreds of millions of dollars 
+each into a crypto -mining company, an online bank, an investment firm the defendant used to 
+connect with politicians and celebrities, the companies Anthropic and Robinhood, real estate in 
+the Bahamas (including a $30 million penthouse apartment for Bankman -Fried and his friends), 
+and political donations. (Tr. 706-29, 1315-41, 1710-56; GX 1017A-K, 1044, 1045). 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 12 of 49
+
+
+--- PAGE 13 ---
+
+8 
+3. The Defendant Repays Alameda’s Lenders Using FTX Customer Funds  
+ In June 2022, instability in the cryptocurrency market caused Alameda’s lenders to recall 
+nearly all their loans, requiring Alameda to repay over $6 billion. (Tr. 752- 61, 779; GX 1018). 
+Ellison was “very stressed out” because “we didn’t have the liquid assets to pay all of the money 
+back” and “in order to repay all of our loans, we would have to borrow money using our FTX line 
+of credit,” meaning that the money “would be coming from customer funds.” (Tr. 761). After 
+reviewing a spreadsheet that showed Alameda had a negative $11 billion balance on FTX and was 
+borrowing $13 billion in FTX customer funds (GX 50; Tr. 424- 40, 771-77, 1359), the defendant 
+“continued to direct [Ellison] to repay loans,” meaning to use Alameda’s access to FTX customer 
+funds to repay the loans, which she did. (Tr. 764-65, 780, 440-42, 1772; GX 017A-K). Of the $6.5 
+billion repaid to Alameda’s lenders, almost 70 percent was FTX customer money. (GX 1018). This 
+was far from unexpected —it was precisely why Ellison had advised against additional venture 
+investing. (Tr. 780-82).  
+As of September 1, 2022, Alameda was borrowing approximately $13.7 billion in customer 
+money from FTX (GX 19; Tr. 449-50, 823, 847, 1403). Alameda’s internal balance sheets showed 
+that “in an event that all of FTX’s customers wanted to withdraw their money,” Alameda’s liquid 
+assets were not sufficient to meet customer withdrawals. (Tr.  791-92; see also Tr. 443-46, 1403). 
+Singh privately expressed concern to the defendant about the deficit and urged him to refrain from 
+additional spending. (Tr. 1406-09). But the defendant continued to spend customer funds. (Tr. 850, 
+888-91, 1414-19; GX 14B, 141A, 1089). 
+4. The Defendant Lies During FTX’s Collapse  
+Following the online publication of a leaked Alameda balance sheet on November 2, 2022, 
+customers began rapidly withdrawing funds from FTX. (Tr. 452, 891- 92, 896- 97). As FTX 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 13 of 49
+
+
+--- PAGE 14 ---
+
+9 
+customer withdrawals surged, the defendant  made a series of false and misleading statements to 
+deter FTX customers from trying to withdraw their money. (Tr. 1292, 1467, 1847- 48). On 
+November 7, 2022, the defendant tweeted: “A competitor is trying to go after us with false rumors. 
+FTX is fine. Assets are fine.” (GX 866). He added, in part, “FTX has enough to cover all client 
+holdings. We don’t invest client assets (even in treasuries). We have been processing all 
+withdrawals, and will continue to be.” (GX 866). In a third tweet, the defendant wrote, “We have 
+a long history of safeguarding client assets, and that remains true today.” (GX 866). 
+Those statements were false because, as the defendant knew, at that time FTX had a multi-
+billion-dollar shortfall and insufficient assets to cover customer withdrawals. (Tr. 461- 63 (“FTX 
+did not in fact have enough assets to cover all client holdings . . . [b]ecause Alameda had withdrawn 
+a lot of it,” and “FT X was lending client assets to Alameda”), 919- 20, 1464-66). In an internal 
+document that he authored the day before these tweets, the defendant  wrote that FTX only had 
+“enough to process ~1/3 of remaining client assets,” and just hours before his tweets, the defendant 
+acknowledged internally that FTX had an $8.1 billion shortfall. (Tr. 909-11, 917-18; GX 21, 406). 
+He nonetheless posted what he called a “confident tweet thread” to lull FTX’s customers into 
+keeping their funds on FTX. (GX 21). As a result of the defendant ’s false statements, many FTX 
+customers did not withdraw their money and left it on the exchange. (Tr. 89, 1292). 
+As FTX struggled to meet customer demands, the defendant halted customer withdrawals 
+from the exchange. On November 11, 2022, FTX and Alameda filed for bankruptcy and the 
+defendant resigned as CEO. (Tr. 450). 
+B. The Defendant’s Fraud on Alameda’s Lenders 
+The defendant also defrauded Alameda’s lenders of more than $1 billion. In the summer 
+of 2022, after Alameda repaid its third-party lenders using FTX customer funds, Alameda sought 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 14 of 49
+
+
+--- PAGE 15 ---
+
+10 
+new loans from these same lenders, who requested that Alameda provide an updated balance sheet. 
+(Tr. 783). Ellison and the defendant  were reluctant to share Alameda’s balance sheet because “it 
+showed that Alameda was in a very risky position” and was “borrowing . . . around $10 billion 
+from FTX,” which might create “more widespread concern about Alameda” and “cause people to 
+start withdrawing their money from FTX.” (Tr. 785-86; see also Tr. 789). 
+The defendant therefore told Ellison to “prepare some alternative ways of presenting the 
+information and send them to him.” (Tr. 786). Ellison prepared seven alternatives to the real 
+balance sheet (GX 44), which omitted or hid Alameda’s borrowing from FTX, so that lenders 
+would not “know the truth” (Tr. 786 -87). The defendant  chose one of the alternatives whose 
+“intended effect was to make Alameda look less risky than it really was and to hide the fact that 
+we were borrowing around $10 billion from FTX customers” (Tr. 795 -800). Ellison sent the 
+deceptive balance sheet to Alamed a’s lenders and continued to send them similarly fraudulent 
+balance sheets in the months that followed. (Tr. 800-04, 810-23; GX 17, 419). Alameda’s lenders 
+then extended new loans, which they would not otherwise have done. (Tr. 808-09, 1206-07, 1217-
+24, 1768; GX  1014). When Alameda entered bankruptcy, Alameda’s defaults on it s loans sent 
+several lenders into financial crisis. (Tr. 1227-28). 
+C. The Defendant’s Fraud on FTX Investors 
+The defendant also defrauded equity investors who had purchased shares in FTX stock. 
+(GX 26). The defendant  represented to FTX investors that FTX acted as a custodian of its 
+customers’ deposits. (Tr. 273-74). Several FTX investors were falsely told by the defendant  and 
+others acting at his direction that Alameda received no special treatment on FTX and that FTX and 
+Alameda were fully independent and separate companies. (Tr. 278-81, 1945, 2011-14). Had FTX’s 
+equity investors known about the misuse of customer funds or  Alameda’s special treatment, they 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 15 of 49
+
+
+--- PAGE 16 ---
+
+11 
+would not have invested in FTX. (Tr. 274, 280-82, 2014-15).  
+The defendant engaged in additional deceptive conduct to mislead investors, shifting losses 
+on the FTX platform to Alameda to conceal these losses from investors (Tr. 414-15, 939-41, 1455-
+56), publicly displaying a fake overstated value for FTX’s insurance fund (Tr. 408- 12; GX-751), 
+and falsely inflating FTX’s 2021 revenue with backdated documents provided to FTX’s auditors 
+(Tr. 1445-54; GX  323). The defendant  also used FTX investor money to finance Alameda’s 
+operations and cover expenses, including a house for the defendant’s parents. (Tr. 937, 1726, 2016-
+17; GX 1023, 1050). 
+D. The Defendant’s Concealment Money Laundering 
+At trial, the Government proved the defendant’s involvement in a conspiracy to make over 
+$100 million in political donations to federal and state officials, as well as political action 
+committees, with funds from Alameda (and ultimately FTX customers). Around 2020, the 
+defendant began donating large sums to political candidates, at least in part to improve his personal 
+standing in Washington, D.C., increase FTX’s profile, and curry favor with candidates that could 
+help pass legislation favorable to FTX. (GX -477, 505; Tr. 1437). The defendant concealed the 
+source of the funds by passing donations through accounts belonging to Ryan Salame and Singh, 
+making unlawful straw and corporate donations. (Tr. 1420-38; GX 28, 475, 1088-90). 
+ARGUMENT 
+I. Applicable Law 
+A. Motion for a New Trial under Rule 33 
+Federal Rule of Criminal Procedure 33 provides, in relevant part, that “[u]pon the 
+defendant’s motion, the court may vacate any judgment and grant a new trial if the interest of 
+justice so requires.” “[M]otions for a new trial are disfavored in this Circui t,” United States v.  
+Gambino, 59 F.3d 353, 364 (2d Cir. 1995), and are granted “sparingly and in only the most 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 16 of 49
+
+
+--- PAGE 17 ---
+
+12 
+extraordinary circumstances,” United States v. Ferguson, 246 F.3d 129, 134 (2d Cir. 2001). In 
+order for such a motion to have merit, the district court must conclude, taking into account all of 
+the facts and circumstances of the case, that there is “a real concern that an innocent person may 
+have been convicted.” United States v. Sanchez, 969 F.2d 1409, 1413 (2d Cir. 1992). “The ultimate 
+test on a Rule 33 motion is whether letting a guilty verdict stand would be a manifest injustice.”  
+Ferguson, 246 F.3d at 134; see also United States v. Yannai, 791 F.3d 226, 242 (2d Cir. 2015) (“A 
+defendant’s motion for a mistrial may be granted where something has occurred to interfere with 
+the defendant’s right to a fair trial.”). A new trial should not be granted when the court is “satisfied 
+that competent, satisfactory, and sufficient evidence in the record supports the jury verdict.”  
+Ferguson, 246 F.3d at 134. 
+B. Motion for a New Trial Based on New Evidence  
+Where a motion for a new trial is based on a claim of newly discovered evidence, the 
+defendant bears a particularly high burden, and must establish that: (1) the evidence is genuinely 
+“new,” meaning “discovered after trial”; (2) the evidence could not, with the exercise of due 
+diligence, have been discovered before or during trial; and (3) the evidence “is so material that it 
+would probably produce a different verdict.” United States v. Zagari, 111 F.3d 307, 322 (2d Cir. 
+1997) (citing United States v. Siddiqi , 959 F.2d 1167, 1173 (2d Cir. 1992)). Such an exercise of 
+discretion “is ordinarily not favored” and a new trial motion “should be granted only with great 
+caution.” United States v. Wong, 78 F.3d 73, 79 (2d Cir. 1996) (citations and quotation marks 
+omitted); see also United States v. Stewart , 433 F.3d 273, 296 (2d Cir. 2006) (recognizing that 
+new trial motions based on new evidence should be granted only “in the most extraordinary 
+circumstances”) (citation and quotation marks omitted). “The test is whether it would be a manifest 
+injustice to let the guilty verdict stand.” United States v. Guang, 511 F.3d 110, 119 (2d Cir. 2007) 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 17 of 49
+
+
+--- PAGE 18 ---
+
+13 
+(citations and quotation marks omitted). 
+II. The Defendant’s Motion for a New Trial Should Be Denied 
+The defendant’s motion fails at every level. His three proffered witnesses—Daniel Chap-
+sky, Ryan Salame, and Nishad Singh—were known to the defense well before trial, their poten-
+tial testimony was either foreclosed by the defense’s own strategic decisions or is based on un-
+sworn, post-conviction statements, and none of it would have been material to the outcome in 
+any event.  
+A. The “Customers Were Made Whole” and “Liquidity Not Solvency” Claims 
+Are Both Factually Incorrect and Legally Irrelevant  
+ 
+The motion’s most prominent factual contention—that FTX creditors received 119% to 
+143% of their petition -date claims, and that FTX was not insolvent —is both a significantly mis-
+leading description of the actual experience of FTX’s customers and legally irrelevant to the crim-
+inal charges. 
+Starting with the facts, the “ 119-143%” figure is a nominal dollar recovery calculated 
+against November 11, 2022 petition- date cryptocurrency valuations —among the lowest in the 
+post-FTX-collapse crypto market. Many FTX customers did not deposit dollars; they deposited 
+cryptocurrency, and their deposits were being held in cryptocurrency. They are not receiving that 
+cryptocurrency back; they are receiving the dollar equivalent of what their holdings were worth at 
+or near the worst day of the collapse. The gap between the nominal recovery figure and customers’ 
+actual losses is significant . At the time of the bankruptcy filing, Bitcoin was trading at approxi-
+mately $16,871; by the time the defendant filed his motion, it was trading above $65,000 (and it 
+was even higher in 2025) . Solana, held by FTX and Alameda in significant quantities, traded at 
+roughly $14 at the time of bankruptcy and now exceeds $80 (with significantly higher values in 
+2025). Based on the change in cryptocurrency values, that means creditors are recovering between 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 18 of 49
+
+
+--- PAGE 19 ---
+
+14 
+approximately 10% and 50% of the value of the assets they deposited, depending on the composi-
+tion of their holdings. (See Dkt. 410 at 44). 
+The motion’s solvency figures also depend on valuation methodologies the jury specifi-
+cally evaluated and rejected. At the time of the bankruptcy, FTX was not merely illiquid. As the 
+FTX estate has confirmed, at the time FTX declared bankruptcy “there were only 105 bitcoins left 
+on the FTX.com exchange, against customer entitlements of nearly 100,000 bitcoin.” (Dkt. 415 at 
+5). In other words, FTX held only 0.1% of the Bitcoin , and a similar amount of Ethereum, that 
+customers believed they held on FTX. That i s not merely a liquidity issue: FTX simply did not 
+own or possess cryptocurrency it promised its customers it held—the direct consequence of the 
+defendant’s misappropriation. Because the bankruptcy estate lacked the actual cryptocurrency, it 
+assembled creditor recovery from other sources: venture stakes in Anthropic, Robinhood, and 
+other companies that appreciated after the collapse; retained Solana holdings; and litigation claw-
+back recoveries. The estate’s ability to satisfy nominal dollar claims is not evidence of pre-collapse 
+solvency; it is the product of a multi -year recovery effort, the fortuitous timing of the 2022- 2024 
+cryptocurrency bull market, and aggressive litigation against third parties. (Dkt. 415). 
+The defendant’s claim that FTX held approximately $93 billion in assets against $15 billion 
+in debts rests on marking illiquid, undisclosed, and thinly- traded assets —FTT token positions  
+(which the defendant owned and manipulated), Solana holdings, and venture stakes— at full mar-
+ket prices that collapsed immediately upon disclosure of the fraud. The defendant, however, knew 
+that these assets were not worth the marked-up values he assigned to them. At trial Ellison testified 
+that the defendant himself, in late  2021, explicitly recognized that FTT and related tokens were 
+too illiquid and subject to massive depreciation and therefore could not be counted as real assets 
+when calculating net asset value. (Tr. 706- 711; GX-36). Without those tokens, as the defendant  
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 19 of 49
+
+
+--- PAGE 20 ---
+
+15 
+knew, and contrary to his post-trial claims, liabilities exceeded assets. (Tr. 710). Similarly, in 2022, 
+the defendant asked Ellison to make the seven-alternative balance sheet because the actual balance 
+sheet showed that without FTT, liabilities exceeded assets. (Tr. 795-96; GX-44). Wang also testi-
+fied that FTT was illiquid and it was impossible to achieve mark to market prices. (Tr. 378- 89). 
+Indeed, after the defense tried to establish that FTX had positive assets when counting the illiquid 
+investments in FTT and other tokens (Tr. 524-25), Wang rejected the argument, indicating the FTT 
+could not be sold at the marked prices and that without it they would have been “negative 16 
+billion.” (Tr. 618-20). In fact, on cross-examination the defendant conceded that the FTT that is a 
+significant part of the defendant’s calculation could not be sold at market prices. (Tr. 2781-82).  
+Notably, the defendant has a history of lying about the reason for FTX’s shortfall. Prior to 
+indictment, he blamed issues with margin trading, but the trial evidence demonstrated that that was 
+a manufactured excuse. (Dkt. 410 at 27). Similarly, the defenda nt lied during his trial testimony, 
+resulting in a perjury finding against him. Rather than accepting his post-bankruptcy explanations, 
+it is not necessary to look any further than the defendant’s own words in September 2022; they are 
+the most probative evidence of his actual understanding of the financial situation. When Singh 
+pressed him about the $13 billion Alameda had borrowed from FTX customers, the best the de-
+fendant could offer as “deliverable” to customers on short notice was approximately $5 billion—
+less than 40% of what was owed. (Tr. 1407). If FTX  actually had $93 billion in assets (liquid or 
+not) against $15 billion in liabilities  there is no reason why the company’s CEO would only be 
+able to deliver $5 billion when $13 billion wa s demanded. That is not a liquidity mismatch , but 
+rather the consequence of the underlying assets having been spent on venture investments, political 
+donations, real estate, loan repayments to Alameda’s creditors, and trading losses. The assets were 
+absent, not illiquid. 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 20 of 49
+
+
+--- PAGE 21 ---
+
+16 
+The motion is also silent about FTX customers who, unable to wait for the conclusion of 
+the bankruptcy proceedings, sold their claims on the secondary market at steep discounts, often for 
+a fraction of nominal value. Billions  in claims were sold by distressed creditors before the bank-
+ruptcy plan became effective. Those customers received neither the nominal 119- 143% nor any-
+thing approaching the actual value of the cryptocurrency they deposited. 
+Finally, the motion is also wrong on the law. The defendant frames the case as resting on 
+a theory of technical balance-sheet insolvency, and argues that evidence of solvency undermines 
+the charges. But the charges did not depend on any solvency determination: the defendant was 
+convicted for deliberate misappropriation of customer funds, his material misrepresentations about 
+how those funds were held to customers and investors, his direction of fraudulent balance sheets 
+to lenders, and his systematic concea lment of those acts.  Those offenses did not depend on the 
+insolvency of FTX, and they are not negated by any solvency argument, however framed. A de-
+fendant who misappropriates property and whose victim is later compensated from unrelated 
+sources has nonetheless committed the underlying offense. (Tr. 952-53 (“THE COURT: … the 
+crime is the misappropriation…. it’s finished the minute the misappropriation happens, whether 
+its used wisely, foolishly, or whatever.”). Post-conviction recoveries achieved through bankruptcy 
+proceedings, cryptocurrency price appreciation, and clawbacks do not retroactively negate crimi-
+nal conduct complete at the time of commission. Cf. United States v. Bergstein, 788 F. App’x 742, 
+747 (2d Cir. 2019) (where defendant had misappropriated funds invested in company, affirming 
+district court’s decision not to reduce the loss amount by the funds subsequently recovered by the 
+company). 
+B. The Defendant’s Proffered Evidence is Not “Newly Discovered” And is 
+Immaterial 
+ 
+The evidence proffered by the defendant is emphatically not “newly discovered.”  As the 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 21 of 49
+
+
+--- PAGE 22 ---
+
+17 
+Second Circuit has held, “One does not ‘discover’ evidence after trial that one was aware of prior 
+to trial.” United States v. Owen, 500 F.3d 83, 89–90 (2d Cir. 2007) . Accordingly, the Second 
+Circuit has held that where the defendant had direct knowledge of the information prior to trial, 
+that evidence cannot be “newly discovered” so as to warrant a new trial.  Id. at 84 ( “Because 
+[Owen’s co-defendant’s] testimony related to his direct dealings with Owen, Owen wa s—or 
+certainly should have been—aware of the substance of [the co-defendant’s] testimony prior to trial, 
+and, thus, it was not ‘newly discovered’ within the meaning of Rule 33 when it was offered by [the 
+co-defendant] at sentencing.”); United States v. Forbes , 790 F.3d 403, 409 (2d Cir. 2015) (“[I] f 
+the reason that testimonial evidence was unavailable at trial was the defendant ’s failure to call a 
+witness that he knew could provide exculpatory testimony, a new trial on the basis of newly 
+discovered evidence would not be warranted.”). 
+1. The Chapsky Declaration  is Not Newly Discovered Evidence, Is 
+Immaterial, and Would Not Have Produced an Acquittal  
+ 
+The declaration of Daniel Chapsky attached to the defendant’s Rule 33 motion fails to meet 
+any of the four prongs of newly discovered evidence, and thus cannot be the basis for a new trial. 
+First, the evidence is not “newly discovered” because it is clear that the defendant  was 
+aware of this evidence well in advance of trial. Indeed, the Chapsky declaration itself states that 
+Chapsky was in contact with the defendant’s counsel in advance of trial, and the defendant’s own 
+motion states that his counsel asked Chapsky to testify for the defense. (Mot. 5). That alone ends 
+the inquiry because a defendant does not “discover” evidence that he was “aware of prior to trial.” 
+Owen, 500 F.3d at 90. Moreover, even if the defendant ’s attorneys had not been in contact with 
+Chapsky prior to trial, the nature of Chapsky’s proffered testimony makes it clear that the 
+defendant was fully aware of this evidence. Chapsky was one of the defendant ’s employees and 
+his testimony is entirely about the financial health of FTX and Alameda, two companies that the 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 22 of 49
+
+
+--- PAGE 23 ---
+
+18 
+defendant owned and controlled throughout the charged time period.  The notion that this 
+information was not known to the defendant at the time of trial is both incredible and contrary to 
+his own allegations in his motion. 
+The defendant argues that Chapsky was unwilling to testify out of a concern of “media 
+attacks and … potential retaliatory action by the prosecution.” (Mot. 5). Chapsky’s affidavit does 
+not allege that there were any actual such threats, however, and as discussed in more detail below, 
+does not come close to alleging facts that would give rise to a claim of witness intimidation. But 
+even if he had, that would not give rise to a right to a new trial  under Rule 33. The defendant did 
+not attempt to call Chapsky to testify, did not subpoena him, and did not seek any relief from the 
+Court to facilitate his testimony. The Second Circuit, in addressing a claim that a trial codefendant 
+could have offered exculpatory testimony, has held that a  defendant’s “inability to procure that 
+testimony before or during trial should not be redressed by granting the defendant a new trial when 
+the codefendant asserts his willingness to exculpate the defendant after the original trial is over .” 
+Owen, 500 F.3d at 92. The logic of Owen applies even more strongly here, where the purportedly 
+exculpatory witness is not a codefendant with an acknowledged Fifth Amendment right, but a fact 
+witness who the defendant  never sought to call at trial and who has never asserted any privilege 
+against testifying. The fact that the defendant  was aware of this testimony prior to trial is fatal to 
+his claim that it is “newly discovered” evidence. 
+Second, the defendant ’s claim fails because he could have easily discovered the 
+information in the Chapsky declaration through the exercise of minimal diligence. The Chapsky 
+declaration relies principally on a report that Chapsky prepared for the FTX bankruptcy 
+proceedings, which listed FTX’s assets and liabilities. (Mot. 7-8). But the FTX Debtors’ counsel 
+published a summary of that report on January 17, 2023, through a filing on the docket in the 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 23 of 49
+
+
+--- PAGE 24 ---
+
+19 
+bankruptcy case. In re FTX , No. 22- 11068, Dkt. 507- 1 (Bankr. D. Del. Jan. 17, 2023)  (the 
+“Debtors’ Report”). The Debtors’ Report contains the very facts on which the defendant now relies 
+for his claim that FTX was supposedly “solvent” when it declared bankruptcy. In his motion, the 
+defendant argues that the Debtors’ Report gave an “incorrect impression” because it marked down 
+the value of the illiquid cryptocurrency holdings and Alameda’s venture portfolio. (Mot. 8). That 
+argument is belied by the Debtors’ Report, which discloses the very facts that Chapsky highlights. 
+With respect to the illiquid cryptocurrency holdings , the Debtors’ R eport explains that these  
+holdings were “not included in located crypto value estimates,” and then goes on to itemize these 
+illiquid crypto holdings by token and explains what their value would be at the spot market price 
+as of the bankruptcy petition date. Debtors’ Report at 11. The Debtors’ R eport also lists the 
+holdings in the venture portfolio and identifies their book value of $4.6 billion, exactly the number 
+that Chapsky gives in his declaration. Debtors’ Report at 13; (see Chapsky Declaration ¶ 16). Thus, 
+in addition to being actually aware of the testimony that Chapsky could have provided, Bankman-
+Fried was plainly on notice of these facts, which were the subject of a public filing in the 
+bankruptcy case. And, in any event, the defendant of course knew about his own companies’ crypto 
+holdings and venture portfolio even if they hadn’t been disclosed in the bankruptcy filings. Thus, 
+he has failed to allege any facts “from which the court can infer due diligence on the part of the 
+movant to obtain the evidence ” prior to trial, which is a second independent reason to deny his 
+motion. Owen, 500 F.3d at 89. 
+Third, the defendant has failed to show how this evidence is material, or even how it would 
+have been admissible at trial. Several paragraphs of the Chapsky declaration relate to the solvency 
+of FTX US, and other regulated FTX entities, which were not the subject of the fraudulent schemes 
+proven at trial. ( Chapsky Decl. ¶¶ 13, 14, and 17 ). And as for the FTX international exchange, 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 24 of 49
+
+
+--- PAGE 25 ---
+
+20 
+Chapsky does not deny that the exchange was short “roughly $8 billion” in customer funds in 
+November 2022. In other words, Chapsky’s testimony corroborates the Government’s evidence 
+and arguments at trial that, instead of keeping customer funds safely in custody as the defendant  
+had represented FTX would do, the defendant instead moved billions of dollars’ worth of customer 
+funds out of the exchange and into various investments and other places. 
+Rather than denying the multi -billion dollar shortfall that was the primary issue at trial, 
+Chapsky simply expresses disagreement with the bankruptcy estate over how long it should have 
+taken to liquidate those investments to repay  the customers. (See Chapsky Decl. ¶ 14) . Chapsky 
+asserts that it is his “professional opinion” that this could have been done in “months,” rather than 
+the “years” that it has taken in the bankruptcy proceeding. (Id.). That testimony, however, would 
+have been inadmissible at trial on multiple grounds.  
+To begin with, the fraudulent scheme proven at trial was that FTX’s customers were told 
+that their money would be held in custody for them and available for them to withdraw on demand. 
+Bankman-Fried repeatedly made this representation to his customers and to the public. ( E.g., Tr. 
+80-81, 111, 279, 339-40, 400-08, 658, 866-70, 1289, 1366-67, 1899, 1901; see, e.g., GX-340, 558, 
+817, 850, 900, 905). As one example, Bankman- Fried testified in Congress that FTX protected 
+customer deposits by “maintaining adequate liquid resources to ensure the platform can return the 
+customer’s assets upon request,” ensuring “customer assets are custodied,” and protecting “against 
+misuse or misallocation of customer  assets.” (GX-914A, 916T). Even up to the very end of the 
+fraud, Bankman-Fried was publicly making the false claim that “ We don’t invest client assets 
+(even in treasuries).” (GX-866). Accordingly, FTX’s customers testified that they understood they 
+could withdraw their deposits when they chose and that they had not agre ed to the use of their 
+deposits for investments by Bankman- Fried. (Tr. 81 -82, 1289-90). And yet, when they tried to 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 25 of 49
+
+
+--- PAGE 26 ---
+
+21 
+withdraw, it turned out that FTX did not have the money in custody, and they could not be repaid 
+on demand. Thus, Chapsky’s testimony that the customer deposits were tied up in illiquid 
+investments that would have taken “months” to liquidate would not have been relevant to disprove 
+the fraud as charged and proven at trial—if anything, it would be further inculpatory evidence . 
+Moreover, as the Court held during trial, evidence of whether FTX customers would 
+ultimately be repaid was inadmissible and irrelevant, because the fraud was complete when the 
+misappropriation occurred, and “no amount of honest belief on the part of the defendant that the 
+victim ultimately would be benefitted will excuse false representations that a defendant willfully 
+made or caused to be made.” (Tr. 3159); see, e.g., United States v. Calderon, 944 F.3d 72, 90 (2d 
+Cir. 2019); United States v. Saint Clair, 2024 WL 413422, at *4 (2d Cir. Feb. 5, 2024) (affirming 
+this type of no- ultimate-harm instruction). It was thus irrelevant as a matter of law whether the 
+customers could have been repaid from those investments —the fraud was complete when 
+Bankman-Fried misappropriated customer money to make the investments in the first place. 
+Additionally, even if the potential recovery for FTX customers could have somehow been 
+considered at trial, the premise of Bankman-Fried’s arguments—and Chapsky’s  declaration—fails 
+to account for a realistic measure of customer losses. As explained above , many if not most FTX 
+customers who held cryptocurrency on the exchange will not recover either the amount they 
+deposited in FTX nor the cryptocurrency they were falsely told their deposits had been used to 
+purchase. (Dkt. 410 at 43- 45). The purported repayment  of their claims  is based on taking FTX 
+customers’ cryptocurrency balances, converting them to the dollar value of those cryptocurrencies 
+on the date FTX decl ared bankruptcy, and then repaying that amount over time based on  the 
+appreciation in Alameda’s various investments while freezing the value of the customers’ claims 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 26 of 49
+
+
+--- PAGE 27 ---
+
+22 
+in place.2 
+Chapsky’s testimony would also be inadmissible because it is plainly expert opinion 
+testimony that Chapsky is unqualified to provide. Chapsky is not a percipient witness, as he states 
+that he “did no work related to Alameda nor any Alameda related code on the platform” and he 
+“had no knowledge of the ‘special features’ that were added to the Alameda ‘info@’ account on 
+FTX.” (Chapsky Decl. ¶ 2). Lacking any firsthand knowledge about Alameda’s business or 
+investments, Chapsky instead can only offer his personal opinion based on his review of company 
+records. In particular, Chapsky states that it is his “professional opinion” that FTX customers 
+“could have been made whole within months—not years —had the exchanges not been placed into 
+omnibus bankruptcy proceedings and abruptly shut down.” (Chapsky Decl. ¶ 12). But Chapsky is 
+not qualified to render such a “professional opinion,” as by his own description, he is a data 
+scientist who previously worked at the marketing department of Meta (Facebook). (Chapsky Decl. 
+¶ 1). Chapsky does not appear to have any professional experience in managing or liquidating 
+significant investments of any sort, much less the complex holdings of illiquid cryptocurrency 
+tokens and venture investments at issue here. Nor does he offer any reliable basis—aside from his 
+own say-so—for his opinion that these investments could have been liquidated on the time frame 
+he estimates, and if he had attempted to offer this testimony at trial, it would have been rightly 
+precluded. 
+For similar reasons, Chapsky’s attempts to criticize the expert testimony of Peter Easton 
+ 
+2 It is ironic that Bankman -Fried’s motion cites an article by Matt Levine regarding the 
+bankruptcy recoveries given that the article highlights the absurdity of Bankman-Fried’s position. 
+(See Motion at 1, 6 (citing Matt Levine, “FTX Found the Money,”  Bloomberg, May 8, 2024)). 
+That same article concludes by saying that Bankman-Fried’s “theory that there were no losses” is 
+“wrong both factually (Bitcoin customers lost money) and legally (if you take customer money to 
+buy yourself a house, and then the bankruptcy estate seizes the house, you still weren’t supposed 
+to take the money).” 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 27 of 49
+
+
+--- PAGE 28 ---
+
+23 
+would not have been admissible at trial. (Chapsky Decl. ¶¶ 22-34). As an initial matter, a Rule 33 
+motion is not an opportunity to relitigate potential responses to expert testimony that could have 
+been raised at trial. The Government disclosed the voluminous data on which Easton relied in 
+advance of trial, and the defense vigorously cross -examined Easton and tried to argue to the jury 
+that it should not credit his conclusions. Bringing in a new witness to disagree with Easton now is 
+not “newly discovered evidence” in any way. And even setting aside that issue, Chapsky is not a 
+financial or accou nting expert  and is unqualified to offer the opinions he advances in his 
+declaration. Moreover, Chapsky offers no documentation to support his claims . For instance, 
+Chapsky’s attacks on Easton rest almost entirely on what Chapsky describes as a “separate analysis 
+prepared for one of FTX’s international regulators,” that purportedly “showed that Alameda’s user 
+balance on FTX was significantly positive for almost all of its existence.” (Chapsky Decl. ¶ 26). 
+Chapsky does not provide a copy of this “separate analysis” or provide any more information about 
+how it was conducted or by whom—he does not even say which “regulator” it was prepared for.
+3 
+He simply asks the Court to credit his say-so while ignoring that Easton’s testimony was rooted in 
+large volumes of financial data and was also consistent with the testimony of all three cooperating 
+witnesses, each of who m testified based on direct knowledge about Alameda’s balances that 
+Chapsky concedes he does not have. (E.g., Tr. 436 (Wang testimony that Alameda’s total balances 
+on FTX were “approximately negative $11 billion” in June 2022)). 
+Unsurprisingly, given his lack of any expertise and the absence of any documentation to 
+support his claims, Chapsky’s attacks on Easton fall apart upon examination. For example, 
+Chapsky claims that two of Easton’s charts, GX 1002 and GX 1005, “cannot be reconciled.” 
+ 
+3 Needless to say, FTX’s own reports are not a particularly reliable source, given the de-
+fendant’s repeated doctoring of documents throughout the charged time frame. 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 28 of 49
+
+
+--- PAGE 29 ---
+
+24 
+(Chapsky Decl. ¶ 27). Chapsky argues that GX 1002 showed the aggregate balance of Alameda 
+accounts with the “allow negative” feature, while GX 1005 showed the aggregate balance of all 
+Alameda accounts, and yet there were points in time where the aggregate balance in GX 1005 was 
+more negative than the balance reflected in GX 1002.  (Chapsky Decl. ¶ 27). But Chapsky’s own 
+affidavit then offers an  obvious explanation for this claimed “mistake” —he  acknowledges that 
+Easton was cross-examined on this point and explained that he was “tracking different variables  
+in the two graphs.” (Chapsky Decl. ¶ 27). Chapsky goes on to acknowledge that GX 1002 
+“included only Fiat, USDT, BTC, and ETH,” while GX 1005 offered a more complete accounting 
+of the total aggregate balance, which could easily account for periods of time when the total 
+negative balance reflected in GX 1005 was greater than the total reflected in GX 1002. (Chapsky 
+Decl. ¶ 28). In short, by its own terms, Chapsky’s declaration reveals an explanation for the very 
+discrepancy that he claims to have identified. 
+Similarly, Chapsky argues that Easton erred in his calculation of the fiat@ account, because 
+the “liability of FTX” reflected in that account was “mirrored” by “corresponding bank balances 
+and other off-exchange assets.” (Chapsky Decl. ¶ 29). Here, it is Chapsky who is confused again. 
+As Caroline Ellison explained at trial, the fiat@ account represented fiat cash deposits made by 
+FTX customers into FTX, and Alameda was supposed to maintain cash or other safe assets to 
+reflect that liability to customers, but instead Alameda spent the money on investments and trading, 
+which “meant that those assets were at risk.” (Tr. 655 -58; see also Tr. 1352-53 (Singh testimony 
+that until FTX got its own bank accounts, fiat@ account was supposed to represent “exactly what 
+should be in Alameda bank accounts”). Easton’s analysis was consistent with that description, as 
+he identified a large deficiency between FTX and Alameda’s cash assets and the fiat@ liability. 
+(Tr. 1721-22; GX-1004). Thus, there was ample witness and docume ntary evidence supporting 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 29 of 49
+
+
+--- PAGE 30 ---
+
+25 
+Easton’s conclusions on this point, and Chapsky’s bare assertions to the contrary appear to be 
+grounded in a misunderstanding of how the accounting worked. Chapsky’s misapprehension is 
+perhaps understandable given his candid admission that he never did any work “related to 
+Alameda.” (Chapsky Decl. ¶ 2). But his uninformed speculation about these issues offers no basis 
+for a new trial. 
+Fourth, even apart from these issues, and even if Chapsky’s proffered testimony had been 
+admitted in full at trial, it is limited in scope and fails even to address the detailed testimony of 
+multiple cooperating witnesses implicating the defendant and the overwhelming documentary 
+evidence of the defendant’s guilt that was presented at trial, as described below . As further 
+described below, the defendant has failed to show that Chapsky’s testimony would have resulted 
+in an acquittal. 
+2. Ryan Salame’s Post -Conviction Statements Are Not Newly Discovered 
+Evidence and Carry No Evidentiary Weight 
+ 
+Ryan Salame was a senior FTX executive who worked directly with the defendant, was 
+well known to defense counsel, and was a recognized potential source of testimony well before 
+trial. His post-trial public commentary does not represent newly discovered evidence; it reflects a 
+change of position motivated by dissatisfaction with his 90- month sentence and the subsequent 
+indictment of his fiancée, Michelle Bond. A witness’s decision not to testify at trial, on advice of 
+his own counsel, does not render his subseque nt public statements “newly discovered evidence” 
+within the meaning of Rule 33. 
+First, the motion’s newly-discovered-evidence claim fails at the threshold. Salame was not 
+a hidden or unknown figure—he was one of the most senior executives at FTX, worked alongside 
+the defendant throughout the period charged, and had already pleaded guilty to two federal felonies 
+by September 2023, a full month before trial began. His name appeared during voir dire , 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 30 of 49
+
+
+--- PAGE 31 ---
+
+26 
+demonstrating that defense counsel was aware of him as a significant participant in the events at 
+issue. (Trial Tr. 102). He came up at the beginning of the trial, during the testimony of Adam 
+Yedidia. (Trial Tr. 158). And the Government produced attorney proffer notes relating to Salame 
+on May 4, 2023— five months before trial—materials that would have informed the defense of his 
+potential testimony. There is nothing newly discovered here. See Owen, 500 F.3d at  87-89 (co-
+defendant’s post-trial statement was “not newly discovered, but merely newly available” and not 
+a basis for a new trial). 
+Second, to the extent any of the information referenced in the defendant’s motion was not 
+known to the defense or was not presented at trial, that is a product of the defense’s own choices. 
+It could have easily been discovered with minimal diligence. The record contains no indication 
+that the defense took any steps to secure Salame’s appearance. Defense counsel did not call him 
+as a witness, does not appear to have  served him with a trial subpoena under Federal Rule of 
+Criminal Procedure 17, and did not seek judicial immunity to compel his testimony. A defendant 
+who makes no diligence in obtaining a witness cannot later claim that witness’s absence constitutes 
+newly discovered evidence. United States v. Middlemiss , 217 F.3d 112, 123 (2d Cir. 2000)  
+(because the defendant knew about the witness before trial “counsel with due diligence could have 
+discovered the evidence”). 
+Third, the defendant has failed to show how this evidence would be material or admissible 
+at trial. The motion relies on posts from Salame’s X.com account and appearances on podcasts and 
+television programs. None of this material is sworn testimony. None carries the indicia of 
+reliability that courts require to sustain a new trial motion. All of it stands in direct contradiction 
+to Salame’s under-oath statements that he was guilty of conspiracy to make unlawful campaign 
+contributions and conspiracy to operate an unlicensed money -transmitting business, that he 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 31 of 49
+
+
+--- PAGE 32 ---
+
+27 
+pleaded guilty because he is guilty, that his plea was not coerced, and that no side promises were 
+made. Salame is a convicted felon expressing personal grievances , and he has already 
+demonstrated, in proceedings before this Court, a willingness to make false statements under oath. 
+His public advocacy—unsworn, unexamined, and self -interested—provides no basis for a new 
+trial. See United States v. DiPaolo, 835 F.2d 46, 49 (2d Cir. 1987)  (“Courts are particularly 
+reluctant to grant such motions where the newly discovered evidence consists of a witness 
+recantation as such recantations are ‘looked upon with the utmost suspicion.’”). 
+Had Salame testified, the testimony he would have purportedly given for the defense would 
+have been merely cumulative and certainly not material to the trial’s outcome. The defendant 
+contends that Salame could have testified that FTX’s fiat bank account arrangement with Alameda 
+was disclosed to lawyers and was legally structured. That claim was squarely contested at trial and 
+rejected by the jury. Multiple witnesses testified that the routing of FTX customer fiat deposits 
+into Alameda’s bank accounts was deliberately concealed from customers and investors. Caroline 
+Ellison testified that customer fiat deposits were received directly into Alameda’s bank account 
+and used for Alameda’s trading purposes, without customer knowledge or consent. (Tr. 644). Gary 
+Wang confirmed that Alameda’s ability to receive those deposits directly was one of the four 
+undisclosed privileges that distinguished it from every other FTX customer. ( Tr. 350). Can Sun, 
+who was FTX’s general counsel, testified that he was not aware that Alameda was receiving FTX 
+customer deposits into its bank accounts. (Tr. 1906). One of the customers who testified also stated 
+that he believed the account he sent his funds to was connected to FTX. (Tr. 1286). Even if Salame 
+had testified that the arrangement was disclosed and lawful , it would have been cumulative of 
+other evidence. It also would not have been material to the outcome: deception about Alameda’s 
+access to customer fiat funds was just one of many ways the defendant defrauded his customers. 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 32 of 49
+
+
+--- PAGE 33 ---
+
+28 
+And Salame would not have been able to counter the overwhelming evidence at trial because, 
+according to Salame’s own sentencing submission, “he was duped” by the defendant and “had 
+absolutely no knowledge that the four people at the center of Alameda and F TX had conspired to 
+lie and steal from their customers.” (Dkt. 433 at 6). 
+The defendant also contends that Salame would have offered favorable character 
+testimony—that the defendant dislikes personal extravagances and could not have emotionally 
+coerced Caroline Ellison. But as a general matter, a “failure to present potential character witnesses 
+does not lead to the loss of evidence so material that it would have altered the outcome of the trial.” 
+United States v. Polo, No. 94 C r. 219 (RPP), 1998 WL 691221, at *2 (S.D.N.Y. Sept. 30, 1998)  
+(citations omitted). And here it is not clear that any of the testimony the defendant believes he 
+could have elicited from Salame would even be admissible under Federal Rule of Evidence 
+404(a)(1), which bars character evidence to prove or disprove the def endant acted in conformity 
+with a character trait. 
+Nor would Salame’s testimony have assisted the defense with respect to the campaign 
+finance conduct. His September 2023 plea allocution before this Court included his sworn 
+admission that political contributions he made were “funded by transfers from the bank accounts 
+of an Alameda subsidiary,” that they were “supported by Sam Bankman-Fried,” and that he “never 
+intended to repay” the loans he received, and that he “knew it was prohibited by campaign finance 
+laws.” (Salame Plea Tr. at 22). His own defense counsel’s sentencing submission described Salame 
+as being in a “conspiracy” with the defendant and Singh. (Dkt. 433 at 22, 24). Any trial testimony 
+in which Salame sought to walk back those sworn statements and his counsel’s representations 
+would have been subject to comprehensive impeachment, and would have raised serious credibility 
+issues that render such testimony far from material to the outcome. 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 33 of 49
+
+
+--- PAGE 34 ---
+
+29 
+Fourth, there is no basis for a purported due process violation. The Government did not 
+interfere with Salame’s choice whether to testify. Quite the opposite, according to Salame’s own 
+sentencing submission, even “[a]fter his guilty plea … on September 7, 2023, [Salame] further 
+offered assistance and cooperation to the government as it prepared for the Bankman-Fried trial.” 
+(Dkt. 433 at 15). To the extent Salame at some point declined to testify at trial on advice of his 
+counsel—weighing his own legal exposure, his inter est in involving himself in the trial, and 
+strategic considerations specific to his own case— his decision reflects the independent judgment 
+of his private attorneys, not governmental interference. The motion characterizes the investigation 
+of Michelle Bond’s campaign finance violations as improper leverage used to coerce Salame’s 
+guilty plea, but that is a fabricated allegation, contrary to Salame’s under -oath statements at his 
+plea that he had not been coerced and there were no side promises. There is no e vidence that the 
+charges against Bond were spurious or that the Government lacked probable cause to bring them 
+or that the Government’s investigation  of Bond owed to anything other than evidence of her 
+misconduct. Regardless, the defendant’s motion fails to establish governmental bad faith or direct 
+interference with Salame’s free choice. 
+Finally, there is likewise no Brady  violation. The defendant claims that the Government 
+met with Salame’s counsel on April 28, 2023, but produced “no record of this meeting” or “details 
+of what transpired.” (Mot. at 27). But his motion omits mention of the prior production of notes of 
+Salame’s counsel’s attorney proffers, and misrepresents what transpired during the April 28 call. 
+On May 4, 2023—five months before trial —the Government disclosed its notes of three attorney 
+proffers by Salame’s counsel. On Ap ril 28, 2023, the Government had a call —not a meeting —
+with Salame’s counsel after the FBI executed searches on Salame’s and Bond’s property. During 
+that call, the Government gave Salame’s counsel information about how the Government viewed 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 34 of 49
+
+
+--- PAGE 35 ---
+
+30 
+Salame and his areas of potential criminal exposure. There was no material information disclosed 
+by Salame’s counsel on that call that should have been produced to the defendant. Since the 
+Government produced the notes of Salame’s counsel’s attorney proffe rs, there was certainly no 
+suppression, and therefore no Brady violation. 
+3. The Nishad Singh Proffer Materials Do Not Support a New Trial or a 
+Brady Claim  
+ 
+The defendant also seeks a new trial or the disclosure of material based on the unfounded 
+allegation that Nishad Singh changed his testimony following “threats from the Government.” 
+That argument is as unoriginal as it is meritless. Defense counsel attempted to advance the same 
+baseless narrative through cross-examination of Singh at trial. The motion now omits Singh’s own 
+under-oath statements that directly refuted the claim . In any event, the alleged inconsistencies 
+between Singh’s early and later accounts were known to the defense, were presented to the jury, 
+and were rejected. There is neither a basis for a new trial or a Brady claim. 
+The defendant’s argument begins with a false premise.  He claims that at the time of his 
+indictment, the Government  coerced Singh to provide information against the defendant by 
+threatening him with years in prison unless he cooperated. The record tells a different story. Singh 
+began cooperating almost immediately —before the defendant’s indictment and before Ellison 
+began cooperating. (Dkt. 526 at 11) . He was prepared from the outset to plead guilty and accept 
+responsibility. Bankman-Fried tries to paint a picture otherwise, arguing that certain Jencks Act 
+material shows Singh “contradicting the Government’s narrative.” Bankman-Fried’s trial counsel 
+attempted the same approach, using the same Jencks Act material to advance the same argument 
+through cross-examination; the jury rejected it. Unable to accept that result, the defendant recycles 
+his arguments here. None of these arguments is new. None is correct. 
+The defendant begins his motion by suggesting based on fragments of Jencks Act materials 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 35 of 49
+
+
+--- PAGE 36 ---
+
+31 
+that Singh was originally providing testimony helpful to the defense. Close examination shows 
+otherwise. All of these quotations from the Jencks Act were raised on cross-examination. The jury 
+had them. The jury convicted. There is no basis to conclude that Singh changed his testimony. 
+Starting with notes from a January 4, 2023, interview, t he defendant selectively quotes 
+notes in which Singh is said to have stated that, “at the time” a particular document was created, 
+he “didn’t see a hole” and “wouldn’t have seen a hole that could be plugged as a major concern.” 
+(3501-021). But the defendant omits the very next sentence from the notes explaining why Singh 
+had not seen a hole and would not have been concerned: “it wasn’t until September of 2022 that 
+Singh understood that there were no funds to plug the hole.” ( Id.). Similarly, Singh’s statement 
+that before September 2022 he “didn’t see borrowing as wrong in the context of Alameda’s market 
+making function” reflects nothing more than Singh’s limited visibility into Alameda’s finances 
+from his engineering perch. ( Id.). It says nothing about what the defendant knew. Singh testified 
+at trial that when he learned of the hole in September 2022, he was “blindsided and horrified.” (Tr. 
+1409). On the other hand, in the same conversation, the defendant told Singh that the shortfall had 
+merely been “taxing” him “5 to 10 percent” of his productivity for a year. (Tr. 1407). Singh’s 
+limited early awareness thus stood in stark contrast to the defendant’s long-standing knowledge, 
+which the defendant acknowledged to Singh when Singh confronted him . When defense counsel 
+cross-examined Singh on these very notes at trial and asked about the specific lines the motion 
+now quotes, Singh rebutted the accusation, clarified that in some instances he did not “remember 
+saying that,” and explained he was discussing a different topic altogether. (Trial Tr. 1509-11). 
+The defendant selectively quotes notes from January 19, 2023, for the proposition that even 
+shortly before FTX’s bankruptcy Singh “believed everything would be okay.”  (3501-029). That 
+too is out of context. Singh’s trial testimony was far more specific. He testified that by September 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 36 of 49
+
+
+--- PAGE 37 ---
+
+32 
+2022 he knew the money was simply gone, and that he believed there had been “wrongdoing.” 
+(Trial Tr. 1512-13). Even if the defendant or others believed things would have worked out in the 
+end at FTX, that sort of Ponzi schemer’s logic would not be a defense to fraud. See United States 
+v. Lange, 834 F.3d 58, 79 (2d Cir. 2016) (a belief that ultimately everything would work out is not 
+a defense to fraud). 
+As to Singh’s testimony about political donations, the defendant quotes from January 19, 
+2023 notes in which Singh stated he “believe d he was the donor” for contributions made in his 
+name and “knew that he would owe the donation made through his bank account.”  (3501-028). 
+But he omits the context. That portion of the proffer notes concerns why Singh had asked 
+Bankman-Fried to cancel certain loans before FTX’s bankruptcy—including purported loans tied 
+to donations. As the notes reflect just a few sentences later, Singh was “pointing out to Bankman-
+Fried that there were expenditures for which Singh would be on the hook” and “was trying to undo 
+loan transactions that were not actually performed by Singh.” (3501-028). Singh’s trial testimony 
+was clear about his participation in a conspiracy to violate the campaign finance laws with the 
+defendant: he testified that he signed blank checks drawn on his bank accounts, which Bankman-
+Fried’s team used to make donations in Singh’s  name. Salame funded and had direct access to 
+those accounts and would log in to execute the transfers. ( Tr. 1429-33). Singh understood that 
+those donations were funded with customer money. ( Tr. 1433) . The interview notes are not 
+evidence of innocence; they concern a different topic. 
+Finally, the defendant takes a sentence out of context from notes of a November 22, 2022, 
+interview of Singh, in which he is quoted as saying “nobody asked him to create a backdoor.”  
+(3501-012). Two things are immediately apparent. First, those notes predate the period when 
+Bankman-Fried now claims Singh began fabricating testimony. That alone exposes the perjury 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 37 of 49
+
+
+--- PAGE 38 ---
+
+33 
+theory as incoherent: Singh was supposedly lying before the lying started. Second, the notes 
+address Singh’s understanding of a term, not his substantive account of the code. At trial, Singh 
+testified without equivocation that the allow -negative feature an d related modifications gave 
+Alameda undisclosed advantages —the ability to withdraw without limitation, to hold negative 
+balances in any currency, and to avoid liquidation entirely, all hidden from customers and 
+investors. (Tr. 1361- 70). The proffer notes and the trial testimony are entirely consistent. A 
+semantic preference about the word “backdoor” does not contradict sworn testimony about what 
+the features did. 
+Bankman-Fried’s claim that Singh was threatened is likewise false. Relying on snippets of 
+notes of a call between Singh’s counsel and prosecutors, the defendant asserts that prosecutors 
+were “banging on the table” and threatened Singh into changing his story. (3501-053). That finds 
+no support in the record cited. Singh confirmed under oath at his plea that no threats or promises 
+had been made to induce his plea and that he was acting voluntarily. (Singh Plea Tr. at 25). And 
+the Jencks Act material itself co ntradicts the defendant’s characterization: 3501-053 reflects that 
+one AUSA noted, in substance, that while the government did not credit all instances of asserted 
+memory failure, the prosecutors did not “storm out” or “bang[] on [the] table.” That is not a threat. 
+It is a description of how a meeting proceeded. 
+The defendant’s accusation that Singh perjured himself is unsupported. The only basis for 
+it is a misreading of 3500 materials that are not verbatim transcripts. This argument is wishful 
+thinking—and it is, to put it plainly, shameful that the defendant ma kes such accusations against a 
+witness who already testified truthfully under cross-examination about these topics. 
+In any event, there is no basis for relief on either theory that the defendant advances . To 
+obtain a new trial based on allegedly false testimony, a defendant must demonstrate that the 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 38 of 49
+
+
+--- PAGE 39 ---
+
+34 
+testimony was actually false, that the prosecution knew it was false when presented, and that the 
+false testimony was material to the verdict.  See United States v. Wallach, 935 F.2d 445, 456 (2d 
+Cir. 1991) . Bankman-Fried has failed to establish any of those elements. He cannot show the 
+testimony was false—Singh’s trial testimony is fully consistent with the documents and with his 
+contemporaneous conduct. He cannot show the G overnment knew of any falsity. And he cannot 
+show materiality given two other  cooperating witnesses, thousands of documents, and the 
+defendant’s own admissions during cross-examination. 
+There is no Brady violation either. Brady requires actual suppression of favorable evidence. 
+Where defense counsel received the proffer materials, cross -examined the witness using those 
+materials, and placed the alleged inconsistencies before the jury, there is no suppression. That not 
+every word  spoken during proffer sessions was independently transcribed does not establish 
+suppression. The proffer notes were produced. The defendant identifies no gap. His complaint is 
+that he wishes there were additional notes that might serve as impeachment material. But any such 
+notes would be cumulative of what he already had, and would be independently inadmissible as 
+unsworn out -of-court extrinsic evidence that is inadmissible under Federal Rules of Evidence 
+613(b) and 801. See United States v. Cuevas Pimentel, 815 F. Supp. 81, 83 (D. Conn. 1993) (Rule 
+613(b) does not permit attorney statements made during proffer to impeach witness as prior 
+inconsistent statement). Cumulative, inadmissible material does not give rise to a Brady obligation. 
+C. The Defendant’s Claims of Witness Intimidation Do Not Excuse His Lack of 
+Diligence in Presenting this Evidence at Trial 
+ The defendant’s witness intimidation theory fails at the threshold and on the merits , and 
+the cases he relies on cut against him . Bankman-Fried comes nowhere near showing that these 
+witnesses’ decisions not to testify, which were reached in consultation with their lawyers, were 
+based on any improper Government action, let alone Government action that prevented a fair trial, 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 39 of 49
+
+
+--- PAGE 40 ---
+
+35 
+or, as outlined above, would have provided evidence that was material, exculpatory, and not cu-
+mulative of any other source. 
+Bankman-Fried cannot dispute that he knew about and had access to Chapsky and Salame 
+well in advance of trial. He attempts to excuse his failure to call them by asserting that they refused 
+to testify on his behalf because they feared “potential retaliatory action” by the Government. (Mot. 
+at 5, 16). That is not a claim of “newly discovered” evidence and thus is not properly before the 
+Court on this Rule 33 motion. Rather, the proper remedy would have been a motion to compel the 
+Government to immunize these witnesses in advance of trial —a remedy the defendant never 
+sought. See Owen, 500 F.3d at 92-93 & n.5 (even if defendant had been unable to call a codefend-
+ant, the proper remedy would have been immunity for the codefendant’s testimony, which was not 
+“newly discovered within the meaning of Rule 33” and not a basis for a motion for a new trial).  
+Having elected not to raise the issue before trial, he cannot repackage it now as a basis for a new 
+one.  
+Even if the claim were cognizable in this posture, it would fail on the merits. To establish 
+that prosecutorial conduct violated his due process right to present a defense, a defendant must 
+show that the government deprived him of material and exculpatory evidence that could not have 
+been obtained by other means, that the government acted in bad faith, and that the absence of the 
+evidence rendered the trial fundamentally unfair. See Buie v. Sullivan, 923 F.2d 10, 11-12 (2d Cir. 
+1990). As the Supreme Court has recognized, the “touchstone” of the due process inquiry is “the 
+fairness of the trial, not the culpability of the prosecutor.” Smith v. Phillips , 455 U.S. 209, 219 
+(1982). The defendant satisfies none of these requirements.  
+The Government’s conduct here was entirely appropriate. Before trial, the Government 
+communicated with counsel for Chapsky and Salame to understand their knowledge of the charged 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 40 of 49
+
+
+--- PAGE 41 ---
+
+36 
+conduct. In the course of those conversations, particularly with respect to Salame, the Government 
+discussed these individuals’ potential criminal exposure in light of the evidence known to the Gov-
+ernment. All of that was disclosed to the defendant before trial in the form of proffer notes and 
+notes of calls produced as Jencks Act materials. Courts have consistently held that conduct of that 
+kind does not constitute prosecutorial intimidation. The Government does not violate a defendant’s 
+constitutional rights by interviewing potential defense witnesses (or speaking to their counsel), 
+warning them of the consequences of perjury, or advising them of their criminal exposure based 
+on the substance of their prior conduct. See, e.g., United States v. Williams, 205 F.3d 23, 29-30 (2d 
+Cir. 2000) (“a due process violation does not arise merely because the prosecutor interviews a 
+potential defense witness” or “warns a defense witness of the consequences of committing per-
+jury”); United States v. Polanco, 510 F. App’x 10, 12 (2d Cir. 2013) (denying motion for a new 
+trial based on alleged prosecutorial misconduct allegations where the government had a legitimate 
+reason to interview the witness). Chapsky and Salame made their decisions in consultation with 
+their own attorneys, based on their own legal interests. That is the adversarial system working as 
+it should.
+4  
+The defendant has also failed to show bad faith or materiality—each an independent basis 
+to deny relief. As set out above, Chapsky’s proffered testimony would have been legally irrelevant, 
+factually incorrect, cumulative of the evidence in the record, or otherwise inadmissible. Salame’s 
+post-conviction statements are unsworn and flatly contradicted by his own plea allocution. Neither 
+ 
+4 If the defendant’s complaint is that the Government should have immunized Chapsky and 
+Salame, that argument fares no better. The Government has no general obligation to grant use 
+immunity to witnesses the defendant designates as potentially helpful. See United States v. Stewart, 
+907 F.3d 677, 685-86 (2d Cir. 2018); United States v. Ebbers , 458 F.3d 110, 118 (2d Cir. 2006); 
+United States v. Turkish, 623 F.2d 769, 774 (2d Cir.1980); United States v. Praetorius , 622 F.2d 
+1054, 1064 (2d Cir.1979). 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 41 of 49
+
+
+--- PAGE 42 ---
+
+37 
+witness’ absence deprived the defendant of a fair trial.  
+ The defendant’s cited authorities provide him no support. United States v. Pinto, 850 F.2d 
+927 (2d Cir. 1988), and United States v. Williams, 205 F.3d 23 (2d Cir. 2000), are the most telling. 
+In Pinto, government interviewed an in-custody defense witness without counsel present, without 
+Miranda warnings, and without notifying defense counsel, who had specifically requested the in-
+mate’s production. 850 F.2d at 931. The Second Circuit nonetheless held that such conduct “did 
+not result in impermissible prosecutorial intimidation that violated the defendant’s due process 
+rights and warranted a new trial.” Id.at 933-34. In Williams, the government called a defense wit-
+ness in its rebuttal case and accused him of perjury, prompting a recantation of his earlier testi-
+mony. 205 F.3d at 27, 29. The Circuit found no misconduct, observing that the defendant’s right 
+to present a defense did not entitle him to “allow false testimony to go unchallenged.” Id. at 30. In 
+another case relied on by the defendant, U.S. ex rel. Jones v. DeRobertis , 766 F.2d 270 (7th Cir. 
+1985), the Seventh Circuit found that the witnesses there had refused to testify based on their own 
+volition, precisely the situation the defendant faces here. Finally, United States v. Vavages , 151 
+F.3d 1185 (9th Cir. 1998), is inapposite. There, the prosecutor warned a defense alibi witness that 
+he would be prosecuted for testifying and threatened to withhold the witness’s own pending plea 
+agreement, without “any substantial basis in the record for believing the witness [was] lying.” Id. 
+at 1188, 1190-91. Nothing remotely comparable is alleged here. Vavages is also a third-year-old, 
+out-of-circuit decision. That it represents the strongest case the defendant can marshal confirms 
+the weakness of his position.  
+D. The “Newly Discovered” Evidence Would Not Have Resulted in an Acquittal  
+Because the Evidence at Trial Was Overwhelming 
+Even setting aside the threshold defects in the defendant’s newly-discovered-evidence 
+claim, his motion fails on the merits because he cannot satisfy the most demanding requirement of 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 42 of 49
+
+
+--- PAGE 43 ---
+
+38 
+Rule 33: that the “newly discovered” evidence is “so material that it would probably produce a 
+different verdict.” Zagari, 111 F.3d at  322. That standard requires more than a showing that the 
+evidence might have been useful at trial—the defendant must demonstrate that it would probably 
+have produced an acquittal. The evidence of Bankman-Fried’s guilt was so overwhelming at trial 
+that he cannot make such a showing.  
+Over the course of a weeks -long trial, the Government called seventeen witnesses, 
+including three cooperating witnesses—Caroline Ellison, Gary Wang, and Nishad Singh—each of 
+whom testified from independent vantage points to the same core facts: that the defendant secretly 
+diverted billions of dollars of FTX customer funds to Alameda Research, spent those funds on 
+venture investments, political donations, real estate, and loan repayments, and repeatedly lied to 
+customers, investors, and lenders about what he was doing. Their testimony was corroborated by 
+contemporaneous documentary evidence including FTX’s codebase, internal financial records, 
+fraudulent balance sheets, private messages between Bankman-Fried and his co-conspirators, and 
+Bankman-Fried’s own public statements, including his tweets. The jury also heard from customers, 
+investors, and lender s, and from Peter Easton, a financial expert , who traced Bankman- Fried’s 
+misappropriation and spending of customer funds. Against that record, no single piece of newly 
+proffered evidence, standing alone or in combination, could probably have produced a different 
+result. 
+The specific evidence Bankman -Fried now proffers does not come close to meeting that 
+bar. Chapsky’s proposed testimony goes to solvency—whether FTX’s assets, on certain 
+accounting methodologies, exceeded its liabilities. But FTX’s purported solvency is not a defense 
+to any of the charged offenses. The jury convicted Bankman- Fried because he misappropriated 
+customer funds, made material misrepresentations to customers, investors, and lenders, directed 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 43 of 49
+
+
+--- PAGE 44 ---
+
+39 
+the preparation and transmission of fraudulent balance sheets, and orchestrated systematic 
+concealment, none of which is negated by a post -hoc accounting exercise. Indeed, the jury was 
+already presented with the solvency argument: Bankman- Fried himself testified and advanced 
+precisely that theory from the witness stand. The jury considered it and rejected i t. Chapsky’s 
+purported testimony would have been cumulative of the defendant’s own testimony on this point, 
+and cumulative evidence, however styled, does not satisfy Rule 33.  
+Salame’s proposed testimony, as described in X.com posts, fares no better. The purported 
+character evidence he would offer does not speak to any element of any charged offense. Because 
+Salame has claimed ignorance of the fraud at FTX, he would be unable to contradict the mountain 
+of direct evidence establishing Bankman- Fried’s knowledge and intent. And whatever marginal 
+relevance his testimony might theoretically have carried would have been obliterated by his  prior 
+under-oath statements and his  admitted perjury before this very Court —a fact that would have 
+invited significant impeachment and left his credibility in ruins before the jury. 
+Examined count by count and element by element, the purported newly discovered 
+evidence addresses nothing the jury was actually required to find. The jury found that Bankman-
+Fried knowingly and intentionally defrauded FTX customers by misappropriating their deposits—
+a finding established by the testimony of three cooperating witnesses, corroborated by the FTX 
+codebase itself, by Alameda’s internal balance sheets showing a multi -billion-dollar negative 
+balance, by spreadsheets maintained by Ellison, by Signa l chats with Singh, and by Bankman-
+Fried’s own internal acknowledgment, authored the day before his “FTX is fine” tweets, that the 
+exchange had a multi- billion shortfall. The jury found that he defrauded Alameda’s lenders by 
+directing Ellison to prepare and transmit false balance sheets that hid Alameda’s borrowing of 
+customer funds—a finding established by Ellison’s testimony, the seven alternative balance sheet 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 44 of 49
+
+
+--- PAGE 45 ---
+
+40 
+drafts Bankman-Fried reviewed and chose among, and the lenders’ testimony that they would not 
+have extended new loans had they known the truth. The jury also found that he defrauded FTX 
+equity investors by misrepresenting Alameda’s relationship to FTX, its treatment on the platform, 
+and FTX’s treatment of customer funds. And the jury found that he directed and concealed over 
+$100 million in unlawful political contributions and engaged in money laundering. No accounting 
+declaration from a lay witness (Chapsky) and no testimony from a witness who admittedly knew 
+nothing of the fraud (Salame) touches any of those conclusions.  
+E. The Defendant’s Other Claims Are Meritless 
+1. The Weaponization Claim is Meritless  
+ 
+The motion’s “weaponization” narrative is not a legal argument supported by evidence , 
+and certainly is not a cognizable claim under Rule 33. Rather, it is a political strategy the defendant 
+pre-planned and committed to in writing before he was convicted, and one he is now executing 
+from prison in an insincere attempt to obtain leniency. 
+Contrary to his claim that he has been targeted for his politics, the public record establishes 
+unambiguously that the defendant was a major, publicly identified  financial supporter of Demo-
+cratic causes. He was one of the largest donors  to President Biden’s 2020 presidential campaign 
+and was the second -largest individual donor to Democratic -aligned causes in the 2022 midterm 
+election cycle, contributing in excess of $40 million to Democratic candidates, party committees, 
+and progressive organizations. His mother ran Mind the Gap, a 501(c)(4) organization focused on 
+supporting Democratic candidates, and his brother led Guarding Against Pandemics, a PAC that 
+primarily supported Democratic candidates. The defendant was also publicly celebrated as a Dem-
+ocratic megadonor, appeared at Democratic events and conferences, and was profiled extensively 
+in that context by major media. The defendant was indicted for committing some of the largest 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 45 of 49
+
+
+--- PAGE 46 ---
+
+41 
+campaign finance offenses in United States history, which resulted in contributions to candidates 
+from both parties, but certainly favored Democratic candidates and causes. The motion’s sugges-
+tion that he was somehow prosecuted because of his party affiliation inverts the factual reality: he 
+was a major donor, not a political adversary. 
+The defendant pre-planned his public relation efforts and political repositioning prior to his 
+conviction. He is now attempting to execute on his plan, which shows how brazenly dishonest his 
+claims of “targeting” or “weaponization” are. In a Google document written by the defendant in 
+the aftermath of FTX ’s collapse he mapped out a rehabilitation and pardon campaign. His ideas 
+included “Go on Tucker Carlsen [sic], come out as a republican,” “come out against the woke 
+agenda,” blame “SullCrom, lawyers, and Chapter 11,” “focus almost exclusively on the fact that 
+we could give value back to customers,” go on X.com, and claim he had hidden Republican dona-
+tions. (Dkt. 410-3). That checklist is being executed with near-perfect fidelity. In March 2025, the 
+defendant gave an interview to Tucker Carlson in which he portrayed himself as a disaffected 
+Democrat who had become sympathetic to Republicans before his arrest, suggested his political 
+reorientation contributed to his prosecution, criticized the bankruptcy lawyers, and stated he had 
+not committed criminal offenses. He has made similar claims on X.com. The present motion is the 
+judicial phase of the same campaign. It does not present a legal argument based on newly discov-
+ered evidence; it presents items from the defendant’s pre-arrest strategic plan in the form of a Rule 
+33 motion, which he has since attempted to disseminate over the internet. 
+Evidence, not politics, drove the Government’s prosecution of the defendant. The charges 
+were filed within weeks of FTX's November 2022 collapse, after career prosecutors reviewed ev-
+idence that approximately $8 billion in customer funds had been misappropriated. That evidence 
+was presented to a grand jury, which returned an indictm ent, and to a petit jury, which returned a 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 46 of 49
+
+
+--- PAGE 47 ---
+
+42 
+unanimous verdict on all seven counts in fewer than five hours. The motion offers no credible 
+reason to believe that any prosecutorial decision—from the first grand jury subpoena to the last 
+argument at the trial —was influenced by politics , that any evidentiary ruling reflected political 
+motivation, or that the conduct of the trial deviated in any respect from the ordinary adversarial 
+process. 
+2. There is No Basis for Recusal 
+ 
+By merely citing back to his appeal brief, (Mot. at 28), which relied primarily on cherry-
+picked examples of critical comments that largely pertained to the Court’s discretionary measures 
+to oversee an efficient trial and were directed at both parties, (Tr . 821-22, 1125, 1127, 1823- 24, 
+2163), and a handful of limited inquiries by the Court of counsel or witnesses that occurred during 
+examination of both parties, (Tr. 637 -41, 1033-34, 1037-38), Bankman-Fried has failed to estab-
+lish any basis that would requi re this Court to recuse itself from deciding this Motion, let alone, 
+reassign this case in its entirety. See United States v. Bayless, 201 F.3d 116, 126 (2d Cir. 2000)  
+(noting that the relevant inquiry under 28 U.S.C. § 455(a), which governs recusal, is whether “an 
+objective, disinterested observer fully informed of the underlying facts” would “entertain signifi-
+cant doubt that justice would be done absent recusal.”); United States v. Vargas , 961 F.3d 566, 
+584 (2d Cir. 2020) (“Remanding a case to a different judge is a serious request rarely made and 
+rarely granted.”).  
+Whether a court must recuse itself or reassign a case is centered on a partiality analysis.  
+See 28 U.S.C. § 455(a) (a judge must “disqualify himself in any proceeding in which his impar-
+tiality might reasonably be questioned[.]”); United States v. Cruz, 481 F. App’x 650, 652-53 (2d 
+Cir. 2012) (determining the need to reassign a case on remand involves a three-prong inquiry, the 
+first of which, is whether the “original judge would be reasonably expected upon remand to have 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 47 of 49
+
+
+--- PAGE 48 ---
+
+43 
+substantial difficult putting out of his or her mind previously-expressed findings determined to be 
+erroneous”). Here, particularly where there has been no finding of reversible error, the defendant 
+has not—and cannot —point to any fact in the record which seriously questions this Court’s par-
+tiality.  
+First, comments to both parties to move the trial along efficiently, do not in any way cast 
+doubt on the Court’s partiality. See United States v. Wedd, 993 F.3d 104, 116 (2d Cir. 2021) (Sec-
+tion 455(a) will not require recusal based on a “judge’s comments during a proceeding that are 
+critical or disapproving of, or even hostile to, counsel, the parties, or their cases.”); Liteky v. United 
+States, 510 U.S. 540, 555-56 (1994) (noting that partiality cannot be established through “expres-
+sions of impatience, dissatisfaction, annoyance, and even anger, that are within the bounds of what 
+imperfect men and women, even after having been confirmed as fede ral judges, sometimes dis-
+play.”). Similarly, there was nothing improper about the Court’s inquiries of counsel or witnesses, 
+which occurred during examination by both parties. See United States v. Pisani, 773 F.2d 397, 403 
+(2d Cir. 1985)  (a district court is permitted to ask questions to “clarify[] ambiguities, correct[] 
+misstatements, or obtain[] information needed to make rulings.”). Finally, there is no basis to con-
+clude that “an objective, disinterested observer fully informed of the underlying facts” would “en-
+tertain significant doubt that justice would be done absent recusal,” Bayless, 201 F.3d at 126, where 
+the Court merely provided the jury with an option for continuing deliberations in the evening while 
+making clear he was “not commenting on how long this should take or how quickly you should be 
+done one way or the other,” (Tr. 3112).  
+Under these circumstances, the Court “is as much obliged not  to recuse [itself] when it is 
+not called for as [it] is obliged to when it is.” In re Drexel Burnham Lambert, Inc., 861 F.2d 1307, 
+1312 (2d Cir. 1988) (emphasis added); see also In re Aguinda, 241 F.3d 194, 201 (2d Cir. 2001) 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 48 of 49
+
+
+--- PAGE 49 ---
+
+44 
+(“Where the standards governing disqualification have not been met, disqualification is not op-
+tional; rather it is prohibited.”). 
+CONCLUSION 
+ For the foregoing reasons, the defendant’s motion should be denied in its entirety. 
+ 
+Dated: New York, New York 
+ March 11, 2026 
+ 
+      Respectfully submitted, 
+  
+      SEAN BUCKLEY 
+      Attorney for the Government  
+ 
+ 
+ 
+      By:        
+Danielle Kudla 
+Thane Rehn  
+Nicolas Roos 
+Assistant United States Attorneys 
+(212) 637-2304 / -2354 / -2421  
+ 
+Case 1:22-cr-00673-LAK     Document 587     Filed 03/11/26     Page 49 of 49

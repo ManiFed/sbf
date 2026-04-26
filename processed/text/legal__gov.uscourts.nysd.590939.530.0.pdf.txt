@@ -1,0 +1,107 @@
+
+
+--- PAGE 1 ---
+
+ 
+McCarter & English, LLP 
+Worldwide Plaza 
+825 Eighth Avenue 
+31st Floor 
+New York, NY 10019-7475 
+www.mccarter.com 
+David Adler 
+Partner 
+T.
+212
+-609-6847
+F. 212
+-645-1025
+dadler@mccarter.com
+October 29, 2024 
+VIA ECF 
+Honorable Lewis A. Kaplan 
+United States District Judge 
+Daniel Patrick Moynihan 
+United States Courthouse 
+500 Pearl Street 
+New York, NY 10007-1312 
+Re: United States v. Nishad Singh, 22 Cr. 673 (LAK) 
+Dear Judge Kaplan, 
+I write on behalf of my client Seth Melamed (“Melamed”).   Mr. Melamed was the 
+former Chief Operating Officer (“COO”) and Representative Director of FTX Japan 
+(“FTX Japan” or “FTXJ”).  
+Mr. Melamed wishes to bring to the Court’s attention certain misstatements in the 
+sentencing submission of Nishad Singh dated October 6, 2024, ECF Doc. #523 
+(the “Sentencing Submission”) and provide the Court with accurate information.  
+Specifically, in his Sentencing Submission, Mr. Singh asserts: 
+Protecting FTX Japan Customers. FTX Japan custodied its customer assets 
+in a particular kind of “cold wallet” that Bankman-Fried and Wang could not 
+access. Bankman-Fried and Wang told the COO of FTX Japan to switch 
+over to a different system that would give them access to those funds. After 
+Nishad learned about the hole in customer funds, he called the COO and 
+convinced him not to switch over to the system, precisely because he knew 
+Bankman-Fried and Wang could improperly use the funds. In the final days 
+of FTX, this meant that FTX Japan’s customer funds could not be used 
+improperly to repay the debt owed to non-Japan FTX users. Only four 
+months after the collapse of FTX, FTX Japan was able to reopen 
+withdrawals for its customers   
+Sentencing Submission, ECF Doc. No. 523 at 34.  
+Mr. Melamed wishes to advise the Court that this paragraph is completely false. 
+First, Mr. Singh fails to point the Court to any testimony to corroborate this 
+story.  Nor does the Government reference this story in its sentencing submission.  
+10/30/24
+Case 1:22-cr-00673-LAK     Document 530     Filed 10/30/24     Page 1 of 2
+
+
+--- PAGE 2 ---
+
+Hon. Lewis Kaplan 
+October 29, 2024 
+Page 2 
+ 
+ 
+ 
+Second, Mr. Melamed wishes to advise the Court that neither SBF nor Wang 
+reached out to Mr. Melamed in an attempt to change the wallet structure which he 
+and the FTX Japan’s Operations team were managing.  As the Representative 
+Director of FTX Japan, Mr. Melamed bore personal and professional responsibility 
+for the safekeeping and control of FTX Japan’s clients’ assets, including digital 
+assets stored in cold wallets.  In Japan, the applicable Japanese regulations and 
+FTX Japan’s own internal policies governing wallet management are extensive, 
+clear, and by design, are not easily changed.  There was no scenario in which SBF, 
+Wang, or Singh could have persuaded Mr. Melamed to change how wallets were 
+managed. Mr. Melamed could not and would not deviate from Japanese regulations 
+or FTX Japan’s internal guidelines and policies that were in place to securely 
+segregate client funds. 
+ 
+As noted in the Sentencing Submission, FTXJ was able to return all customer 
+assets/funds within four months of the parent company's (FTX Trading 
+Ltd.)  insolvency.  This occurred due to the unwavering resolve of the FTX Japan’s 
+operations team to follow the rules in Japan regarding asset segregation and 
+customer protection before the FTX petition filing date and the team’s commitment 
+to serve its customers post-petition.   
+Third, Mr. Singh asserts that he called Mr. Melamed to convince him not to switch 
+the wallet infrastructure because he knew SBF and Wang would improperly use the 
+funds.  Mr. Melamed has no recollection that Mr. Singh called, emailed or sent him 
+a Slack message with a warning or information to be wary of a change of 
+infrastructure because of SBF’s or Wang’s intent to obtain access to customer 
+assets of FTXJ.  Simply stated, Singh did not undertake the measures described in 
+his Sentencing Submission.  Had Mr. Singh warned Mr. Melamed of the hole in the 
+FTX Trading Ltd. balance sheet or the potential damage that would be caused by 
+SBF or Wang if the FTXJ wallet infrastructure had been changed, there is much 
+more that Mr. Melamed could have and would have done to try to protect FTX’s 
+customers not only inside of Japan but in other regions where FTX operated.  Since 
+Singh furnished no such warning, Mr. Melamed was shocked and angered, like 
+many others, when the extent of the misappropriation of FTX’s client assets 
+facilitated by SBF, Wang, Singh, and Ellison became apparent upon the bankruptcy 
+petition filing in November 2022.
+ 
+As noted above, Mr. Melamed wishes to correct the record and highlight the 
+misstatements in the Sentencing Submission.  Given the complete lack of 
+evidence, Mr. Melamed respectfully requests that this Court give no weight to Mr. 
+Singh’s false assertions in connection with his sentencing.   
+ 
+Respectfully submitted, 
+/s/ David J. Adler 
+David J. Adler  
+Case 1:22-cr-00673-LAK     Document 530     Filed 10/30/24     Page 2 of 2

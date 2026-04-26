@@ -1,0 +1,33 @@
+
+
+--- PAGE 1 ---
+
+© FTAVKadhim Shubber and Bryce ElderPublishedDEC 6 2022
+Unlock the Editor’s Digest for freeRoula Khalaf, Editor of the FT, selects her favourite stories in this weekly newsletter.Sign upEnter your email address
+As well as running a crypto exchange that didn’t exchange crypto and owning a hedge fund thatdidn’t hedge, Sam Bankman-Fried had a venture capital fund that didn’t venture its own capital.The VC division, in contrast to the rest of the FTX group, can now provide some insight into wheresome of the money went. Here’s where it went:
+🔍The screenshot above and all those below are taken from an Excel spreadsheet dated earlyNovember, when SBF was seeking rescue funding amid a run on FTX customer deposits. Mobileand app users are advised to click the magnifying glass below each image for more detail.According to a person familiar with the rescue effort, the document shows an Alameda Researchprivate equity portfolio — with some FTX bets mixed in — that was being offered as collateral in anattempt to secure a new credit line for the stricken group.
+🔍The disparate bundle of nearly 500 illiquid investments is split across 10 holding companies. Thetotal investment value is given on the spreadsheet as in excess of $5.4bn.
+🔍As well as forming a central plank in efforts to maximise recoveries from FTX’s bankruptcy, theportfolio might offer regulators insight into whether the group’s trading and exchange businesseswere ever operationally separate as claimed.Bankman-Fried conceded in an interview with the Financial Times that he was involved inAlameda’s venture capital activities but has so far ducked questions around the misuse of FTXcustomer funds.
+AlphavilleFTX Trading LtdRevealed: the Alameda venture capital portfolio
+A look inside Sam  and Caroline’s grab-bag of crypto, etc.
+
+
+
+--- PAGE 2 ---
+
+🔍Going by the spreadsheet, boundaries between SBF’s companies were blurred. Two of Alameda’sbiggest holdings, the crypto miner Genesis and the artificial intelligence research group Anthropic,are also listed on the draft FTX balance sheet published last month by FTAV. (Semafor subseqentlyreported that FTX had seized certain assets from Alameda after a margin call.)
+🔍As previously reported, the portfolio includes stakes in FTX backers Sequoia Capital and AnthonyScaramucci’s SkyBridge Capital, as well as in Elon Musk’s SpaceX and Boring Company projectsthrough the investment in K5.
+🔍Of Alameda’s remaining investments, crypto and DeFi projects account for the majority. But thelist also includes numerous start-up video game studios and betting platforms, online banks,publishers, a fertility clinic, a military drone maker and a vertical farming company,
+🔍Some entries have no clear link to an active business, suggesting they may be misspelt ormislabeled.Note that FT Alphaville has excluded entries where an investment type is not given, which removesapproximately a dozen names with a total stated investment of about $100mn. All other data arepresented as they were shown to prospective FTX investors. The FT makes no claim as to the data’saccuracy or completeness.
+
+
+
+--- PAGE 3 ---
+
+CopyrightThe Financial Times Limited 2026.All rights reserved.
+Follow the topics in this articleFinancial servicesFTX Trading LtdAlameda ResearchSam Bankman-FriedAlphaville
+🔍When asked about why FTX used customer funds to prop up Alameda, SBF has repeatedly pleadedignorance. The former FTX CEO said that to avoid conflicts of interest he chose not to get involvedin Alameda’s trading and risk management, so before last month was not fully aware of its parlousstate.
+🔍However, SBF told the FT that in early summer he had participated in conversations whereAlameda’s financial health and borrowing were discussed. The venture capital investmentsAlameda had made were “effectively, some of them, on margin”, he added.
+🔍Alameda’s spreadsheet predates SBF’s current media blitz by a month, though it comes with all thesame warnings about potentially selective recall and unreliable presentation, As the FT’s JoshuaOliver reports:
+🔍Caroline Ellison, former CEO of Alameda and SBF’s one-time romantic partner, could not bereached for comment.
+Bankman-Fried’s attempt to account for what went wrong was laced withcaveats and references to his incomplete memory. He cited lack of“confidence” in his answers at least a dozen times, calling other responses“idle speculation” or “shitty answers”. At one point, he paused for half aminute with his head in his hands.

@@ -1,0 +1,1139 @@
+
+
+--- PAGE 1 ---
+
+1
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x 
+ 
+UNITED STATES OF AMERICA, 
+ 
+           v.                           22 Cr. 00673 (LAK) 
+ 
+ZIXIAO WANG, 
+ 
+                                        Sentencing 
+               Defendant. 
+ 
+------------------------------x 
+                                         
+                                        New York, N.Y. 
+                                        November 20, 2024 
+                                        10:00 a.m. 
+ 
+ 
+Before: 
+ 
+HON. LEWIS A. KAPLAN, 
+ 
+                                        U.S. District Judge 
+ 
+APPEARANCES 
+ 
+DAMIAN WILLIAMS 
+     United States Attorney for the 
+     Southern District of New York 
+NICHOLAS ROOS 
+NATHAN MARTIN REHN  
+DANIELLE RENEE SASSOON  
+DANIELLE KUDLA 
+     Assistant United States Attorney 
+ 
+ILAN TUVIAH GRAFF  
+ALEX B. MILLER 
+     Attorneys for Defendant  
+ 
+ALSO PRESENT: 
+     Kristin Allain, FBI 
+     Luke Booth, FBI 
+ 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 1 of 19
+
+
+--- PAGE 2 ---
+
+2
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+(Case called)
+THE DEPUTY CLERK:  Government, are you ready?
+MR. ROOS:  Yes.  
+Good morning, your Honor.  Nicolas Roos, Nathan Rehn,
+Danielle Sassoon, and Danielle Kudla for the United States.
+We're joined at counsel table by Special Agent Kristin Allain
+of the FBI.
+THE COURT:  Good morning.
+THE DEPUTY CLERK:  Defense, are you ready?
+MR. GRAFF:  Yes.
+Good morning, your Honor.  Ilan Graff for Mr. Wang,
+joined by Alex Miller and Mr. Wang, who is seated to my right.
+THE COURT:  Good morning.
+Mr. Graff, have you and Mr. Wang had the presentence
+report for the necessary period?
+MR. GRAFF:  Yes, your Honor.
+THE COURT:  The presentence report will be sealed and
+made available to counsel in the event of an appeal.  
+Are there any unresolved objections to the PSR?
+MR. ROOS:  No, your Honor.
+MR. GRAFF:  No, your Honor.
+THE COURT:  All right.  I have received, in relation
+to the sentencing, the presentence report, a consent
+preliminary order of forfeiture, a submission from Mr. Graff, a
+letter from a former FTX employee named Adam Jin, and the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 2 of 19
+
+
+--- PAGE 3 ---
+
+3
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+government's submission dated the 13th of November.  I think
+that's it.
+Is there anything else I should be aware of?
+MR. GRAFF:  No, your Honor.
+MR. ROOS:  No, your Honor.
+THE COURT:  As a preliminary matter, the government
+has requested that the complete, unredacted version of its
+sentencing submission, a redacted version of which is on the
+public docket, be filed under seal.
+Any opposition to that?
+MR. GRAFF:  No, your Honor.
+THE COURT:  The Court is obliged to balance competing
+considerations against the weight of the presumption of access
+to judicial documents.  One such countervailing consideration
+is the danger of impairing law enforcement or judicial
+efficiency.  Here, the unredacted portion of the government's
+sentencing submission, the defendant's sentencing submission,
+and the remarks I plan to make later, all of which are or will
+be on the public record, provide the public or will provide the
+public with a very ample basis for understanding the sentencing
+decision.
+The redacted material would not add substantially to
+the information otherwise available to the public.  On the
+other hand, the redacted material has significant potential
+value for the government.  Its disclosure, I find, likely would
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 3 of 19
+
+
+--- PAGE 4 ---
+
+4
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+impair law enforcement.  The danger of its doing so outweighs
+significantly any benefit to its public disclosure, and,
+accordingly, the government's motion to file the unredacted
+version of its sentencing submission under seal is granted.
+Is there any other finding or point counsel believe
+should be raised?
+MR. ROOS:  No.  Thank you, your Honor.
+THE COURT:  Okay.  I will hear Mr. Graff.
+MR. GRAFF:  Thank you, your Honor.
+It is an honor to stand here on behalf of Gary Wang,
+who is joined here in the courtroom by his parents, his wife,
+Cheryl, his mother-in-law, and some of his colleagues from
+Polycam, including the company's CEO.
+To borrow a refrain from the government, as the Court
+prepares to impose sentence on Mr. Wang, we respectfully urge
+your Honor to consider three things:  What Gary did not do,
+what he did, and what he still can do.
+I'll start with what Gary did not do.  As set forth in
+the government's robust 5K, Gary did not knowingly create the
+so-called back doors that others exploited to steal customer
+money.  Gary did not have any involvement in using those
+special privileges or withdrawing customer funds.  For years he
+had no visibility on that conduct and did not even know how
+much Alameda had taken.
+Gary did not lie to customers, to lenders, to
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 4 of 19
+
+
+--- PAGE 5 ---
+
+5
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+investors.  Gary did not falsify revenue, participate in
+campaign finance offenses, or participate in money laundering.
+Gary did not profit from any of the criminal schemes.
+Gary also didn't change his lifestyle.  He lived the
+same, exhausting coder's day-to-day from the day he joined
+Alameda until the day it all came crashing down.  While others
+were mingling with celebrities and dealing with high finance,
+he was seated at his computer pushing himself through late
+night after late night to address endless technical issues.
+Gary also didn't make lavish investments.  He didn't
+buy luxury items or much of anything else.  During his time at
+Alameda and FTX, his most extravagant expense was his regular
+charitable contribution of roughly 15 percent of his annual
+$200,000 salary, the same percentage he'd been giving since he
+graduated college, because Gary thought a couple hundred
+thousand dollars was more than enough for him and lived his
+life accordingly.
+Unlike some others, Gary didn't make a big deal about
+his charitable giving or his quiet support for his friends and
+loved ones in or out of FTX.  There was nothing informative or
+attention seeking about it or about him.  He never held a press
+conference to explain what a good guy he was, or took to social
+media to do the same.  Gary's someone who tries to do the right
+thing for its own sake.
+And that brings me, your Honor, to the last and most
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 5 of 19
+
+
+--- PAGE 6 ---
+
+6
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+important thing that Gary did not do.  He did not use anything
+that I've just said or any of the other mitigating facts
+reflected in the 5K or our own sentencing submission as an
+excuse to evade consequences or accountability for his actions
+here.
+As the government's explained and the trial record
+reflects, there was plenty of room for rationalization and
+excuse making, for Gary to deny the facts and try to assert
+mere presence.  At a minimum, he could have waited, he could
+have tried to hide and wait it out.  But that's not who Gary
+is.  That's not the principled young man seated in the
+courtroom here whose integrity is evidenced in the presentence
+report's account of his life pre-Alameda and in the many
+letters from his friends and family your Honor has been able to
+review in connection with sentencing.
+Gary knew, whatever his role, he had played a part in
+the FTX fraud.  He felt and continues to feel profound remorse
+for what he initially unwittingly did to enable the theft and
+for his failure to stop it when he finally learned what was
+happening.  He understood his participation required
+accountability, and he wanted to do what he could to help make
+things right.
+So let's talk about what Gary did.  Gary made the near
+immediate decision to cooperate.  That is a gut wrenching, life
+defining choice for anyone, but more so for Gary, who had to
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 6 of 19
+
+
+--- PAGE 7 ---
+
+7
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+literally walk past Sam Bankman-Fried and into the next chapter
+of his life.  And when day after day after day after day
+Bahamian law enforcement had a new explanation for why Gary's
+passport, which was notionally ready to be returned, couldn't
+be made available to him, he showed up at the U.S. Embassy in
+Nassau to secure an emergency travel document, and took the
+first flight he could back to New York.  That's what Gary did
+to become the first FTX witness in the door and the first to
+become fully debriefed.  That's how he delivered essential
+evidence and an eye witness account to law enforcement in order
+to fuel and accelerate a prosecution which has been defined in
+significant part in the public's eye by how speedily it was
+able to bring justice.
+As the government has noted in its 5K, the swiftness
+and substance of Gary's acceptance of responsibility,
+particularly under these circumstances, is in and of itself
+remarkable, but that's just what he did in his first weeks of
+cooperation with the government.  As the Court knows, Gary also
+meticulously unpacked the FTX code for prosecutors, for the
+FBI, for the SEC, for the CFTC, and more recently for the New
+York Attorney General.  He assisted law enforcement in
+pinpointing Sam Bankman-Fried's location in the Bahamas, so he
+could be safely and expeditiously arrested.
+He took the witness stand and testified over three
+days to help secure Bankman-Fried's conviction.  Having made it
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 7 of 19
+
+
+--- PAGE 8 ---
+
+8
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+through that crucible, he made himself available to testify in
+two other trials in this district.
+He also cooperated with the bankruptcy estate to the
+enormous benefit of FTX customers.  As described in John Ray's
+letter, after one of the single worst weeks of Gary's life, the
+week of FTX's collapse, which included plenty of sleepless
+nights, Gary again worked through the night to help preserve
+$800 million of customer assets.  He later helped the
+bankruptcy estate's technical experts navigate a range of
+issues, so they could identify money available to be returned
+and ensure that it was secure for FTX customers.
+On his own time, Gary built a tool to help prosecutors
+identify and combat fraud in public markets.  Mindful of the
+considerations that your Honor has already referenced today, I
+won't say more about that or its crypto market analog on which
+Gary is currently working, other than to echo the government's
+point in its 5K that these efforts further distinguish Gary's
+already outstanding cooperation from the vast majority of
+cooperating witnesses who appear before this Court for
+sentencing.
+And amidst all of this, Gary rebuilt his life.  He got
+married and is expecting his first child.  He scoured listings
+for a job, and managed to find one that let's him use his
+remarkable talents in a world far removed from crypto,
+including in ways that help advance law enforcement by helping
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 8 of 19
+
+
+--- PAGE 9 ---
+
+9
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+to preserve evidence.  He did all of this while making time for
+five-hour bus rides back and forth to Manhattan to cooperate,
+and despite the crushing weight of his own remorse and shame,
+as well as public scrutiny.
+There's obviously no dispute about the facts here, no
+disagreement about what Gary did and did not do.  By all
+accounts, Gary played a limited role, only belatedly learned of
+all of the offense conduct, swiftly accepted responsibility,
+and promptly began a course of extraordinary and ongoing
+cooperation.
+For the reasons detailed in our sentencing submission,
+we respectfully submit that he compares favorably to every
+other defendant who appears before this Court for sentencing.
+So I will conclude with what Gary can do.  If, in
+light of all of these facts, and the details in our submission
+and the government's 5K, the Court imposes a time-served
+sentence, Gary can powerfully illustrate the utilitarian
+benefits of cooperation and avoid deterring others with limited
+participation along the lines of Gary's, from pursuing the same
+course.
+Such a sentence would also promote respect for the
+law, avoid unwarranted sentencing disparities, and advance all
+the other relevant sentencing objectives.  Your Honor, a
+non-custodial sentence would also mean Gary can continue his
+cooperation with the government and the bankruptcy estate to
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 9 of 19
+
+
+--- PAGE 10 ---
+
+10
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+make victims whole and prevent future frauds.  He can keep the
+job he worked so hard to get and remain a productive member of
+society.  And he can be the devoted and responsible husband and
+father he so separately hopes to be.
+We respectfully submit that all of that would be a
+just result and ask that your Honor impose a sentence of time
+served.
+THE COURT:  Thank you.
+Before I offer Mr. Wang a chance to speak for himself,
+there are a couple of details that I skipped over earlier.
+First of all, I take it the government has a motion, Mr. Roos.
+MR. ROOS:  Yes.  I was intending to make it when I
+speak, but I'll do it now.  
+The government moves to have the Court sentence
+Mr. Wang in light of the factors set forth in section 5K1.1(a)
+of the sentencing guidelines and pursuant to 18, United States
+Code, 3553(e).  The reason is because of substantial
+assistance, as described in our sentencing letter of November
+13th, and as I'll further elaborate in my remarks shortly.
+THE COURT:  Granted.
+Mr. Wang, just a question for you before you speak.
+Did you read the entire presentence report?
+THE DEFENDANT:  Yes, your Honor.
+THE COURT:  Did you include the portion near the end
+that recommends a period of supervised release on certain
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 10 of 19
+
+
+--- PAGE 11 ---
+
+11
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+conditions, so that you understand what the recommended
+conditions would be?
+THE DEFENDANT:  Yes, your Honor.
+THE COURT:  All right.  Thank you.
+Now, you have the right to speak before your sentence.
+Is there anything you'd like to say?
+THE DEFENDANT:  Yes, your Honor.
+THE COURT:  Please.  If you'd go to the microphone.
+THE DEFENDANT:  Thank you, Judge Kaplan.
+I'm deeply sorry to all the people who I've hurt by my
+actions, to all the customers and investors in FTX who depended
+on FTX and trusted us with their money.  There was so many
+things I could have done differently that might have prevented
+them from losing all their money, but instead I took the easy
+path, the cowardly path, instead of doing the right thing.
+I profoundly regret my choices.  Nothing I do will
+ever be able to make up for those choices, but I plan to spend
+the rest of my life doing everything I can to try to make
+amends.  I will continue working with the FTX bankruptcy estate
+to make customers whole, to make customers get paid back as
+much as possible, and I will continue working with the
+government in whatever way I can.
+I want to thank my employer for giving me a chance to
+be a productive member of society, and I want to thank my
+family and my friends for all the encouragement and all the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 11 of 19
+
+
+--- PAGE 12 ---
+
+12
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+love that they've given me these past two years.  I will strive
+to -- I will strive to live a life worthy of their support.
+Thank you, your Honor.
+THE COURT:  Thank you.
+Mr. Roos?
+MR. ROOS:  Thank you, your Honor.
+You know, your Honor, I was struck as I was filing our
+sentencing submission on November 13 that it was exactly two
+years since Gary Wang expressed an interest in cooperating, and
+I find such a short time period to be truly remarkable.  To
+have a full criminal case go to trial and to have all of the
+witnesses -- all of the defendants be sentenced, with Mr. Wang
+being the last one, in that time period.  And in some ways
+Mr. Wang's cooperation really is a bookend on each side to the
+overall case.  He was the first person to come in and the last
+person to be sentenced.
+I want to talk about his cooperation, first, in terms
+of the timing.  The 5K letter and of course the defense's
+sentencing submission outline just how quickly this happened
+and how it was really, truly remarkable that he was the first
+FTX employee to come in the door.  What I want to underscore is
+how that timing really helped make the case.
+Now, as your Honor knows, there were two aspects to
+the way in which money was misappropriated.  One was by taking
+money out of bank accounts that Alameda had access to, and the
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 12 of 19
+
+
+--- PAGE 13 ---
+
+13
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+other was by taking it off the exchange.  There are certain
+code provisions that permitted such special advantages.  The
+code, at least I'll say speaking for myself, is like San
+script.  It is impossible, I would say, for someone without
+expertise to decipher and, I would say, even someone with
+expertise.  We had folks looking at this thing, and it was
+really difficult to parse.
+And what was incredible about Mr. Wang's cooperation
+was he came in and deciphered basically half the case for us on
+the very first day of his cooperation, working through the
+code, calling out the very small provisions that permitted the
+special access, walking us through how those came about, how
+they allowed money to be misappropriated, and his conversations
+with Sam Bankman-Fried and Nishad Singh along the way.
+And so I think it's not just that he came in early,
+giving us a cooperating witness early on, which of course can
+prompt other people to cooperate and prompt other charges, but
+the fact that he was able to decipher an otherwise extremely
+complex case that would take tons of government resources and
+months, if not years, to unravel without someone like Mr. Wang.
+And I think in that respect Mr. Wang is entirely unique,
+because I'm pretty positive there's not any other witness that
+could do that type of work with respect to the case and do it
+so early.
+The second point I want to make about cooperation is
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 13 of 19
+
+
+--- PAGE 14 ---
+
+14
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+the substantial nature of his assistance.  He gave us detailed
+information from the beginning.  He, in many respects, has been
+the easiest cooperating witness I've ever worked with, because
+there was never a moment where there was minimization or
+inconsistency, where it felt like he had not given us the full
+facts.  From the getgo, he was identifying things, he was doing
+his homework in between sessions, he was taking lengthy bus
+rides to meet with us, and he did that not just for us but for
+the other agencies and for the FTX estate, and he continues to
+do that.
+What I also think is sort of interesting about
+Mr. Wang is he has this incredible, unique skill set, which he
+was deploying for Google before deploying it for FTX, and is
+now deploying a skill, which is computer skills.  And unlike
+many cooperating witnesses, which of course are trying to help
+by providing historical information, Mr. Wang has this unique
+skill set where he can actually do something and deploy some of
+the skills he was using that helped to perpetrate the fraud to
+productive ends.  
+Our sentencing submission outlines this, but he
+created this really interesting and useful infrastructure for
+detecting cases for us in traditional securities markets, now
+crypto currency markets.  And I'll share as an anecdote, we
+have some other investigations that are not public yet, but
+Mr. Wang's tool, it actually -- running them now, it highlights
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 14 of 19
+
+
+--- PAGE 15 ---
+
+15
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+these cases before they were opened at the U.S. Attorney's
+Office.  So it really seems to be an effective potential tool
+for detecting fraud in the financial markets, and I think it's
+really -- I haven't seen anything like it, for someone to come
+up with a use of the skills they use to perpetrate a fraud and
+then redeploy them in a way that helps law enforcement, society
+in a proactive way.
+Now, picking up on what defense counsel mentioned,
+I've been thinking about the choice that Mr. Wang had when he
+came into -- when he expressed an interest in cooperating on
+November 13 and then came in shortly thereafter and then
+quickly did four lengthy interviews and pled guilty.  I think
+many people in his situation, based on the facts that he
+probably knew the government had and didn't have, would have
+picked a different path.
+You know, unlike Sam Bankman-Fried, he didn't make any
+public statements.  He was not tied to any spending.  He didn't
+have any involvement in Almeda.  Unlike Ellison, he was not
+involved in the Alameda transactions.  Unlike Singh and Salame,
+he was not involved in spending toward the end.  As your Honor
+may have observed during the trial, he's sort of a man of few
+words and was not on many documents.  And I think, certainly,
+given the paucity of documentary evidence and the lack of
+involvement in certain aspects of the case, it would have been
+easy for someone like Mr. Wang to say, at best, I was merely
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 15 of 19
+
+
+--- PAGE 16 ---
+
+16
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+present.  And, in fact, we got the exact opposite from him.
+Day one, without any sort of prompting, he volunteered
+it all.  Many of the things he pled guilty to are the result of
+him incriminating himself in the proffer room, totally
+voluntarily.  And the point is that he could, perhaps better
+than any other defendant, have minimized responsibility and
+stretched out the case, and he didn't.  He did absolutely the
+opposite.
+And so as I'm thinking about, you know, the message
+that the Court could potentially send from the defendant's
+sentence, I think he deserves special credit, and the enormity
+of the fraud is an opportunity to signal how important
+cooperation of this type and the timing of this cooperation
+truly can be.  So I think Mr. Wang's cooperation has been far
+beyond substantial assistance, and, as the lowest profiled
+defendant, there's an opportunity to signal just how meaningful
+this type of cooperation can be to the government.
+Thank you.
+THE COURT:  Thank you.
+Well, I've never seen anything quite like what
+happened here.
+Mr. Wang, please rise for the imposition of sentence.
+I don't think I really need to say much about the
+extent of your cooperation.  The government and Mr. Graff have
+said it all.  You are entitled to a world of credit for facing
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 16 of 19
+
+
+--- PAGE 17 ---
+
+17
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+up to your responsibility and beginning immediately to try to
+make amends for what had happened.
+I also recognize that you came to the relatively
+limited awareness of culpable knowledge that makes you guilty
+of the crimes to which you pleaded guilty very late in the day,
+and the period of your culpability was, in comparison to the
+period of the culpability of the other defendants in this case,
+extremely small, short duration.
+When the bankruptcy got filed and it became clear the
+house of cards was tumbling, you immediately did the right
+thing.  You did the right thing for yourself.  You did the
+right thing for the country.  I've never seen anything quite
+like it, and you deserve, as I said, a world of credit.
+That's not to diminish in any way the gravity of the
+offense for which you are liable.  I think I've said before
+that if it wasn't the biggest financial fraud in American
+history, it was certainly among the two or three, and it had
+disastrous consequences.
+But life's a balance.  This is a balance, and the
+balance is heavily in your favor at this moment.
+It is the judgment of this Court that you be committed
+to the custody of the Attorney General of the United States or
+his designee for a term of imprisonment of time served on each
+count; that you thereafter serve a term of supervised release
+of three years on each count; and that you pay the mandatory
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 17 of 19
+
+
+--- PAGE 18 ---
+
+18
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+special assessment of $100 -- excuse me, $400.
+It's further adjudged that you forfeit to the United
+States the sum of $11,020,000,000, for which you will be
+jointly and severally liable with the codefendants, as the term
+codefendants is defined in the consent preliminary order of
+forfeiture that I have just signed, and you will do so, all, as
+more fully set forth in that order.
+The term of supervised release shall be subject to the
+mandatory, the standard, and the special conditions of
+supervision set forth at pages 32 to 34 of the presentence
+report, which you have told me you have read.  The reasons for
+those conditions are either perfectly obvious or stated in the
+presentence report, and I agree with them.
+I decline to order restitution based on my finding
+that determining complex issues of fact relating to the cause
+and amount of the victims' losses would complicate and prolong
+the sentencing process.
+I grant the government's motion to authorize the
+United States to compensate the victims with finally forfeited
+assets through a remission process as restitution would be
+impractical in this case.
+The mandatory drug testing condition is suspended,
+because I find a low risk of substance abuse.
+You may be seated.
+I advise you that to whatever extent you haven't
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 18 of 19
+
+
+--- PAGE 19 ---
+
+19
+          SOUTHERN DISTRICT REPORTERS, P.C.
+            (212) 805-0300
+OBKDWanS                 
+waived it, you have the right to apply for -- well, you have
+the right to appeal.  If you wish to appeal, you must file a
+written notice of appeal within 14 days after the date on which
+judgment is entered, which could be as soon as today.
+In the event you wish to appeal and you can't afford
+to pay the fees necessary to do so, you have the right to apply
+for permission to appeal as a poor person.  If such an
+application were granted, you'd be permitted to appeal without
+payment of the fees, and if you couldn't afford a lawyer, a
+lawyer would be appointed for you at government expense.
+As is becoming familiar in these sentencings in this
+case, I express my appreciation to counsel on both sides for
+very helpful and eloquent submissions.  I don't really know and
+I'm not asking what happened between November 13 and Mr. Wang's
+communication of a willingness to cooperate, but I suspect he
+had extraordinarily able and wise counsel, matched in my
+knowledge only by that which benefited the sons of Mr. Madoff.
+Anything else, folks?
+MR. ROOS:  No.  Thank you, your Honor.
+THE COURT:  Mr. Graff?
+MR. GRAFF:  No.  Thank you, your Honor.
+THE COURT:  All right.  Thanks, folks.
+(Adjourned)
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Case 1:22-cr-00673-LAK     Document 544     Filed 11/25/24     Page 19 of 19

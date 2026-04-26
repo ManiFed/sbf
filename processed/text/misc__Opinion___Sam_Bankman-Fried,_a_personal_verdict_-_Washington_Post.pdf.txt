@@ -1,0 +1,782 @@
+
+
+--- PAGE 1 ---
+
+
+
+
+--- PAGE 2 ---
+
+
+
+
+--- PAGE 3 ---
+
+hen I first started chasing around after Sam Bankman-
+Fried, I had no idea where he might lead me. I certainly
+had no sense that I’d wind up with a ringside seat to a
+financial catastrophe. I had no slant or angle, much less a theory of the
+case. I was just curious about Sam and his bizarre situation. Inside of
+three years, he’d gone from socially and emotionally isolated 25-year-old
+with an upper-middle-class bank account to leader of a small army of
+math nerds and (according to Forbes magazine) not merely the world’s
+richest person under 30 but maybe the fastest creator of wealth in
+recorded history. The leaders of the Republican and Democratic parties
+solicited his money and his thoughts. The heads of big Wall Street banks
+felt a need to know him, and the leading Silicon Valley venture
+capitalists felt a need to invest in him. Tom Brady was hanging out with
+
+
+--- PAGE 4 ---
+
+him, Taylor Swift was negotiating to endorse his crypto exchange,
+Shaquille O’Neal wanted to partner with him to solve the homeless
+problem in the Bahamas, and Orlando Bloom was asking to play him in
+a movie. He’d gone from having no friends as a child to having too many
+as an adult without ever developing a capacity for friendship.
+It wasn’t clear if there was a story in any of this, or what the story might
+be, but I assumed that if I insinuated myself into the life of Sam
+Bankman-Fried, something would happen and a story might reveal
+itself. And, well, something happened.
+A comedy with a tragic ending: By the time I began writing the book,
+that’s what I thought I had on my hands. I started on the last day of
+January 2023, or roughly a month after Sam had been extradited from
+the Bahamas to the United States and placed under house arrest at his
+parents’ home on the campus of Stanford University. It was published in
+hardcover in early October, the same day jurors were selected for Sam’s
+trial in a federal courthouse in Lower Manhattan.
+
+
+--- PAGE 5 ---
+
+All of this seemed to me just about ideal, at least for my narrow
+purposes. By trapping my main character inside a home an hour from
+my own, the legal authorities enabled me access to him that would have
+been difficult to replicate in the wild. Publication a day before the trial
+opened allowed the book to interact with the event without interfering
+with it.
+Of course, I didn’t really imagine that the book should influence the
+legal outcome. Neither side was particularly interested in a full and rich
+account of events, and I was uneasy with how both might distort
+whatever they found useful for their purposes. But I did like the idea of,
+This essay was adapted from the updated paperback
+edition of “Going Infinite: The Rise and Fall of a New
+Tycoon,” by Michael Lewis, which will be published later
+this month by W.W. Norton & Company. Reprinted by
+permission of W.W. Norton & Company. All rights
+reserved. The audio version of “Going Infinite” was
+created by Audible and is reproduced with permission.
+
+
+--- PAGE 6 ---
+
+in effect, putting readers in the jury box. The rules of evidence in
+narrative nonfiction are looser than in federal criminal trials.
+And I thought that a fuller description of events might enable a reader to
+render a verdict more nuanced than “innocent” or “guilty.” Which isn’t
+to say that I expected every reader to render the same verdict. The joy of
+the story was that they wouldn’t. It was too messy for that.
+The trial was less messy. The two sides actually agreed upon many
+important facts. They agreed, for example, that Alameda Research was
+consistently profitable in its day-to-day trading activities. They also
+agreed that FTX had been a real business, with revenue that had grown
+from roughly $20 million in 2019 to roughly $1 billion in 2021. Also,
+that when FTX first opened, it was unable to obtain its own bank
+accounts and so directed its customers to wire their deposits into bank
+accounts controlled by Alameda Research. (No one explained why the
+customers — among them some of the world’s most sophisticated
+trading firms — didn’t complain about wiring the money to the wrong
+place.) No one disputed that, right from the start, Alameda Research
+also had the ability to borrow effectively unlimited sums from FTX. And
+that between these two mechanisms, most of the $15 billion FTX’s
+customers deposited on the exchange came to rest inside Sam’s private
+
+
+--- PAGE 7 ---
+
+trading firm. Both sides also appeared to agree that for an amazingly
+long time, this commingling of customer funds with Sam’s didn’t
+register with the people who ran FTX and Alameda Research as a hugely
+important fact. For most of its life, Alameda Research held more than
+enough in liquid assets to cope with any run on FTX. That is, if all the
+depositors had turned up at once and asked for their money back, they
+likely could have had it.
+The two sides also agreed on when this ceased to be true: mid-June of
+2022. A month-long free fall in crypto prices had created panic in the
+market. Alameda Research had suffered big losses, or rather a reversal
+of the huge gains it had made on a bunch of crypto tokens (Solana,
+Serum, FTX Token) that Sam had bought for next to nothing. Elsewhere
+in cryptoland, investors who had deposited their crypto in unregulated
+“banks” (Genesis was the big one) were pulling their money out. The
+crypto banks had loaned roughly $10 billion of that money to Alameda
+Research and accepted Sam’s tokens as collateral. In mid-June, they
+asked for their money back. By then Sam had plowed much of the
+money he’d borrowed into a weird grab bag of assets: Elon Musk’s
+SpaceX, the AI company Anthropic, a bitcoin-mining company, a liquor
+company owned by the Kardashians and hundreds of other private
+companies. The one trait these assets shared was an inability to be sold
+
+
+--- PAGE 8 ---
+
+quickly. Lacking its own funds to repay its crypto lenders, Alameda
+Research used the funds belonging to FTX’s customers.
+This was obviously bad. Sam and his companies had crossed one red
+line back in 2019 when they warehoused FTX customer deposits inside
+Alameda Research. They crossed a much brighter one when they put
+those deposits at risk. By late June 2022, had FTX’s customers all
+turned up and asked for their money back, FTX wouldn’t have been able
+to repay them. Roughly $8 billion of it was effectively tied up in Sam’s
+
+
+
+--- PAGE 9 ---
+
+private investments or in other Alameda Research trades. In effect, Sam
+Bankman-Fried had yoked a profitable crypto exchange to a profitable
+private trading firm and turned them into a medium-size bank. The
+Bank of Sam had several odd features. It invested in far riskier assets
+than banks typically buy. It was totally unregulated. It had no deposit
+insurance or other protections usually offered to customers. And its
+depositors were unaware of the bank’s existence.
+The issue wasn’t so much what had happened, but how and why. What
+had Sam Bankman-Fried known, and when had he known it? What had
+Sam Bankman-Fried intentionally done with his customers’ deposits,
+and why had he done it? Here the defense and prosecution parted ways,
+never to reunite. Sam’s lawyers sought to persuade the jury that their
+perpetually distracted client never really knew that he had roughly $10
+billion of other people’s money in his own private trading firm — and
+that, even if he had realized it, he had a right to invest the money as he
+pleased. The federal prosecutors argued that Sam had known from the
+start where the money was and that FTX was a complex criminal scheme
+cooked up by a deeply deceitful person to steal it.
+
+
+--- PAGE 10 ---
+
+
+
+
+--- PAGE 11 ---
+
+here was never any doubt which side had the stronger case.
+(Before the trial, Sam put his odds of victory at 10-1 against.)
+What little suspense that existed at the start of the trial
+vanished after Gary Wang, FTX’s chief technology officer, testified. Gary
+started by confessing to all the crimes the prosecutors wanted him to
+confess to. He went on to make it clear that Sam had known all along
+that the money was in the wrong place. And then he was done and gone
+and replaced by Caroline Ellison, who finished the prosecution’s job.
+Caroline was the trial’s most important witness. She’d been CEO of
+Alameda Research. If Sam was not responsible for what had happened,
+Caroline arguably was. And so she also had the most to gain from Sam
+being held responsible.
+Caroline explained to the jury how the crypto lenders had asked her for
+a quick and dirty picture of Alameda Research’s finances. And how, on
+June 18, on Sam’s instructions, she cooked up eight different balance
+sheets of varying degrees of dishonesty and presented them to Sam, who
+selected the least honest of the bunch to show his lenders.
+
+
+--- PAGE 12 ---
+
+“Q. In the course of working with the defendant, did he talk to you about
+the ethics of lying and stealing? A. Yeah. He said that he was a utilitarian,
+and he believed that the ways that people tried to justify rules like don’t lie
+and don’t steal within utilitarianism didn’t work, and he thought that the
+only moral rule that mattered was doing whatever would maximize utility
+— so essentially trying to create the greatest good for the greatest number
+of people or beings.”
+The prosecutors didn’t need Sam’s help. Sam helped them anyway by
+ignoring the counsel of his lawyers and testifying on his own behalf.
+When confronted by older experts in some complicated field in which he
+had zero experience, Sam’s first step was always to doubt the value of
+their advice and think about the complicated field on his own. When this
+approach worked, it really worked. But after he took the stand, it was
+clear he had no idea what he was doing. It seemed he’d somehow
+decided, for example, that it was a good idea to respond to the
+prosecutors’ questions about his life by not remembering any of it.
+Events that any normal person would never forget — say, whether he’d
+flown in a private jet to the 2022 Super Bowl or dined with Bill Clinton
+and the prime minister of the Bahamas — Sam was suddenly hazy about.
+
+
+--- PAGE 13 ---
+
+Real-life Sam Bankman-Fried could be breathtakingly persuasive. There
+was a reason so many smart professional investors and traders
+entrusted him with billions of dollars. Witness stand Sam Bankman-
+Fried was so incredible that the jury must have wondered how any idiot
+ever trusted him with a satoshi. As Lewis Kaplan, the federal judge who
+presided over the case, said later: “When he wasn’t outright lying, he
+was often evasive, hairsplitting, dodging questions and trying to get the
+prosecutor to reword questions in ways that he could answer in ways he
+thought less harmful than a truthful answer to the question that was
+posed would have been. I’ve been doing this job for close to 30 years.
+I’ve never seen a performance quite like that.”
+
+
+--- PAGE 14 ---
+
+The judge spoke those words in his courtroom at Sam’s sentencing, five
+months after the trial. The sentencing was more of a cliffhanger than the
+trial. Even the kindest interpretation of what Sam had done left $11
+billion or so of other people’s money being risked without their consent
+and $8.7 billion in missing customer deposits. (The judge deemed
+inadmissible any evidence that FTX’s customers might get their money
+back.) It was difficult to see any juror voting to do anything but convict.
+All the suspense in Sam’s case was in how you felt about it. How you felt
+about him.
+
+
+--- PAGE 15 ---
+
+Back in 1984, an entity called the U.S. Sentencing Commission
+established guidelines for all noncapital crimes. These sound very
+precise and almost scientific, but they’re maybe best-loved by judges
+who would rather not have to think too hard about a case. Judge Kaplan
+clearly loved thinking about Sam’s case and began by tossing the
+guidelines out the courtroom window. After that, he could do whatever
+he felt like doing, short of sentencing Sam to death. He could let him off
+with time served. He could also put him away for life. And his decision
+about what to do with Sam was going to reflect how he felt about him.
+And so on that morning of March 28, 2024, the judge ordered Sam to
+rise so that he might address him directly. Two hours or so earlier, Sam
+had shuffled into the courtroom in prison khakis with his head down
+and his hands oddly clasped behind his back. Just before he’d entered,
+his guards had told him he was meant to be wearing handcuffs and
+asked if he could create the impression that he was doing so. It was very
+SBF, this: for the authorities to realize he should be constrained, but too
+late, and for Sam to meekly and pointlessly comply. Now, with his hands
+in front of him, Sam rose to listen to his fate.
+Picking and choosing from the thousands of pages of trial testimony,
+Judge Kaplan then told the story of Sam Bankman-Fried. The exercise
+
+
+--- PAGE 16 ---
+
+wasn’t very different from what I had done to write a book about Sam
+Bankman-Fried. Of course, I had a lot more material to work with. I’d
+seen much of what had gone down with my own eyes and interviewed all
+the main characters, along with scores of extras, over and again, in good
+times and bad. The judge had to go on mainly what he’d heard in the
+courtroom.
+He opened with Sam’s childhood. The judge’s interest in the subject was
+different from mine. I was mainly interested in how socially isolated and
+peculiar Sam had been as a child; the judge was mainly interested in
+how many privileges Sam had enjoyed. But then he added this:
+“And he suffers from autism, which is a condition that affects different
+afflicted persons very differently, frequently. He, I gather, is what one
+would call a very high-achieving autistic person, which means, among
+other things, that he’s capable of huge accomplishments, and he has
+frequently a social awkwardness and a way of interacting with people
+that’s unusual and sometimes off-putting. I take that all as a given.”
+I’d left it to the reader to figure out what spectrum, if any, Sam was on.
+I’m still unsure. He exhibited some unusual mannerisms. His knee
+bounced and his eyes darted around when he spoke, and unless he got
+lucky and stumbled into a wholly absorbing topic, he seemed always to
+
+
+--- PAGE 17 ---
+
+be thinking about three things at once. But he’d only been diagnosed
+with autism, in a bid for sympathy, in the summer of 2023. And he had
+qualities — a deep sense of irony, for example — not typically associated
+with the diagnosis. I imagine that one day, when the human brain is
+better understood, someone might revisit Sam’s case and say, “I can see
+why they thought he was autistic, but this is what it actually was.”
+At any rate, as the judge proceeded it became clear that he thought that
+whatever afflicted Sam was beside the point. The point was that Sam
+
+
+
+--- PAGE 18 ---
+
+had broken the law, caused a lot of pain, failed to express remorse and
+perjured himself in the bargain. Sam’s motive, the judge decided, wasn’t
+the usual desire for money. “He did it because he wanted to be a hugely,
+hugely politically influential person in this country,” he said. Before
+handing Sam his sentence, he dwelled for a moment on the deeper why
+of the case. He said he’d realized something important while listening to
+Caroline Ellison testify. Then he picked up the transcript of her
+testimony and read:
+“Q. During your time working with the defendant, how, if at all, did he
+describe his approach to risk-taking? A. He described himself as truly risk-
+neutral, meaning that most people are risk-averse, meaning that they
+would rather not take a risk if they don’t have to, or they try to avoid risks.
+But he said that he was totally comfortable taking a risk as long as he
+thought it was a positive EV.
+Q. What do you mean by “positive EV”? A. “EV” stands for “expected
+value,” so that was a term that we used a lot when talking about trading. So,
+yeah, positive EV just means that sort of, on average, you expect it to pay
+off well, even if maybe there are lots of cases where you will end up with
+
+
+--- PAGE 19 ---
+
+zero, or you’ll end up losing lots of money, because there are, like, some
+cases where you make a lot of money.
+Q. Did the defendant ever give any example to describe his approach to
+risk-taking? A. Yeah. He talked about being willing to take large coin flips,
+like a coin flip where if it comes up tails, you might lose $10 million. But if
+it comes up heads, you make slightly more than $10 million.
+Q. Did he ever give other coin-flip examples? A. Yeah. I guess he also talked
+about this in the context of thinking about what was good for the world,
+saying that he would be happy to flip a coin if it came up tails and the world
+was destroyed — as long as if it came up heads, the world would be, like,
+more than twice as good.”
+“In other words,” said the judge, “a man willing to flip a coin as to the
+continued existence of life and civilization on Earth, if the chances were
+imperceptibly greater that it would come out without that catastrophic
+outcome, that’s really a leitmotif in my judgment of this entire case. …
+It’s his nature.” Because it was his nature, the judge concluded, Sam
+would, if given the chance, do something like what he had just done all
+over again. “There is a risk that this man will be in a position to do
+something very bad in the future, and it’s not a trivial risk, not a trivial
+
+
+--- PAGE 20 ---
+
+risk at all,” said the judge. “So, in part, my sentence will be for the
+purpose of disabling him.” He then sentenced Sam to 25 years in prison,
+with no possibility of parole.
+A few minutes later, Sam dutifully clasped his hands behind his back
+and shuffled out of the courtroom.
+
+
+
+--- PAGE 21 ---
+
+he mind has a gift for cleansing the past of uncertainty.
+However unlikely what just happened might have been —
+however contingent on luck and unhappy accident — it can
+eventually be made to feel as if it had been always inevitable. A story
+gets told that makes some event no one had forecast feel as if it were
+entirely predictable. This purging from reality of lots of messy facts
+began the moment FTX collapsed. By the time of Sam’s trial, the
+government was able to sell ideas about him that would have struck any
+of his closest colleagues as preposterous. The suggestion, for example,
+that everything about Sam’s appearance had been carefully curated to
+trick people. The government used Caroline Ellison’s testimony to push
+this line:
+“Q. How would you describe the defendant’s personal appearance
+throughout 2022? What, if anything, did he tell you about that?
+A. He said he thought his hair had been very valuable. He said ever since
+Jane Street, he thought he had gotten higher bonuses because of his hair
+and that it was an important part of FTX’s narrative and image.”
+
+
+--- PAGE 22 ---
+
+If Sam Bankman-Fried’s appearance was an act, it was an act he’d
+performed his entire life. Former schoolmates who came upon Sam after
+he’d become a billionaire took one look at him and said, “Same guy.” His
+“look” couldn’t have been more sincere. He was as good as born with an
+indifference not just to his own appearance but to other people’s, too —
+and to art, nature and almost every source of beauty that in most people
+triggers an emotional response. At some point after he became a public
+figure — a thing he’d never expected to be — he no doubt noticed that
+other people seemed to be charmed by his look. His realization would
+have relieved him of any pressure to alter his appearance. But that’s
+different from creating a persona to deceive others. It’s more like
+ChatGPT-4o realizing that the way it just answered a question caused
+humans to laugh — and thus must be a joke.
+
+
+
+--- PAGE 23 ---
+
+The effect of the trial was to confine Sam Bankman-Fried to yet another
+box on a shelf next to identical boxes marked “fraud” and deter anyone
+from taking an honest interest in him. But even after the trial, I still
+found him interesting. There were lots of messy bits about his case that
+made it hard to squeeze into any of the usual boxes. For example: If he
+knew he’d orchestrated a giant fraud, why had he devoted so much time
+and energy to persuading U.S. financial regulators to regulate him? Why
+hadn’t Sam squirreled away a pile of money in some secret account for
+himself? Why hadn’t he followed every other shady crypto dude and fled
+to Dubai? The answers to these questions were irrelevant to his legal
+fate. They just cluttered the neat picture lots of people seemed to want to
+paint of him.
+The most obvious bit that didn’t fit into the picture surfaced a few weeks
+after his sentencing. On May 7, 2024, John Ray, FTX’s new CEO,
+revealed to the U.S. Bankruptcy Court for the District of Delaware that,
+against the $8.7 billion in missing customer deposits, FTX was now
+
+
+--- PAGE 24 ---
+
+sitting on something like $14.5 to $16.3 billion. Whatever the exact sum,
+it was enough to repay all depositors and various other creditors at least
+118 cents on the dollar — that is, everyone who imagined they had lost
+money back in November 2022 would get their money back, with
+interest. After paying off FTX’s debts — and paying themselves at least
+half a billion dollars — Ray and his team will likely still be sitting on
+billions of dollars. How many billions of dollars is still an open question,
+but very few of these dollars can be the result of Ray’s various lawsuits
+to claw back money paid out by FTX in good times. The money came
+almost entirely from a fire sale of the contents of Sam Bankman-Fried’s
+dragon’s lair.
+The success of the bankruptcy clearly surprised, and maybe even
+alarmed, the lawyers running it. Months after Sam Bankman-Fried
+handed him the company, Ray had been keen to stress how little of
+value he’d been given. More than a little bizarrely, he talked down the
+value of the assets he was meant to dispose of to repay creditors. Ray
+called the 20 percent stake Sam had acquired in Anthropic “worthless.”
+The giant pile of Solana tokens Sam had acquired for pennies were
+“shitcoins” whose value had been falsely inflated by Sam’s purchases.
+The Anthropic stake has wound up being worth billions. The Solana
+token, even without Alameda Research around to prop it up, popped
+
+
+--- PAGE 25 ---
+
+back up from roughly $10 at the end of 2022 to $150 a year and a half
+later. To this day, Ray hasn’t spoken to Sam Bankman-Fried. It’s hard
+not to wonder, if they had simply called Sam, what else the lawyers
+running the FTX bankruptcy might have learned about the contents of
+his lair. Also, how much more money would be on hand if, for their first
+18 months on the job, the bankruptcy lawyers had simply not shown up
+for work.
+
+
+
+--- PAGE 26 ---
+
+From the moment Sam Bankman-Fried’s empire collapsed, lots of
+people were obviously angry with him, and others found a ready market
+in the stoking of outrage. It was a decent rule of thumb that the people
+who got worked up in public about Sam Bankman-Fried were vulnerable
+to questions about their own behavior: owners of crypto exchanges,
+squirrelly financial people, dubious crypto Twitter journalists. If you had
+asked these people in late November 2022 why they were so angry, they
+would likely have said something like, “He stole people’s money.” If you
+had further asked them if they would feel any less angry if that money
+were repaid, with interest, a lot of these people would have said
+something like: “First, that’s nonsense. Claims on FTX are trading at 3
+cents on the dollar. No way people are getting their money back. But if
+in some strange alternate universe all the money and more were found,
+well, of course I’d feel a bit differently. How could I not?” All the money
+and more has been found, and it’s not clear whether the people who
+were most outraged at the outset feel differently. The people who have
+made a living selling into the outrage don’t seem much affected.
+
+
+--- PAGE 27 ---
+
+ne strange fact: No one guessed Sam’s crime before the
+market exposed it. Of course, there were plenty of people
+willing to say that there was something fishy about the
+relationship between FTX and Alameda Research. That doesn’t count,
+especially in crypto, where the best guess is always that something fishy
+is going on. No one — not one single person — said, “He’s got the
+customers’ deposits in his private trading firm.” There is a reason for
+
+
+--- PAGE 28 ---
+
+this, I think: The crime made no sense. It still makes no sense. The
+crime was unnecessary to the business in a way that, say, Bernie
+Madoff’s was not (which is why people guessed Madoff’s crime before it
+was exposed). A corollary to this point is that there are many ways it
+might have been avoided and FTX might have survived. The most
+obvious of these came in June 2022, when the crypto banks that lent
+roughly $10 billion to Alameda Research asked for their money back. If
+someone had called them at that moment and said something like,
+“Sorry, Sam used your money to make billions of dollars’ worth of
+illiquid venture capital investments; you can either wait for us to sell
+what he bought or sue us — but if you sue us, you are less likely to get
+your money back,” Alameda Research possibly fails, but FTX survives,
+and the customers’ money is never in jeopardy.
+That doesn’t mean I think that Sam Bankman-Fried is innocent. It
+merely informs how I feel about him. I think the truth is closer to “young
+person with an intellectually defensible but socially unacceptable moral
+code makes a huge mistake in trying to live by it” than “criminal on the
+loose in the financial system.” A lot of what I’ve written about is nearly
+as much an indictment of regulators and venture capitalists and crypto
+culture and the wider world that instantly gathers around huge piles of
+
+
+--- PAGE 29 ---
+
+money without asking too many questions as it is of the founders of
+FTX.
+Sam was always encouraged to think of himself as special — first by his
+parents and finally by Jane Street, the trading firm where he got his
+start. He took that thought and ran with it. The situation was
+complicated by the fact that he was special. His interactions with the
+world were invariably peculiar. These interactions, odd as they might be,
+often generated teachable moments. They told you something about the
+way the world works. But they also exposed his most unsettling trait: a
+willingness to subject others to risk without their permission. It
+expressed itself most obviously in his willingness to gamble with his
+customers’ deposits. But it’s also what allowed him to believe that it
+would be smart for him to flip a coin that might wipe out life on Earth.
+His crime was of a piece with his character. The character wasn’t the
+character of a thief. It was the character of a person numb to risk.
+Unable to feel risk himself, he can’t really imagine other people feeling
+much at all about the risk he has subjected them to. It’s this absence in
+him that leads him, when cast in a certain light, to seem vulnerable.
+Easy to kidnap, easy to steal from. It’s this absence that, cast in a
+different light, makes him seem like a danger to society. I could be
+
+
+--- PAGE 30 ---
+
+wrong: Mine is just one more theory of a case complicated enough to
+support many theories. And even if I’m right, it’s no excuse. In the end,
+some coins should never be flipped.
+
+
+--- PAGE 31 ---
+
+
+
+
+--- PAGE 32 ---
+
+This conversation is moderated according to The Post's community rules. Please read the
+rules before joining the discussion. If you’re experiencing any technical problems, please
+contact our customer care team.
+All Comments343
+Operagarnier 1 minute ago
+White America's ability to make excuses for white collar crime that harms
+multitudes of people is just amazing. Meanwhile, people committing petty
+crimes for survival in this brutal economy get no understanding. A black
+woman who was abused as a sex slave when she was 17 yo and killed her
+abuser just received 11 yrs in jail. Where is all if your psychological analysis
+and understanding when the defendant is black and desperate?
+
+Darkness12314 minutes ago
+Regulates don't regulate wonderkid who is blind to risk, and blind to
+responsibility to others.  at someone has no real idea what they are doing
+= disaster, that paid o 
+What a strange tail
+
+Newest 
+Comments
+
+
+
+--- PAGE 33 ---
+
+Annonn 8 minutes ago
+I used to enjoy reading Michael Lewis. But I lost all respect for him when he
+attacked Michael Oher for his very legitimate criticism of the Tuohy family's
+conduct. Instead Lewis doubled down on the position that neither he nor
+his good buddy Sean Touhy had anything to regret.
+
+RIP Holy Family School 12 minutes ago
+No greater example of white privilege than this group. Mom should be in
+jail for the political contribution scams and dad should be in jail for cooking
+the books - he’s a tax professor from Stanford - he knew better.
+
+altfreq 15 minutes ago
+"His crime was of a piece with his character.  e character wasn’t the
+character of a thief. It was the character of a person numb to risk.
+Unable to feel risk himself, he can’t really imagine other people
+feeling much at all about the risk he has subjected them to. It’s this
+absence in him that leads him, when cast in a certain light, to seem
+vulnerable. Easy to kidnap, easy to steal from. It’s this absence that,
+cast in a di erent light, makes him seem like a danger to society. I
+could be wrong: Mine is just one more theory of a case complicated
+enough to support many theories. And even if I’m right, it’s no excuse.
+I th d i h ld b  i d"
+
+
+--- PAGE 34 ---
+
+In the end, some coins should never be  ipped."
+ is seems like a neat bit of trading by Lewis himself, and/or an attempt to
+layo  SBF's guilt on his character.
+But this analysis (above) is truncated and incomplete.
+SBF and the rest of us are still responsible for our character  aws -- along
+with the things they lead us to do.
+Lewis can't clean SBF up, no matter how many linguistic hoops he jumps
+through.
+
+Annonn 16 minutes ago
+I used to be a fan of Michael Lewis's work. But when he doubled down in
+criticizing response to legitimate criticism of the Tuohy's conduct and his
+
+CGCalif 19 minutes ago
+I was shocked, at the publication of Lewis' book and again now, what
+abuse the author's getting.  e tenor of most is Lewis' failure to condemn /
+judge SBF...but that was half the *point* of the book, that SBF was a
+supreme, very talented oddball, and *not* a gri er like Mado  or the guys
+behind Enron and Tyco. From the  rst   y pages of Lewis' book it's clear
+that SBF is "on the spectrum," which means...what?  at's the question at
+
+
+--- PAGE 35 ---
+
+the heart of the book -- how do deal with, or cover as a reporter, people
+who are as sincere as they are wacky? SBF's early success, using money
+provided him by very sophisticated investors, papered over the riskiness of
+his bets, and his E ective Altruism naivete -- and Lewis captures that.
+What's striking about this update is that SBF's (irresponsible, fraudulent)
+investments *have* paid o , with everyone but SBF himself apparently
+made  nancially "whole." I don't get the need to "kill the messenger,"
+Lewis, who probably understands SBF better than anyone -- and did a good
+job communicating that to readers.
+
+BismarckND 22 minutes ago
+Isn’t what you describe a sociopath? He simply could not put himself in
+anyone else’s shoes.
+
+JayeKaye 26 minutes ago
+I am a reasonably smart guy, at leasst when I was young, and I never really
+understood crypto. I think I am right.
+Smoke and Mirrors.
+
+Cousin Itt 31 minutes ago
+Everything seems  ne with this type of activity as long as the asset is going
+up! up! up! Just like the 2008 housing bubble. Everybody making money.
+
+
+--- PAGE 36 ---
+
+Managers and mortgage agents getting wild bonuses. Company stock
+through the roof. All that it required was that housing prices continue to go
+up. But then....
+
+JWhise 37 minutes ago
+I've been waiting for Mr. Lewis' attempt to reconcile his gullibleness over
+SBF. Nice try, butt, sorry, but it's not going to work, Mr. Lewis. Accept the
+fact that you got him wrong by miles (like, say, the distance to the
+Bahamas where you at one time visited and interviewed him).
+
+Walnut Street 37 minutes ago
+fascinating. I know some narcissists and Aspergers people who also just
+plow fw doing their own thing, rationalizing that they are so wonderful and
+"...a utilitarian, and he believed that the ways that people tried to justify
+rules like don’t lie and don’t steal within utilitarianism didn’t work."
+
+Ambrose Pill ster 17 minutes ago
+Lewis claimed at the end of his book that the money was not stolen, it
+was just misplaced somewhere. Untrue. It was gone. It wasn’t
+misplaced it was sent to Alameda to pay o  its debts.
+
+
+
+--- PAGE 37 ---
+
+Checkoutchannel9 48 minutes ago
+It's inevitably a struggle/near-impossibility to explain how property, such as
+actual dollars, can be recovered once it's been converted into fantastical
+crypto "currency."  is is probably a terrible analogy, but if I stole your
+pizza and ate it, and, a er being caught, o ered to give you a unicorn that
+"exists" on the internet as restitution, I haven't really repaid you, even if
+that unicorn has a notional value of $20 today, $1 tomorrow, $50 dollars
+the day a er that, $0.01 the next day, etc.
+At some point, you're dealing with two di erent universes for which there
+are no equivalencies.
+
+nobodys business 1 minute ago
+Self-serving rationalization blather from a mind that can't hold a
+thought.
+
+WEST74 43 minutes ago
+As long as the unicorn is accepted for payment by others, it will work.
+Once the market turns against it and refuses to accept is as a
+currency, it is  nished.
+
+
+
+--- PAGE 38 ---
+
+Mr Kinch 1 hour ago
+I listened with fascination to a fellow describing to another fellow his
+rationale for supporting Trump. It was the same utilitarian philosophy that
+sunk SBF.
+A person’s ethical and moral framework tells more about them than any
+other feature of character.  is is especially true if they are asking you to
+trust them.
+He may not be malicious in Lewis’ view, but he is certainly a danger to
+society, regardless of his hairdo.
+
+Punchandjudy 1 hour ago
+Funny, the author seems to miss the person while trying to tell us about
+the person. In the last paragraph the author illustrates a human who
+needs help, not a jail sentence. Can a person who does not, neurologically,
+“feel” risk be held accountable in such severe ways for risky behaviour?
+Yeah. I’m really not sure. I think it’s a very interesting question for the law.
+As usual, Michael Lewis thinks big.
+
+dbard7 57 minutes ago
+Absolute gibberish, Punch.
+Tryathoughtexperiment- consideragenericautisticindividualwho
+
+
+--- PAGE 39 ---
+
+Karl W S 1 hour ago
+Note for biographer of Mr Lewis: this piece manifests how vested Mr Lewis
+is in his own self-image.
+
+NorthSonomaCoast 1 hour ago
+Is Michael Lewis still trying to justify his rosy picture of Sam Bankman-
+Fried?  e guy is frightening—without empathy, morals, or indeed any
+discernible emotion. He’s a crook, pure and simple.
+I don’t know what his parents could have done with a child who showed
+ f
+Try a thought experiment  consider a generic autistic individual who
+somehow "does not feel risk" is  ring an assault ri e randomly, in
+public.
+Would we somehow NOT hold them accountable for the resulting
+devastation?
+ at is complete nonsense, as is Michael Lewis' piece.
+
+Walnut Street 36 minutes ago
+well, pleading insane or psychotic or neurodiverse isn't going to help.
+
+
+
+--- PAGE 40 ---
+
+those characteristics early in life. But what they did do when he was an
+adult—facilitate his  nancial and electoral crimes—was reprehensible. I
+don’t necessarily want to see them prosecuted, as they have su ered
+adequately by seeing their son incarcerated and by losing their own ilk
+gotten gains.
+
+unclevinny 1 hour ago
+I'm so disappointed in Lewis' stubbornness to accept how completely he
+got hoodwinked by SBF, just like nearly every other mainstream observer. I
+enjoyed the heck out of  e Big Short,  e Fi h Risk, etc, but it's plain now
+that ML is better as a storyteller than an analyst.
+
+kenzo_ 1 hour ago (Edited)
+ e  nancial regulations implemented a er the great depression have
+been slowly and steadily wiped out by the $Billionaires' unrelenting bribes
+(laughingly called "campaign donations") to our lawmakers, enabling
+unrelenting frauds.
+ ese frauds are of such extreme magnitude that we actually have to dip
+into the U.S. treasury regularly to prop up the system to avoid another
+great depression (rewarding the fraudsters for their massive thievery).
+Capitalism without regulation is just Autocracy by another word. And that is
+what we have now.  e middle class is almost gone.  e extreme
+
+
+--- PAGE 41 ---
+
+concentration of wealth we see now will continue to turn the U.S. into a 3rd
+world country.
+ e Chinese will succeed us (and rightfully so) as the leading socio-
+economic system in the world for the next decades and beyond.
+It's a done deal.
+
+Montgomery Fisterton 1 hour ago
+that's a lot of words to just say "gri er"
+
+Load More
+ Top of comments
+
+
+--- PAGE 42 ---
+
+
+
+
+--- PAGE 43 ---
+

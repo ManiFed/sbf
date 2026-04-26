@@ -1,0 +1,3238 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+UNITED STATES OF AMERICA 
+                          -v.-     
+SAMUEL BANKMAN-FRIED, 
+            a/k/a “SBF”, 
+ 
+Defendant. 
+X 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+ 
+ 
+ 
+DECLARATION IN SUPPORT OF  
+A FINAL ORDER OF FORFEITURE 
+ 
+S6 22 Cr. 673 (LAK) 
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - X  
+Thane Rehn, pursuant to Title 28, United State Code, Section 1746, declares under 
+penalty of perjury as follows: 
+1. I am an Assistant United States Attorney in the Office of Matthew Podolsky, 
+Acting United States Attorney for the Southern District of New York, and attorney for the 
+Government herein. I am responsible for the above-captioned matter, and as such, I am familiar 
+with the facts and circumstances of this proceeding. This declaration is submitted in support of the 
+Government’s submission for the entry of a Final Order of Forfeiture in the above-captioned case. 
+2. On or about March 29, 2024, this Court entered Preliminary Order of 
+Forfeiture/Money Judgment (the “Preliminary Order of Forfeiture”) (D.E. 423), which ordered the 
+forfeiture to the United States of all right, title and interest of SAMUEL BANKMAN-FRIED (the 
+“Defendant”) in, inter alia , the property which is set forth in Schedule A attached hereto (the 
+“Subject Property”). 
+3. The Notice of Forfeiture and the intent of the Government to dispose of the 
+Subject Property was posted on an official government internet site (www.forfeiture.gov) 
+beginning on May 8, 2024 for thirty (30) consecutive days, through June 6, 2024, pursuant to Rule 
+G(4)(a)(iv)(C) of the Supplemental Rules for Admiralty and Maritime Claims and Asset Forfeiture 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 1 of 70
+
+
+--- PAGE 2 ---
+
+Actions, and proof of such publication was filed with the Clerk of the Court February 14, 2025  
+(D.E. 563). 
+4. On or about May 15, 2024, notice of the Preliminary Order of Forfeiture 
+was sent via E-Mail, to:  
+      Jacob M. Croke, Esq.  
+Sullivan & Cromwell, L.L.C.  
+125 Broad Street  
+New York, NY 10004  
+crokej@sullcrom.com  
+(Counsel for the FTX Debtors) 
+Jason Weinstein 
+1330 Connecticut Avenue, NW 
+Washington, DC  20036 
+jweinstein@steptoe.com
+  
+(Counsel for Luk Wei Chan) 
+ 
+Sharon Frase, Esq. 
+1611 Telegraph Ave, Ste 806 
+Oakland, CA 94612 
+sharon@illovskycalia.com
+  
+(Counsel for Paul Aranha/IAC) 
+ 
+Richard S. Kanowitz, Esq. 
+Haynes Boone, LLP 
+30 Rockefeller Plaza - 26
+th Floor New York, NY 10112 
+Richard.Kanowitz@haynesboone.com 
+(Counsel for BlockFi) 
+ 
+   Daniel Tehrani, Esq. 
+Morgan, Lewis & Bockius, L.L.P. 101 Park Ave. 
+New York, NY 10178  
+daniel.tehrani@morganlewis.com
+  
+(Counsel for Emergent Fidelity Technologies) 
+ 
+Alexander Boies 
+Boies Schiller Flexner LLP 333 Main Street 
+Armonk, NY 10504 
+aboies@bsfllp.com
+  
+ 
+Adam Moskowitz 
+The Moskowitz Law Firm 
+P.O. Box 653409 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 2 of 70
+
+
+--- PAGE 3 ---
+
+Miami, FL 33175 
+adam@moskowitz-law.com   
+(Counsel for the Plaintiffs in In Re: FTX Cryptocurrency 
+Exchange Collapse Litigation 23-md-03076 (S.D. Fla.)) 
+(the “Noticed Parties”). 
+ 
+5. On or about June 13, 2024, Emergent Fidelity Technologies Ltd.  
+(“Emergent”) filed a Petition (“Emergent Petition”)(D.E. 446) asserting an interest in certain assets 
+included in the Specific Property.  
+6. On or about June 13, 2024, the Joint Liquidators of Emergent Fidelity 
+Technologies Ltd. (the “Joint Liquidators”)  filed a Petition  (“Joint Liquidators Petition”) (D.E. 
+447), in certain assets included in the Specific Property. 
+7. On or about June 14, 2024, FTX Trading Ltd. (“FTX Trading”) and its 
+affiliated debtors and debtors-in possession (collectively, the “Debtors”) and FTX Digital Markets 
+Ltd. (“FTX Digital”), filed a Petition  (“Debtors Petition”)(D.E. 460) asserting their superior 
+interest in certain assets listed in the Specific Property.  
+8. On or about June 17, 2024, Alexander Chernyavsky, Kyle Rupprecht, Mike 
+Livieratos, and Sunil Kavuri (“Individual Claimants”), both individually and on behalf of the 
+multi-district litigation c lass (“MDL”) in In Re: FTX Cryptocurrency Exchange Collapse 
+Litigation (MDL No. 3076) , filed a Petition (“MDL Petition”) (D.E. 454) asserting an interest in 
+certain assets listed in the Specific Property (the “MDL Plaintiffs”).  
+9. On or about November 19, 2024, the Individual Claimants and the MDL 
+Plaintiffs withdrew the MDL Petition (D.E. 540). 
+10. On or about February 5, 2025, Emergent withdrew the Emergent Petition 
+(D.E. 554).  
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 3 of 70
+
+
+--- PAGE 4 ---
+
+11. On or about February 5, 2025, the Joint Liquidators withdrew  the Joint 
+Liquidators Petition (D.E. 555). 
+12. On or about February 14, 2025, the Debtors withdrew the Debtors  Petition 
+(D.E. 562). 
+13. Since final publication of the Notice of Forfeiture, thirty (30) days have 
+expired and no petitions or claims to contest the forfeiture of the Subject Property are outstanding. 
+14. The Defendant  and the Noticed Parties are the only individuals and/or 
+entities known by the Government to have a potential interest in the Subject Property. 
+15. On or about April 29, 2024, pursuant to the Preliminary Order of 
+Forfeiture, the Government seized $7,274,998.60 in United States currency on deposit in Flagstar 
+Bank, f/k/a “Signature Bank,” held in account number 1504820218 at Signature Bank, held in 
+the name of Samuel Bankman-Fried and Luk Wei Chan. 
+16. Pursuant to the Preliminary Order of Forfeiture, the Government 
+forfeited all right, title and interest in all political contributions made by the Defendant that are 
+proceeds traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts One 
+through Four of the Indictment or property involved in money laundering offense charged in 
+Count Seven of the Indictment. Certain political contributions have been returned to the 
+Government by the political entities which are, inter alia, set forth in the Exhibit B attached 
+hereto. As to these entities, the Government agrees that these entities have satisfied their 
+obligations under the Preliminary Order of Forfeiture by the return of these funds. The 
+Government is continuing to pursue the return of additional political contributions made by the 
+Defendant.
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 4 of 70
+
+
+--- PAGE 5 ---
+
+17. Accordingly, the Government requests that the Court enter the proposed 
+Final Order of Forfeiture as to all the property set forth in Exhibit B attached hereto. 
+18. No previous application for the relief requested herein has been sought. 
+Dated: New York, New York 
+February 14, 2025 
+ 
+MATTHEW PODOLSKY 
+Acting United States Attorney 
+Southern District of New York 
+ 
+ 
+By:  _________________________ 
+Thane Rehn 
+Assistant United States Attorney 
+26 Federal Plaza, 38
+th Floor 
+Tel. (212) 637-2354 
+  
+ 
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 5 of 70
+
+
+--- PAGE 6 ---
+
+    
+1 
+ 
+ 
+EXHIBIT A 
+1. $20,746,713.67 in United States currency formerly on deposit in Account Numbers 
+499-30500 and 429-30500 at ED&F Man Capital Markets, Inc., a/k/a “Marex,” held 
+in the name of “Emergent Fidelity Technologies,” seized by the Government on or 
+about January 4, 2023; 
+2. $49,999,500 in United States currency formerly on deposit in Account Number 
+9000-1924-02685 at Farmington State Bank d/b/a “Moonstone Bank” held in the 
+name of “FTX Digital Markets,” seized by the Government on or about January 4, 
+2023; 
+3. $5,322,385.32 in United States currency formerly held on deposit in Account 
+Number 0000005090042549 at Silvergate Bank held in the name of “FTX Digital 
+Markets,” seized by the Government on or about January 11, 2023; 
+4. $719,359.65 in United States currency formerly on deposit in Account Number 
+0000005090042556 at Silvergate Bank held in the name of “FTX Digital Markets,” 
+seized by the Government on or about January 11, 2023; 
+5. $1,071.83 in United States currency formerly on deposit in Account Number 
+0000005090042564 at Silvergate Bank held in the name of “FTX Digital Markets,” 
+seized by the Government on or about January 11, 2023; 
+6. $94,570,490.63 in United States currency formerly on deposit in Account Number 
+0000005091010037 at Silvergate Bank held in the name of FTX Digital Markets,” 
+seized by the Government on or about January 19, 2023; 
+7. Any and all monies, assets, and funds contained in Binance account number 
+94086678; 
+8. Any and all monies, assets, and funds contained in Binance.us account number 
+35000066; and 
+9. Any and all monies, assets, and funds contained in Binance.us account number 
+35155204; 
+10. $605,694,411.59 in United States currency from the sale of 55,273,469.00 in 
+Robinhood Markets Inc. Class A Shares contained in ED&F Man Capital Markets 
+Inc, formerly held in accounts 499-30500 and 429-30500, in the name of “Emergent 
+Fidelity Technologies”; 
+11. 24885000.090498 units of Tether (USDT) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+12. 643041.47694904 units of DAI (DAI) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+13. 29.50308659 units of Ethereum (ETH) formerly held in Binance.us account number 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 6 of 70
+
+
+--- PAGE 7 ---
+
+    
+2 
+ 
+ 
+35000066 in the name of Alameda Research LTD; 
+14. 24.4135385 units of Bitcoin (BTC) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD; 
+15. 289.65502554 units of Ethereum (ETH) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+16. 290424.3928835 units of Tether (USDT) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+17. 127906.99952569 units of Cardano (ADA) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+18. 550 units of Litecoin (LTC) formerly held in Binance.us account number 35155204 
+in the name of Alameda Research LTD; 
+19. 381455.446400 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+20. 175.7145543 units of Bitcoin Cash (BCH) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+21. 331.660001 units of USD Coin (USDC) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+22. 39405.0056886 units of BUSD (BUSD) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD; 
+23. 18.65298573 units of BNB (BNB) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD; 
+24. 182.1489 units of US Dollar (USD) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD; 
+25. 36.86187755 units of 1inch (1INCH) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+26. 3.5015641 units of Aave (AAVE) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+27. 1004933.48226167 units of AMP (AMO) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+28. 29.94781661 units of ApeCoin (APE) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+29. 82442.3 units of Aragon (ANT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+30. 532.32735123 units of Augur v2 (REP) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 7 of 70
+
+
+--- PAGE 8 ---
+
+    
+3 
+ 
+ 
+31. 4117.97540487 units of Axie Infinity (AXS) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+32. 49215.433193 units of Band Protocol (BAND) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD; 
+33. 39524.76329022 units of Basic Attention Token (BAT) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD; 
+34. 1.3773854 units of Bitcoin (BTC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+35. 1.80962441 units of Bitcoin Cash (BCH) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+36. 271870.92611405 units of Cardano (ADA) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+37. 211.41049375 units of Cartesi (CTSI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+38. 19.98876671 units of ChainLink (LINK) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+39. 70.18661601 units of Chiliz (CHZ) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+ 
+40. 1232.1119377 units of Compound (COMP) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+41. 12.5088504 units of Cosmos (ATOM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+42. 182.42003616 units of Curve (CRV) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+43. 311756.60697044 units of Decentraland (MANA) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD; 
+44. 737.70657339 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+45. 914.83983292 units of Elrond (EGLD) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+46. 190.41242266 units of Enjin Coin (ENJ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+47. 172.76128409 units of EOS (EOS) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 8 of 70
+
+
+--- PAGE 9 ---
+
+    
+4 
+ 
+ 
+48. 208.68 units of Fetch.Al (FET) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+49. 182.563 units of Flow (FLOW) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+50. 138987.5 units of iExecRLC (RLC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+51. 0.6161 units of Kusama (KSM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+52. 4958.92707192 units of Kyber Network Crystal (KNC) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD; 
+53. 3.52598049 units of Litecoin (LTC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+ 
+54. 0.09948145 units of Maker (MKR) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+55. 8.584 units of NEAR Protocol (NEAR) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+56. 4055.01 units of Numeraire (NMR) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+57. 79.19204353 units of Ocean Protocol (OCEAN) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD; 
+58. 3938.84993469 units of OMG Network (OMG) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD; 
+59. 97608.07714082 units of Orchid (OXT) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+60. 22.63 units of Polkadot (DOT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+61. 19.1760689 units of Polygon (MATIC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+62. 0.288 units of Quant (QNT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+63. 124.57 units of Request Network (REQ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+64. 826.7948669 units of Stellar Lumens (XLM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 9 of 70
+
+
+--- PAGE 10 ---
+
+    
+5 
+ 
+ 
+65. 725.07744225 units of Storj (STORJ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+66. 23.15773377 units of Synthetix Network Token (SNX) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD; 
+67. 23050.04484988 units of Tezos (XTZ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+ 
+68. 733 units of The Sandbox (SAND) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+69. 29 units of TrueUSD (TUSD) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+70. 17.27458532 units of Unisawp (UNI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+71. 2531.06771842 units of USD Coin (USDC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+72. 0.53316413 units of Wrapped Bitcoin (WBTC) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD; 
+73. 5.37259785 units of yearn.finance (YFI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+74. 2.0998284 units of BNB (BNB) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+75. 4205419.6 units of DigiByte (DGB) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+76. 330.13 units of Fantom (FTM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+77. 176.113269 units of MIOTA (IOTA) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+78. 14126.96408795 units of QTUM (QTUM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+79. 2064654.7 units of Serum (SRM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+80. 294.68188779 units of PAX Gold (PAXG) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD; 
+81. 47066.1 units of TRON (TRX) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 10 of 70
+
+
+--- PAGE 11 ---
+
+    
+6 
+ 
+ 
+ 
+82. $1,136.15 U.S. Currency formerly held in Binance.us account number 35000066 
+in the name of Alameda Research LTD; 
+83. 94,149,325.156019 units of TetherUS (USDT) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+84. 750.18980528 units of Wrapped Bitcoin (WBTC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+85. 40,285.32817616 units of BNB (BNB) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+86. 657.92 units of Bitcoin (BTC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+87. 14,585,806.000000 units of Serum (SRM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+88. 21,606,660.30 units of Ripple (XRP) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+89. 1933.52 units of Wrapped Ether (WETH) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+90. 2,656,657.30302526 units of Dai (DAI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+91. 3,324,858.50 units of The Sandbox (SAND) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+92. 298,179.10587996 units of Uniswap (UNI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+93. 1,078,928.47821475 units of BAND (BAND) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+94. 117,884.05706545 units of Ethereum Classic (ETC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+95. 128,635.79 units of Mask Network (MASK) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+96. 274,454.66 units of Render Token (RNDR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+97. 54,897,092,549.50 units of SHIBA INU (SHIB) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+98. 31,803.53 units of Axie Infinity (AXS) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 11 of 70
+
+
+--- PAGE 12 ---
+
+    
+7 
+ 
+ 
+99. 15,131,607.97 units of TRON (TRX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+100. 744,212.83799922 units of KyberNetwork (KNC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+101. 47,700.59 units of ApeCoin (APE) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+102. 270,105.78 units of Metal (MTL) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+103. 76,647.10 units of Aragon (ANT) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+104. 4,448,314.200037 units of Cardano (ADA) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+105. 80,443.757968 units of Qtum (QTUM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+106. 730,809.09 units of Raydium (RAY) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+107. 15,242.10 units of Solana (SOL) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+108. 13,583,617.5908483 units of BUSD (BUSD) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+109. 612084.03000000 units of Nuls (NULS) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+110. 1,061,040.738563 units of Aergo (AERGO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+111. 4,620.58 units of Ethereum (ETH) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+112. 631,959.285244 units of PowerLedger (POWR) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+113. 545,095.03753131 units of FTX Token (FTT) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+114. 697,437,118.449615 units of WINK (WIN) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 12 of 70
+
+
+--- PAGE 13 ---
+
+8 
+ 
+ 
+115. 448.47396321 units of Gnosis (GNO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+116. 381455.446400 units of Civic (CVC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+117. 8687.40233482 units of Augur v2 (REP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+118. 317420.831174 units of Orchid (OXT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+119. 322,742.75119077 units of Bluzelle (BLZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+120. 14288.54897397 units of iExecRLC (RLC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+121. 184,690.40214601 units of Polkadot (DOT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+122. 121527.06284122 units of Komodo (KMD) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+123. 8295.32704012 units of UMA (UMA) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+124. 2,487,190.58449267 units of AMP (AMP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+125. 62195.3445497 units of 0x (ZRX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+126. 183,478.66603057 units of Ren (REN) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+ 
+127. 3.56780387 units of yearn.finance (YFI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+128. 11,645.73241825 units of Bitcoin Cash (BCH) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+129. 35,256.7962342 units of Golem (GLM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+130. 10715.8987223 units of Frontier (FRONT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+131. 278,965.27003663 units of Basic Attention Token (BAT) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 13 of 70
+
+
+--- PAGE 14 ---
+
+9 
+ 
+ 
+132. 75.26530412 units of Numeraire (NMR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+133. 720.88398944 units of Litentry (LIT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+134. 2161.746383 units of Storj (STORJ) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+135. 31,318.4272325 units of OMG Network (OMG) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+136. 5,957.882489010 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+137. 1371.927500 units of SingularityNET Token (AGIX) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+138. 3,058.472 units of Viberate (VIB) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+139. 26,104.4281127 units of 1inch (1INCH) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+ 
+140. 26,107.75499159 units of Curve (CRV) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+141. 8,505.87214 units of Celo (CELO) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+142. 3,210.44538565 units of Decentraland (MANA) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+143. 14,595.22985968 units of Synthetix Network Token (SNX) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD; 
+144. 121.306489 units of Ocean Protocol (OCEAN) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+145. 447,768.2573 units of DENT (DENT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+146. 12,376.43358062 units of OriginToken (OGN) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+147. 5000.20657000 units of DigiByte (DGB) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+148. 99.20866254 units of Gitcoin (GTC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 14 of 70
+
+
+--- PAGE 15 ---
+
+10 
+ 
+ 
+149. 272.9522 units of Fetch.AI (FET) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+150. 289.1887458 units of MANTRA (OM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+151. 352.86674268 units of Loopring (LRC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+152. 62,427.26261 units of Algorand (ALGO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+153. 1,060.754544 units of Measurable Data Token (MDT) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD; 
+154. 5,403.24231 units of IoTeX (IOTX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+155. 289.173565 units of Request Network (REQ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+156. 93,625.688081 units of Holo (HOT) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD; 
+157. 521.557933 units of Pundi X (PUNDIX) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+158. 1,209.144850 units of WOO Network (WOO) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+159. 920,281.830480 units of Reserve Rights (RSR) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+160. 99,511.908300 units of WAX (WAXP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+161. 20,679.332042 units of Enjin Coin (ENJ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+162. 597.74385218 units of Compound (COMP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+163. 115,566.408615 units of The Graph (GRT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+164. 184,889.132758 units of Chiliz (CHZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+165. 247.62397951 units of Maker (MKR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+166. 3,332.52956029 units of Aave (AAVE) formerly held in Binance.us account 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 15 of 70
+
+
+--- PAGE 16 ---
+
+11 
+ 
+ 
+number 94086678 in the name of Alameda Research LTD; 
+167. 10,391.51391488 units of Balancer (BAL) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+168. 98,591.64417196 units of ChainLink (LINK) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+169. 6,481.84140775 units of Tezos (XTZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+170. 328,471.759281 units of Nexo (NEXO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+171. 122,572.64205808 units of Polygon (MATIC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD; 
+172. 30,604.0636046 units of Cosmos (ATOM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+173. 146,149.04537535 units of Filecoin (FIL) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+174. 2,654,127.825676 units of Fantom (FTM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+175. 31,341.27163278 units of Litecoin (LTC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD; 
+176. A Bombardier Global 5000 BD -700-1A11 Aircraft Bearing Registration Number 
+N410AT and Manufacturer Serial Number 9295, and related maintenance logs and 
+engine logs; 
+177. An Embraer Legacy EMB -135BJ Aircraft Bearing Registration Number C6- BDE 
+and Manufacturer Serial Number 14500967; 
+178. Any and all funds at Flagstar Bank, f/k/a “Signature Bank,” held in account number 
+1504820218 at Signature Bank, held in the name of Samuel Bankman -Fried and 
+Luk Wei Chan; 
+179. Any and all political contributions made by the Defendant that are proceeds traceable 
+to the wire fraud and wire fraud conspiracy offenses charged in Counts One through Four of the 
+Indictment or property involved in money laundering offense charged in Count Seven of the 
+Indictment, including but not limited to: 
+ 
+a. All political contributions made by the Defendant to Alaska Democratic 
+Party that have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 16 of 70
+
+
+--- PAGE 17 ---
+
+12 
+ 
+ 
+ 
+b. All political contributions made by the Defendant to Angie Craig For 
+Congress that have been returned to the Government; 
+ 
+c. All political contributions made by the Defendant to Arizona Democratic 
+Party that have been returned to the Government; 
+ 
+d. All political contributions made by the Defendant to Arkansas For 
+Leadership Political Action Committee (PAC) that have been returned to the 
+Government; 
+ 
+e. All political contributions made by the Defendant to AXNE PAC 
+(Americans X-Pect New Energy) that have been returned to the 
+Government; 
+ 
+f. All political contributions made by the Defendant to Becca Balint For 
+Vermont that have been returned to the Government; 
+ 
+g. All political contributions made by the Defendant to Ben Sasse For US 
+Senate Inc. that have been returned to the Government; 
+ 
+h. All political contributions made by the Defendant to Beto O’Rourke that 
+have been returned to the Government; 
+ 
+i. All political contributions made by the Defendant to Biden For President 
+that have been returned to the Government; 
+ 
+j. All political contributions made by the Defendant to Blue Nevada PAC that 
+have been returned to the Government; 
+ 
+k. All political contributions made by the Defendant to Boozman For 
+Arkansas that have been returned to the Government; 
+ 
+l. All political contributions made by the Defendant to Brittany Pettersen For 
+Colorado that have been returned to the Government; 
+ 
+m. All political contributions made by the Defendant to California Democratic 
+Party that have been returned to the Government; 
+ 
+n. All political contributions made by the Defendant to CHC Bold PAC that 
+have been returned to the Government; 
+ 
+o. All political contributions made by the Defendant to Chuy Garcia For 
+Congress that have been returned to the Government; 
+ 
+p. All political contributions made by the Defendant to Citizens For Boyle that 
+have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 17 of 70
+
+
+--- PAGE 18 ---
+
+13 
+ 
+ 
+q. All political contributions made by the Defendant to Colorado Democratic 
+Party that have been returned to the Government; 
+ 
+r. All political contributions made by the Defendant to Connecticut 
+Democratic State Central Committee that have been returned to the 
+Government; 
+ 
+s. All political contributions made by the Defendant to Conole For Congress 
+that have been returned to the Government; 
+ 
+t. All political contributions made by the Defendant to Cory Booker For 
+Senate that have been returned to the Government; 
+ 
+u. All political contributions made by the Defendant to DC Democratic Party 
+that have been returned to the Government; 
+ 
+v. All political contributions made by the Defendant to DCCC that have been 
+returned to the Government; 
+ 
+w. All political contributions made by the Defendant to Democratic Executive 
+Committee of Florida that have been returned to the Government; 
+ 
+x. All political contributions made by the Defendant to Democratic Grassroots 
+Victory Fund that have been returned to the Government; 
+ 
+y. All political contributions made by the Defendant to Democratic Party of 
+Arkansas that have been returned to the Government; 
+ 
+z. All political contributions made by the Defendant to Democratic Party of 
+Hawaii that have been returned to the Government; 
+ 
+aa. All political contributions made by the Defendant to Democratic Party of 
+Illinois that have been returned to the Government; 
+ 
+bb. All political contributions made by the Defendant to Democratic Party of 
+New Mexico-Federal that have been returned to the Government;
+ 
+ 
+cc. All political contributions made by the Defendant to Democratic Party of 
+South Carolina that have been returned to the Government; 
+ 
+dd. All political contributions made by the Defendant to Democratic Party of 
+Virginia that have been returned to the Government; 
+ 
+ee. All political contributions made by the Defendant to Democratic Party of 
+Wisconsin-Federal that have been returned to the Government; 
+ 
+ff. All political contributions made by the Defendant to Democratic State 
+Central Committee of LA that have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 18 of 70
+
+
+--- PAGE 19 ---
+
+14 
+ 
+ 
+gg. All political contributions made by the Defendant to Democratic State 
+Committee (Delaware) that have been returned to the Government; 
+ 
+hh. All political contributions made by the Defendant to DMFI PAC that have 
+been returned to the Government; 
+ 
+ii. All political contributions made by the Defendant to DNC Services 
+Corp/Democratic National Committee that have been returned to the 
+Government; 
+ 
+jj. All political contributions made by the Defendant to Foushee For Congress 
+that have been returned to the Government; 
+ 
+kk. All political contributions made by the Defendant to Friends of Lucy 
+McBath that have been returned to the Government; 
+ 
+ll. All political contributions made by the Defendant to Gallego For Arizona 
+that have been returned to the Government; 
+ 
+mm. All political contributions made by the Defendant to Georgia Federal 
+Elections Committee that have been returned to the Government; 
+ 
+nn. All political contributions made by the Defendant to Gillen For Congress 
+that have been returned to the Government; 
+ 
+oo. All political contributions made by the Defendant to Gillibrand For Senate 
+that have been returned to the Government; 
+ 
+pp. All political contributions made by the Defendant to Granite Values PAC 
+that have been returned to the Government; 
+ 
+qq. All political contributions made by the Defendant to Greater Opportunities 
+For Leadership Development (Gold PAC) that have been returned to the 
+Government; 
+ 
+rr. All political contributions made by the Defendant to Haley Stevens For 
+Congress that have been returned to the Government; 
+ 
+ss. All political contributions made by the Defendant to Hoeven For Senate 
+that have been returned to the Government; 
+ 
+tt. All political contributions made by the Defendant to Idaho State 
+Democratic Party that have been returned to the Government; 
+ 
+uu.  All political contributions made by the Defendant to Indiana Democratic 
+Congressional Victory Committee that have been returned to the 
+Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 19 of 70
+
+
+--- PAGE 20 ---
+
+15 
+ 
+ 
+vv. All political contributions made by the Defendant to Iowa Democratic Party 
+that have been returned to the Government; 
+ 
+ww.   All political contributions made by the Defendant to Jake Auchincloss For 
+Congress that have been returned to the Government; 
+ 
+xx. All political contributions made by the Defendant to Jasmine for US that 
+have been returned to the Government; 
+ 
+yy. All political contributions made by the Defendant to Jeffries For Congress 
+that have been returned to the Government; 
+ 
+zz. All political contributions made by the Defendant to Jersey Values PAC that 
+have been returned to the Government; 
+ 
+aaa. All political contributions made by the Defendant to Jim Costa For 
+Congress that have been returned to the Government; 
+ 
+bbb. All political contributions made by the Defendant to Joni For Iowa that 
+have been returned to the Government; 
+ 
+ccc. All political contributions made by the Defendant to Joseph Neguse For 
+Congress that have been returned to the Government; 
+ 
+ddd. All political contributions made by the Defendant to Josh Gottheimer For 
+Congress that have been returned to the Government; 
+ 
+eee. All political contributions made by the Defendant to Josh Harder For 
+Congress that have been returned to the Government; 
+ 
+fff. All political contributions made by the Defendant to Joyce Beatty that have 
+been returned to the Government; 
+ 
+ggg. All political contributions made by the Defendant to Kansas Democratic 
+Party that have been returned to the Government; 
+ 
+hhh. All political contributions made by the Defendant to Kentucky State 
+Democratic Central Committee that have been returned to the Government; 
+ 
+iii. All political contributions made by the Defendant to Lisa Murkowski For 
+US Senate that have been returned to the Government; 
+ 
+jjj. All political contributions made by the Defendant to Lou Correa For 
+Congress that have been returned to the Government; 
+ 
+kkk. All political contributions made by the Defendant to Maggie For NH that 
+have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 20 of 70
+
+
+--- PAGE 21 ---
+
+16 
+ 
+ 
+lll.  All political contributions made by the Defendant to Maxwell Alejandro 
+Frost For Congress that have been returned to the Government; 
+ 
+mmm. All political contributions made by the Defendant to Menendez For 
+Congress that have been returned to the Government; 
+ 
+nnn. All political contributions made by the Defendant to Michigan Democratic 
+State Central Committee that have been returned to the Government; 
+ 
+ooo. All political contributions made by the Defendant to Minnesota Democratic 
+Farmer Labor Party that have been returned to the Government; 
+ 
+ppp. All political contributions made by the Defendant to Mississippi 
+Democratic Party that have been returned to the Government; 
+ 
+qqq. All political contributions made by the Defendant to Missouri Democratic 
+State Committee (Federal) that have been returned to the Government; 
+ 
+rrr. All political contributions made by the Defendant to Montana Democratic 
+Party that have been returned to the Government; 
+ 
+sss. All political contributions made by the Defendant to Morgan McGarvey For 
+Congress that have been returned to the Government; 
+ttt.  All political contributions made by the Defendant to Nebraska Democratic 
+Party that have been returned to the Government; 
+uuu. All political contributions made by the Defendant to Nevada State 
+Democratic Party that have been returned to the Government; 
+ 
+vvv.  All political contributions made by the Defendant to New Hampshire 
+Democratic Party that have been returned to the Government; 
+ 
+www. All political contributions made by the Defendant to New Jersey 
+Democratic State Committee that have been returned to the Government; 
+ 
+xxx.   All political contributions made by the Defendant to Nikki For Congress 
+that have been returned to the Government; 
+ 
+yyy.  All political contributions made by the Defendant to North Carolina 
+Democratic Party that have been returned to the Government; 
+ 
+zzz.  All political contributions made by the Defendant to North Dakota 
+Democratic Nonpartisan League Party that have been returned to the 
+Government; 
+ 
+aaaa.  All political contributions made by the Defendant to Off the Sidelines PAC 
+that have been returned to the Government; 
+ 
+bbbb.  All political contributions made by the Defendant to Ohio Democratic Party 
+that have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 21 of 70
+
+
+--- PAGE 22 ---
+
+17 
+ 
+ 
+ 
+cccc.  All political contributions made by the Defendant to Oklahoma Democratic 
+Party that have been returned to the Government; 
+ 
+dddd.  All political contributions made by the Defendant to Pennsylvania 
+Democratic Party that have been returned to the Government; 
+ 
+eeee.  All political contributions made by the Defendant to People for Patty 
+Murray that have been returned to the Government; 
+ 
+ffff.  All political contributions made by the Defendant to Peter Aguilar For 
+Congress that have been returned to the Government; 
+ 
+gggg.  All political contributions made by the Defendant to Rhode Island 
+Democratic State Committee that have been returned to the Government; 
+ 
+hhhh. All political contributions made by the Defendant to Robert Garcia For 
+Congress that have been returned to the Government; 
+ 
+iiii.  All political contributions made by the Defendant to Salud Carbajal For 
+Congress that have been returned to the Government; 
+ 
+jjjj.  All political contributions made by the Defendant to Sanford Bishop For 
+Congress that have been returned to the Government; 
+ 
+kkkk.   All political contributions made by the Defendant to Sean Patrick Maloney 
+For Congress that have been returned to the Government; 
+ 
+llll. All political contributions made by the Defendant to Serving Our Country 
+(SOC) PAC that have been returned to the Government; 
+ 
+mmmm. All political contributions made by the Defendant to Shontel Brown For 
+Congress that have been returned to the Government; 
+ 
+nnnn.  All political contributions made by the Defendant to South Dakota 
+Democratic Party-Federal that have been returned to the Government; 
+ 
+oooo.  All political contributions made by the Defendant to Stabenow For US 
+Senate that have been returned to the Government; 
+ 
+pppp.  All political contributions made by the Defendant to State Democratic 
+Executive Committee of Alabama that have been returned to the 
+Government; 
+ 
+qqqq.   All political contributions made by the Defendant to Summit PAC that have 
+been returned to the Government; 
+ 
+rrrr.  All political contributions made by the Defendant to Team Blue PAC that 
+have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 22 of 70
+
+
+--- PAGE 23 ---
+
+18 
+ 
+ 
+ 
+ssss.   All political contributions made by the Defendant to Tennessee Democratic 
+Party that have been returned to the Government; 
+ 
+tttt.  All political contributions made by the Defendant to Texas Democratic 
+Party that have been returned to the Government; 
+ 
+uuuu.  All political contributions made by the Defendant to Tina Smith For 
+Minnesota that have been returned to the Government; 
+ 
+vvvv. All political contributions made by the Defendant to Tom O’Halleran for 
+Congress that have been returned to the Government; 
+ 
+wwww.  All political contributions made by the Defendant to Torres For Congress 
+that have been returned to the Government; 
+ 
+xxxx.  All political contributions made by the Defendant to Utah State Democratic 
+Committee that have been returned to the Government; 
+ 
+yyyy.   All political contributions made by the Defendant to Valley First Leadership 
+PAC that have been returned to the Government; 
+ 
+zzzz.  All political contributions made by the Defendant to Vermont Democratic 
+Party that have been returned to the Government; 
+ 
+aaaaa.  All political contributions made by the Defendant to W Va State Democratic 
+Ex Com that have been returned to the Government; 
+ 
+bbbbb.  All political contributions made by the Defendant to Washington State 
+Democratic Central Committee that have been returned to the Government; 
+ 
+ccccc.  All political contributions made by the Defendant to Welch For Vermont 
+that have been returned to the Government; 
+ 
+ddddd.  All political contributions made by the Defendant to Working Harder PAC 
+that have been returned to the Government; 
+ 
+eeeee. All political contributions made by the Defendant to Wyden for Senate that 
+have been returned to the Government; 
+ 
+fffff.  All political contributions made by the Defendant to Wyoming Democratic 
+Party that have been returned to the Government; 
+ 
+ggggg. All political contributions made by the Defendant to House Majority PAC; 
+ 
+ hhhhh. All political contributions made by the Defendant to Manchin For West 
+Virginia; and 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 23 of 70
+
+
+--- PAGE 24 ---
+
+19 
+ 
+ 
+iiiii. All political contributions made by the Defendant to Nevadans For Steven 
+Horsford; 
+ 
+180. Any and all political contributions made by Ryan Salame that are proceeds  
+traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts One through Four 
+of the Indictment or property involved in money laundering offense charged in Count Seven of the 
+Indictment, including but not limited to: 
+ 
+a. All political contributions made by Ryan Salame to Abraham Lincoln PAC 
+that have been returned to the Government; 
+ 
+b. All political contributions made by Ryan Salame to Americans for 
+Legislating Excellence PAC that have been returned to the Government; 
+ 
+c. All political contributions made by Ryan Salame to Andy Harris for 
+Congress that have been returned to the Government; 
+ 
+d. All political contributions made by Ryan Salame to August Pfluger for 
+Congress that have been returned to the Government; 
+ 
+e. All political contributions made by Ryan Salame to Ben Cline for Congress 
+Inc. that have been returned to the Government; 
+ 
+f. All political contributions made by Ryan Salame to Bilirakis for Congress 
+that have been returned to the Government; 
+ 
+g. All political contributions made by Ryan Salame to Bishop for Congress that 
+have been returned to the Government; 
+ 
+h. All political contributions made by Ryan Salame to Blake Masters for Senate 
+that have been returned to the Government; 
+ 
+i. All political contributions made by Ryan Salame to 
+Boozman for Arkansas that have been returned to the Government; 
+ 
+j. All political contributions made by Ryan Salame to Brian Fitzpatrick for All 
+of Us that have been returned to the Government; 
+k. All political contributions made by Ryan Salame to Bucshon for Congress 
+that have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 24 of 70
+
+
+--- PAGE 25 ---
+
+20 
+ 
+ 
+l. All political contributions made by Ryan Salame to Buddy Carter for 
+Congress that have been returned to the Government; 
+m. All political contributions made by Ryan Salame to Chuck Edwards for 
+Congress that have been returned to the Government; 
+ 
+n. All political contributions made by Ryan Salame to Chuck Fleischmann for 
+Congress Committee, Inc. that have been returned to the Government; 
+ 
+o. All political contributions made by Ryan Salame to Citizens for John 
+Rutherford that have been returned to the Government; 
+ 
+p. All political contributions made by Ryan Salame to Citizens for Turner that 
+have been returned to the Government; 
+ 
+q. All political contributions made by Ryan Salame to Cole for Congress that 
+have been returned to the Government; 
+ 
+r. All political contributions made by Ryan Salame to Dakota PAC that have 
+been returned to the Government; 
+ 
+s. All political contributions made by Ryan Salame to Dan Crenshaw for 
+Congress that have been returned to the Government; 
+ 
+t. All political contributions made by Ryan Salame to Dan Newhouse for 
+Congress that have been returned to the Government; 
+ 
+u. All political contributions made by Ryan Salame to Debbie Lesko for 
+Congress that have been returned to the Government; 
+ 
+v. All political contributions made by Ryan Salame to Defend our Conservative 
+Senate PAC that have been returned to the Government; 
+ 
+w. All political contributions made by Ryan Salame to Dr. John Joyce for 
+Congress that have been returned to the Government; 
+ 
+x. All political contributions made by Ryan Salame to Eli Crane for Congress 
+that have been returned to the Government; 
+ 
+y. All political contributions made by Ryan Salame to Elise for Congress that 
+have been returned to the Government; 
+ 
+z. All political contributions made by Ryan Salame to Free State PAC that have 
+been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 25 of 70
+
+
+--- PAGE 26 ---
+
+21 
+ 
+ 
+aa. All political contributions made by Ryan Salame to Friends for Chris 
+Stewart that have been returned to the Government; 
+ 
+bb. All political contributions made by Ryan Salame to Friends of Dave Joyce 
+that have been returned to the Government; 
+ 
+cc. All political contributions made by Ryan Salame to Gary Palmer for 
+Congress that have been returned to the Government; 
+ 
+dd. All political contributions made by Ryan Salame to Grassley Committee, 
+Inc. that have been returned to the Government; 
+ 
+ee. All political contributions made by Ryan Salame to Guthrie for Congress 
+that have been returned to the Government; 
+ 
+ff. All political contributions made by Ryan Salame to Hawkeye PAC that have 
+been returned to the Government; 
+ 
+gg. All political contributions made by Ryan Salame to Hoeven for Senate that 
+have been returned to the Government; 
+ 
+hh. All political contributions made by Ryan Salame to Jeff Duncan for 
+Congress that have been returned to the Government; 
+ 
+ii. All political contributions made by Ryan Salame to Johnson for Congress 
+that have been returned to the Government; 
+ 
+jj. All political contributions made by Ryan Salame to Joni of Iowa that have 
+been returned to the Government; 
+ 
+kk. All political contributions made by Ryan Salame to Julia Letlow for 
+Congress that have been returned to the Government; 
+ 
+ll. All political contributions made by Ryan Salame to Karoline for Congress 
+that have been returned to the Government; 
+ 
+mm. All political contributions made by Ryan Salame to Kay Granger Campaign 
+Fund that have been returned to the Government; 
+ 
+nn. All political contributions made by Ryan Salame to Ken Calvert for 
+Congress Committee that have been returned to the Government; 
+ 
+oo. All political contributions made by Ryan Salame to Latta for Congress that 
+have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 26 of 70
+
+
+--- PAGE 27 ---
+
+22 
+ 
+ 
+pp. All political contributions made by Ryan Salame to Lawler for Congress that 
+have been returned to the Government; 
+ 
+qq. All political contributions made by Ryan Salame to Laxalt for Senate that 
+have been returned to the Government; 
+ 
+rr. All political contributions made by Ryan Salame to Lisa Murkowski for US 
+Senate that have been returned to the Government; 
+ 
+ss. All political contributions made by Ryan Salame to Lori Chavez-Deremer 
+for Congress that have been returned to the Government; 
+ 
+tt. All political contributions made by Ryan Salame to Marc for Us Inc. that 
+have been returned to the Government; 
+ 
+uu. All political contributions made by Ryan Salame to Mario Diaz-Balart for 
+Congress that have been returned to the Government; 
+ 
+vv. ww. All political contributions made by Ryan Salame to Mark Alford for 
+Congress that have been returned to the Government; 
+ 
+ww. All political contributions made by Ryan Salame to Max Miller for Congress 
+that have been returned to the Government; 
+ 
+xx. All political contributions made by Ryan Salame to Mike Flood for Congress 
+that have been returned to the Government; 
+ 
+yy. All political contributions made by Ryan Salame to Mike Garcia for 
+Congress that have been returned to the Government; 
+ 
+zz. All political contributions made by Ryan Salame to Monica for Congress 
+that have been returned to the Government; 
+ 
+aaa. All political contributions made by Ryan Salame to Moolenaar for Congress 
+that have been returned to the Government; 
+ 
+bbb. All political contributions made by Ryan Salame to Mooney for Congress 
+2022 that have been returned to the Government; 
+ 
+ccc. All political contributions made by Ryan Salame to Moran for Kansas that 
+have been returned to the Government; 
+ 
+ddd. All political contributions made by Ryan Salame to Morgan Griffith for 
+Congress that have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 27 of 70
+
+
+--- PAGE 28 ---
+
+23 
+ 
+ 
+eee. All political contributions made by Ryan Salame to MVL-PAC that have 
+been returned to the Government; 
+ 
+fff. All political contributions made by Ryan Salame  to 
+NRSC, that have been returned to the Government; 
+ 
+ggg. All political contributions made by Ryan Salame to Republican National 
+Committee that have been returned to the Government; 
+ 
+hhh. All political contributions made by Ryan Salame to Results for NC, Inc that 
+have been returned to the Government; 
+ 
+iii. All political contributions made by Ryan Salame to Robert Aderholt for 
+Congress that have been returned to the Government; 
+ 
+jjj. All political contributions made by Ryan Salame to Simpson for Congress 
+that have been returned to the Government; 
+ 
+kkk. All political contributions made by Ryan Salame to Simpson for Congress 
+that have been returned to the Government; 
+ 
+lll. All political contributions made by Ryan Salame to Team Herschel, Inc. that 
+have been returned to the Government; 
+ 
+mmm. All political contributions made by Ryan Salame to Tim Scott for Senate that 
+have been returned to the Government; 
+ 
+nnn. All political contributions made by Ryan Salame to Tony Gonzales for 
+Congress that have been returned to the Government; 
+ 
+ooo. All political contributions made by Ryan Salame to Van Drew for Congress 
+that have been returned to the Government; 
+ 
+ppp. All political contributions made by Ryan Salame to Walberg for Congress 
+that have been returned to the Government; 
+ 
+qqq. All political contributions made by Ryan Salame  
+to Wenstrup for Congress that have been returned to the Government; 
+ 
+rrr. All political contributions made by Ryan Salame to West Virginia 
+Republican Party, Inc. that have been returned to the Government; 
+ 
+sss. All political contributions made by Ryan Salame to Zeldin for Congress that 
+have been returned to the Government; 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 28 of 70
+
+
+--- PAGE 29 ---
+
+24 
+ 
+ 
+ttt. All political contributions made by Ryan Salame to Zeldin for Governor that 
+have been returned to the Government; and 
+ 
+uuu. All political contributions made by Ryan Salame to Clyde for Congress, Inc 
+that have been returned to the Government; 
+ 
+181. Any and all political contributions made by Nishad Singh that are  
+proceeds traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts One 
+through Four of the Indictment or property involved in money laundering offense charged in 
+Count Seven of the Indictment, including but not limited to: 
+a. All political contributions made by Nishad Singh to America Needs New 
+Innovation and Energy PAC that have been returned to the Government; 
+b. All political contributions made by Nishad Singh to Anna Eshoo for 
+Congress that have been returned to the Government; 
+c. All political contributions made by Nishad Singh to Athena PAC that have 
+been returned to the Government; 
+d. All political contributions made by Nishad Singh to Barragan for Congress 
+that have been returned to the Government; 
+e. All political contributions made by Nishad Singh to Bennie Thompson for 
+Congress that have been returned to the Government; 
+f. All political contributions made by Nishad Singh to Blue Majority PAC that 
+have been returned to the Government; 
+g. All political contributions made by Nishad Singh to Bob Casey for Senate 
+that have been returned to the Government; 
+h. All political contributions made by Nishad Singh to Bonnie Watson Coleman 
+for Congress that have been returned to the Government; 
+i. All political contributions made by Nishad Singh to 
+Caraveo for Congress that have been returned to the Government; 
+j. All political contributions made by Nishad Singh to Cartwright for Congress 
+that have been returned to the Government; 
+k. All political contributions made by Nishad Singh to Casten for Congress that 
+have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 29 of 70
+
+
+--- PAGE 30 ---
+
+25 
+ 
+ 
+l. All political contributions made by Nishad Singh to Castor for Congress that 
+have been returned to the Government; 
+m. All political contributions made by Nishad Singh to Chris Pappas for 
+Congress that have been returned to the Government; 
+n. All political contributions made by Nishad Singh to Clarke for Congress that 
+have been returned to the Government; 
+o. All political contributions made by Nishad Singh to Cleaver for Congress 
+that have been returned to the Government 
+p. All political contributions made by Nishad Singh to Committee for a 
+Democratic Future that have been returned to the Government; 
+q. All political contributions made by Nishad Singh to Conole for Congress 
+that have been returned to the Government; 
+r. All political contributions made by Nishad Singh to Country Roads PAC that 
+have been returned to the Government; 
+s. All political contributions made by Nishad Singh to Debbie Dingell for 
+Congress that have been returned to the Government; 
+t. All political contributions made by Nishad Singh to Doing Right – Results 
+Action Unity leadership PAC that have been returned to the Government; 
+u. All political contributions made by Nishad Singh to Donald Payne Jr. for 
+Congress that have been returned to the Government; 
+v. All political contributions made by Nishad Singh to Dr. Kim Schrier for 
+Congress that have been returned to the Government; 
+w. All political contributions made by Nishad Singh to Dr. Raul Ruiz for 
+Congress that have been returned to the Government; 
+x. All political contributions made by Nishad Singh to Dutch for Congress that 
+have been returned to the Government; 
+y. All political contributions made by Nishad Singh to Elissa Slotkin for 
+Congress that have been returned to the Government; 
+z. All political contributions made by Nishad Singh to Elizabeth Pannill 
+Fletcher for Congress that have been returned to the Government; 
+aa. All political contributions made by Nishad Singh to Fair Shot PAC that have 
+been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 30 of 70
+
+
+--- PAGE 31 ---
+
+26 
+ 
+ 
+bb. All political contributions made by Nishad Singh to Follow the North Star 
+that have been returned to the Government; 
+cc. All political contributions made by Nishad Singh to Forward Together PAC 
+that have been returned to the Government; 
+dd. All political contributions made by Nishad Singh to Friends of Dan Kildee 
+that have been returned to the Government; 
+ee. All political contributions made by Nishad Singh to Friends of Rosa 
+DeLauro that have been returned to the Government; 
+ff. All political contributions made by Nishad Singh to Friends of Schumer that 
+have been returned to the Government; 
+gg. All political contributions made by Nishad Singh to Getting Stuff Done that 
+have been returned to the Government; 
+hh.  All political contributions made by Nishad Singh to Greg Casar f or 
+Congress that have been returned to the Government; 
+ii.  All political contributions made by Nishad Singh to Hoyer for Congress that 
+have been returned to the Government; 
+jj.  All political contributions made by Nishad Singh to Jeff Jackson for 
+Congress that have been returned to the Government; 
+kk.  All political contributions made by Nishad Singh to Jeffries for Congress 
+that have been returned to the Government; 
+ll.  All political contributions made by Nishad Singh to Kaine for Virginia that 
+have been returned to the Government; 
+mm.  All political contributions made by Nishad Singh to Keep Al Green in 
+Congress that have been returned to the Government; 
+nn.  All political contributions made by Nishad Singh to Keystone America PAC 
+that have been returned to the Government; 
+oo.  All political contributions made by Nishad Singh to Kuster for Congress, 
+Inc. that have been returned to the Government; 
+pp.  All political contributions made by Nishad Singh to Leadership Opportunity, 
+Innovation Service PAC – LOIS PAC that have been returned to the 
+Government; 
+qq.  All political contributions made by Nishad Singh to Leading People Forward 
+PAC that have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 31 of 70
+
+
+--- PAGE 32 ---
+
+27 
+ 
+ 
+rr.  All political contributions made by Nishad Singh to Lois Frankel for 
+Congress that have been returned to the Government; 
+ss.  All political contributions made by Nishad Singh to Lori Trahan for 
+Congress Committee that have been returned to the Government; 
+tt. All political contributions made by Nishad Singh to Luchadora PAC that 
+have been returned to the Government; 
+uu. All political contributions made by Nishad Singh to Mark Pocan for 
+Congress that have been returned to the Government; 
+vv. All political contributions made by Nishad Singh to Matsui for Congress that 
+have been returned to the Government; 
+ww.  All political contributions made by Nishad Singh to Montanans for Tester 
+that have been returned to the Government; 
+xx.  All political contributions made by Nishad Singh to Moving Broward 
+Forward PAC that have been returned to the Government; 
+yy.  All political contributions made by Nishad Singh to Nancy Pelosi for 
+Congress that have been returned to the Government; 
+zz.  All political contributions made by Nishad Singh to Narragansett Bay PAC 
+that have been returned to the Government; 
+aaa.  All political contributions made by Nishad Singh to New Mexican’s for 
+Michelle that have been returned to the Government; 
+bbb.  All political contributions made by Nishad Singh to PAC to the Future that 
+have been returned to the Government; 
+ccc.  All political contributions made by Nishad Singh to Pete Aguilar For 
+Congress that have been returned to the Government; 
+ddd.  All political contributions made by Nishad Singh to Peters for Michigan that 
+have been returned to the Government; 
+eee.  All political contributions made by Nishad Singh to Priorities USA Action 
+that have been returned to the Government; 
+fff.  All political contributions made by Nishad Singh to Quigley for Congress 
+that have been returned to the Government; 
+ggg.  All political contributions made by Nishad Singh to Robin Kelly for 
+Congress that have been returned to the Government; 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 32 of 70
+
+
+--- PAGE 33 ---
+
+28 
+ 
+ 
+hhh.  All political contributions made by Nishad Singh to SAC PAC that have 
+been returned to the Government; 
+iii.  All political contributions made by Nishad Singh to Schatz for Senate that 
+have been returned to the Government; 
+jjj.  All political contributions made by Nishad Singh to Shaheen for Senate that 
+have been returned to the Government; 
+kkk.  All political contributions made by Nishad Singh to Sinema for Arizona that 
+have been returned to the Government; 
+lll. All political contributions made by Nishad Singh to Treasure State PAC that have 
+been returned to the Government; 
+mmm.  All political contributions made by Nishad Singh to Val Hoyle for Congress 
+that have been returned to the Government; 
+nnn.  All political contributions made by Nishad Singh to Velvet Hammer PAC 
+that have been returned to the Government; 
+ooo.  All political contributions made by Nishad Singh to Visionary PAC that have 
+been returned to the Government; 
+ppp.  All political contributions made by Nishad Singh to Wolverine PAC that 
+have been returned to the Government; 
+qqq.  All political contributions made by Nishad Singh to Gabe Vasquez for 
+Congress; 
+rrr.  All political contributions made by Nishad Singh to Mind the Gap;  
+sss.  All political contributions made by Nishad Singh to Spanberger for 
+Congress; 
+ttt. All political contributions made by Nishad Singh to AMERIPAC;  
+uuu.  All political contributions made by Nishad Singh to Hawaii PAC;  
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 33 of 70
+
+
+--- PAGE 34 ---
+
+ 
+1 
+ 
+EXHIBIT B 
+1. $20,746,713.67 in United States currency formerly on deposit in Account Numbers 
+499-30500 and 429-30500 at ED&F Man Capital Markets, Inc., a/k/a “Marex,” held 
+in the name of “Emergent Fidelity Technologies,” seized by the Government on or 
+about January 4, 2023 (23-FBI-001193); 
+2. $49,999,500 in United States currency formerly on deposit in Account Number 
+9000-1924-02685 at Farmington State Bank d/b/a “Moonstone Bank” held in the 
+name of “FTX Digital Markets,” seized by the Government on or about January 4, 
+2023 (23-FBI-000663); 
+3. $5,322,385.32 in United States currency formerly held on deposit in Account 
+Number 0000005090042549 at Silvergate Bank held in the name of “FTX Digital 
+Markets,” seized by the Government on or about January 11, 2023 (23- FBI-
+001259); 
+4. $719,359.65 in United States currency formerly on deposit in Account  Number 
+0000005090042556 at Silvergate Bank held in the name of “FTX Digital Markets,” 
+seized by the Government on or about January 11, 2023 (23-FBI-001260); 
+5. $1,071.83 in United States currency formerly on deposit in Account Number 
+0000005090042564 at Silvergate Bank held in the name of “FTX Digital Markets,” 
+seized by the Government on or about January 11, 2023 (23-FBI-001261); 
+6. $94,570,490.63 in United States currency formerly on deposit in Account Number 
+0000005091010037 at Silvergate Bank held in the name of FTX Digital Markets,” 
+seized by the Government on or about January 19, 2023 (23-FBI-001262); 
+7. Any and all monies, assets, and funds contained in Binance account number 
+94086678; 
+8. Any and all monies, assets, and funds contained in Binance.us account number 
+35000066; and 
+9. Any and all monies, assets, and funds contained in Binance.us account number 
+35155204; 
+10. $605,694,411.59 in United States currency from the sale of 55,273,469.00 in 
+Robinhood Markets Inc. Class A Shares contained in ED&F Man Capital Markets 
+Inc, formerly held in accounts 499-30500 and 429-30500, in the name of “Emergent 
+Fidelity Technologies” (23-FBI-001187); 
+11. 24885000.090498 units of Tether (USDT) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-001568); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 34 of 70
+
+
+--- PAGE 35 ---
+
+ 
+2 
+ 
+12. 643041.47694904 units of DAI (DAI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-001576); 
+13. 29.50308659 units of Ethereum (ETH) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-001578); 
+14. 24.4135385 units of Bitcoin (BTC) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD (23-FBI-001579); 
+15. 289.65502554 units of Ethereum (ETH) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001581); 
+16. 290424.3928835 units of Tether (USDT) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001582); 
+17. 127906.99952569 units of Cardano (ADA) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001583); 
+18. 550 units of Litecoin (LTC) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD (23-FBI-001584); 
+19. 381455.446400 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD  (23-FBI-001586); 
+20. 175.7145543 units of Bitcoin Cash (BCH) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001587); 
+21. 331.660001 units of USD Coin (USDC) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001588); 
+22. 39405.0056886 units of BUSD (BUSD) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD (23-FBI-001589); 
+23. 18.65298573 units of BNB (BNB) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD (23-FBI-001590); 
+24. 182.1489 units of US Dollar (USD) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD (23-FBI-001591); 
+25. 36.86187755 units of 1inch (1INCH) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002070); 
+26. 3.5015641 units of Aave (AAVE) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002071); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 35 of 70
+
+
+--- PAGE 36 ---
+
+ 
+3 
+ 
+27. 1004933.48226167 units of AMP (AMO) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002072); 
+28. 29.94781661 units of ApeCoin (APE) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002073; 
+29. 82442.3 units of Aragon (ANT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002074; 
+30. 532.32735123 units of Augur v2 (REP) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002075); 
+31. 4117.97540487 units of Axie Infinity (AXS) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002077); 
+32. 49215.433193 units of Band Protocol (BAND) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD  (23-FBI-
+002079); 
+33. 39524.76329022 units of Basic Attention Token (BAT) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD  
+(23-FBI-002080); 
+34. 1.3773854 units of Bitcoin (BTC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002082); 
+35. 1.80962441 units of Bitcoin Cash (BCH) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002083); 
+36. 271870.92611405 units of Cardano (ADA) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002086); 
+37. 211.41049375 units of Cartesi (CTSI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002087); 
+38. 19.98876671 units of ChainLink (LINK) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002089); 
+39. 70.18661601 units of Chiliz (CHZ) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002090); 
+40. 1232.1119377 units of Compound (COMP) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002092); 
+41. 12.5088504 units of Cosmos (ATOM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002093); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 36 of 70
+
+
+--- PAGE 37 ---
+
+ 
+4 
+ 
+42. 182.42003616 units of Curve (CRV) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002094); 
+43. 311756.60697044 units of Decentraland (MANA) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD (23- FBI-
+002095); 
+44. 737.70657339 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002096); 
+45. 914.83983292 units of Elrond (EGLD) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002097); 
+46. 190.41242266 units of Enjin Coin (ENJ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002098); 
+47. 172.76128409 units of EOS (EOS) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002099); 
+48. 208.68 units of Fetch.Al (FET) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002102); 
+49. 182.563 units of Flow (FLOW) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002111); 
+50. 138987.5 units of iExecRLC (RLC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002113); 
+51. 0.6161 units of Kusama (KSM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002116); 
+52. 4958.92707192 units of Kyber Network Crystal (KNC) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD 
+(23-FBI-002119); 
+53. 3.52598049 units of Litecoin (LTC) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002120); 
+54. 0.09948145 units of Maker (MKR) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002121); 
+55. 8.584 units of NEAR Protocol (NEAR) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002122); 
+56. 4055.01 units of Numeraire (NMR) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002123); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 37 of 70
+
+
+--- PAGE 38 ---
+
+ 
+5 
+ 
+57. 79.19204353 units of Ocean Protocol (OCEAN) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD (23 -FBI-
+002124); 
+58. 3938.84993469 units of OMG Network (OMG) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD (23- FBI-
+002125); 
+59. 97608.07714082 units of Orchid (OXT) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002126); 
+60. 22.63 units of Polkadot (DOT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002128); 
+61. 19.1760689 units of Polygon (MATIC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002129); 
+62. 0.288 units of Quant (QNT) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002130); 
+63. 124.57 units of Request Network (REQ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002131); 
+64. 826.7948669 units of Stellar Lumens (XLM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002134); 
+65. 725.07744225 units of Storj (STORJ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002138); 
+66. 23.15773377 units of Synthetix Network Token (SNX) formerly held in 
+Binance.us account number 35000066 in the name of Alameda Research LTD 
+(23-FBI-002139); 
+67. 23050.04484988 units of Tezos (XTZ) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002140); 
+68. 733 units of The Sandbox (SAND) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002142); 
+69. 29 units of TrueUSD (TUSD) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002143); 
+70. 17.27458532 units of Unisawp (UNI) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002144); 
+71. 2531.06771842 units of USD Coin (USDC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002145); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 38 of 70
+
+
+--- PAGE 39 ---
+
+ 
+6 
+ 
+72. 0.53316413 units of Wrapped Bitcoin (WBTC) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD (23- FBI-
+002146); 
+73. 5.37259785 units of yearn.finance (YFI) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002148); 
+74. 2.0998284 units of BNB (BNB) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002149); 
+75. 4205419.6 units of DigiByte (DGB) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002151); 
+76. 330.13 units of Fantom (FTM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002152); 
+77. 176.113269 units of MIOTA (IOTA) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002153); 
+78. 14126.96408795 units of QTUM (QTUM) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002156); 
+79. 2064654.7 units of Serum (SRM) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002157); 
+80. 294.68188779 units of PAX Gold (PAXG) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD (23-FBI-002316); 
+81. 47066.1 units of TRON (TRX) formerly held in Binance.us account number 
+35000066 in the name of Alameda Research LTD (23-FBI-002325); 
+82. $1,136.15 U.S. Currency formerly held in Binance.us account number 35000066 
+in the name of Alameda Research LTD , seized on or about March 15, 2023 (23-
+FBI-002375); 
+83. 94,149,325.156019 units of TetherUS (USDT) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002465); 
+84. 750.18980528 units of Wrapped Bitcoin (WBTC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002466); 
+85. 40,285.32817616 units of BNB (BNB) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002467); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 39 of 70
+
+
+--- PAGE 40 ---
+
+ 
+7 
+ 
+86. 657.92 units of Bitcoin (BTC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002468); 
+87. 14,585,806.000000 units of Serum (SRM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002469); 
+88. 21,606,660.30 units of Ripple (XRP) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002470); 
+89. 1933.52 units of Wrapped Ether (WETH) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002471); 
+90. 2,656,657.30302526 units of Dai (DAI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002472); 
+91. 3,324,858.50 units of The Sandbox (SAND) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002473); 
+92. 298,179.10587996 units of Uniswap (UNI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002474); 
+93. 1,078,928.47821475 units of BAND (BAND) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002475); 
+94. 117,884.05706545 units of Ethereum Classic (ETC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002476); 
+95. 128,635.79 units of Mask Network (MASK) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002477); 
+96. 274,454.66 units of Render Token (RNDR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002478); 
+97. 54,897,092,549.50 units of SHIBA INU (SHIB) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002479); 
+98. 31,803.53 units of Axie Infinity (AXS) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002480); 
+99. 15,131,607.97 units of TRON (TRX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002481); 
+100. 744,212.83799922 units of KyberNetwork (KNC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002482); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 40 of 70
+
+
+--- PAGE 41 ---
+
+ 
+8 
+ 
+101. 47,700.59 units of ApeCoin (APE) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002483); 
+102. 270,105.78 units of Metal (MTL) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002487); 
+103. 76,647.10 units of Aragon (ANT) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002488); 
+104. 4,448,314.200037 units of Cardano (ADA) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002489); 
+105. 80,443.757968 units of Qtum (QTUM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002491); 
+106. 730,809.09 units of Raydium (RAY) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002494); 
+107. 15,242.10 units of Solana (SOL) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002495); 
+108. 13,583,617.5908483 units of BUSD (BUSD) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002496); 
+109. 612084.03000000 units of Nuls (NULS) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002497); 
+110. 1,061,040.738563 units of Aergo (AERGO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002500); 
+111. 4,620.58 units of Ethereum (ETH) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002501); 
+112. 631,959.285244 units of PowerLedger (POWR) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002502); 
+113. 545,095.03753131 units of FTX Token (FTT) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002507); 
+114. 697,437,118.449615 units of WINK (WIN) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002509); 
+115. 448.47396321 units of Gnosis (GNO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002511); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 41 of 70
+
+
+--- PAGE 42 ---
+
+ 
+9 
+ 
+116. 381455.446400 units of Civic (CVC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002566); 
+117. 8687.40233482 units of Augur v2 (REP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002567); 
+118. 317420.831174 units of Orchid (OXT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002568); 
+119. 322,742.75119077 units of Bluzelle (BLZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002569); 
+120. 14288.54897397 units of iExecRLC (RLC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002571); 
+121. 184,690.40214601 units of Polkadot (DOT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002573); 
+122. 121527.06284122 units of Komodo (KMD) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002576); 
+123. 8295.32704012 units of UMA (UMA) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002577); 
+124. 2,487,190.58449267 units of AMP (AMP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002579); 
+125. 62195.3445497 units of 0x (ZRX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-002580); 
+126. 183,478.66603057 units of Ren (REN) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002581); 
+127. 3.56780387 units of yearn.finance (YFI) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-002582); 
+128. 11,645.73241825 units of Bitcoin Cash (BCH) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+002583); 
+129. 35,256.7962342 units of Golem (GLM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003321); 
+130. 10715.8987223 units of Frontier (FRONT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003323); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 42 of 70
+
+
+--- PAGE 43 ---
+
+ 
+10 
+ 
+131. 278,965.27003663 units of Basic Attention Token (BAT) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD 
+(23-FBI-003325); 
+132. 75.26530412 units of Numeraire (NMR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003328); 
+133. 720.88398944 units of Litentry (LIT) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003330); 
+134. 2161.746383 units of Storj (STORJ) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003332); 
+135. 31,318.4272325 units of OMG Network (OMG) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+003333); 
+136. 5,957.882489010 units of Dogecoin (DOGE) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003338); 
+137. 1371.927500 units of SingularityNET Token (AGIX) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+003339); 
+138. 3,058.472 units of Viberate (VIB) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003341); 
+139. 26,104.4281127 units of 1inch (1INCH) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003343); 
+140. 26,107.75499159 units of Curve (CRV) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003354); 
+141. 8,505.87214 units of Celo (CELO) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003356); 
+142. 3,210.44538565 units of Decentraland (MANA) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+003357); 
+143. 14,595.22985968 units of Synthetix Network Token (SNX) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD 
+(23-FBI-003359); 
+144. 121.306489 units of Ocean Protocol (OCEAN) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+003361); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 43 of 70
+
+
+--- PAGE 44 ---
+
+ 
+11 
+ 
+145. 447,768.2573 units of DENT (DENT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003364); 
+146. 12,376.43358062 units of OriginToken (OGN) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+003367); 
+147. 5000.20657000 units of DigiByte (DGB) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003368); 
+148. 99.20866254 units of Gitcoin (GTC) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003372); 
+149. 272.9522 units of Fetch.AI (FET) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-003375); 
+150. 289.1887458 units of MANTRA (OM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003377); 
+151. 352.86674268 units of Loopring (LRC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-003378); 
+152. 62,427.26261 units of Algorand (ALGO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005383); 
+153. 1,060.754544 units of Measurable Data Token (MDT) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research LTD 
+(23-FBI-005387); 
+154. 5,403.24231 units of IoTeX (IOTX) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-005392); 
+155. 289.173565 units of Request Network (REQ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005393); 
+156. 93,625.688081 units of Holo (HOT) formerly held in Binance.us account number 
+94086678 in the name of Alameda Research LTD (23-FBI-005394); 
+157. 521.557933 units of Pundi X (PUNDIX) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005395); 
+158. 1,209.144850 units of WOO Network (WOO) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+005398); 
+159. 920,281.830480 units of Reserve Rights (RSR) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+005435); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 44 of 70
+
+
+--- PAGE 45 ---
+
+ 
+12 
+ 
+160. 99,511.908300 units of WAX (WAXP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005436); 
+161. 20,679.332042 units of Enjin Coin (ENJ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005437); 
+162. 597.74385218 units of Compound (COMP) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005439); 
+163. 115,566.408615 units of The Graph (GRT) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005442); 
+164. 184,889.132758 units of Chiliz (CHZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005443); 
+165. 247.62397951 units of Maker (MKR) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005458); 
+166. 3,332.52956029 units of Aave (AAVE) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005459); 
+167. 10,391.51391488 units of Balancer (BAL) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005461); 
+168. 98,591.64417196 units of ChainLink (LINK) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005472); 
+169. 6,481.84140775 units of Tezos (XTZ) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005473); 
+170. 328,471.759281 units of Nexo (NEXO) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005476); 
+171. 122,572.64205808 units of Polygon (MATIC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD (23- FBI-
+005477); 
+172. 30,604.0636046 units of Cosmos (ATOM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005478); 
+173. 146,149.04537535 units of Filecoin (FIL) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005479); 
+174. 2,654,127.825676 units of Fantom (FTM) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005480); 
+175. 31,341.27163278 units of Litecoin (LTC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD (23-FBI-005481); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 45 of 70
+
+
+--- PAGE 46 ---
+
+ 
+13 
+ 
+176. A Bombardier Global 5000 BD-700-1A11 Aircraft Bearing Registration Number 
+N410AT and Manufacturer Serial Number 9295, and related maintenance logs 
+and engine logs, seized on or about February 21, 2023 (23-FBI-001919); 
+177. An Embraer Legacy EMB-135BJ Aircraft Bearing Registration Number C6-BDE 
+and Manufacturer Serial Number 14500967, seized on or about March 25, 2024 
+(24-FBI-003236); 
+178. $7,274,998.60 in United States currency, formerly on deposit at Fla gstar Bank, 
+f/k/a “Signature Bank,” held in account number 1504820218 at Signature Bank, 
+held in the name of Samuel Bankman-Fried and Luk Wei Chan, seized on or about 
+April 29, 2024 (24-FBI-003418); 
+179. Any and all political contributions made by the Defendant that are proceeds 
+traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts One through 
+Four of the Indictment or property involved in money laundering offense charged in Count Seven 
+of the Indictment, including but not limited to: 
+ 
+a. $9,756.20 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Alaska Democratic Party (23-FBI-002713); 
+ 
+b. $2,900.00 in United States currency remitted to the Government on 
+or about April 25, 2023, representing the contribution by the 
+Defendant to Angie Craig for Congress (23-FBI-001770); 
+ 
+c. $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Arizona Democratic Party (23-FBI-002959); 
+ 
+d. $5,000.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by the 
+Defendant to the Arkansas for Leadership Political Action 
+Committee (PAC) (23-FBI-001772); 
+ 
+e. $1,618.33 in United States currency remitted to the Government 
+on or about March 24, 2023, representing the contribution by the 
+Defendant to the AXNE PAC (Americans X -Pect New Energy) 
+(23-FBI-001776);  
+ 
+f. $2,900 in United States currency remitted to the Government on or 
+about April 24, 2023, representing the contribution by the 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 46 of 70
+
+
+--- PAGE 47 ---
+
+ 
+14 
+ 
+Defendant to Becca Balint for Vermont (23-FBI-001779); 
+ 
+g. $5,800.00 in United States currency remitted to the Government 
+on or about March 28, 2023, representing the contribution by the 
+Defendant to Ben Sasse for US Senate Inc. (23-FBI-001782); 
+ 
+h. $87,417.89 in United States currency remitted to the Government 
+on or about February 6, 2024, representing the contribution by the 
+Defendant to Beto O’Rourke (23-FBI-002523); 
+ 
+i. $2,800.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to Biden for President (23-FBI-002524); 
+ 
+j. $5,000.00 in United States currency remitted to the Government 
+on or about June 21, 2023, representing the contribution by  the 
+Defendant to the Blue Nevada PAC (23-FBI-001791); 
+ 
+k. $5,800.00 in United States currency remitted to the Government 
+on or about April 4, 2023, representing the contribution by the 
+Defendant to Boozman for Arkansas (23-FBI-001794); 
+ 
+l. $2,900.00 in United States currency remitted to the Government on 
+or about Apr il 13, 2023, representing the contribution by the 
+Defendant to Brittany Pettersen for Colorado (23-FBI-001799); 
+ 
+m. $9,756.20 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the California Democratic Party (23-FBI-002857); 
+ 
+n. $2,500.00 in United States currency remitted to the Government on 
+or about March 20, 2023, representing the contribution by the 
+Defendant to the CHC Bold PAC (23-FBI-001813); 
+ 
+o. $2,900.00 in United States currency remitted to the Government 
+on or about March 8, 2023, representing the contribution by the 
+Defendant to the Chuy Garcia for Congress (23-FBI-001817); 
+ 
+p. $5,800.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by the 
+Defendant to the Citizens for Boyle (23-FBI-001818); 
+ 
+q. $780.00 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Colorado Democratic Party (23-FBI-002530); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 47 of 70
+
+
+--- PAGE 48 ---
+
+ 
+15 
+ 
+ 
+ 
+r. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Connecticut Democratic State Central Committee 
+(23-FBI-002532); 
+ 
+s. $2,900.00 in United States currency remitted to the Government 
+on or about November 9, 2023, representing the contribution by  
+the Defendant to Conole for Congress (23-FBI-002531); 
+ 
+t. $5,700.00 in United States currency remitted to the Government 
+on or about April 19, 20213 representing the contribution by the 
+Defendant to Cory Booker for Senate (23-FBI-001831); 
+ 
+u. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the DC Democratic Party (23-FBI-002533); 
+ 
+v. $250,000.00 in United States currency remitted to the Government 
+on or about April 19, 2023, representing the contribution by the 
+Defendant to the DCCC (23-FBI-001838); 
+ 
+w. $780.00 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Executive Committee of Florida (23-
+FBI-002863); 
+ 
+x. $7,318.13 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Grassroots Victory Fund (23 -FBI-
+002865); 
+ 
+y. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of Arkansas (23-FBI-002534); 
+ 
+z. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of Hawaii (23-FBI-002535); 
+ 
+aa. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of Illinois (23-FBI-002536); 
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 48 of 70
+
+
+--- PAGE 49 ---
+
+ 
+16 
+ 
+ 
+ 
+bb. $10,000.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of New Mexico -Federal (23-
+FBI-002867); 
+ 
+cc. $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of South Carolina (23- FBI-
+002537); 
+ 
+dd. $780.00 in United States currency remitted to the Government on or 
+about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of Virginia (23-FBI-002538); 
+ 
+ee. $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Democratic Party of Wisconsin -Federal (23-FBI-
+002539); 
+ 
+ff. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the  
+Defendant to the Democratic State Central Committee of LA (23 -
+FBI-002540); 
+ 
+gg. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the  
+Defendant to the Democratic State Committee (Delaware) (23-FBI-
+002541); 
+ 
+hh. $250,000.00 in United States currency remitted to the Government 
+on or about April 3, 2023, representing the contribution by the 
+Defendant to the DMFI PAC (23-FBI-001848); 
+ 
+ii. $400,500.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the DNC Services Corp/Democratic National 
+Committee (23-FBI-001849); 
+ 
+jj. $2,900.00 in United States currency remitted to the Government on 
+or about May  18, 2023, representing the contribution by the  
+Defendant to Foushee for Congress (23-FBI-001866); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 49 of 70
+
+
+--- PAGE 50 ---
+
+ 
+17 
+ 
+kk. $2,900.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the  
+Defendant to Friends of Lucy McBath (23-FBI-001879); 
+ 
+ll. $5,800.00 in United States currency remitted to the Government on 
+or about March 28, 2023, representing the contribution by the  
+Defendant to Gallego for Arizona (23-FBI-001887); 
+ 
+mm. $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Georgia Federal Elections Committee (23 -FBI-
+002589); 
+ 
+nn. $2,900.00 in United States currency remitted to the Government on 
+or about April 17, 2023, representing the contribution by the 
+Defendant to Gillen for Congress (23-FBI-001891); 
+ 
+oo. $5,800.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the 
+Defendant to Gillibrand for Senate (23-FBI-001892); 
+ 
+pp. $5,000.00 in United States currency remitted to the Government on 
+or about March 31, 2023, representing the contribution by the 
+Defendant to the Granite Values PAC (23-FBI-002718); 
+ 
+qq. $5,000.00 in United States currency remitted to the Government on 
+or about March 28, 2023, representing the contribution by the 
+Defendant to the Greater Opportunities for Leadership Development 
+(Gold PAC) (23-FBI-001896); 
+ 
+rr. $2,900.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the 
+Defendant to Haley Stevens for Congress (23-FBI-001904); 
+ 
+ss. $5,800.00 in United States currency remitted to the Government on 
+or about September 20, 2023, representing the contribution by the 
+Defendant to Hoeven for Senate (23-FBI-002736); 
+ 
+tt. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Idaho State Democratic Party (23-FBI-002738); 
+ 
+uu.  $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Indiana Democratic Congressional Victory 
+Committee (23-FBI-002739); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 50 of 70
+
+
+--- PAGE 51 ---
+
+ 
+18 
+ 
+ 
+vv. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Iowa Democratic Party (23-FBI-002742); 
+ 
+ww.   $5,800.00 in United States currency remitted to the Government on 
+or about April 17, 2023, representing the contribution by the 
+Defendant to Jake Auchincloss for Congress (23-FBI-001917); 
+ 
+xx. $2,900.00 in United States currency remitted to the Government on 
+or about May 19, 2023, representing the contribution by the 
+Defendant to Jasmine for US (23-FBI-001927); 
+ 
+yy. $5,800.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the 
+Defendant to Jeffries for Congress (23-FBI-001931); 
+ 
+zz. $5,000.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by the 
+Defendant to Jersey Values PAC (23-FBI-001932); 
+ 
+aaa. $2,900.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by the 
+Defendant to Jim Costa for Congress (23-FBI-001933); 
+ 
+bbb. $5,800.00 in United States currency remitted to the Government on 
+or about November 28, 2023, representing the contribution by the 
+Defendant to Joni for Iowa (23-FBI-001939); 
+ 
+ccc. $2,900.00 in United States currency remitted to the Government on 
+or about April 10, 2023, representing the contribution by the 
+Defendant to Joseph Neguse for Congress (23-FBI-001999); 
+ 
+ddd. $5,800.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by the 
+Defendant to Josh Gottheimer for Congress (23-FBI-001941); 
+ 
+eee. $2,900.00 in United States currency remitted to the Government on 
+or about June 7, 2023, representing the contribution by the 
+Defendant to Josh Harder for Congress (23-FBI-001942); 
+ 
+fff. $2,900.00 in United States currency remitted to the Government on 
+or about March 30, 2023, representing the contribution by the 
+Defendant to Joyce Beatty (23-FBI-002873); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 51 of 70
+
+
+--- PAGE 52 ---
+
+ 
+19 
+ 
+ggg. $10,000.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Kansas Democratic Party (23-FBI-003559); 
+ 
+hhh. $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Kentucky State Democratic Central Executive 
+Committee (23-FBI-002875); 
+ 
+iii. $5,800.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by the 
+Defendant to Lisa Murkowski for US Senate (23-FBI-001957); 
+ 
+jjj. $2,900.00 in United States currency remitted to the Government on 
+or about M arch 28, 2023, representing the contribution by the 
+Defendant to Lou Correa for Congress (23-FBI-001962); 
+ 
+kkk. $5,800.00 in United States currency remitted to the Government on 
+or about March 31, 2023, representing the contribution by the 
+Defendant to Maggie for NH (23-FBI-002884); 
+ 
+lll.  $2,900.00 in United States currency remitted to the Government on 
+or about March 17, 2023, representing the contribution by the 
+Defendant to Maxwell Alejandro Frost for Congress (23 -FBI-
+001979); 
+ 
+mmm. $2,900.00 in United States currency remitted to the Government on 
+or about April 3, 2023, representing the contribution by the 
+Defendant to Menendez for Congress (23-FBI-001981); 
+ 
+nnn. $780.00 in United States currency remitted to the Government on or 
+about January 8, 2024, representing the contribution by the 
+Defendant to  the Michigan Democratic State Central Committee 
+(23-FBI-002888); 
+ 
+ooo. $10,536.20 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Minnesota Democratic Farmer Labor Party (23-
+FBI-002889); 
+ 
+ppp. $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Mississippi Democratic Party (23-FBI-002890); 
+ 
+qqq. $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 52 of 70
+
+
+--- PAGE 53 ---
+
+ 
+20 
+ 
+Defendant to the Missouri Democratic State Committee (Federal) 
+(23-FBI-002891); 
+ 
+rrr. $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Montana Democratic Party (23-FBI-002892); 
+ 
+sss. $2,900.00 in United States currency remitted to the Government on 
+or about April 24, 2023, representing the contribution by the 
+Defendant to Morgan McGarvey for Congress (23-FBI-001995); 
+ 
+ttt.  $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Nebraska Democratic Party (23-FBI-002914); 
+ 
+uuu. $780.00 in United States currency remitted to the Government on or 
+about January 8, 2024, representing the contribution by the 
+Defendant to the Nevada State Democratic Party (23-FBI-002916); 
+ 
+vvv.  $780.00 in United States currency remitted to the Government on or 
+about January 8, 2024, representing the contribution by the 
+Defendant to the New Hampshire Democratic Party (23 -FBI-
+002001); 
+ 
+www. $
+ 9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the New Jersey Democratic State Committee (23-FBI-
+002917); 
+ 
+xxx.   $2,900.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the 
+Defendant to Nikki for Congress (23-FBI-002005); 
+ 
+yyy.  $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the North Carolina Democratic Party (23- FBI-
+002918); 
+ 
+zzz.  $
+ 9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the North Dakota Democratic Nonpartisan League 
+Party (23-FBI-002885); 
+ 
+aaaa.  $5,000.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by the 
+Defendant to Off the Sidelines PAC (23-FBI-002007); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 53 of 70
+
+
+--- PAGE 54 ---
+
+ 
+21 
+ 
+ 
+bbbb.  $10,536.19 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Ohio Democratic Party (23-FBI-002921); 
+ 
+cccc.  $
+ 9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Oklahoma Democratic Party (23-FBI-002922); 
+ 
+dddd.  $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Pennsylvania Democratic Party (23-FBI-002924); 
+ 
+eeee.  $5,800.00 in United States currency remitted to the Government on 
+or about April 18, 2023, representing the contribution by the 
+Defendant to People for Patty Murray (23-FBI-002015); 
+ 
+ffff.  $5,800.00 in United States currency remitted to the Government on 
+or about May 5, 2023, representing the contribution by the 
+Defendant to Pete Aguilar for Congress (23-FBI-002017); 
+ 
+gggg.  $
+ 9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Rhode Island Democratic State Committee (23 -
+FBI-002926); 
+ 
+hhhh. $2,900.00 in United States currency remitted to the Government on 
+or about April 25, 2023, representing the contribution by the 
+Defendant to Robert Garcia for Congress (23-FBI-002033); 
+ 
+iiii.  $2,900.00 in United States currency remitted to the Government on 
+or about March 31, 2023, representing the contribution by the 
+Defendant to Salud Carbajal for Congress (23-FBI-002037); 
+ 
+jjjj.  $2,900.00 in United States currency remitted to the Government on 
+or about March 30, 2023, representing the contribution by the 
+Defendant to Sanford Bishop for Congress (23-FBI-002038); 
+ 
+kkkk.   $5,800.00 in United States currency remitted to the Government on 
+or about April 17, 2023, representing the contribution by the 
+Defendant to Sean Patrick Maloney for Congress (23-FBI-002041); 
+ 
+llll. $5,00.00 in United States currency remitted to the Government on or 
+about May 18, 2023, representing the contribution by the Defendant 
+to Serving Our Country (SOC) PAC (23-FBI-002045); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 54 of 70
+
+
+--- PAGE 55 ---
+
+ 
+22 
+ 
+mmmm. $2,900.00 in United States currency remitted to the Government 
+on or about August 30, 2023, representing the contribution by the 
+Defendant to Shontel Brown for Congress (23-FBI-002047); 
+ 
+nnnn.  $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the South Dakota Democratic Party-Federal (23-FBI-
+002936); 
+ 
+oooo.  $5,800.00 in United States currency remitted to the Government on 
+or about April 24, 2023, representing the contribution by the 
+Defendant to Stabenow for US Senate (23-FBI-002937); 
+ 
+pppp.  $9,756.20 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the State Democratic Executive Committee of 
+Alabama (23-FBI-002938); 
+ 
+qqqq.   $5,000.00 in United States currency remitted to the Government on 
+or about April 25, 2023, representing the contribution by the 
+Defendant to Summit PAC (23-FBI-002941); 
+ 
+rrrr.  $5,000.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by the 
+Defendant to the Team Blue PAC (23-FBI-002946); 
+ 
+ssss.   $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Tennessee Democratic Party (23-FBI-003134); 
+ 
+tttt.  $10,780.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Texas Democratic Party (23-FBI-002947); 
+ 
+uuuu.  $5,800.00 in United States currency remitted to the Government on 
+or about April 18, 2023, representing the contribution by the 
+Defendant to Tina Smith for Minnesota (23-FBI-002950); 
+ 
+vvvv. $2,900.00 in United States currency remitted to the Government on 
+or about May 19, 2023, representing the contribution by the 
+Defendant to Tom O’Halleran for Congress (23-FBI-003139); 
+ 
+wwww. $2,900.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by the 
+Defendant to Torres for Congress (23-FBI-002951); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 55 of 70
+
+
+--- PAGE 56 ---
+
+ 
+23 
+ 
+xxxx.  $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Utah State Democratic Committee (23 -FBI-
+002953); 
+ 
+yyyy.   $5,000.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by the 
+Defendant to the Valley First Leadership PAC (23-FBI-003143); 
+ 
+zzzz.  $9,752.21 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the Vermont Democratic Party (23-FBI-002954); 
+ 
+aaaaa. $9,756.19 in United States currency remitted to the Government on 
+or about January 8, 2024, representing the contribution by the 
+Defendant to the W Va State Democratic Ex Com (23-FBI-002962); 
+ 
+bbbbb. $10,000.00 in United States currency remitted to the Government 
+on or about January 8, 2024, representing the contribution by the 
+Defendant to the Washington State Democratic Central Committee 
+(23-FBI-003144); 
+ 
+ccccc. $2,900.00 in United States currency remitted to the Government on 
+or about April 24, 2023, representing the contribution by the 
+Defendant to Welch for Vermont (23-FBI-002963); 
+ 
+ddddd. $5,000.00 in United States currency remitted to the Government on 
+or about June 7, 2023, representing the contribution by the 
+Defendant to the Working Harder PAC (23-FBI-002964); 
+ 
+eeeee. $2,900.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by the 
+Defendant to Wyden for Senate (23-FBI-003146); 
+ 
+fffff. $9,756.19 in United States currency remitted to the Government on or 
+about January 8, 2024, representing the contribution by the 
+Defendant to the Wyoming Democratic Party (23-FBI-008844); 
+ 
+ggggg. $6,000,000.00 in United States currency remitted to the Government 
+on or about November 22, 2024, representing the contribution by 
+the Defendant to the House Majority PAC (23-FBI-001914); 
+ 
+hhhhh. $5,800.00 in United States currency remitted to the Government on 
+or about March 25, 2024, representing the contribution by the 
+Defendant to Manchin for West Virginia (23-FBI-001968); and 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 56 of 70
+
+
+--- PAGE 57 ---
+
+ 
+24 
+ 
+ iiiii.  $5,800.00 in United States currency remitted to the Government on 
+or about June 21, 2023, representing the contribution by the 
+Defendant to Nevadans for Steven Horsford (23-FBI-002000); 
+ 
+180. Any and all political contributions made by Ryan Salame that are proceeds  
+traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts One through 
+Four of the Indictment or property involved in money laundering offense charged in Count Seven 
+of the Indictment, including but not limited to: 
+a. $2,900.00 in United States currency remitted to the Government on 
+or about March 9, 2023, representing the contribution by Ryan 
+Salame to the Abraham Lincoln PAC (23-FBI-001753); 
+ 
+b. $5,000.00 in United States currency remitted to the Government on 
+or about March 29, 2023, representing the contribution by Ryan 
+Salame to the Americans for Legislating Excellence PAC (23-FBI-
+002628); 
+ 
+c. $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to Andy Harris for Congress (23-FBI-003264); 
+ 
+d. $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to August Pfluger for Congress (23-FBI-003149); 
+ 
+e. $2,900.00 in United States currency remitted to the Government on 
+or about April 28, 2023, representing the contribution by Ryan 
+Salame to Ben Cline for Congress Inc. (23-FBI-001781); 
+ 
+f. $2,900.00 in United States currency remitted to the Government on 
+or about May 3, 2023, representing the contribution by Ryan Salame 
+to Bilirakis for Congress (23-FBI-003285); 
+ 
+g. $2,900.00 in United States currency remitted to the Government on 
+or about June 1, 2023, representing the contribution by Ryan Salame 
+to Bishop for Congress (23-FBI-003150); 
+ 
+h. $5,800.00 in United States currency remitted to the Government on 
+or about July 19, 2023, representing the contribution by Ryan 
+Salame to Blake Masters for Senate (23-FBI-001790); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 57 of 70
+
+
+--- PAGE 58 ---
+
+ 
+25 
+ 
+ 
+i. $2,900.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Ryan 
+Salame to Boozman for Arkansas (23-FBI-003286); 
+ 
+j. $2,900.00 in United States currency remitted to the Government on 
+or about March 14, 2023, representing the contribution by Ryan 
+Salame to Brian Fitzpatrick for All of Us (23-FBI-001796); 
+k. $2,900.00 in United States currency remitted to the Government on 
+or about March 10, 2023, representing the contribution by Ryan 
+Salame to Bucshon for Congress (23-FBI-001800); 
+l. $2,900.00 in United States currency remitted to the Government on 
+or about March 30, 2023, representing the contribution by Ryan 
+Salame to Buddy Carter for Congress (23-FBI-001801); 
+m. $2,900.00 in United States currency remitted to the Government on 
+or about March 20, 2023, representing the contribution by Ryan 
+Salame to Chuck Edwards for Congress (23-FBI-001815); 
+n. $2,900.00 in United States currency remitted to the Government on 
+or about March 20, 2023, representing the contribution by Ryan 
+Salame to Chuck Fleischmann for Congress Committee, Inc. (23-
+FBI-001816); 
+ 
+o. $2,900.00 in United States currency remitted to the Government on 
+or about March 21, 2023, representing the contribution by Ryan 
+Salame to Citizens for John Rutherford (23-FBI-001819); 
+ 
+p. $2,900.00 in United States currency remitted to the Government on 
+or about May 1, 2023, representing the contribution by Ryan Salame 
+to Citizens for Turner (23-FBI-003320); 
+ 
+q. $2,900.00 in United States currency remitted to the Government on 
+or about April 5, 2023, representing the contribution by Ryan 
+Salame to Cole for Congress (23-FBI-001822); 
+ 
+r. $5,000.00 in United States currency remitted to the Government on 
+or about September 21, 2023, representing the contribution by Ryan 
+Salame to the Dakota PAC (23-FBI-003164); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 58 of 70
+
+
+--- PAGE 59 ---
+
+ 
+26 
+ 
+s. $2,900.00 in United States currency remitted to the Government on 
+or about March 20, 2023, representing the contribution by Ryan 
+Salame to Dan Crenshaw for Congress (23-FBI-001836); 
+ 
+t. $2,900.00 in United States currency remitted to the Government on 
+or about April 28, 2023, representing the contribution by Ryan 
+Salame to Dan Newhouse for Congress (23-FBI-001837); 
+ 
+u. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Ryan 
+Salame to Debbie Lesko for Congress (23-FBI-001839); 
+ 
+v. $5,000.00 in United States currency remitted to the Government on 
+or about March 6, 2023, representing the contribution by Ryan 
+Salame to the Defend our Conservative Senate PAC (23- FBI-
+001841); 
+ 
+w. $2,900.00 in United States currency remitted to the Government on 
+or about April 11, 2023, representing the contribution by Ryan 
+Salame to Dr. John Joyce for Congress (23-FBI-001850); 
+ 
+x. $2,900.00 in United States currency remitted to the Government on 
+or about March 31, 2023, representing the contribution by Ryan 
+Salame to Eli Crane for Congress (23-FBI-001854); 
+ 
+y. $2,900.00 in United States currency remitted to the Government on 
+or about April 4, 2023, representing the contribution by Ryan 
+Salame to Elise for Congress (23-FBI-001855); 
+ 
+z. $5,000.00 in United States currency remitted to the Government on 
+or about October 12, 2023, representing the contribution by Ryan 
+Salame to the Free State PAC (23-FBI-003193); 
+ 
+aa. $2,900.00 in United States currency remitted to the Government on 
+or about May 8, 2023, representing the contribution by Ryan Salame 
+to Friends for Chris Stewart (23-FBI-003298); 
+ 
+bb. $2,900.00 in United States currency remitted to the Government on 
+or about May 5, 2023, representing the contribution by Ryan Salame 
+to Friends of Dave Joyce (23-FBI-001870); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 59 of 70
+
+
+--- PAGE 60 ---
+
+ 
+27 
+ 
+cc. $2,900.00 in United States currency remitted to the Government on 
+or about April 5, 2023, representing the contribution by Ryan 
+Salame to Gary Palmer for Congress (23-FBI-001889); 
+ 
+dd. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Ryan 
+Salame to Grassley Committee, Inc. (23-FBI-001895); 
+ 
+ee. $2,900.00 in United States currency remitted to the Government on 
+or about March 24, 2023, representing the contribution by Ryan 
+Salame to Guthrie for Congress (23-FBI-001901); 
+ 
+ff. $5,000.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Ryan 
+Salame to the Hawkeye PAC (23-FBI-003258); 
+ 
+gg. $5,800.00 in United States currency remitted to the Government on 
+or about September 20, 2023, representing the contribution by Ryan 
+Salame to Hoeven for Senate (23-FBI-001911); 
+ 
+hh. $2,900.00 in United States currency remitted to the Government on 
+or about March 22, 2023, representing the contribution by Ryan 
+Salame to Jeff Duncan for Congress (23-FBI-001929); 
+ 
+ii. $2,900.00 in United States currency remitted to the Government on 
+or about March 23, 2023, representing the contribution by Ryan 
+Salame to Johnson for Congress (23-FBI-001937); 
+ 
+jj. $2,900.00 in United States currency remitted to the Government on 
+or about November 28, 2023, representing the contribution by Ryan 
+Salame to Joni for Iowa (23-FBI-001940); 
+ 
+kk. $2,900.00 in United States currency remitted to the Government on 
+or about March 21, 2023, representing the contribution by Ryan 
+Salame to Julia Letlow for Congress (23-FBI-001943); 
+ 
+ll. $2,900.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Ryan 
+Salame to Karoline for Congress (23-FBI-001944); 
+ 
+mm. $2,900.00 in United States currency remitted to the Government on 
+or about March 31, 2023, representing the contribution by Ryan 
+Salame to the Kay Granger Campaign Fund (23-FBI-001946); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 60 of 70
+
+
+--- PAGE 61 ---
+
+ 
+28 
+ 
+ 
+nn. $2,900.00 in United States currency remitted to the Government on 
+or about March 21, 2023, representing the contribution by Ryan 
+Salame to the Ken Calvert for Congress Committee (23 -FBI-
+001948); 
+ 
+oo. $2,900.00 in United States currency remitted to the Government on 
+or about March 22, 2023, representing the contribution by Ryan 
+Salame to Latta for Congress (23-FBI-001951); 
+ 
+pp. $5,800.00 in United States currency remitted to the Government on 
+or about April 21, 2023, representing the contribution by Ryan 
+Salame to Lawler for Congress (23-FBI-003203); 
+ 
+qq. $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to Laxalt for Senate (23-FBI-001953); 
+ 
+rr. $5,800.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to Lisa Murkowski for US Senate (23-FBI-001958); 
+ 
+ss. $1,000.00 in United States currency remitted to the Government on 
+or about March 27, 2023, representing the contribution by Ryan 
+Salame to Lori Chavez-Deremer for Congress (23-FBI-002665); 
+ 
+tt. $5,800.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by Ryan 
+Salame to Marc for Us Inc. (23-FBI-001969); 
+ 
+uu. $2,900.00 in United States currency remitted to the Government on 
+or about April 5, 2023, representing the contribution by Ryan 
+Salame to Mario Diaz-Balart for Congress (23-FBI-001971); 
+ 
+vv. $2,900.00 in United States currency remitted to the Government on 
+or about May 9, 2023, representing the contribution by Ryan Salame 
+to Mark Alford for Congress (23-FBI-003212); 
+ 
+ww. $2,900.00 in United States currency remitted to the Government on 
+or about April 28, 2023, representing the contribution by Ryan 
+Salame to Max Miller for Congress (23-FBI-001977); 
+ 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 61 of 70
+
+
+--- PAGE 62 ---
+
+ 
+29 
+ 
+xx. $1,500.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Ryan 
+Salame to Mike Flood for Congress (23-FBI-001984); 
+ 
+yy. $2,900.00 in United States currency remitted to the Government on 
+or about March 21, 2023, representing the contribution by Ryan 
+Salame to Mike Garcia for Congress (23-FBI-001986); 
+ 
+zz. $1,000.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by Ryan 
+Salame to Monica for Congress (23-FBI-002667); 
+ 
+aaa. $2,900.00 in United States currency remitted to the Government on 
+or about April 5, 2023, representing the contribution by Ryan 
+Salame to Moolenaar for Congress (23-FBI-001991); 
+ 
+bbb. $2,900.00 in United States currency remitted to the Government on 
+or about March 29, 2023, representing the contribution by Ryan 
+Salame to Mooney for Congress 2022 (23-FBI-002689); 
+ 
+ccc. $2,900.00 in United States currency remitted to the Government on 
+or about October 12, 2023, representing the contribution by Ryan 
+Salame to Moran for Kansas (23-FBI-001993); 
+ 
+ddd. $2,900.00 in United States currency remitted to the Government on 
+or about April 7, 2023, representing the contribution by Ryan 
+Salame to Morgan Griffith for Congress (23-FBI-001994); 
+ 
+eee. $1,000.00 in United States currency remitted to the Government on 
+or about April 21, 2023, representing the contribution by Ryan 
+Salame to the MVL-PAC (23-FBI-003242); 
+ 
+fff. $73,000.00 in United States currency remitted to the Government 
+on or about October 6, 2023, representing the contribution by Ryan 
+Salame to the NRSC (23-FBI-003245); 
+ 
+ggg. $36,500.00 in United States currency remitted to the Government 
+on or about October 6, 2023, representing the contribution by Ryan 
+Salame to the NRSC (23-FBI-003246); 
+ 
+hhh. $25,000.00 in United States currency remitted to the Government 
+on or about March 29, 2023, representing the contribution by Ryan 
+Salame to the Republican National Committee (23-FBI-002028); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 62 of 70
+
+
+--- PAGE 63 ---
+
+ 
+30 
+ 
+ 
+iii. $10,694.70 in United States currency remitted to the Government 
+on or about August 24, 2023, representing the contribution by Ryan 
+Salame to Results for NC, Inc. (23-FBI-002029); 
+ 
+jjj. $2,900.00 in United States currency remitted to the Government on 
+or about March 28,  2023, representing the contribution by Ryan 
+Salame to Robert Aderholt for Congress (23-FBI-002032);  
+ 
+kkk. $5,800.00 in United States currency remitted to the Government on 
+or about March 15, 2023, representing the contribution by Ryan 
+Salame to Simpson for Congress (23-FBI-002049); 
+ 
+lll. $2,900.00 in United States currency remitted to the Government on 
+or about April 26, 2023, representing the contribution by Ryan 
+Salame to Simpson for Congress (23-FBI-003365); 
+ 
+mmm. $2,900.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by Ryan 
+Salame to Team Herschel, Inc. (23-FBI-002673); 
+ 
+nnn. $2,900.00 in United States currency remitted to the Government on 
+or about April 3, 2023, representing the contribution by Ryan 
+Salame to Tim Scott for Senate (23-FBI-002675); 
+ 
+ooo. $2,900.00 in United States currency remitted to the Government on 
+or about October 12, 2023, representing the contribution by Ryan 
+Salame to Tony Gonzales for Congress (23-FBI-002677);  
+ 
+ppp. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Ryan 
+Salame to Van Drew for Congress (23-FBI-003262); 
+ 
+qqq. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Ryan 
+Salame to Walberg for Congress (23-FBI-003373); 
+ 
+rrr. $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to Wenstrup for Congress (23-FBI-003406); 
+ 
+sss. $3,700.00 in United States currency remitted to the Government on 
+or about April 13, 2023, representing the contribution by Ryan 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 63 of 70
+
+
+--- PAGE 64 ---
+
+ 
+31 
+ 
+Salame to the West Virginia Republican Party, Inc. (23- FBI-
+002695); 
+ 
+ttt. $5,800.00 in United States currency remitted to the Government on 
+or about March 23, 2023, representing the contribution by Ryan 
+Salame to Zeldin for Congress (23-FBI-002678); and 
+ 
+uuu. $60,829.00 in United States currency remitted to the Government 
+on or about March 23, 2023, representing the contribution by Ryan 
+Salame to Zeldin for Governor (23-FBI-003655); 
+ 
+vvv. $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Ryan Salame 
+to Clyde for Congress, Inc (23-FBI-003159);  
+ 
+181. Any and all political contributions made by Nishad Singh that are  
+proceeds traceable to the wire fraud and wire fraud conspiracy offenses charged in Counts  One 
+through Four of the Indictment or property involved in money laundering offense charged in 
+Count Seven of the Indictment, including but not limited to: 
+a. $2,500.00 in United States currency remitted to the Government on 
+or about April 26, 2023, representing the contribution by Nishad 
+Singh to the America Needs New Innovation and Energy PAC (23-
+FBI-003309); 
+b. $2,900.00 in United States currency remitted to the Government on 
+or about May 19, 2023, representing the contribution by Nishad 
+Singh to Anna Eshoo for Congress (23-FBI-003319); 
+c. $2,500.00 in United States currency remitted to the Government on 
+or about March 29, 2023, representing the contribution by Nishad 
+Singh to the Athena PAC (23-FBI-001775); 
+d. $2,900.00 in United States currency remitted to the Government on 
+or about July 6, 2023, representing the contribution by Nishad Singh 
+to Barragan for Congress (23-FBI-003324);  
+e. $2,900.00 in United States currency remitted to the Government on 
+or about May 22, 2023, representing the contribution by Nishad 
+Singh to Bennie Thompson for Congress (23-FBI-003399); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 64 of 70
+
+
+--- PAGE 65 ---
+
+ 
+32 
+ 
+f. $2,500.00 in United States currency remitted to the Government on 
+or about June 12, 2023, representing the contribution by Nishad 
+Singh to Blue Majority PAC (23-FBI-003331); 
+g. $2,900.00 in United States currency remitted to the Government on 
+or about June 26, 2023, representing the contribution by Nishad 
+Singh to Bob Casey for Senate (23-FBI-005670); 
+h. $2,900.00 in United States currency remitted to the Government on 
+or about May 3, 2023, representing the contribution by Nishad Singh 
+to Bonnie Watson Coleman for Congress (23-FBI-003335); 
+i. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Nishad 
+Singh to Caraveo for Congress (23-FBI-003347); 
+j. $2,900.00 in United States currency remitted to the Government on 
+or about May 1, 2023, representing the contribution by Nishad Singh 
+to Cartwright for Congress (23-FBI-003350); 
+k. $2,700.00 in United States currency remitted to the Government on 
+or about March 28, 2023, representing the contribution by Nishad 
+Singh to Casten for Congress (23-FBI-001809); 
+l. $2,900.00 in United States currency remitted to the Government on 
+or about March 29, 2023, representing the contribution by Nishad 
+Singh to Castor for Congress (23-FBI-001810); 
+m. $2,900.00 in United States currency remitted to the Government on 
+or about April 28, 2023, representing the contribution by Nishad 
+Singh to Chris Pappas for Congress (23-FBI-003360); 
+n. $2,900.00 in United States currency remitted to the Government on 
+or about April 21, 2023, representing the contribution by Nishad 
+Singh to Clarke for Congress (23-FBI-003362);  
+o. $2,900.00 in United States currency remitted to the Government on 
+or about May 22, 2023, representing the contribution by Nishad 
+Singh to Cleaver for Congress that have been returned to the 
+Government (23-FBI-003382);  
+p. $5,000.00 in United States currency remitted to the Government on 
+or about May 11, 2023, representing the contribution by Nishad 
+Singh to the Committee for a Democratic Future (23-FBI-003384); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 65 of 70
+
+
+--- PAGE 66 ---
+
+ 
+33 
+ 
+q. $2,900.00 in United States currency remitted to the Government on 
+or about October 19, 2023, representing the contribution by Nishad 
+Singh to Conole for Congress (23-FBI-001828); 
+r. $5,000.00 in United States currency remitted to the Government on 
+or about May 5, 2023, representing the contribution by Nishad Singh 
+to the Country Roads PAC (23-FBI-003389); 
+s. $2,900.00 in United States currency remitted to the Government on 
+or about June 1, 2023, representing the contribution by Nishad Singh 
+to Debbie Dingell for Congress (23-FBI-003404); 
+t. $2,500.00 in United States currency remitted to the Government on 
+or about October 18, 2023, representing the contribution by Nishad 
+Singh to the Doing Right – Results Action Unity leadership PAC 
+(23-FBI-003411); 
+u. $2,900.00 in United States currency remitted to the Government on 
+or about May 26, 2023, representing the contribution by Nishad 
+Singh to Donald Payne Jr. for Congress (23-FBI-003415); 
+v. $2,900.00 in United States currency remitted to the Government on 
+or about My 10, 2023, representing the contribution by Nishad 
+Singh to Dr. Kim Schrier for Congress (23-FBI-003417); 
+w. $2,900.00 in United States currency remitted to the Government on 
+or about October 6, 2023, representing the contribution by Nishad 
+Singh to Dr. Raul Ruiz for Congress (23-FBI-003418); 
+x. $36,500.00 in United States currency remitted to the Government 
+on or about March 13, 2023, representing the contribution by Nishad 
+Singh to the DSCC (23-FBI-001851); 
+y. $2,900.00 in United States currency remitted to the Government on 
+or about May 4, 2023, representing the contribution by Nishad Singh 
+to Dutch for Congress (23-FBI-003419); 
+z. $2,900.00 in United States currency remitted to the Government on 
+or about July 6, 2023, representing the contribution by Nishad Singh 
+to Elissa Slotkin for Congress (23-FBI-003423); 
+aa. $2,900.00 in United States currency remitted to the Government on 
+or about May 19, 2023, representing the contribution by Nishad 
+Singh to Elizabeth Pannill Fletcher for Congress (23-FBI-003425); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 66 of 70
+
+
+--- PAGE 67 ---
+
+ 
+34 
+ 
+bb. $5,000.00 in United States currency remitted to the Government on 
+or about April 27, 2023, representing the contribution by Nishad 
+Singh to the Fair Shot PAC (23-FBI-003390); 
+cc. $5,000.00 in United States currency remitted to the Government on 
+or about May 17, 2023, representing the contribution by Nishad 
+Singh to Follow the North Star (23-FBI-003398); 
+dd. $5,000.00 in United States currency remitted to the Government on 
+or about April 19, 2023, representing the contribution by Nishad 
+Singh to the Forward Together PAC (23-FBI-001865); 
+ee. $2,900.00 in United States currency remitted to the Government on 
+or about October 4, 2023, representing the contribution by Nishad 
+Singh to Friends of Dan Kildee (23-FBI-003401); 
+ff. $2,900.00 in United States currency remitted to the Government on 
+or about May 11, 2023, representing the contribution by Nishad 
+Singh to Friends of Rosa DeLauro (23-FBI-003408); 
+gg. $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Nishad 
+Singh to Friends of Schumer (23-FBI-003410); 
+hh. $2,500.00 in United States currency remitted to the Government on 
+or about April 26, 2023, representing the contribution by Nishad 
+Singh to the Getting Stuff Done PAC (23-FBI-003413); 
+ii.  $2,900.00 in United States currency remitted to the Government on 
+or about March 28, 2023, representing the contribution by Nishad 
+Singh to Greg Casar for Congress (23-FBI-001897); 
+jj.  $2,900.00 in United States currency remitted to the Government on 
+or about April 26, 2023, representing the contribution by Nishad 
+Singh to Hoyer for Congress (23-FBI-003416); 
+kk.  $2,900.00 in United States currency remitted to the Government on 
+or about April 18, 2023, representing the contribution by Nishad 
+Singh to Jeff Jackson for Congress (23-FBI-001930); 
+ll.  $2,900.00 in United States currency remitted to the Government on 
+or about May 16,2023, representing the contribution by Nishad 
+Singh to Jeffries for Congress (23-FBI-003437); 
+mm.  $2,900.00 in United States currency remitted to the Government on 
+or about June 13, 2023, representing the contribution by Nishad 
+Singh to Kaine for Virginia (23-FBI-003445); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 67 of 70
+
+
+--- PAGE 68 ---
+
+ 
+35 
+ 
+nn.  $2,900.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Nishad 
+Singh to Keep Al Green in Congress (23-FBI-003446); 
+oo.  $5,000.00 in United States currency remitted to the Government on 
+or about April 18, 2023, representing the contribution by Nishad 
+Singh to the Keystone America PAC (23-FBI-001950); 
+pp.  $2,900.00 in United States currency remitted to the Government on 
+or about May 2, 2023, representing the contribution by Nishad Singh 
+to Kuster for Congress, Inc. (23-FBI-003480); 
+qq.  $2,500.00 in United States currency remitted to the Government on 
+or about April 20, 2023, representing the contribution by Nishad 
+Singh to the Leadership Opportunity, Innovation Service PAC –  
+LOIS PAC (23-FBI-001954); 
+rr.  $2,500.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Nishad 
+Singh to the Leading People forward PAC (23-FBI-003482); 
+ss.  $2,900.00 in United States currency remitted to the Government on 
+or about April 18, 2023, representing the contribution by Nishad 
+Singh to Lois Frankel for Congress (23-FBI-001960); 
+tt.  $2,900.00 in United States currency remitted to the Government on 
+or about April 17, 2023, representing the contribution by Nishad 
+Singh to Lori Trahan for Congress Committee (23-FBI-001961); 
+uu. $2,500.00 in United States currency remitted to the Government on 
+or about July 6, 2023, representing the contribution by Nishad Singh 
+to the Luchadora PAC (23-FBI-003542); 
+vv. $2,900.00 in United States currency remitted to the Government on 
+or about June 12, 2023, representing the contribution by Nishad 
+Singh to Mark Pocan for Congress (23-FBI-003484); 
+ww. $2,900.00 in United States currency remitted to the Government on 
+or about July 5, 2023, representing the contribution by Nishad Singh 
+to Matsui for Congress (23-FBI-001976); 
+xx.  $2,900.00 in United States currency remitted to the Government on 
+or about April 21, 2023, representing the contribution by Nishad 
+Singh to Montanans for Tester (23-FBI-001990); 
+yy.  $4,697.31 in United States currency remitted to the Government on 
+or about December 14, 2023, representing the contribution by 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 68 of 70
+
+
+--- PAGE 69 ---
+
+ 
+36 
+ 
+Nishad Singh to the Moving Broward forward PAC (23 -FBI-
+001996); 
+zz.  $2,900.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Nishad 
+Singh to Nancy Pelosi for Congress (23-FBI-003490); 
+aaa.  $5,000.00 in United States currency remitted to the Government on 
+or about May 5, 2023, representing the contribution by Nishad Singh 
+to the Narragansett Bay PAC (23-FBI-003492); 
+bbb.  $10,400.00 in United States currency remitted to the Government 
+on or about October 10, 2023, representing the contribution by 
+Nishad Singh to New Mexicans for Michelle (23-FBI-004871); 
+ccc.  $5,000.00 in United States currency remitted to the Government on 
+or about May 18, 2023, representing the contribution by Nishad 
+Singh to the PAC to the Future (23-FBI-003496); 
+ddd.  $2,900.00 in United States currency remitted to the Government on 
+or about May 5, 2023, representing the contribution by Nishad Singh 
+to Pete Aguilar for Congress (23-FBI-004612); 
+eee.  $2,900.00 in United States currency remitted to the Government on 
+or about August 9, 2023, representing the contribution by Nishad 
+Singh to Peters for Michigan (23-FBI-003434); 
+fff.  $500,000.00 in United States currency remitted to the Government 
+on or about April 21, 2023, representing the contribution by Nishad 
+Singh to Priorities USA Action (23-FBI-002021); 
+ggg.  $2,900.00 in United States currency remitted to the Government on 
+or about April 24, 2023, representing the contribution by Nishad 
+Singh to Quigley for Congress (23-FBI-003522); 
+hhh.  $2,900.00 in United States currency remitted to the Government on 
+or about June 7, 2023, representing the contribution by Nishad Singh 
+to Robin Kelly for Congress (23-FBI-003524); 
+iii.  $2,500.00 in United States currency remitted to the Government on 
+or about July 5, 2023, representing the contribution by Nishad Singh 
+to the SAC PAC (23-FBI-002036); 
+jjj.  $2,900.00 in United States currency remitted to the Government on 
+or about April 27, 2023, representing the contribution by Nishad 
+Singh to Schatz for Senate (23-FBI-003527); 
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 69 of 70
+
+
+--- PAGE 70 ---
+
+ 
+37 
+ 
+kkk.  $2,900.00 in United States currency remitted to the Government on 
+or about August 30, 2023, representing the contribution by Nishad 
+Singh to Shaheen for Senate (23-FBI-006371); 
+lll.  $2,900.00 in United States currency remitted to the Government on 
+or about May 10, 2023, representing the contribution by Nishad 
+Singh to Sinema for Arizona (23-FBI-004451); 
+mmm. $2,500.00 in United States currency remitted to the Government on 
+or about April 21, 2023, representing the contribution by Nishad 
+Singh to the Treasure State PAC (23-FBI-002618); 
+nnn.  $2,900.00 in United States currency remitted to the Government on 
+or about April 14, 2023, representing the contribution by Nishad 
+Singh to Val Hoyle for Congress (23-FBI-002619); 
+ooo.  $5,000.00 in United States currency remitted to the Government on 
+or about July 5, 2023, representing the contribution by Nishad Singh 
+to the Velvet Hammer PAC (23-FBI-003551); 
+ppp.  $2,500.00 in United States currency remitted to the Government on 
+or about May 22, 2023, representing the contribution by Nishad 
+Singh to the Visionary PAC (23-FBI-003555); 
+qqq.  $2,500.00 in United States currency remitted to the Government on 
+or about June 1, 2023, representing the contribution by Nishad Singh 
+to the Wolverine PAC (23-FBI-003556); 
+rrr.  $2,900.00 in United States currency remitted to the Government on 
+or about June 2, 2023, representing the contribution by Nishad Singh 
+to Gabe Vasquez for Congress (23-FBI-003412);  
+sss.  $2,900.00 in United States currency remitted to the Government on 
+or about April 9, 2024, representing the contribution by Nishad 
+Singh to Spanberger for Congress (23-FBI-003438); 
+ttt. $5,000.00 in United States currency remitted to the Government on 
+or about April 26, 2024, representing the contribution by Nishad 
+Singh to AMERIPAC (23-FBI-003316);  
+uuu. $5,000.00 in United States currency remitted to the Government on 
+or about May 2, 2023, representing the contribution by Nishad Singh 
+to the Hawaii PAC (23-FBI-003414);  
+Case 1:22-cr-00673-LAK     Document 565     Filed 02/14/25     Page 70 of 70

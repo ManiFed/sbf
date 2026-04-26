@@ -1,0 +1,2129 @@
+
+
+--- PAGE 1 ---
+
+1
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x  
+ 
+UNITED STATES OF AMERICA,                
+ 
+           v.                           22 CR 673 (LAK) 
+ 
+CAROLINE ELLISON, 
+                            
+               Defendant.               Sentence 
+------------------------------x 
+ 
+                                        New York, N.Y. 
+                                        September 24, 2024 
+                                        3:00 p.m. 
+ 
+Before:  
+ 
+HON. LEWIS A. KAPLAN, 
+ 
+                                        District Judge         
+ 
+APPEARANCES 
+ 
+DAMIAN WILLIAMS 
+     United States Attorney for the 
+     Southern District of New York  
+BY:  DANIELLE R. SASSOON  
+     NICOLAS ROOS  
+     DANIELLE KUDLA  
+     THANE REHN 
+     Assistant United States Attorneys 
+ 
+WILMER CUTLER PICKERING HALE & DORR LLP 
+     Attorneys for Defendant  
+BY:  ANJAN SAHNI 
+     STEPHANIE AVAKIAN 
+     NICHOLAS WERLE 
+     PETER GILLIES NEIMAN  
+ 
+Also Present: 
+Luke Booth, FBI 
+Kristin Allain, FBI 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 1 of 36
+
+
+--- PAGE 2 ---
+
+2
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+(In open court; case called) 
+DEPUTY CLERK:  Government, are you ready?  
+Please put your appearances on the record. 
+MS. SASSOON:  Yes, your Honor.  
+Danielle Sassoon for the United States.  I'm joined by 
+my colleague Thane Rehn, Nick Roos and Danielle Kudla and by 
+Special Agents Kristin Allain and Luke Booth. 
+THE COURT:  Good afternoon.
+DEPUTY CLERK:  Defendant, are you ready?
+MR. SAHNI:  Yes.  Good afternoon, your Honor.
+Anjan Sahni on behalf of Ms. Ellison, joined by my 
+colleagues from Wilmer Hale, Stephanie Avakian, Nick Werle and 
+Peter Neiman. 
+THE COURT:  Good afternoon.  
+Just for the record, although I've said this earlier 
+in an appearance in this case, one of my law clerks worked for 
+Wilmer Hale, and I think is going back to Wilmer Hale, but he 
+has nothing to do with this case.  He is present, but he has 
+nothing to do with it. 
+The second thing before we really get started, is 
+this:  What is proposed to be done about restitution in this 
+case and when? 
+MS. SASSOON:  Yes, your Honor.  We're asking that the 
+Court follow the same process as requested at the sentencing of 
+Sam Bankman-Fried, which is the Court declined to order 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 2 of 36
+
+
+--- PAGE 3 ---
+
+3
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+restitution, and instead granted the government's motion to 
+authorize the government to compensate victims with forfeited 
+assets through a remission process.  We make the same motion 
+here:  That we be authorized to compensate victims with 
+forfeited assets through a remission process.
+THE COURT:  Is that in the -- does that presume that 
+what you're going to do is use the remission process or are you 
+asking for authority to do either? 
+MS. SASSOON:  I believe that it's our intention to use 
+the remission process, and that is what the Court authorized at 
+the prior sentencing, but I'll turn it over to my forfeiture 
+expert.
+MR. REHN:  Your Honor -- 
+THE COURT:  Here's the forfeiture expert.
+MR. REHN:  I don't know that I'm a forfeiture expert.
+THE COURT:  You'd better be now.
+MR. REHN:  I'll do my best.  The provision having to 
+do with restitution that's applicable here is in 18 U.S.C. 
+3663(a)(c)(3), which provides that restitution is not required 
+in the case of an offense if there are one of two facts:  
+(1) the number of identifiable victims is so large as to make 
+restitution impracticable, or (2) if determining complex issues 
+of fact related to the cause or amount of the victims losses 
+would complicate or prolong the sentencing process. 
+We detailed in our written submission with respect to 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 3 of 36
+
+
+--- PAGE 4 ---
+
+4
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+the Bankman-Fried sentencing why both of those criteria are met 
+here.  There is an extremely large number of victims, and 
+ascertaining the specific loss for each victim would be 
+difficult to do in a proceeding such as this and to memorialize 
+in a restitution order.  So it is the intention of the 
+government pursuant to Department of Justice policy to engage 
+in a remission process are where we obtain forfeited funds both 
+from this defendant and the other defendants in the case and 
+then work to provide those funds to victims through that 
+process. 
+THE COURT:  If it's too complicated to do here, how is 
+it going to happen there? 
+MR. REHN:  Your Honor, we're still working on the 
+specifics of the procedure.  We are looking to prior cases,
+such as the Madoff case, in which the same order was entered at 
+sentencing as this Court did at Bankman-Fried's sentencing.
+THE COURT:  And they're still at it, right?
+MR. REHN:  And they're still at it.  And we anticipate 
+this will be a lengthy process.  We've already recovered in 
+excess of $1 billion of assets.  We expect that number will 
+continue to increase, and it will either be a claims 
+administration process administered by the Department of 
+Justice's money laundering asset recovery section, often known 
+as MLARS, or, as in the Madoff case, we will work with the 
+existing claims process in the FTX bankruptcy to identify 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 4 of 36
+
+
+--- PAGE 5 ---
+
+5
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+victims of the crimes here.  There's obviously substantial 
+overlap with claimants in the FTX bankruptcy, and then use the 
+existing kind of pipelines for providing funds to victims in 
+the bankruptcy proceeding to also provide forfeited funds to 
+victims.
+THE COURT:  You're not proposing to hand it over to
+the MDL litigation.
+MR. REHN:  That's correct, your Honor.  The MDL 
+plaintiffs are in a settlement posture with the FTX debtors and 
+bankruptcy.
+THE COURT:  I understand that.
+MR. REHN:  But we are not planning to hand it over to 
+them.
+THE COURT:  Fine.  Very well. 
+Mr. Sahni, have you and your client had the 
+presentence report for the necessary period? 
+MR. SAHNI:  We have, your Honor.
+THE COURT:  Ms. Ellison, have you read the presentence 
+report?
+THE DEFENDANT:  Yes, I have, your Honor.
+THE COURT:  Have you read every word of it? 
+THE DEFENDANT:  Yes, your Honor.
+THE COURT:  The presentence report will be sealed and 
+available to counsel in the event of an appeal. 
+Mr. Sahni, are there any unresolved objections to the 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 5 of 36
+
+
+--- PAGE 6 ---
+
+6
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+presentence report? 
+MR. SAHNI:  Not from us, your Honor.  Thank you.
+THE COURT:  Any from the government, Ms. Sassoon?
+MS. SASSOON:  No, your Honor.
+THE COURT:  I adopt the presentence report and the 
+guideline computation and range that it contains. 
+I have received in relation to the sentencing a letter 
+from Wilmer Hale dated today, the presentence report, a draft 
+consent preliminary order of forfeiture, a letter from the 
+government of the 17th of September, a letter from the 
+government, I guess this is the plea agreement, the 
+December 18th plea agreement, and a submission on behalf of the 
+defense that includes a great many exhibits. 
+Is there anything else of which I ought to be aware? 
+MS. SASSOON:  No, your Honor.
+MR. SAHNI:  No, your Honor.
+THE COURT:  All right.  Well then, Mr. Sahni, I will 
+hear from you on behalf of the defendant.
+MR. SAHNI:  Thank you, Judge. 
+THE COURT:  Whenever you're ready.
+MR. SAHNI:  Thank you, your Honor. 
+It has been a privilege to know Caroline Ellison over 
+these last two years.  I should start by saying that she has 
+many remarkable strengths, a brilliant mind, a deep sense of 
+obligation to do good in the world, kindness, decency and 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 6 of 36
+
+
+--- PAGE 7 ---
+
+7
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+toughness that have shown through despite highly adverse 
+circumstances. 
+I would like to recognize, Judge, that her parents, 
+Sara and Glenn, and her two sisters, Anna and Kate, are here in 
+court.  Today is a very difficult day for all of them.  But 
+they have a lot to be proud of in their eldest daughter and 
+their big sister. 
+What is so tragic and devastating about this case, 
+Judge, is how rapidly and needlessly the trajectory of 
+Ms. Ellison unraveled.  Caroline wasn't involved in the fraud 
+in the beginning.  She was a 24-year-old trader at Alameda when 
+she began when Sam Bankman-Fried, Gary Wang and Nishad Singh 
+founded FTX and when they installed the back door that gave 
+Alameda unlimited borrowing ability.  But as Bankman-Fried gave 
+Caroline more responsibility at Alameda, her knowledge and 
+participation in the fraud increased, and to be sure, there 
+were chances to say no, to quit, and to protect herself. 
+Your Honor, the question that she and we have wrestled 
+with is the why.  Why did Caroline go along when Bankman-Fried 
+brought her into this fraud?  Why didn't she just walk away 
+before it was too late?  Caroline has never minimized her roles 
+in these crimes.  She has accepted full responsibility for the 
+choices she made during the time that she worked at Alameda.  I 
+would like to highlight a few points that I think are relevant 
+to understanding the question of why she participated in these 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 7 of 36
+
+
+--- PAGE 8 ---
+
+8
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+crimes. 
+One of the things, Judge, that jumps out of her 
+private writings which were excerpted in our sentencing 
+submission and the government's 5K letter, is just how 
+concerned she was with not being "good enough for Sam 
+Bankman-Fried," how much her sense of self-worth got tied up in 
+what he thought of her, both romantically and professionally.  
+You can see where that came from.  Caroline met Bankman-Fried 
+when she was still in college.  She had a crush on him from the 
+beginning.  And then she saw him achieve staggering levels of 
+succeed, building billion dollars businesses from scratch and 
+becoming famous and powerful.  On the one hand, it was 
+genuinely thrilling for her when he expressed romantic interest 
+or valued something that she did at work.  On the other hand, 
+it was devastating when he was emotionally distant, withholding 
+of affection or critical of her trading decisions.  Over time 
+her whole professional and personal life came to revolve around 
+Bankman-Fried.   
+And he wasn't hesitant about taking advantage of the 
+power that he had over her.  For example, when she was thinking 
+of leaving Alameda in the summer of 2021, he told her that he 
+loved her, lured her back to return to Hong Kong.  He exploited 
+her commitment to effective altruism, convincing her that 
+working for him at Alameda was her highest calling, even when 
+she wanted to leave the bubble that he had constructed around 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 8 of 36
+
+
+--- PAGE 9 ---
+
+9
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+himself. 
+Caroline should have left.  Every day she profoundly 
+regrets her decision not to have done so.  She had the 
+opportunity to leave at several points, but, Judge, despite how 
+unpleasant much of her day-to-day life was, she could not bring 
+herself to leave Bankman-Fried's orbit.  She followed him 
+around the world, and in doing so, she became increasingly 
+isolated from her family, from her friends, from anyone who did 
+not admire Bankman-Fried. 
+In hindsight, she sees that it was crazy to stay at 
+Alameda.  She realizes now that it was wrong to single-mindedly 
+seek validation in what he said and what he did.  Eventually, 
+Caroline understood that all of this would likely end in 
+disaster, but, unfortunately, that was after Bankman-Fried had 
+disregarded her advice and plunged Alameda deep into debt to 
+finance a highly ill-considered venture funding spree, and it 
+was after the crypto markets had crashed and Alameda's lenders 
+had demanded their money back, and by then it was too late, and 
+she could see no way out for herself that wouldn't only hasten 
+that disaster. 
+And so, as you heard her testify at trial over the 
+course of three days, she spent the months ahead living in 
+dread, until finally the collapse came.  And your Honor will 
+recall Caroline's testimony about the "worst week of her life" 
+when she felt both indescribable sadness for all the harm that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 9 of 36
+
+
+--- PAGE 10 ---
+
+10 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+they had caused, all the people they had betrayed, but also an 
+overwhelming feeling of relief from no longer having to lie.  
+Your Honor heard the tape of the all-hands meeting on 
+November 9 of 2022 when she became the first person to publicly 
+reveal the truth, and that meeting really marked a turning 
+point in her life.  Since then she has done all that she can to 
+atone for her crimes.   
+As the letter from John Ray describes, which is among 
+the materials attached to our submission, "While others were 
+helping Bankman-Fried try to move assets to the Bahamas, 
+Caroline was working tirelessly to help FTX bankruptcy counsel 
+secure assets in the chaotic first days after Bankman-Fried had 
+resigned as CEO."  Mr. Ray credits Caroline's assistance with 
+"the recovery of hundreds of millions of dollars in debtor 
+assets for the benefit of creditors."   
+Time was of the essence in those early days, and 
+Caroline immediately began helping the debtor bankruptcy 
+advisors within 24 hours of commencing the Chapter 11 cases.  
+In fact, she prioritized helping FTX's bankruptcy counsel 
+secure assets, even over engaging her own personal counsel, and 
+we submit that this shows that her first instincts weren't to 
+protect herself but to try to make things right and to try to 
+begin helping those she had harmed.   
+She voluntarily returned to the United States and 
+promptly began cooperating with the U.S. Attorney's Office, the 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 10 of 36
+
+
+--- PAGE 11 ---
+
+11 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+SEC, and the CFTC.  As the government recounts in its 5K 
+letter, your Honor, Caroline's cooperation was "extraordinary, 
+exemplary, crucial, a cornerstone of the trial, and marked by 
+remarkable candor, remorse and seriousness." 
+Judge, I just want to highlight one part of what makes 
+her cooperation in this case so extraordinary.  Caroline began 
+meeting with the government just a few weeks after FTX 
+collapse, and this was before many of the documents that ended 
+up being used at trial had been located or reviewed either by 
+her or by the government.  From the beginning of her meetings 
+with the government, she spoke with unusual transparency, 
+clarity and honesty about what she and others did at Alameda.  
+And as new documents surfaced, they repeatedly confirmed what 
+she had said from the very beginning of her meetings.  Over the 
+ensuing months, she met regularly with the government to assist 
+the government in the course of its investigation.  She 
+conducted extensive document review to help identify critical 
+evidence, several pieces of which the government relied upon in 
+its closing argument before your Honor. 
+Caroline was unflinching in describing to the 
+government and ultimately to the jury and to the Court the 
+dynamics of her relationship with Bankman-Fried.  She didn't 
+shy away from the details, however embarrassing they were.  Her 
+honesty and openness was ultimately critical to the 
+government's case.  And as the Court saw, she was able to 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 11 of 36
+
+
+--- PAGE 12 ---
+
+12 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+recount for the jury key aspects of Bankman-Fried's motives and 
+his mindset, including his desire to transform his wealth into 
+political power, his disregard for telling the truth, and his 
+highly cavalier attitude toward taking enormous risk.  
+Caroline now comes before the Court ready to accept 
+whatever sentence your Honor deems just.  For the reasons 
+explained in our submission, we respectfully submit that 
+justice does not require sentencing her to imprisonment.  
+Obviously, this was an enormous and extraordinary fraud.  
+Caroline will carry the shame of her participation in this 
+crime for the rest of her life.  But against that, your Honor, 
+we ask the Court to weigh the unusual circumstances here, 
+including the reasons why she became involved in these crimes, 
+the fact that as the government noted in its 5K, it "found no 
+evidence that she enjoyed the wealth generated by the fraud," 
+and everything she has done to assist in recovering assets and 
+attempting to bring justice for victims.  This starts with her 
+exemplary cooperation with the Justice Department, with the 
+SEC, the CFTC, the debtors, and the MDL plaintiffs. 
+Were the Court to decline to imprison Caroline, it 
+would send a powerful message about the value of timely, honest 
+and full cooperation with the government in cases of financial 
+crime.  She has also sought to make amends through the 
+forfeiture process.  As explained in our brief, she had the 
+vast majority of her savings on FTX, funds that she, unlike 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 12 of 36
+
+
+--- PAGE 13 ---
+
+13 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+other insiders, left there long after she knew that a collapse 
+was likely.  She did not believe that it would be fair to move 
+her assets off of the platform to protect herself while other 
+customers and victims remained at risk.  She has abandoned any 
+claim to the assets she once held on FTX and with regard to her 
+off-FTX assets, she has entered into settlements with the 
+government and the FTX debtors that will leave her with nothing 
+that she earned at Alameda research.  She has also agreed to 
+assign to the government the rights to any income from telling 
+her story, meaning that she will never profit in the future 
+from her role in this crime.  She will also continue 
+cooperating with the debtors in their continuing adversary 
+proceedings against the recipients of funds from Alameda to 
+continue to help recover assets, and as Mr. Ray's letter notes: 
+"Her cooperation will continue to be important to maximize 
+recovery for the creditors."  Likewise, your Honor, as noted in 
+the submission from counsel to the MDL plaintiffs, Caroline 
+will continue to cooperate with MDL counsel and has agreed to 
+provide them with information and testimony to facilitate 
+recovery for victims. 
+Finally, Judge, we submit that imprisoning Caroline is 
+unnecessary to safeguard the public.  The letters on her behalf 
+and her cooperation over the last almost two years demonstrate 
+that she has recovered her moral compass that guided her before 
+she started working at Alameda.  She will never ever engage in 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 13 of 36
+
+
+--- PAGE 14 ---
+
+14 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+criminal conduct.  She has accepted lifetime bans from the SEC 
+and the CFTC that will prevent her from serving as an officer 
+or director in any public company and from working in the 
+finance commodities or crypto business in the future. 
+Your Honor, Caroline Ellison is a good person who at 
+29 years old can still make a positive impact in the world.  
+Her notoriety will likely leave her unemployable in the future, 
+as it has for the last two years.  But she is already doing 
+small things to directly help people where she can, and you saw 
+this from some of the submissions that were provided to the 
+Court -- sending books to prisoners, helping low-income people 
+do their taxes, serving at a soup kitchen, writing a math 
+textbook for gifted high schoolers.  Caroline remains committed 
+to doing everything in her power to atone for the harm that she 
+caused. 
+Your Honor, the last almost two years have been 
+devastatingly difficult for her.  She has lived with deep 
+uncertainty and fear and anxiety about what will happen to her.  
+Every aspect of her personal life has been poured over and over 
+again and reported by the press.  Her physical appearance has 
+been the subject of internet fascination and scrutiny.  Her 
+most private thoughts and reflections were plastered all over 
+the press after Bankman-Fried leaked them.  Personal details 
+that she shared with a therapist were divulged in a 
+best-selling book that was published on the very eve of trial 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 14 of 36
+
+
+--- PAGE 15 ---
+
+15 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+in this matter.  She and her family have been repeatedly 
+harassed in public.  She has essentially been forced to live in 
+hiding since all of this unraveled.   
+As noted in its 5K letter, Judge, "the government 
+cannot think of another cooperating witness in recent history 
+who has received a greater level of attention and harassment." 
+But throughout this personal upheaval for her, she has shown 
+remarkable resilience and has concentrated singularly on what 
+it means to be a cooperating witness with the government. 
+Your Honor, I've worked with a lot of cooperators over 
+the years, and I'm deeply struck by her level of commitment to 
+her obligations and her seriousness of purpose.  Not once has 
+she embellished a single fact or memory.  Not once has 
+something she has reported to the government been contradicted 
+later.  For someone who still isn't 30 years old, she has 
+endured unimaginable pressure and the unremitting glare of the 
+entire world with striking focus and strength. 
+Consistent with the probation office's recommendation, 
+we respectfully submit that a term of supervised release would 
+be appropriate and in the interests of justice.  Your Honor, 
+Caroline still has a lot to give of herself to this world, and 
+we respectfully ask the Court to give her a second chance.  
+Thank you. 
+THE COURT:  Thank you.
+Ms. Ellison, you have the right to speak before you 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 15 of 36
+
+
+--- PAGE 16 ---
+
+16 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+are sentenced.  Is there anything you'd like to say? 
+THE DEFENDANT:  Yes, there is, your Honor.
+THE COURT:  If you wouldn't mind going over to the 
+dais, to the lectern.
+THE DEFENDANT:  I want to start by saying how sorry I 
+am.  I want to apologize most of all to the victims, to all the 
+customers, lenders and investors who lost money as the result 
+of my actions.  I also want to apologize to FTX and Alameda 
+employees who lost their jobs, to my family and friends, and to 
+everyone I lied to or misled over the course of my time in 
+Alameda.  It's been almost two years since the collapse of FTX 
+and not a day goes by when I don't think about all the people 
+I've hurt. 
+The human brain is bad at truly understanding big 
+numbers.  I ran into this a lot when I worked at Alameda and 
+had to make decisions involving millions or billions of 
+dollars.  So I think on some level my brain can't even truly 
+comprehend the scale of the harms I've caused.  That doesn't 
+mean I don't try.  So to all the victims and everyone I harmed 
+directly or indirectly, I am so, so sorry.  I can't even begin 
+to imagine the pain I must have caused to so many of you.  I 
+have participated in a criminal conspiracy that ultimately 
+stole billions of dollars from people who put their trust in 
+us.  We abused that trust in the worst possible way, and I am 
+deeply ashamed of what we've done.  Without excusing my 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 16 of 36
+
+
+--- PAGE 17 ---
+
+17 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+actions, I want to try to offer an explanation of how I ended 
+up doing this.   
+If you had told me back in 2018 that in just a few 
+years I would find myself pleading guilty to fraud, I would 
+life told you that you were crazy.  I've always thought of 
+myself as an honest person, as someone with integrity, and as 
+someone who tries to do the right thing and to help others.  
+But at Alameda, I gradually found myself drifting away from the 
+kind of person I wanted to be.  The longer I worked at Alameda, 
+the more my sense of self became inextricably intertwined with 
+what Sam thought of me and the more I subordinated my own 
+values and judgment to his own.  Work increasingly became my 
+life, and I was surrounded by other FTX employees and isolated 
+from the rest of my friends and family.  The culture that 
+promoted positivity and discouraged worries and criticism made 
+it hard for me to be a dissenting voice. 
+At each stage of the process, it felt harder and 
+harder to extricate myself and to do the right thing.  There 
+were times when I wanted to confide in someone on the outside 
+about what was going on, but every time I thought about it, I 
+heard Sam's voice in my head from past times he had admonished 
+me for sharing information about Alameda too freely, even 
+within the company.  Ignoring that voice in my head and 
+speaking out would have been brave.  I'm sorry I wasn't brave. 
+I've had a lot of time in the past two years to think 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 17 of 36
+
+
+--- PAGE 18 ---
+
+18 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+about how to move on from this and what to do now.  For many 
+years, it was my dream to do something really good for the 
+world.  Now I know that achieving that dream will be much 
+harder, but I don't think that means I should give up.  For one 
+thing, I found it meaningful to tell the truth about everything 
+that happened.  Lying isn't something that comes naturally to 
+me, and the pressure I felt to lie over the years I was at 
+Alameda was often a great source of stress.  Since the collapse 
+of FTX, it's been a relief to be able to be completely honest 
+and open with investigators, prosecutors, and the Court about 
+everything.  I know it isn't much, but cooperating fully feels 
+like the least I can do for the victims.   
+And for another thing, I found meaning in just trying 
+to be a good person every day in small and normal ways.  If I 
+can help a family get the tax credits they're entitled to or 
+help a student get her high school equivalency diploma or send 
+a book that will brighten an incarcerated person's day, these 
+things may just be grains of sand on the cosmic scale, but at 
+least they're moving it in the right direction.   
+Finally, I have some people I want to thank.  Lots of 
+people in my life have been angry at what I've done or 
+disappointed in my actions.  Many have wanted to end their 
+friendship or association with me.  I don't blame them one bit.  
+But I do appreciate immensely the people who have supported me:  
+My family who is here today and has been completely unwavering; 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 18 of 36
+
+
+--- PAGE 19 ---
+
+19 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+my partner, I don't know how I could have done any of this 
+without you; everyone who has written me a letter of support; 
+my old friends who stuck by me and new friends who have been 
+incredibly kind and welcoming; the people I volunteered with 
+who have made me feel like a valued member of the team; those 
+with criminal records who have turned their lives around and 
+opened up to me and shared their stories, you guys are an 
+inspiration; the man I served food to in a soup kitchen who 
+told me that with what I was going through, he figured I might 
+need a friend.  To all of you, your support and faith in me 
+means more than words can say.  Whatever happens here today I 
+will spend the rest of my life trying to be worthy of it. 
+THE COURT:  Thank you. 
+Ms. Sassoon. 
+MS. SASSOON:  Yes, your Honor.
+THE COURT:  I assume you want to make your motion for 
+the record.
+MS. SASSOON:  Yes, your Honor, the government moves
+for the Court to sentence Ms. Ellison in light of the factors 
+set forth in Section 5K1.1(a) of the guidelines.
+THE COURT:  Thank you.  The motion is granted. 
+MS. SASSOON:  I want to begin where your Honor left
+off at Mr. Bankman-Fried's sentencing.  The Court spoke about 
+the importance of public respect for the criminal justice 
+system and sometimes, as in the case of Sam Bankman-Fried, that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 19 of 36
+
+
+--- PAGE 20 ---
+
+20 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+means incapacitating and deterring criminals who have committed 
+serious crimes, have shown no remorse, and pose a significant 
+risk to society. 
+Just as important for the integrity and fairness of 
+our justice system is that we recognize also when leniency is 
+warranted, even in the case of very serious crimes; that we 
+distinguish between the mastermind of criminal scheme and the 
+willing accomplice, between the con artist and the person who 
+committed fraud but is unlikely to do it again, and between the 
+defendant who deflects blame and feigns ignorance and the 
+person who accepts responsibility, assists the government and 
+exhibits substantial remorse and rehabilitation.  By these 
+measures, Caroline Ellison deserves leniency, and, as I noted, 
+the government is moving for the Court to sentence her in light 
+of the Section 5K1.1 factors. 
+Ms. Ellison's supporters have asked the Court to 
+extend mercy and impose a lenient sentence.  In the 
+government's view, a lenient sentence is also what is just.  
+The government put in a lengthy letter, so I want to use this 
+time to offer a few additional observations that might assist 
+the Court. 
+Your Honor had the opportunity to observe 
+Ms. Ellison's demeanor on the stand and evaluate her testimony 
+at trial.  The woman the Court saw on the stand in October 2023 
+is the same person who came to proffer with the government in 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 20 of 36
+
+
+--- PAGE 21 ---
+
+21 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+early December of 2022, and the same person who spoke to her 
+employees at the all-hands meeting on November 9 of 2022.  This 
+exemplifies both the remarkable speed of her cooperation and 
+also her consistent truthfulness.  Part of why Ms. Ellison's 
+testimony was so devastating and such powerful proof of 
+Bankman-Fried's guilt and why cross-examination even by very 
+able attorneys did not damage her credibility, was because of 
+her candor and her refusal to minimize her own role or sidestep 
+the most humiliating aspects of her conduct.  A diligent lawyer 
+combing the proffer notes for inconsistent statements was just 
+not going to find them.  Simply from the standpoint of 
+demeanor, this was a powerful contrast with Bankman-Fried's 
+testimony during which he was inconsistent, evasive, even 
+contemptuous and unwilling to answer questions directly.  After 
+observing the two on the stand, the jury easily credited 
+Ms. Ellison. 
+On the substance, I cannot overstate the importance of 
+Ms. Ellison's testimony in convicting Bankman-Fried, the 
+architect of one of the largest financial frauds in recent 
+history who very much tried to get away with it.  As your Honor 
+knows, he put in place his cover story before FTX even 
+collapsed, and his cover involved recruiting Ms. Ellison to do 
+his dirty work and ultimately take the fall.  He doubled down 
+on that cover story in the media after FTX's collapse, 
+simulating sorrow that mistakes were made but taking no genuine 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 21 of 36
+
+
+--- PAGE 22 ---
+
+22 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+responsibility.  And he tried to sell that story to the jury.  
+That might have succeeded without Ms. Ellison's cooperation 
+which, together with the other trial evidence, proved beyond 
+any reasonable doubt his criminal knowledge and intent.  I 
+won't walk through all the evidence again, but the government's 
+closing argument focused on several points along the way where 
+Bankman-Fried intentionally doubled down on the scheme and 
+deliberately expanded its scale.  Much of that proof derived 
+from Ms. Ellison's testimony, the evidence that corroborated 
+it, including documents Ms. Ellison helped the government 
+identify within discovery. 
+The 5K1.1 factors overwhelmingly favor a reduction in 
+the sentence Ms. Ellison would otherwise face, and they also 
+bear on the traditional sentencing factors under Section 
+3553(a).  In particular, concerns about specific deterrence and 
+incapacitation, which were at the forefront of 
+Mr. Bankman-Fried's sentencing, are not salient here in light 
+of Ms. Ellison's substantial cooperation and rehabilitation.  
+Finally, I want to speak too about the characteristics of 
+Ms. Ellison, which is another factor for the Court to consider. 
+I spent time over the past two weeks reading the 
+letters submitted on behalf of Ms. Ellison.  Sometimes letters 
+of support illuminate aspects of a person's character or 
+personal life that were otherwise unknown to the government, 
+even after a lengthy investigation and many interviews.  That 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 22 of 36
+
+
+--- PAGE 23 ---
+
+23 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+was not the case here.  The content of the letters echoed some 
+of what the government learned about Ms. Ellison over the 
+course of speaking with numerous former Alameda and FTX 
+employees, many hours interviewing Ms. Ellison and preparing 
+her for trial, and after reviewing countless pages of 
+contemporaneous notes and journal entries.  Unlike 
+Bankman-Fried, she is not cunning.  There is no evidence that 
+she was driven by greed or that an appetite for risk or power 
+is part of her nature.  To be sure, she was too willing to 
+serve Alameda and Bankman-Fried at all costs, and she made 
+terrible misjudgments and took catastrophic actions that she 
+knew were wrong.  Her crimes, as she has acknowledged, have 
+grave, real-world consequences for a staggering number of 
+people.   
+It is still important to highlight key differences 
+between Bankman-Fried and Ellison.  And while the size of the 
+fraud ballooned, so did Bankman-Fried's influence and power.  
+He took the stage with the likes of Bill Clinton, he illegally 
+expanded his influence in our political system, and continued 
+to invest money that was not his and that he could not repay.  
+At that time, Ellison's journal entries expressed misery and 
+anxiety.  Her primary sizable purchase was $10 million of 
+anthropic shares, which she is now forfeiting to the government 
+if your Honor enters the consent preliminary order of 
+forfeiture.   
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 23 of 36
+
+
+--- PAGE 24 ---
+
+24 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+As has been discussed already today, contemporaneous 
+messages confirm the relief Ms. Ellison felt when her crimes 
+were exposed and she came clean to her employees.  And unlike 
+Ryan Salame, who the Court has already sentenced, she did not 
+jump into the lifeboat.  She left her assets on FTX and turned 
+her attention to helping the bankruptcy and then the federal 
+government. 
+Time and again courts have recognized that this type 
+of cooperation that helps expose wrongdoing and holds others to 
+account merits serious consideration.  Rightly so, especially 
+here, where Bankman-Fried used his considerable guile to deny 
+responsibility, and where leniency in this case will send a 
+widely received public message that encourages acceptance of 
+responsibility, cooperation with the government, and sends a 
+message about the promise of redemption even after very serious 
+wrongdoing. 
+For her critical role in holding Bankman-Fried 
+accountable and for the other reasons discussed here today and 
+in our letter, a sentence substantially below the guidelines is 
+sufficient here to meet the goals of sentencing and promote 
+respect for the law. 
+THE COURT:  Thank you. 
+There are a number of remarks related to explaining 
+the system in which I am operating that I want to make, and 
+since Mr. Bankman-Fried already has been sentenced and 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 24 of 36
+
+
+--- PAGE 25 ---
+
+25 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+Ms. Ellison was a party to the fraud for which he was sentenced 
+that are relevant to the differences between them. 
+First of all, a number of years ago Sentencing 
+Guidelines were adopted which in their inception bound federal 
+judges in sentencing defendants.  A guideline range was 
+computed.  I was looking for the manual.  The manual is now 
+about an inch and a half thick.  Everything had a point range 
+and so forth, and there was a grid at the end of it, and it 
+still does, and we were all bound by it.  It made life easier.   
+In due course, the Supreme Court said it was not 
+binding on federal judges.  Federal judges, however, must 
+consider the guideline range computed under the big manual, but 
+I am not bound by it.  In either case - that is, either the 
+period of time in which the guidelines were mandatory or the 
+subsequent period in which we've been living for a number of 
+years - the court was freed of adherence to the guidelines if 
+the government wrote something called a 5K letter.  That's a 
+letter in which the prosecution says that the defendant to be 
+sentenced rendered substantial assistance to the government, 
+and thus would be eligible, if the Court agreed, to be 
+sentenced outside the guideline range altogether.  That 
+explains some of the legal jargon that you've heard so far this 
+afternoon. 
+In any case, however, the Sentencing Reform Act, which 
+long preceded the guidelines, as I remember it, requires us to 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 25 of 36
+
+
+--- PAGE 26 ---
+
+26 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+consider the nature and circumstances of the offense, the 
+history and characteristics of the defendant, the need to 
+reflect the seriousness of the offense, to promote respect for 
+law and to provide just punishment, and to afford deterrence of 
+two different kinds:  Deterrence against others who might be 
+deterred from committing crimes by the example of the sentence 
+in the case under consideration, and deterrence of the 
+violator, the defendant who is being sentenced, in the sense 
+that if you lock them up, they're not going to do it while they 
+are in jail.  And all of this was subject to something called 
+the parsimony clause, which provides that in no event shall the 
+sentence be greater than is necessary to accomplish the 
+objectives of which I just spoke. 
+Those are the governing principles wherein the 
+nonbinding guidelines range, the 5K application the government 
+made which I've granted in relation to Ms. Ellison's very, very 
+substantial cooperation, would, under either regime - mandatory 
+or otherwise - give me a largely free hand to do what I think 
+is appropriate in light of all of these factors, which cut in 
+different directions in this case and in almost every other 
+case. 
+Now, a word about how this relates to the sentence 
+I've previously imposed in this case.  The guideline range for 
+both Bankman-Fried and Ms. Ellison computed according to the 
+manual is the same:  110 years in prison.  When 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 26 of 36
+
+
+--- PAGE 27 ---
+
+27 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+Mr. Bankman-Fried was up for sentence, I think the probation 
+department recommended that I depart from that and sentence him 
+to merely 104 years, isn't that right?  I believe that's right.  
+With all due respect, I thought that was absurd.  And it was 
+absurd then, and it's most certainly absurd here.  This is the 
+real world now.  This isn't what a bunch of professors cooked 
+up with a chart and a whole bunch of factors.    
+The first difference, of course, between 
+Mr. Bankman-Fried and Ms. Ellison is she cooperated, and he 
+denied the whole thing.  And to coin a phrase that a late 
+former partner of mine used on occasion:  He denied the 
+allegations and the alligators who made them.  He went to 
+trial, as was his right, and it didn't work out so well.  The 
+reason it didn't work out so well in some significant part is 
+that Ms. Ellison cooperated.  You folks have all heard from 
+Ms. Sassoon already about the value and the quantum of 
+cooperation she provided.   
+I've seen a lot of cooperators in 30 years here.  I've 
+never seen one quite like Ms. Ellison.  I don't remember a 
+single time when she was caught in the slightest error of fact, 
+the slightest inconsistency with whatever she had told the 
+government months before and what she said on the stand.  Not 
+one.  I saw no inconsistency at all between the documentary 
+evidence and what she said on the stand.  And what she said on 
+the stand was very incriminating of herself, and she pulled no 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 27 of 36
+
+
+--- PAGE 28 ---
+
+28 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+punches about it.   
+One of the remarkable parts, and it's only one - there 
+were a great many - related to what I will always remember as 
+the seven balance sheets.  There was a time when lenders were 
+calling in the loans to Alameda, and one of them, I believe 
+Genesis, asked Alameda for a balance sheet, and Ms. Ellison 
+prepared a rough balance sheet and showed it to 
+Mr. Bankman-Fried.  He said, "Boy, that doesn't look too good" 
+or words to that effect, or agreed with her assessment of that 
+to the same effect.  He told her to see what she could do to 
+obscure more effectively the disastrous condition that Alameda 
+was in.  So she did a spreadsheet on her computer or I guess an 
+Excel worksheet, an Excel spreadsheet with multiple worksheets, 
+and prepared seven different balance sheets, each one more 
+fraudulent than the last.  And she showed it to him, and he 
+picked the last and said, "Send that one."  It hid almost 
+everything.  It was an outrageous fraud.   
+But as I understand what I have been told of the story 
+about how that piece of evidence wound up at trial, it is that 
+Ms. Ellison remembered it when she was talking to the 
+government before they had the spreadsheet, before the document 
+was in their hands or had been looked at, at any rate.  And she 
+described it, as I understand it in detail, and eventually in 
+going through documents that the government obtained, I think 
+it was Ms. Ellison who found it.  Am I correct, Ms. Sassoon? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 28 of 36
+
+
+--- PAGE 29 ---
+
+29 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+MS. SASSOON:  Yes.
+THE COURT:  She found it and said, "Here it is."  And 
+darned if it wasn't exactly what she had described before the 
+government had or before she had the spreadsheet, and she knew 
+it because she remembered everything about that spreadsheet and 
+how it came to be.  That was one of the huge pieces of evidence 
+in this case.  And my recollection is - and it may be flawed 
+because I can't commit to memory a trial transcript in every 
+case I try - is that when Mr. Bankman-Fried was first asked 
+about it at trial, he said something like either he had never 
+seen it or he had never seen anything with the seven different 
+versions, I forget which.  And then it turned out there was 
+metadata on the computer file that proved that he had been 
+through it. 
+Now, if I made a mistake here on my facts, I ask both 
+counsel, do I have it right? 
+MS. SASSOON:  That's generally right, your Honor.
+THE COURT:  Generally right. 
+Mr. Sahni? 
+MR. SAHNI:  Yes, your Honor.
+THE COURT:  Okay. 
+Well, that's cooperation.  Mr. Bankman-Fried was the 
+opposite. 
+So, Ms. Ellison, while you were gravely culpable in 
+this fraud, there is no doubt about it, that remarkable 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 29 of 36
+
+
+--- PAGE 30 ---
+
+30 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+cooperation - not just that incident either - is a fundamental 
+distinction between you and Mr. Bankman-Fried.  You were also 
+less culpable even before you started cooperating.  The 
+government in their closing statement -- strike that.  The 
+government in their argument when I sentenced Mr. Bankman-Fried 
+said something that I thought was accurate.  I still think it 
+is accurate, and it's relevant here.  They said he, and I quote 
+"was greedy to use people's money and advance his own ambition, 
+arrogantly sure of his capacity to pull it off and smugly 
+dismissive of the skeptics, the critics, the rule of law and 
+his victims."   
+Ms. Ellison was less so.  She was by no means free of 
+culpability.  She was seriously culpable, but it wasn't greed 
+to use other people's money.  It certainly wasn't to advance 
+her own ambition beyond her belief in effective altruism that 
+she should make as much money as she could so she could give it 
+away.  She had doubts and she voiced them to Bankman-Fried at 
+the time.  So why did you do it?  Well, both counsel have 
+addressed that.   
+You're a very strong person, Ms. Ellison, in some 
+ways, but you are not inviolable, and somehow, for some reason 
+that is hard for me to understand, Mr. Bankman-Fried had your 
+kryptonite.  You were vulnerable, and you were exploited.  You 
+shouldn't have allowed it.  You knew better.  That's why you 
+were indicted.  But there is an order of magnitude of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 30 of 36
+
+
+--- PAGE 31 ---
+
+31 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+difference in my mind between how you came to be a culpable 
+person and how he came to be a culpable person. 
+The third thing I want to say, of course, is obvious 
+at this point.  You are genuinely remorseful.  I think 
+Mr. Bankman-Fried is sorry too.  He's sorry that the gamble he 
+improperly took didn't work out, and he's really sorry he got 
+caught.  Your remorse is the real thing, and that was evident 
+when you were on the witness stand, but it surely became 
+evident a lot earlier, and mention was made, I think by both 
+counsel, of what happened when everything began to hit the fan 
+on November 9 of 2022.  You were in Hong Kong.  You called an 
+all-hands meeting.  You spoke to your colleagues there.  You 
+were being recorded, but you didn't know it, but everyone has 
+now heard the recording, and you made a clean breast of what 
+had happened.  You admitted your own culpability, you 
+apologized for it, and your subsequent behavior indicates that 
+that was all sincere.  Your testimony was honest.  
+Mr. Bankman-Fried, as I said, at his sentencing perjured 
+himself. 
+Let me say a word about deterrence or even before I 
+come to that, one other thing. 
+Your cooperation in this case has come at a serious 
+price that you have paid emotionally and personally. I needn't 
+go into the details.  Counsel have done that already.  But your 
+life, every part of your life, has been turned inside out in 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 31 of 36
+
+
+--- PAGE 32 ---
+
+32 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+public to an unusual degree, and now that's probably, 
+hopefully, going to relax. 
+And finally, I want to talk about deterrence.  
+Specific deterrence, which refers to imposing a sentence that 
+would incapacitate you from committing further crimes, in my 
+estimation is entirely unnecessary in this case.  There is no 
+way you are ever going to do something like this again, I am 
+persuaded.  But here is the thing.  This was, if not the very 
+greatest financial fraud ever perpetrated in this country and 
+probably anywhere else, close to it.  And fraud particularly, 
+though obviously not exclusively, in the worlds of finance, 
+commodities, investments, cryptocurrencies, is easy, and it has 
+attracted a lot of perpetrators.  And it's all very well to say 
+that a remorseful and a cooperative defendant who helps the 
+government against all the bad actors should get substantial 
+cooperation -- excuse me -- substantial consideration.  It's a 
+feature of our system.  There is no question about it.  It's 
+important to the ability of the justice system to function.  
+All of us who have functioned in it know that.  But for it in a 
+case this serious to be literally a get-out-of-jail-free card 
+is not something I can see my way clear to.  There is a balance 
+in sentencing between the seriousness of the crime, the need to 
+deter others, and the need to promote respect for the law, all 
+of which argue for an incarceratory sentence, against the very, 
+very substantial credit to which I believe you're entitled for 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 32 of 36
+
+
+--- PAGE 33 ---
+
+33 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+your genuine remorse and your very substantial assistance to 
+the government. 
+That said, please rise for the imposition of sentence. 
+Ms. Ellison, it is the judgment of this Court that you 
+be committed to the custody of the Attorney General of the 
+United States or his designee for a term of imprisonment of  
+24 months on each count, the terms to run concurrently; that 
+you thereafter are to serve a term of supervised release of 
+three years; and that you pay the mandatory special assessment 
+of $700.  It is further adjudged that you forfeit to the United 
+States the sum of $11 billion 20 million dollars on the terms 
+and as more fully set forth in the order of forfeiture that I 
+have signed today; and that you pay such restitution, if any, 
+as the Court may require in a subsequent proceeding. 
+The term of supervised release shall be subject to the 
+mandatory, the standard, and the special conditions of 
+supervision set forth in the presentence report (which you have 
+told me you have read) for the first 18 months of the 
+three-year term.  The term of supervised release will be 
+subject to those conditions for the first 18 months of the 
+three-year term.  Throughout the entire three-year term, it 
+will be subject to one additional special condition, which is 
+that you continue to cooperate with the government, including 
+the SEC, the Commodities Futures Trading Commission, and with 
+the bankruptcy Estate of FTX Trading if and to the extent you 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 33 of 36
+
+
+--- PAGE 34 ---
+
+34 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+are requested to do so. 
+You may be seated. 
+I recommend to the Bureau of Prisons that the term of 
+imprisonment be served at a minimum security facility.  This 
+defendant is simply not someone who has any risk of flight or 
+any danger to anyone else. 
+I advise you, Ms. Ellison, that you have the right to 
+appeal from the judgment imposing this sentence if you wish to 
+do so.  If you wish to do so, you have the obligation to file a 
+written notice of appeal with the Clerk of the district court 
+no later than 14 days after the date on which judgment is 
+entered, which may be as soon as today.  If you wish to appeal 
+and you can't afford to pay the fees necessary to do so, you 
+can file for permission to appeal as a poor person.  If that 
+application were granted, you'd be permitted to appeal without 
+payment of the fees.  And if you couldn't afford a lawyer, a 
+lawyer would be appointed for you at government expense. 
+Counsel, any objection in point of law to the sentence 
+as I've imposed it?  Anything you think I should alter, not 
+because you disagree with it because it's erroneous? 
+MR. REHN:  Your Honor, just the one thing as we 
+discussed at the beginning, if the Court could just include 
+that restitution is not mandatory because of the conditions 
+that I outlined earlier, the number of identifiable trial court 
+victims is too large and determining complex issues of fact 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 34 of 36
+
+
+--- PAGE 35 ---
+
+35 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+would unduly burden the sentencing.
+THE COURT:  I will certainly say that as to the second 
+factor.  I so find as to the second factor. 
+Mr. Sahni? 
+MR. SAHNI:  Yes, Judge, we would ask the Court to 
+recommend that Ms. Ellison be designated to a facility as close 
+to the Boston area as possible.
+THE COURT:  So recommended. 
+Anything else? 
+MR. SAHNI:  We would also ask, Judge, for a surrender 
+date of 45 days, assuming she has received a designation by 
+that time.  And if she has not, we would ask that it be delayed 
+until such time as she has received a designation.
+THE COURT:  Well, here is what we will do:  Andy, give 
+me a date around then, please.
+DEPUTY CLERK:  I think that would be November 7,
+Judge.
+THE COURT:  Okay.  Ms. Ellison, you are continued on 
+bail on the condition that you voluntarily surrender to the 
+Bureau of Prisons on the date and by the time specified by it 
+at the institution where you will serve your sentence.  I also 
+direct that you comply with this condition.  Any violation may 
+result in the revocation of your bail and of further 
+prosecution for escape.  The date for surrender shall be set by 
+the Bureau of Prisons on or after November 7, 2024.  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 35 of 36
+
+
+--- PAGE 36 ---
+
+36 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+O9OQellS - corrected     
+If for any reason, Mr. Sahni, we're coming up to 
+November 7 and the Bureau of Prisons has not made a 
+designation, get in touch with my chambers, and unless there's 
+some unforeseen condition, I will postpone the surrender date 
+to permit the Bureau of Prisons to designate it. 
+MR. SAHNI:  Thank you, Judge.
+THE COURT:  Okay. 
+I want to thank both counsel for excellent 
+presentations.  The papers on this sentencing were excellent 
+and unusually helpful.  Thank you.     
+(Adjourned)  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK     Document 515     Filed 09/30/24     Page 36 of 36

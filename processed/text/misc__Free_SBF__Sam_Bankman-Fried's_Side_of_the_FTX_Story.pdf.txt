@@ -1,0 +1,1179 @@
+
+
+--- PAGE 1 ---
+
+❖  B AC KGROU ND  ❖
+  1. In 2017, 25 -year-old Sam B ankman-Fried (SB F) co-founded a hedge 
+fund called Alameda Research that traded in crypto. In 2019 , SB F co-
+founded a crypto exchange —  a platform for bringing together buyers 
+and sellers of crypto —  called FTX . In 2021, he handed over the 
+running of Alameda to his sometime-girlfriend C aroline E llison and her 
+co-C E O, although he continued to own 9 0% of Alameda.
+  2. Alameda was one of the hedge funds that traded on FTX  and provided 
+the exchange with liquidity. FTX  was a margin exchange —  it allowed 
+customers to trade with funds borrowed from other customers.
+  3. W ithin three years of its founding, FTX  had grown to become the 
+world’s second-largest crypto exchange. It was valued at $ 32 billion.
+  4. In November 2022, an Alameda balance sheet leaked by an unidentified 
+source and a tweet from rival crypto exchange B inance cast doubt on the 
+SB F’s Side of the Story
+Sam B ankman-Fried is serving 25  years for allegedly defrauding FTX  customers 
+of $ 8  billion. B ut now that they’re being repaid with interest, the question arises: 
+W as guilt really proven beyond reasonable doubt? Or was the truth buried by a 
+media frenzy, conflicted bankruptcy lawyers, and a political war on crypto?
+I knew little about SB F before his trial. B ut after 1,000 hours of research, I found 
+a story far more complex —  and troubling —  than what the public was told.
+#FreeSB F
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 1/29
+
+
+--- PAGE 2 ---
+
+financial health of Alameda and FTX , triggering both a 5 0% crash in 
+the value of Alameda’s assets and a run on FTX  deposits. The amount 
+FTX  had on hand was short billions of dollars. It halted withdrawals, 
+and soon after declared bankruptcy.
+  5 . All margin exchanges are vulnerable to liquidity crises, and neither poor 
+risk management nor bankruptcy are crimes. B ut rumor quickly spread 
+that criminal activity had contributed to FTX ’s collapse. In D ecember 
+2022, the C FTC  alleged that FTX  had “irrevocably lost” over $ 8  billion 
+of customer funds.
+  6 . L ater that month, U .S. prosecutors charged him with fraud and 
+conspiracy; he was arrested and later extradited to the U .S. In August 
+2023, he was sent to MD C  B rooklyn, his bail revoked for alleged 
+witness tampering.
+  7. C aroline E llison and FTX  executives Gary W ang and Nishad Singh 
+took plea deals and testified against SB F in October 2023. The verdict 
+was guilty on all seven counts: two counts of wire fraud (on customers 
+and lenders) and five counts of conspiracy (to commit wire fraud on 
+customers and lenders, securities fraud on investors, commodities fraud 
+on customers, and money laundering).
+  8 . On March 28 , 2024, SB F was sentenced to 25  years in prison and 
+ordered to pay $ 11 billion in forfeiture to the U .S. government.
+  9 . In 2025 , repayments began, with customers receiving 100% of their 
+dollarized claims plus 9 % annual interest.
+  10. SB F continues to maintain his innocence and has appealed his 
+conviction.
+❖  AL L E GATIONS ❖
+SB F is alleged to have stolen $ 8 + billion from FTX  customers, and then lied 
+about it to equity investors in FTX  and to lenders to Alameda. According to 
+the U .S. government, SB F repeatedly represented that customer funds were 
+“safe,” while he secretly:
+•Allowed Alameda to spend unlimited amounts of other customers’ funds 
+via a backdoor in its customer account on FTX
+•D irected customers to deposit funds into bank accounts controlled by 
+Alameda and told Alameda to spend those funds
+FTX , prosecutors argued, was a scam from the start. It “had more debts than 
+assets” from 2021, customer liabilities became “unrepayable,” and “there is no 
+serious dispute that around $ 10 billion went missing” (trial transcript) —  all 
+spent on personal luxuries, reckless investments, repaying loans, and secret 
+political influence to help SB F steal even more.
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 2/29
+
+
+--- PAGE 3 ---
+
+For an overview of the government’s version of events in its own words, see 
+the 18 -page indictment, pages 18 -29  of the reply to SB F’s appeal, or the 
+following short summary from the website of the D epartment of Justice:
+•“B ankman-Fried was the founder and chief executive officer of FTX , an 
+international cryptocurrency exchange. From 2019  to 2022, B ankman-
+Fried was the leader and mastermind of a scheme to defraud customers 
+of FTX  by misappropriating billions of dollars of those customers’ 
+funds. B ankman-Fried took FTX  customer funds for his personal use, to 
+make investments and millions of dollars of political contributions to 
+candidates from both parties, and to repay billions of dollars in loans 
+owed by Alameda Research, a cryptocurrency trading fund that 
+B ankman-Fried also founded. B ankman-Fried also defrauded lenders to 
+Alameda and equity investors in FTX  by providing them false and 
+misleading financial information that concealed his misuse of customer 
+deposits.  
+•“B ankman-Fried repeatedly told his customers, his investors, and the 
+public that customer deposits into FTX  were kept safe and were held in 
+custody for the customers, that customer deposits were kept separate 
+from company assets, and that customer deposits would not be used by 
+FTX . He also repeatedly claimed that his trading company, Alameda, 
+did not have any privileged access to FTX  and did not receive special 
+treatment from FTX . Those statements were false, and B ankman-Fried 
+in fact channeled billions of dollars in customer deposits from FTX  to 
+Alameda, and then used those funds to make investments for his own 
+benefit, to make political contributions, and to spend on real estate, 
+among other expenditures.  He employed a variety of fraudulent means 
+to perpetrate this fraud. For instance, B ankman-Fried directed co-
+conspirators to alter FTX ’s computer code to allow Alameda to 
+withdraw effectively unlimited amounts of cryptocurrency from the 
+exchange and made false statements to financial institutions to conceal 
+his misuse of customer dollar deposits. He also directed the creation of 
+false financial statements for Alameda’s lenders, inflated FTX ’s revenues 
+and profits in numbers provided to investors, and backdated contracts 
+and other documents to conceal his fraudulent conduct.”
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 3/29
+
+
+--- PAGE 4 ---
+
+“The core dispute in this case is whether the defendant knew taking the money
+was wrong.”
+— the prosecution in their summation
+“[G]ood faith on the part of a defendant is a complete defense to the charge of
+wire fraud.”
+— the judge instructing the jury
+❖  CORE DEFENSE ❖
+FTX  was a real, innovative business run in good faith. Alameda, SB F’s 
+trading firm, borrowed from FTX  just as any margin customer could, with 
+special access that was legitimate and known to many. Shortly before the 
+collapse, SB F learned that Alameda’s balance on FTX  had become net 
+negative, and he began trying to fix it.
+B ut Alameda and FTX  always had more assets than liabilities overall. If their 
+lawyers hadn’t put them in bankruptcy, customers would likely have been fully 
+repaid in kind within weeks of the run on the exchange, and FTX  would be 
+worth close to $ 100 billion today.
+Read on for details…
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 4/29
+
+
+--- PAGE 5 ---
+
+THE ACCIDENT: ALAMEDA INVESTS $8 BILLION OF CUSTOMER 
+FUNDS
+If Alameda “used” $8 billion of customer deposits at SBF’s direction, why did no 
+one testify that he knew about it until the weeks before the run on FTX  — and 
+why did witnesses say he immediately tried to reverse it and even proposed 
+shutting Alameda down?
+Alameda invested around $ 8  billion of customer fiat (i.e. non-crypto) deposits into 
+illiquid assets —  assets that couldn’t be quickly sold without losing significant 
+value. SB F only learned about this after it had happened, piecing it together over 
+June to October 2022.
+W HE N D ID  SB F L E ARN THAT AL AME D A HAD  INV E STE D  $ 8
+B IL L ION OF C U STOME R D E POSITS?
+In June 2022, SB F and co-defendants E llison, W ang, and Singh discovered that 
+Alameda hadn’t transferred the fiat deposits it had been collecting for FTX , even 
+though FTX  had opened its own bank accounts months earlier. “[I]nitially, FTX  
+didn't have its own bank accounts, so it used Alameda bank accounts” (Wang 
+testimony); “by 2022, . . . FTX  was no longer using Alameda bank accounts . . . 
+[b]ut . . . the fiat@ liability still exist[ed]” (Wang testimony). They calculated that 
+“in banks, Alameda's or FTX , there should be $ 11 billion of fiat sent by 
+customers” (Singh testimony). In other words, Alameda still owed FTX  up to $ 11 
+billion.
+“[I]n the months following June 2022, there was a project . . . that included 
+getting a clearer picture of the fiat@ liability that was owed by Alameda” (Wang 
+testimony). Rather than keeping the liability a secret, SB F looped in more people 
+to work out its exact size: “Adam, Andrea, and Gary [W ang] went through an 
+exercise with help of the fiat settlement team to . . . split that fiat@FTX .com 
+balance into two balances: One corresponding to what Alameda owed, one 
+corresponding to what FTX  owed” (Singh testimony).
+In September 2022, E llison revealed that Alameda would not be able to transfer 
+the amount it owed FTX  quickly because Alameda had invested it all into assets 
+with low liquidity. “[N]ot all elements of the prosecution narrative line up neatly. 
+Singh said he left the crucial June meeting still thinking things were OK and did 
+not realise customer funds were being raided until September” (Financial Times). 
+“The majority of the liability consisted of FTX  customer fiat that was supposed to 
+be housed in Alameda bank accounts, and nothing about the [June 2022] exercise 
+suggested to Nishad that those funds were not in the bank accounts[;] E llison had 
+even confirmed months earlier that Alameda was tracking this fiat liability” (Singh 
+sentencing memo). “[O]n September 7, . . . E llison tells [Singh], Gary [W ang], and 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 5/29
+
+
+--- PAGE 6 ---
+
+the defendant over a Signal chat that it is impossible to close out Alameda's 
+borrowing because of the size of the hole [i.e., liquidity gap]” (prosecutor, trial 
+transcript).
+This was news to SB F. “W hat I [had] believed was that either the funds were just 
+being held in a bank account and, you know, not used or removed, or that they 
+were being sent to FTX  in one way or another, maybe as stablecoin, or to the 
+extent that those weren't happening and that Alameda was borrowing funds and 
+using them, that that would be reflected as a borrow on Alameda's info@ account . 
+. .  that I had looked at[, which] was Alameda's primary trading account on FTX ” 
+(trial transcript).
+In October 2022, SB F confirmed the size and illiquidity of the liability for 
+himself. “I ultimately learned confidently that the fiat@ liability, in particular its 
+size, was 8  billion from a database. . . . In around September and October of 2022, 
+FTX 's developers had built a second database . . . to have a source that 
+nondevelopers [like SB F] could interact with. . . . I got access in October of 2022” 
+(trial transcript). “B y October, [SB F] had a clearer picture. It was only then that he 
+could see that Alameda had been operating as if the $ 8 .8  billion in customer funds 
+belonged to it” (Going Infinite).
+No testimony or evidence suggested that SB F had instructed Alameda to touch 
+any of these fiat funds. Indeed, “no one testified that they knew about this liability, 
+which we've come to learn was related to the fiat@ account, before June 2022” 
+(defense counsel, trial transcript).
+HOW  C OU L D  THIS HAV E  HAP P E NE D  W ITHOU T P E OP L E
+RE AL IZ ING?
+Part of the explanation may be that the accounting at Alameda was chaotic:
+•“Q. B y mid-2022 . . . W as Alameda also still borrowing money from FTX ? A. 
+Yeah. . . . Q. W ere you keeping track of that borrowing? A. Yeah. Not 
+necessarily carefully, but to some extent” (Ellison testimony).
+•W hen asked if the spreadsheet E llison made for SB F in the fall of 2021 for 
+“analyzing Alameda's NAV  . . . account[ed] for the customer money Alameda 
+was already using that came in the form of customer fiat or dollar deposits”, 
+E llison replied, “I don't recall exactly how they accounted for that, like 
+whether that's included in the current totals or not” (trial transcript).
+•“Q. . . . So if Sam wanted to see the account balances of any customer on the 
+FTX  exchange, he could call up that information on the admin user's 
+dashboard, right? A. Yes. Q. And he could do that for Alameda, for example. 
+A. Yes. . . . Q. Okay. B ut as you said, the fiat@ liability was not part of 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 6/29
+
+
+--- PAGE 7 ---
+
+Alameda's balances on the admin user's page; is that right? A. Not as of June 
+2022” (Wang testimony).
+•“[E llison] wasn't aware that there was a bug in [Alameda’s] system for six 
+months after it had already been discovered, and she woke up one day and 
+[mistakenly] believed that her company, which previously had a NAV  of 8  to 
+10 billion, was now bankrupt, overnight” (defense counsel, trial transcript).
+•“[E llison] testified that the firm had attempted to hire several people to 
+oversee Alameda’s accounting, but they all left” (C NB C ).
+B ut even if E llison understood what was happening all along, by 2022, she was 
+calling the shots at Alameda and SB F was paying little attention: “E llison testified 
+that she and Trabucco began handling a lot of Alameda’s day-to-day business as 
+early as 2020, well before officially taking over, and that there were periods of time 
+where B ankman-Fried would not talk to them much. B y 2021, she testified, 
+B ankman-Fried had largely stopped coming into the Alameda office and had left 
+more of the job to E llison. . . . E llison also testified that B ankman-Fried had 
+discussed adding a new co-C E O when Trabucco left, but she resisted. . . . E llison 
+said she was skeptical [about SB F’s advice to hedge] and didn’t do anything about 
+it. . . . E llison said [her and SB F’s] breakup in the spring of 2022 affected 
+communications between the two of them” (C NB C ). E llison even wrote in her 
+journal in April 2022, “I almost feel like I'm living a lie because people don't 
+realize how little I'm working and what a shitty job I'm doing” (Ellison sentencing 
+memo).
+SB F RE AC TE D  L IKE  A P E RSON TRY ING TO P ROTE C T
+C U STOME RS
+       “I f— ed up.”
+       —  SB F, draft congressional testimony
+The miscommunication over the fiat deposits was undeniably a major f— up. B ut 
+SB F appears to have reasonably believed this wouldn’t put customers at any serious 
+risk for three reasons: Alameda’s net asset value (NAV ) was still $ 8 -10 billion, 
+there was still enough liquidity to meet 5 0x typical daily withdrawals, and there’d 
+been no clear violation of any laws or terms.
+  1. SB F says he checked that Alameda’s overall assets still exceeded its liabilities 
+by $ 8 -10 billion: “I asked C aroline to confirm that this definitely meant that 
+Alameda's NAV  was positive 8  to 10 billion . . . and she said that they had in 
+fact confirmed that” (trial transcript). SB F also owned 6 0% of FTX  —  valued 
+at $ 32 billion earlier in the year —  which ultimately helped secure a $ 4 
+billion liquidity offer when withdrawals unexpectedly spiked. (There was also 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 7/29
+
+
+--- PAGE 8 ---
+
+an informal offer of $ 2-4 billion and plausibly SB F would have attracted 
+even more offers if given a few more days; the bankruptcy team, however, 
+ignored all offers of liquidity.) After E llison revealed the $ 8  billion mismatch 
+between the liquidity that might be needed in an emergency and what was 
+available, SB F reportedly said, “‘I'm not sure what there is to worry about. 
+NAV  is fantastic by almost any measure. It was super positive even if you 
+don't include FTX  and FTX .U S equity’” (Singh testimony). And when asked 
+to “name any customers that were allowed to pledge outside investments as 
+collateral for withdrawing money on FTX  apart from Alameda,” SB F replied, 
+“I believe that we did that with a firm called C rypto L otus, and I believe that 
+we considered that with Three Arrows” (trial transcript).
+  2. C ustomer withdrawals were typically “around a hundred million per day” 
+(Wang testimony). D espite Alameda having put $ 8  billion of deposits into 
+illiquid assets, SB F calculated that “in 24 hours, if pressed, I think we could 
+deliver around $ 5  billion” in withdrawals (Singh testimony) —  which they did, 
+in fact, end up managing.
+  3. FTX  operated a margin lending program, which allowed customers to borrow 
+from one another. (Participants were warned it was “HIGH RISK,” especially 
+since “even if you have not suffered any liquidations or losses, your Account 
+balance may be subject to clawback due to losses suffered by other U sers” 
+(terms of service), and that “[w]hile FTX  aims to reduce the likelihood of 
+clawbacks, they are still possible” (FTX  blog).) There appear to have been 
+enough of these margined assets to cover Alameda’s $ 8  billion “borrow” —  
+when FTX  filed for bankruptcy, it owed non-margin customers $ 2.03 billion, 
+and FTX  and Alameda had sufficient liquid funds to pay them back. Indeed, 
+according to the defense’s expert witness, “8 0 percent of the assets on FTX  
+were margined assets . . . 8 0 percent are in this margin trading where 
+customers are always borrowing other customers' assets” (defense counsel 
+summarizing Dr Pimbley’s testimony). B ut even if one were to insist that it was 
+not appropriate to categorize this $ 8  billion error as a margin borrow, it was 
+also true that —  as bankruptcy filings acknowledge —  “[t]he user agreements 
+[] did not provide for the segregation of assets or the return of assets in 
+specie to customers[, n]or did such ‘ownership’ language cover the billions in 
+fiat currency owed to customers” (court docket).
+C onsequently, “Sam said he's not too worried and he described a number of sort of 
+strategies [to raise liquidity] . . . . He described selling off Alameda's illiquid but, 
+according to his estimation, valuable assets, and properties; he described, for the 
+ones that weren't sellable but generated revenue, making sort of low-hanging 
+changes to make them more profitable; he discussed raising from investors, selling 
+FTX  equity . . . I asked if now, Sam would take seriously cutting expenses . . . He 
+said yes” (Singh testimony).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 8/29
+
+
+--- PAGE 9 ---
+
+THE  B ANK SU GGE STE D  AL AME D A AC C E P T C U STOME RS' FIAT
+W HIL E  IT FIGU RE D  OU T HOW  TO ONB OARD  FTX  D IRE C TLY
+At trial, the government portrayed FTX ’s banking structure as a mechanism 
+purposefully designed for stealing funds: “[T]he money never actually made it to 
+FTX . Instead, the defendant opened a bank account that was under the control of 
+Alameda, his other company. He put the information for that Alameda bank 
+account on FTX 's website as the place where customers should send their money. 
+So when customers thought their money was going to the exchange, they were 
+actually sending their money right into the defendant's pocket. You will hear that 
+the defendant even lied to a bank to set up an Alameda bank account that he used 
+for this” (prosecutor, trial transcript).
+B ut the U .S. government’s war on crypto was the real reason this banking setup 
+ever existed. D uring B iden’s covert efforts to debank the industry, crypto 
+THE DISTRACTION: BACK DOORS &  BANK ACCOUNTS
+If business practices like the banking setup and ‘back door’ borrowing were 
+unlawful, why did so many people know about them?
+“Now, the defendant set up two secret ways through which Alameda could take or 
+borrow customer money . . . by withdrawing it from FTX  from its cryptocurrency 
+wallets in unlimited amounts, and by taking it out of the bank accounts that 
+received those customer deposits. . . . [T]he defendant was treating their deposits 
+as his personal piggy bank by funneling that money to Alameda” (prosecutor, trial
+transcript).
+“FTX  was a relatively rare example of a crypto company that did have a full audit 
+under generally accepted accounting principles. . . . Prager Metis said it stands 
+behind its audit opinion. . . . Armanino is ‘confident that it complied with all 
+applicable professional standards in the conduct of its audit work’” (Wall Street
+Journal).
+To reduce the risk of something like this happening again, SB F “asked Andrea 
+L incoln, one of the developers, to work on [getting their accounting in shape], 
+with an E TA of October 15 th” (defense counsel, trial transcript). And in September 
+2022, he “laid out a case for shutting down Alameda, citing that Sam didn't have 
+faith in its— — the competency of its leadership without him more involved” 
+(Singh testimony). “The defendant wrote a five-page memo that includes six 
+numbered points for why to shut down Alameda,” (prosecutor, trial transcript); “if 
+he really thought Alameda was the key to his fraud, if this was the engine to keep 
+stealing money from customers, the last thing he would do would be to propose 
+shutting it down,” (defense counsel, trial transcript).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 9/29
+
+
+--- PAGE 10 ---
+
+exchanges struggled to get their own bank accounts, often having to rely on 
+payment processors to allow customers to buy crypto using fiat currency like U .S. 
+dollars. FTX  initially had an Alameda-owned bank account accept customer fiat 
+deposits on its behalf, along with “multiple other payment processors for FTX  
+[who] had accounts on FTX  as well” (trial transcript).
+As one observer puts it, “the primary reason funds were comingled stems from the 
+B iden administration’s refusal to allow companies like FTX  access to traditional 
+banking services[, which] forced B ankman-Fried to move money through his 
+hedge fund, an act that, while improper, was a direct result of systemic barriers” 
+(amuse).
+SB F was barely even involved in this process. “FTX  began receiving deposits into 
+[Alameda’s bank account]. [SB F] says he learned about it later, sometime in 2020” 
+(B loomberg). “B ankman-Fried says the decision to incorporate [this new bank 
+account] was communicated by D an Friedberg” (B loomberg). One of SB F’s co-
+defendants said that lawyers helped implement this structure and that, far from 
+the bank being “lied to,” it was actually the bank’s idea. (E mail screenshots 
+confirm that the bank was at the very least aware of the arrangement.)
+It was not particularly hidden from customers either. FTX ’s wire instructions for 
+fiat deposits said, “B eneficiary Name: Alameda Research LTD ” (X ).
+P E E R-TO-P E E R L E ND ING W AS A FE ATU RE , NOT A B U G —
+MU C H L E SS A C RIME  —  AND  AL AME D A D ID N'T B ORROW
+MORE  THAN W AS P E RMISSIB L E
+P utting the $ 8  billion fiat accident in 2022 aside, Alameda’s overall account 
+balance was always positive on FTX . As a margin customer, it borrowed and 
+withdrew funds from the exchange, while posting more in collateral than it 
+borrowed. U nlike with the bank account, this other “secret way[] through which 
+Alameda could take or borrow customer money” did not involve net borrowing.
+As SB F explained at trial, with FTX ’s margin lending facility, “[s]o long as we 
+believed that the risk was being managed, which is to say, so long as we believed 
+its assets were greater than its liabilities, we didn't care if the user, you know, 
+withdrew funds and used them to buy muffins, to pay business expenses, to invest 
+or anything else” (Guardian). This is consistent with pre-bankruptcy statements: 
+“You can deposit, and withdraw, and trade, as long as you don't go beyond your 
+margin limits” (X ). “Reminder: on FTX , all margin/leverage/futures/etc. are 
+automatic. . . . You can even withdraw short!” (X ). “You can even do this with 
+withdrawals!” (Spot M argin Trading Explainer, FTX .com).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 10/29
+
+
+--- PAGE 11 ---
+
+Prosecutors emphasized that one of Alameda’s subaccounts was “[n]egative $ 2.7 
+billion” in June 2022 (trial transcript). However, W ang confirmed on cross-
+examination that when the up-to-$ 11-billion fiat liability was put aside, Alameda’s 
+net balance on FTX  was positive: “The numbers on the spreadsheet reflect about 
+11 billion liability for fiat and almost a total of 11 billion liability on the 
+exchange, right? A. Yes” (trial transcript). According to SB F, Alameda was 
+borrowing —  again, putting the fiat ‘borrow’ aside —  “millions in 2019  . . . and 
+then by 2022, my understanding was that it was around $ 2 billion on average of 
+borrowing” from FTX , maintaining a balance that was “[o]verall positive, but 
+negative in some assets” (trial transcript). Similarly, Singh said that prior to 
+E llison telling him in September 2022 that she’d invested the fiat deposits, he 
+“thought Alameda had positive balances on FTX , that it was borrowing lots in 
+some places but that overall they had more money than they didn't” (trial 
+transcript).
+Singh further said that everyone at Alameda must have known that one of its 
+subaccounts on FTX  was negative $ 2.7 billion: “This number . . . is a front-and-
+center number in all of Alameda's trading systems . . . [which] I couldn't imagine 
+being missed or ignored by anyone there” (trial transcript).
+W HE N IS A B AC K D OOR NOT A B AC K D OOR? W HE N IT'S A RE D
+HE RRING
+Alameda’s customer account on FTX  had what the media dubbed a ‘back door’ —  
+certain subaccounts had the auto-liquidation feature turned off, and one used $ 3 
+billion of a $ 6 5  billion credit line (“[there was] around $ 3 billion . . . in borrowing 
+against the line of credit of 6 5  billion” (Wang testimony)). B ut as we’ve just seen, 
+Alameda’s customer account was posting more assets to FTX  than it was 
+borrowing from it. So why the ‘back door’?
+As a backstop liquidity provider, Alameda “agreed to buy assets that are held by 
+users whose accounts are losing too much money” to “protect[] the rest of the FTX  
+customers from incurring losses” (Wang testimony). As a market maker, it 
+maintained a vast number of open orders to support market liquidity. B ut the 
+system counted these unfilled orders against Alameda’s collateral, making it look 
+like Alameda didn’t have enough left to safely take on new trades —  even when it 
+actually did. D uring times of platform stress, the system might then block 
+Alameda from absorbing liquidated positions, forcing unwanted trades onto other 
+customers instead.
+This was not a hypothetical concern. “[FTX ’s] automated ‘risk engine’ suffered an 
+error that turned a routine liquidation of a few thousand dollars into an almost 
+catastrophic series of trades. . . . As FTX  grew, the volume of trades strained the 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 11/29
+
+
+--- PAGE 12 ---
+
+company's computer systems . . . The trading became so large, it had to go to a 
+backstop liquidity provider, in this case Alameda” (C NN). “That, in turn, caused 
+Alameda's account to go under water because of the positions it was being handed 
+in the trillions of dollars and triggered a potential liquidation of Alameda's 
+account which . . . ultimately would claw back funds from the entire platform's 
+users” (SB F testimony). Alameda had stopped being eligible as a backstop liquidity 
+provider since “its free collateral was zero [— ] not because it had a bunch of 
+positions but because it had tons and tons of open orders out— — open orders for 
+the purpose of providing liquidity on the hundreds of markets” (Singh testimony).
+The solution? Replace automated risk checks on Alameda’s customer account with 
+manual monitoring. Asked what was done in response to the near-catastrophic 
+liquidation, Singh pointed to the idea of “increasing Alameda's line of credit” and 
+the auto-liquidation exemption: “if the sole cause of Alameda being an ineligible 
+backstop provider was that it didn't have enough free collateral, that was no longer 
+considered . . . [which] would be helpful to customers” (trial transcript). Similarly, 
+when W ang was asked about the goal of the huge credit line, he said it was to 
+ensure “[i]t would not impact Alameda placing orders on the exchange for market 
+making” and agreed that $ 6 5  billion “was just sort of a notional number to make 
+sure that this problem of butting up against the ceiling didn't happen again” (trial 
+transcript). (W hy not $ 9 9 ,9 9 9 ,9 9 9 ,9 9 9 ? “Some have wondered why W ang chose 
+such a seemingly arbitrary number as $ 6 5 ,35 5 ,9 9 9 ,9 9 4. My best guess is he meant 
+to set it to around $ 6 5 .5 35  billion . . . 6 5 ,5 35  [] is meaningful in computer science 
+as the largest possible value of an unsigned 16 -bit integer” (M olly W hite).)
+W ang acknowledged that “Alameda wasn't the only customer on FTX  to be 
+exempted from auto-liquidation” (trial transcript) and, according to Singh, the 
+exemption was “used by other developers, too, for legitimate purposes” (Singh 
+sentencing memo). FTX ’s three most senior lawyers also knew about it: “Q. . . . [I]n 
+August of 2022 [] you learned about Alameda having certain privileges on the 
+FTX  exchange. . . . D id you discuss this with anyone else besides Mr. D exter and 
+Mr. Miller around that time? A. Yes. I discussed it with D an Friedberg, Nishad, 
+and Sam. And D avid. . . . [They decided to] change it to a delayed liquidation 
+mechanism, make it known to our users and our regulators, and also offer it on a 
+nondiscretionary basis to all large market makers. . . . Nishad had assured me that 
+that mechanism had never been triggered” (testimony of general counsel C an Sun).
+The so-called ‘back door’ was therefore irrelevant to what went wrong at FTX . It 
+wasn’t built or used to siphon off funds, but to minimize customer losses.
+THE FABRICATION: FTX  W AS NEVER ACTUALLY BANKRUPT
+If SBF had more debts than assets for at least a year before FTX  collapsed, why 
+do bankruptcy court filings indicate the opposite?
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 12/29
+
+
+--- PAGE 13 ---
+
+“B illions of dollars missing in cryptocurrency, billions of dollars missing from 
+bank accounts, and there is no serious dispute about that. . . . [T]he defendant 
+schemed and lied to get money, which he spent, and now it's gone. . . . At this 
+point [SB F is] already able to see in late 2021 that Alameda has more loans than 
+it has assets. . . . [T]he defendant had more debts than assets and the only 
+available money was this FTX  customer money” (prosecutor, trial transcript).
+“[G]iven the emerging picture of FTX ’s finances, could it be that FTX  didn’t have 
+to go into this bankruptcy with a [b]illion-dollar price tag?” (American Prospect).
+“So FTX  was … illiquid but solvent? Absolutely wild” (M att Levine, M ay 2024).
+D OE S IT MATTE R?
+Now that customers are being made whole (potentially at current prices), many are 
+quick to add that even if FTX ’s assets exceeded its liabilities when it filed for 
+bankruptcy —  even if the $ 8  billion owed to customers was never in fact ‘missing,’ 
+just temporarily tied up in various investments —  this is irrelevant to the question 
+of whether or not there was fraud.
+Perhaps. B ut I include the ‘missing vs. illiquid’ question here because people seem 
+to find it relevant when they think the answer reflects badly on SB F.  “One key 
+issue was how much money FTX ’s customers lost. D uring the trial, the 
+prosecution and its witnesses repeatedly – in fact, 9 7 times – put that number at 
+$ 8  billion. Although no proof to substantiate this massive figure was ever offered, 
+the prosecution clearly wanted it to stay in jury members’ heads” (Project 
+Syndicate). Some wonder how the FTX  story would have played out had this 
+‘irrelevant’ accusation never been part of it.
+W hat’s more, while the prosecution was free to say to the jury, “B illions of dollars 
+from thousands of people gone,” the judge prohibited the defense from arguing 
+that customer funds were not, in fact, “gone,” or that the investments had done 
+well (trial transcript). The defense had protested that “[while] the prosecution was 
+trying to paint FTX ’s investments as risky and bad, Anthropic’s success showed 
+that their investments were merely part of a reasonable investing strategy,” but the 
+judge ruled that “any success was irrelevant . . . and Anthropic . . . should not be 
+discussed” (W ired). “The government hammered these points in closing, arguing 
+B ankman-Fried had caused billions in losses— money that was ‘missing.’ It 
+repeatedly argued FTX  and Alameda were ‘deeply in the red,’ ‘$ 10 billion plus in 
+the hole,’ and ‘totally under water.’ And it contended the insolvency was ‘very clear 
+to the defendant.’ The defense was prevented from presenting evidence rebutting 
+these arguments” (SB F’s appeal).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 13/29
+
+
+--- PAGE 14 ---
+
+IL L IQU ID  B U T SOLV E NT
+SB F has consistently maintained that FTX  remained solvent —  that it always had 
+enough assets to meet its liabilities if given time to liquidate them —  and that 
+FTX  U S was always both solvent and fully liquid (SB F’s Substack).
+Shortly before the bankruptcy, the tech team had confirmed that FTX  U S was 
+unaffected by the liquidity crisis at FTX  (a separate, non-U .S. entity with no U .S. 
+customers). Ten months later, an Independent E xaminer reached the same 
+conclusion.
+As for the international exchange, in the balance sheet SB F sent investors the day 
+before it filed for bankruptcy, FTX  “is recorded as having liabilities of $ U S8 .9  
+billion” against “a total of $ U S9 .6  billion of assets” (AFR). “B ankman-Fried 
+[always] insisted that all the money was still somehow accessible . . . In some ways, 
+his narrative appears to be proving true. . . . For FTX  customers, being made 
+whole, according to a judge’s ruling, means getting the cash equivalent of what 
+their crypto was worth in November 2022” (C NB C ). “W as SB F (sort of) right? It 
+turns out, FTX  lawyers now say it will be able to pay creditors in full” (Andrew 
+Ross Sorkin). “FTX  has estimated that it will have between $ 14.7 billion and $ 16 .5  
+billion available to repay creditors, enough to pay customers at least 118 % of the 
+value in their accounts as of November 2022” (Reuters).
+B ut SB F was not merely “in some ways,” “sort of” right. C ommentators are fond of 
+attributing FTX ’s ability to repay customers to nothing more than a meteoric rise 
+in the value of its investments and a Herculean effort by the bankruptcy lawyers. 
+Few people are aware that those bankruptcy lawyers have produced public 
+calculations of petition-date balances —  the same lawyers who originally reported 
+SB F to authorities, who strong-armed him into letting them file for bankruptcy, 
+and who ultimately paid themselves and their associates $ 1.5  billion to manage the 
+estate. And what do their own calculations show? On the eve of the bankruptcy, 
+FTX  had around $ 14 billion of assets against $ 9 .2 billion of liabilities to 
+customers. It was solvent.
+THE  L AW Y E RS &  THE IR B IL L ION-D OL L AR B ANKRU P TC Y
+This heavily conflicted team of lawyers have nonetheless repeatedly insisted that 
+FTX  was “hopelessly insolvent” (court docket), that FTX  U S “is not solvent” 
+(congressional testimony), and that the situation would likely only worsen, with the 
+“[r]ecoverable value [of the estate’s investments] likely to be materially lower than 
+acquisition value” (presentation to creditors). They even sent a ‘victim impact 
+statement’ to the trial court on the eve of SB F’s sentencing, stating —  without 
+evidence —  that his claim that “FTX  was solvent at the time that the C hapter 11 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 14/29
+
+
+--- PAGE 15 ---
+
+petition was filed . . . is categorically, callously, and demonstrably false” (court 
+docket).
+The judge believed them, arguing at SB F’s sentencing, “[F]or the reasons very well 
+articulated by Mr. Rehn in the submission on behalf of the debtor's estate, even 
+the premise that customers will be paid dollar-for-dollar for the dollarized losses 
+as of the petition date is pretty speculative, even at this stage” (court docket).
+Prosecutors believed them, describing to the jury how, as far back as 2021, SB F 
+allegedly knew that “they've got more loans than assets, he sees they're in the red” 
+(trial transcript).
+The press believed them, reporting over and over again that around $ 8  billion had 
+been lost: “FTX  says it has identified a deficit of $ 8 .9  billion in customer funds 
+that it can’t account for, the first time the bankrupt cryptocurrency exchange has 
+pinned down how much money has gone missing” (WSJ).
+And customers believed them, some selling their claims for as little as three cents 
+on the dollar. Today, claims are fetching up to 147%.
+In fact, not only was there enough in November 2022 to fully repay customers —  
+with seemingly enough liquidity on the way to process all repayments, in kind, 
+that same month —  there could easily have been enough to fully repay customers 
+today, at today’s prices, several times over. In their sentencing letter, the bankruptcy 
+lawyers characterized their work as “digging through the rubble of Mr. B ankman-
+Fried’s sprawling criminal enterprise to unearth every possible dollar, token or 
+other asset that was spent on luxury homes, private jets, overpriced speculative 
+ventures, and otherwise lost to the four winds” (court docket). B ut FTX ’s Anthropic 
+stake alone would be worth more today than the book value of the entire venture 
+portfolio of 300+ investments at the time of the bankruptcy. The estate also 
+missed out on huge gains from Solana, Sui, C ursor, C ircle, Robinhood, W orldcoin, 
+FTT, and the going-concern value of FTX  itself. In March 2025 , SB F estimated 
+that, had the lawyers not placed FTX  into bankruptcy, rather than sitting on $ 14.5  
+billion to $ 16 .3 billion of assets today, FTX  would have around $ 9 3 billion.
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 15/29
+
+
+--- PAGE 16 ---
+
+1. The defense was barred from saying many business practices were
+approved by lawyers
+“To prove intent to defraud, the government contended that certain FTX  policies 
+and business practices were deceptive. B ankman-Fried sought to show that the 
+policies and practices were appropriate and had been adopted with counsel’s 
+advice. . . . [T]he solution for [] potentially false testimony is cross-examination 
+and contrary evidence, not exclusion. . . . B efore trial, the district court ruled that 
+all defense evidence on advice-of-counsel was inadmissible absent explicit advance 
+approval by the court. It then rejected the defense’s detailed written proffer. 
+B ankman-Fried was thus forced to sit for a deposition, allowing the government to 
+cross-examine him before he took the stand— something that apparently has never 
+happened before in federal court” (SB F’s appeal).
+“[The judge] ruled that B ankman-Fried could offer limited testimony on the 
+involvement of lawyers in creating FTX ’s corporate document retention policy . . . 
+[but] den[ied] B ankman-Fried’s efforts to obtain the document retention policy in 
+discovery . . . and [] refus[ed] to allow cross-examination of the cooperating 
+witnesses on the same topic” (SB F’s appeal). (“[SB F] says C hief Regulatory Officer 
+D an Friedberg put together a documentation-retention policy . . . [A]ny formal 
+business communications, any decisions made and any records would not be 
+deleted. . . . B ankman-Fried says in November 2022 he took an effort to disable 
+auto-deletion ‘on any place I found it’” (B loomberg). “B ankman-Fried testified that 
+he was merely following a rule he picked up . . . at Jane Street. That was the ‘New 
+❖  8 MORE DEFENSES ❖
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 16/29
+
+
+--- PAGE 17 ---
+
+York Times test,’ which, according to B ankman-Fried, was a frequent point of 
+reference at the elite quant shop. ‘Anything that you write down,’ he recalled, 
+‘there's some chance it could end up on the front page of The New York Times.’ 
+He added: ‘A lot of innocuous things can seem pretty bad’ without context” 
+(C oinDesk).)
+“The court excluded all the other proffered testimony. The court thus excluded 
+evidence that (a) lawyers approved the North D imension entities and bank 
+accounts [Alameda’s bank accounts for receiving customers’ fiat]; (b) lawyers 
+drafted the Payment Agent Agreement between FTX  and Alameda; (c) lawyers 
+approved loans from FTX  to B ankman-Fried and others; and (d) lawyers drafted 
+and approved FTX ’s terms of service” (SB F’s appeal).
+“FTX ’s bankruptcy highlights how much power the debtors and their lawyers have 
+in controlling the facts and the evidence. . . . SB F’s defense lawyers were stymied 
+from mentioning the role of lawyers at FTX  (except for one lawyer, D aniel 
+Friedberg, who . . . had tried unsuccessfully to keep Sullivan &  C romwell from 
+running the bankruptcy). . . . SB F’s lawyers tried to raise the name of Ryne Miller, 
+the former Sullivan &  C romwell partner who was general counsel of FTX  U .S.:
+       SB F’s lawyer: I wanted to ask him [an FB I agent who was testifying] if he 
+knows who Ryne Miller is.
+       Judge L ewis Kaplan: You can ask him who Johnny Podres was.
+       SB F’s lawyer: Yes, your Honor.
+       Judge Kaplan: He was a pitcher for the B rooklyn D odgers.
+       SB F’s lawyer: Nothing further.” (American Prospect)
+As one co-defendant put it, “B ut I don't know what the point of the lawyer is 
+then. If I go to the lawyer and say, ‘Is this MTL  legal or is this campaign finance 
+thing we're doing legal?’ and they say, ‘Yes,’ what —  am I just supposed to be a 
+lawyer? This is their purpose. . . . It's frustrating to be in trouble for things that 
+you genuinely try to do legally and feel like you went the route you were supposed 
+to to do them legally” (The Tucker C arlson Show).
+2. SB F was increasingly silenced, while the lawyers helped shape a one-sided
+public narrative
+SB F was arrested and jailed in The B ahamas on U .S. criminal charges just one 
+month since FTX ’s collapse and the day before he was scheduled to testify about 
+the collapse before C ongress, leaving FTX ’s bankruptcy C E O, John Ray, to testify 
+unopposed. At least one congressman present thought that “this was a decision 
+made by somebody at D OJ to prevent Sam B ankman-Fried from coming here” 
+(HFSC  hearing).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 17/29
+
+
+--- PAGE 18 ---
+
+Following extradition to the U .S., SB F was kept under house arrest. In July 2023, 
+he was issued a gag order. Two months before trial, his bail was revoked —  
+apparently with input from the bankruptcy lawyers, as reflected in fee statement 
+entries like “[C ]all with N. Roos (SD NY ) re: amendment to bail package for S. 
+B ankman-Fried” and “Review and analyze SD NY  motion re: bail order . . . C all 
+with SD NY  re: S. B ankman-Fried motion . . . Attend hearing re: S. B ankman-
+Fried bail revocation . . . Review prosecutors’ letter requesting pre-trial detention 
+of S. B ankman-Fried” (second and ninth monthly fee statement of Sullivan &  
+C romwell).
+SB F was jailed on the basis of two alleged attempts at witness tampering:
+  1. “[SB F] sent the general counsel of FTX  U S, who has been referred to as 
+W itness-1, the following message via Signal [and Gmail], an encrypted 
+communications medium: ‘Hey, I know it's been a whole while since we have 
+talked, and I know things have ended up on the wrong foot. I would really 
+love to reconnect and see if there is a way for us to have a constructive 
+relationship, use each other as resources when possible, or at least vet things 
+with each other. I would love to get on a phone call sometime soon and 
+chat.’” (bail revocation hearing). The defense maintained that this was simply 
+“the last of a series of messages that he sent to W itness-1 [and other 
+bankruptcy lawyers] to offer his help supporting FTX ’s creditors in the 
+bankruptcy” and that “it was W itness-1 who first reached out to Mr. 
+B ankman-Fried using Signal . . . to encourage him to ‘align’ his efforts to 
+‘support customer assets’ with efforts by W itness-1 and other in-house FTX  
+attorneys” (court docket).
+  2. SB F showed a reporter some private messages from E llison about how 
+overwhelmed she’d felt at work and how their breakups made things even 
+more difficult. The defense argued that, “The reporter contacted Mr. 
+B ankman-Fried about an article he was already writing that featured Ms. 
+E llison’s personal diaries and writings. The reporter was already aware of 
+these documents because he had written an article two months earlier in 
+which he described Ms. E llison’s writings and reported that they contained 
+her ‘raw reflections on SB F’ and her ‘personal and professional resentment’ 
+towards him. Hence, Mr. B ankman-Fried shared copies of writings that the 
+reporter apparently already knew about, and which were not produced in 
+discovery . . . [I]t was a permissible exercise of Mr. B ankman-Fried’s First 
+Amendment right to make fair comment on a media story about himself. . . . 
+The Government [] asserts that because Mr. B ankman-Fried had several 
+phone conversations with the reporter, it has ‘every reason to believe that he 
+was a source for that [earlier] article as well. . . . In fact, it seems apparent 
+that the Government or its agents were the source for at least some of the 
+disclosures to the reporter. The July 20, 2023 article reports that 
+‘[p]rosecutors are expected to begin preparing at least some witnesses in 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 18/29
+
+
+--- PAGE 19 ---
+
+August, two people with knowledge of the matter said.’ That information 
+could only have come from the Government. . . . Not surprisingly, the 
+published article was unfavorable to Mr. B ankman-Fried and favorable to 
+Ms. E llison” (court docket).
+“The relevant statute,” explained the judge, when remanding SB F to jail, “[says] 
+that whoever knowingly uses intimidation, threatens or corruptly persuades 
+another person, or attempts to do so, with intent to influence, delay, or prevent the 
+testimony of any person in an official proceeding is guilty of a felony” (court 
+docket). And yet the press remained free to vilify SB F without restriction, aided by 
+the government: “[M]ore than 1 million articles mentioning FTX  have been 
+published since the bankruptcy. The overwhelming majority of them have been 
+negative towards Mr. B ankman-Fried. The Government is at least partially 
+responsible for this deluge by repeatedly using the press to tout its evidence 
+against Mr. B ankman-Fried” (court docket).
+The press was also aided by John Ray. For instance, in an interview released on the 
+first day of the trial proper, Ray said, “[SB F] was involved in everything[ a]nd he 
+took money, and he spent it on stuff that had nothing to do with the business.” He 
+explained that he’d never spoken to SB F because two days into joining FTX , “It’s 
+pretty clear for me what happened in the company and what his role was,” and also 
+explained that he charged creditors $ 1,300/hour because “[c]rime is very 
+expensive” (Freakonomics). The interviewer offered mild pushback —  “[o]ne 
+criticism I’ve heard of your being so public about how poorly the company was 
+run, was that the more chaotic and absurd you can make it sound, the more that it 
+may be to your benefit, to make your role seem even more heroic” —  and others 
+noticed the strangeness of Ray’s behavior: “[I]t is hard to think of a C E O in 
+recent memory who has been more focused on trashing the previous management” 
+(B loomberg).
+B ut Ray continued. In March 2024, he submitted a seven-page diatribe to the 
+court for consideration in SB F’s sentencing, asserting: “Mr. B ankman-Fried 
+continues to live a life of delusion. The ‘business’ he left on November 11, 2022 
+was neither solvent nor safe. . . . That things that he stole, things he converted into 
+other things, whether they were investments in B ahamas real estate, 
+cryptocurrencies or speculative ventures, were successfully recovered through the 
+enormous efforts of a dedicated group of professionals (a group unfairly maligned 
+by Mr. B ankman-Fried and his supporters) does not mean that things were not 
+stolen. W hat it means is that we got some of them back. And there are plenty of 
+things we did not get back, like the bribes to C hinese officials or the hundreds of 
+millions of dollars he spent to buy access to or time with celebrities or politicians 
+or investments for which he grossly overpaid having done zero diligence. . . . The 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 19/29
+
+
+--- PAGE 20 ---
+
+remorse is nonexistent. E ffective altruism, at least as lived by Samuel B ankman-
+Fried, was a lie” (court docket).
+3. FTX  was not "built on lies"
+B eyond the issues already discussed, the prosecution’s much-quoted portrayal of 
+FTX  as “built on lies” appears to be based largely on: statements about the 
+relationship between FTX  and Alameda; SB F’s frequent use of “I don’t recall” 
+under cross-examination; and a tweet thread made to reassure customers as 
+withdrawals spiked.
+It’s often claimed that SB F told everyone Alameda’s FTX  account was just like 
+everyone else’s, the key reference being a tweet from 2019 . B ut in that tweet, SB F 
+is merely responding to a concern about potential front running: “How are you 
+going to resolve the conflict of interest of running your own derivative exchange, 
+AND  actively trading against the market at the same time?” (X ). Prosecutors also 
+quoted an email and an interview; SB F claimed the wider conversation in both 
+instances had again been front running. FTX ’s former C OO told Michael L ewis, 
+“It was literally the first thing I was asked every day. Is Alameda Research front-
+running us? . . . No one ever asked about liquidation . . . And no one ever asked, ‘Is 
+our money actually inside Alameda?’” (Going Infinite). W ang said front running 
+“was not a thing that happened at FTX , because there was not a way for anybody 
+to see people's orders before they were processed” (trial transcript) and that 
+“Alameda's role as a market maker on FTX  was described in documents that FTX  
+put out to the public” (trial transcript) (and in SB F's tweet about front running).
+“I don’t recall” was honesty, not evasiveness. “I'm somewhat sympathetic to the 
+idea that being in jail made it difficult for B ankman-Fried to properly prepare for 
+cross-examination” (C oinDesk). “There were around 10 million documents turned 
+over in discovery, not including the database” (B loomberg). “B ankman-Fried 
+estimated he gave around 5 0 interviews and didn’t have access to any internal 
+documents. He said he didn’t remember every statement he made to journalists” 
+(C NB C ).
+As for the tweet thread, “On Nov. 7, 2022, as FTX  customer withdrawals spiked, 
+B ankman-Fried wrote: ‘FTX  is fine. Assets are fine,’ and that the exchange had 
+‘enough to cover all client holdings.’ . . . W ang, however, admitted on cross-
+examination that in a Nov. 17 meeting with prosecutors he said the tweet was true 
+because B ankman-Fried was careful to say that FTX  was solvent but not liquid” 
+(Yahoo Finance). “At the point where I posted it,” SB F said, “Alameda still had a 
+net asset value of roughly positive 10 billion. FTX  had no holes on its balance 
+sheet. And there had been no attack on the customer assets” (trial transcript). 
+“‘The evening of Nov. 7 and continuing into the morning of Nov. 8 , there was a 
+market crash . . . Overall, this led to a roughly 5 0% crash in Alameda’s assets . . . 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 20/29
+
+
+--- PAGE 21 ---
+
+Alameda was still solvent, but there was little margin for error left.’ . . . B ankman-
+Fried says that after that, ‘I took down the tweet thread’” (B loomberg).
+4. SB F’s eccentricities were not "a performance"
+Some people have doubted the authenticity of SB F’s distinctive look. B ut not 
+those who have known him the longest, it seems. “The new prime minister arrived 
+. . . Sam emerged, looking as if he had fallen out of a dumpster: cargo shorts, 
+wrinkled T-shirt, droopy white socks. Same guy, thought Ian. From the moment he 
+had started on the project and begun to observe Sam from afar, Ian had found the 
+same thought often crossing his mind: how shockingly just like he’d been in high 
+school Sam still was. W hen the oddball in your high school class became one of 
+the richest people in the world, you sort of assume the oddball must have changed. 
+Sam hadn’t changed” (Going Infinite).
+“[T]he government was able to sell ideas about him that would have struck any of 
+his closest colleagues as preposterous. The suggestion, for example, that everything 
+about Sam’s appearance had been carefully curated to trick people. . . . If Sam 
+B ankman-Fried’s appearance was an act, it was an act he’d performed his entire 
+life. . . . His ‘look’ couldn’t have been more sincere. . . . At some point after he 
+became a public figure —  a thing he’d never expected to be —  he no doubt noticed 
+that other people seemed to be charmed by his look. His realization would have 
+relieved him of any pressure to alter his appearance. B ut that’s different from 
+creating a persona to deceive others” (Washington Post).
+More significantly, SB F’s demeanor has been used against him as evidence of 
+perjury. A prosecutor told the jury that on the stand, “He had to be asked and 
+reasked[, h]e looked away[, h]e lied about big things, and he lied about little 
+things” (trial transcript), and the judge claimed, “And when he wasn't outright 
+lying, he was often evasive, hairsplitting, dodging questions and trying to get the 
+prosecutor to reword questions in ways that he could answer in ways he thought 
+less harmful than a truthful answer to the question that was posed would have 
+been[;] I've been doing this job for close to 30 years [— ] I've never seen a 
+performance quite like that,” (sentencing transcript). The judge also appears to have 
+made his personal interpretations of SB F’s mannerisms plain to the jury:
+•“It was pretty clear from the judge that the judge did not like him, did he? 
+He really didn’t like his demeanor” (The Rest is Politics)
+•“Judge Kaplan was visibly irritated with B ankman-Fried, at one point 
+snapping at the FTX  founder to ‘just answer the question’” (Protos)
+•“[SB F] was sometimes chided for straying off topic” (New York Times)
+•“[Judge Kaplan] was all but openly derisive toward the former crypto mogul 
+when B ankman-Fried testified during the trial itself, to the point where I did 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 21/29
+
+
+--- PAGE 22 ---
+
+genuinely wonder how the jury perceived his comments about the defendant 
+on the stand. E ighteen random members of the public, who had no little or 
+no familiarity with FTX , crypto, B ankman-Fried or being on a jury, may well 
+have easily taken cues from the most visible legal expert who ran the show. . . 
+. B ankman-Fried didn't quite seem to grasp how his demeanor and responses 
+were received by the judge and jury” (C oinDesk)
+B ut as with the crumpled cargo shorts, this was just SB F being SB F. One 
+journalist observed in May 2022, for example, “B ankman-Fried doesn’t mind the 
+question, but he would like it clarified. . . . [SB F] stares fixedly into the ocean . . . 
+B y this point he is asking the questions and answering them, and I am just sipping 
+my drink. . . . B ankman-Fried toys with my question as much as he is playing with 
+his salad” (Financial Times). Following FTX ’s collapse, however, reporters changed 
+their tone: “Prosecutor calls out Sam B ankman-Fried for fidgeting” (C NB C ); 
+“[SB F had] a relatively muted tone, sparse eye contact and lots of details he was 
+never asked to give” (B lockworks); “[SB F] was obviously evading questions, trying 
+to pour forth verbiage to distract Sassoon from what she’d asked” (The Verge).
+This conversational style is common among autistic people. “[SB F] has had a 
+diagnosis of ASD  that was previously shared with the court. . . . [An autistic 
+person might] be judged to be lying or evasive due to lack of eye contact, or 
+answers that seem non-responsive. . . . [T]hey might repeat themselves or become 
+obsessed on an issue, something we call perseveration. They might become 
+particularly focused on minute details that others find irrelevant, something we 
+call hyperfocus” (disability rights advocate). “[T]ypical diagnostic behaviors . . . can 
+mislead an investigator, attorney, or judge. They may see someone who seems to 
+lack respect and observe a ‘rude, fidgety and belligerent’ person who, by nature of 
+his lack of eye contact and evasive conversation, appears to have something to 
+hide. . . . [You] need to repeat and rephrase questions” (Judge Taylor et al.). The 
+lack of respect for SB F’s neurodivergence may have also caused him to suffer 
+withdrawal during trial: “B ankman-Fried was diagnosed with AD HD  and 
+depression years ago . . . [SB F] has been doing his best to remain focused during 
+the trial for the past two weeks, despite not having his prescribed dose of Adderall 
+during trial hours. . . . [His] dose of Adderall in the early mornings . . . would wear 
+off by the time the trial began” (B usiness Insider).
+5 . SB F was genuinely in favor of (good) regulation
+SB F’s “f—  regulators” comment is regularly taken out of its context: “f—  
+regulators / they make everything worse / they don't protect customers at all / . . . 
+/ it would be good / but regulators can't do it / they can't actually distinguish 
+between good and bad / just ‘do more business’ vs ‘do less business’ and ‘put up 
+more moats’ vs ‘put up fewer moats’” (Vox). SB F expanded on this at trial: “I was 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 22/29
+
+
+--- PAGE 23 ---
+
+somewhat frustrated [and] felt like all the work that I had done to work with 
+regulators might have ended up encouraging bad regulation as much as good 
+regulation in retrospect” (trial transcript).
+Furthermore, despite widespread assumptions to the contrary, FTX  moved to The 
+B ahamas to pursue regulation —  not to avoid it. “[SB F] says they moved to the 
+B ahamas mostly because it was one of a handful of countries that had a ‘full 
+regulatory framework’ for crypto. The B ahamas had been positioning itself at that 
+time as a crypto haven” (B loomberg). “‘W e have been shocked at the ignorance of 
+those who assert that FTX  came to the B ahamas because they did not want to 
+submit to regulatory scrutiny,’ said Ryan P inder, the country's attorney general and 
+Minister of L egal Affairs on Sunday. ‘In fact, the world is full of countries in 
+which there is no legislative or regulatory authority over the crypto and digital 
+asset business, but the B ahamas is not one of these countries’” (TheStreet).
+6 . Profits from arbitrage covered all of SB F's personal spending, borrowing,
+and donating
+“B ankman-Fried says he believed he was permitted to borrow from Alameda as a 
+primary owner. ‘It usually came because there was an investment I needed to make 
+and a I needed capital for, so I would generally borrow funds from Alameda for it,’ 
+he says. ‘It had a few billion dollars of arbitrage-based profit over the prior two 
+years. I saw no reason I couldn’t borrow from it.’ . . . B ankman-Fried says he 
+discussed with lawyers that some people didn’t want the investments to come 
+directly from Alameda. He says attorneys told him an option was to get a loan 
+from the company and make the investment himself. He says lawyers structured 
+the loans” (B loomberg).
+“My personal consumption was a tiny fraction of my earnings, and my 
+consumption, donations, and investments combined were less than— and came 
+from— earnings” (Substack).
+7. "The ethics stuff" was not just P R
+W hile SB F did say that “the ethics stuff” was “mostly a front,” he immediately 
+added, “that's not all of it,” and clarified that he thought “E SG has been perverted 
+beyond recognition” and was frustrated was with “this dumb game we woke 
+westerners play where we say all the right shiboleths and so everyone likes us” 
+(Vox). He later elaborated: “[T]here are a lot of things that I think have really a 
+massive impact on the world. And ultimately, that’s what I care about the most. . . . 
+Separately from that, there is a bunch of bullshit that regulated companies do to 
+try and look good. . . . if like three different quarterbacks throw a touchdown in 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 23/29
+
+
+--- PAGE 24 ---
+
+the same game for the same team, we will donate two used cars to charity-type 
+campaigns. . . . W e thought about ourselves as legitimately trying to do good, but 
+we also thought about what we could do to make sure that our image reflected 
+that” (New York Times). L uxury cars, for instance, would not have reflected a 
+legitimate desire to do good: “I bought [SB F] a B MW  to drive around in and he 
+made me sell it and get him a C orolla” (X ).
+Much attention has been given to FTX ’s spending on lavish real estate and 
+marketing. B ut perhaps the property was simply “sound real-estate investments, 
+and B ankman-Fried needed fitting places to host such figures as B ill C linton and 
+Tony B lair . . . In a widely amplified story, Fox B usiness reported that B ankman-
+Fried owned a yacht; the claim was attributed to a local yachtsman, who said he 
+frequently spotted B ankman-Fried at the marina, and B ankman-Fried’s spokesman 
+categorically denied that his client had himself ever ‘owned’ a boat” (New Yorker). 
+The defense emphasized that “‘the B ahamas real estate was corporate housing for 
+FTX  employees.’ FTX , he said, was trying to court top professionals who 
+‘uprooted their lives’ to move there when they could just have easily gone to work 
+at Google or Facebook” (Guardian). A co-defendant revealed that “Sbf hated flying 
+private” (X ) and “hated the penthouse it just had the right number of bedrooms” 
+(SB F and nine roommates rented it from FTX ) (X ); he also explained that “there's 
+[only] two types of real estate” in The B ahamas —  “this ultra wealthy section” and 
+“the impoverished section” (The Tucker C arlson Show). As for the marketing, 
+“‘W hen I looked into competitors’ marketing budgets, they appeared to be 100% of 
+the revenue,’ B ankman-Fried says. ‘W e were spending 10 to 20% on marketing’ . . . 
+Multiple crypto companies . . . ran Super B owl ads” (B loomberg). Far from the jet-
+setting life of luxury often portrayed, SB F “didn’t drink or party” (TIM E), “worked 
+12 to 22 hours a day, and took one day off every couple of months” (The Verge), 
+and never set foot on the “semi-private beach” beneath the penthouse (Going 
+Infinite).
+SB F has also been criticized for only donating $ 19 0 million to nonprofits in 2022. 
+B ut an advisor to the FTX  Foundation says that they “got a lot of criticism for 
+scaling up giving too quickly —  so going from zero to one to two hundred million 
+in a year is a very big scale-up and is actually just quite hard to do . . . [and] the 
+way it seemed to me at the time, and I guess still does just seem to me, was 
+basically consistent with someone trying to scale up their giving as fast as they 
+can, and in fact . . . plausibly he should have been paying more attention to the 
+business and not getting distracted by other things” (M aking Sense with Sam 
+Harris).
+According to SB F’s psychiatrist, “Sam is on the autism spectrum,” which has 
+“impaired his ability to communicate emotions” (George Lerner), a phenomenon 
+known as alexithymia. This may explain comments like “There’s a pretty decent 
+argument that my empathy is fake, my feelings are fake, my facial reactions are 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 24/29
+
+
+--- PAGE 25 ---
+
+fake” (The B lock). If an autistic person regularly feels the need to fake emotion to 
+fit in, that doesn’t mean they’re not motivated to help others.
+To the contrary, letters to the court detail a long history of altruism (court docket): 
+SB F’s executive assistant says he “never acted out of greed or self-interest” and 
+that he “consistently demonstrated a commitment to ethical business practices and 
+a genuine desire to make a positive impact on the world”; a Rwandan charity 
+advisor comments on how SB F was “well-informed of Africa’s unique challenges” 
+and lamented how much the media coverage was “littered with claims I knew were 
+false”; a crypto skeptic suggests this is “the first time in the entire history of 
+criminal justice where the defendant donated most of his earnings at his previous 
+job to charity”; an FTX  victim notes how SB F “cared about chickens in university” 
+even though “people hate animal rights activists”; and SB F’s family write, “he has 
+never felt happiness or pleasure in his life and does not think he is capable of 
+feeling it” and “He wouldn’t make small talk about your dog, but he’d subsist on 
+bread and water in prison to avoid eating an animal. He was never good at 
+apologizing, but always quick to admit fault. He would be uncomfortable giving 
+me a hug, but I know he would give me a kidney if I needed one.”
+8 . Innocence and remorse are not mutually exclusive
+“[SB F] has shown an immense amount of remorse and regret for whatever 
+mistakes he made . . . I am not use to this; every other person that I have 
+interacted with here places the blame on someone else” (ex-NYPD cellmate).
+“I should have been on top of this and I feel really, really bad and regretful that I 
+wasn’t and a lot of people got hurt and that’s on me” (Forbes). “I was C .E .O. of 
+FTX , and that means whatever happened, why ever it happened— I had a duty. I 
+had a duty to all of our stakeholders, to our customers, our creditors. I had a duty 
+to our employees, to our investors and to the regulators of the world to do right by 
+them and make sure the right things happened at the company. And clearly, I did 
+not do a good job with that. C learly I made a lot of mistakes. There are things I 
+would give anything to be able to do over again. I did not ever try to commit fraud 
+on anyone” (New York Times).
+“‘I'm haunted, every day, by what was lost . . . It's most of what I think about each 
+day . . . I never thought that what I was doing was illegal. B ut I tried to hold 
+myself to a high standard, and I certainly didn't meet that standard’ . . . B ankman-
+Fried said Sunday that ‘of course’ he is remorseful. ‘I've heard and seen the despair, 
+frustration and sense of betrayal from thousands of customers; they deserve to be 
+paid in full, at current price,’ he said. . . . He added that he ‘felt the pain’ from co-
+workers as he ‘threw away what they poured their lives into’ and from the charities 
+he supported ‘as their funding turned into nothing but reputational damage. . . . I 
+never intended to hurt anyone or take anyone's money. B ut I was the C E O of 
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 25/29
+
+
+--- PAGE 26 ---
+
+❖  THE BIG PICTURE ❖
+It’s easy to forget what we would have expected to see, but didn’t
+Prosecutors claimed that their witnesses “stole customer money at the defendant's 
+direction” (trial transcript). And yet “none of [said witnesses] testified that he told 
+them to steal money or commit crimes” (Quartz). More broadly, “none of the 
+witnesses at this trial testified that Sam told them or directed them to violate the 
+law or said or did anything that showed he thought he was violating the law” (trial
+transcript). Neither could the prosecution produce any other evidence to this 
+effect, despite extensive access to —  and help investigating —  FTX ’s people and 
+data: “[W ]e would do whatever the Government requested relative to cooperation. 
+. . . [such as providing] full access to the information on a real time basis . . . W e’ve 
+provided an analysis of several hundred thousand documents. W e’ve interviewed 
+and received proffers of 24 current and former employees” (John Ray, bankruptcy
+hearing). (The defense, on the other hand, was not so fortunate.)
+“If B ankman-Fried were such a criminal mastermind, C ohen asked the jurors, ‘why 
+would he go before C ongress and subject himself to public questioning? . . . These 
+were extremely wealthy people’ who could have, at any time between 2020 and 
+2022, when the alleged crimes were happening, taken their money and run. They 
+could have cashed out, notified authorities, hired lawyers. B ut none of them did, 
+C ohen said. B ecause in the moment, ‘they don’t think they’re doing anything 
+wrong’” (C NN).
+E ven in the period between FTX ’s collapse and SB F’s arrest, “[d]uring those five 
+weeks, as far as I am aware Sam was free to leave the B ahamas for a jurisdiction 
+without an extradition treaty with the U S . . . He was resolute that he would not 
+leave as long as he thought he could do some good by staying . . . He had no 
+patience for conversations about defending himself” (ex-Head of Data Science at
+FTX ).
+The justice system is vulnerable to abuse
+“Sam B ankman-Fried was never presumed innocent. He was presumed guilty—
+before he was even charged. He was presumed guilty by the media. He was
+presumed guilty by the FTX  debtor estate and its lawyers. He was presumed guilty
+by federal prosecutors eager for quick headlines. And he was presumed guilty by
+the judge who presided over his trial.”
+— SB F's appeal brief
+FTX , I was responsible for what happened to the company, and when you're 
+responsible it doesn't matter why it goes bad. I'd give anything to be able to help 
+repair even part of the damage. I'm doing what I can from prison, but it's deeply 
+frustrating not to be able to do more,’ he said” (AB C  News).
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 26/29
+
+
+--- PAGE 27 ---
+
+W hy did SB F’s colleagues plead guilty and testify against him? According to 
+prosecutors, they “agreed to testify in the hope of receiving a shorter sentence” 
+(trial transcript). B ut they may have also pled guilty out of self-interest regardless 
+of whether or not they were, in fact, guilty.
+The prosecutor has more control over life, liberty, and reputation than 
+any other person in America. . . . He can have citizens investigated . . . 
+to the tune of public statements and veiled or unveiled intimations. Or 
+the prosecutor may choose a more subtle course and simply have a 
+citizen’s friends interviewed. The prosecutor can order arrests, present 
+cases to the grand jury in secret session, and on the basis of his one-
+sided presentation of the facts, can cause the citizen to be indicted and 
+held for trial. . . . [A] prosecutor stands a fair chance of finding at least 
+a technical violation of some act on the part of almost anyone. In such a 
+case, it is not a question of discovering the commission of a crime and 
+then looking for the man who has committed it, it is a question of 
+picking the man and then searching the law books, or putting 
+investigators to work, to pin some offense on him. . . . [T]he real crime 
+becomes that of being unpopular with the predominant or governing 
+group, being attached to the wrong political views, or being personally 
+obnoxious”
+—  Robert H. Jackson, Attorney General of the Unites States (1940-1941)
+One co-defendant, however, refused to testify against SB F, later calling the trial 
+“one sided coerced legal theater provided by people willing to say anything to stay 
+out of prison[, m]uch of it not rooted in reality” (X ). Regretfully, he also let fear of 
+retribution from the D OJ prevent him from testifying in SB F’s defense, and said 
+that “a lot of people aren't speaking up about the FTX  situation because they're 
+still waiting to settle with the bankruptcy estate” (The Tucker C arlson Show). The 
+estate, allegedly, “worked hand-in-glove with the prosecutors to charge and 
+imprison B ankman-Fried, in ways that far exceeded normal ‘cooperation’” (SB F’s
+appeal).
+According to Michael L ewis, some witnesses for the prosecution thought SB F was 
+innocent: “I saw the prosecutor's list of witnesses, and it maps on to the characters 
+in the book in the most extraordinary way. . . . And I'm in touch with most of 
+these characters. I've been interviewing them since it all fell apart. And they've 
+told me what they're going to say, and some of them have said to me, I think Sam 
+is innocent” (Washington Post).
+W as this trial ever about justice — or was it about politics?
+C RY P TO GOE S ON TRIAL  AL ONGSID E  SB F
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 27/29
+
+
+--- PAGE 28 ---
+
+—  Financial Times headline
+W hen a major company implodes, there’s always pressure to find a villain; 
+understandably, the C E O becomes the lightning rod by default. In the case of 
+FTX , that C E O also happened to be the ‘white knight’ of a sector the U .S. 
+government had begun to wage war on. Yes, he’d been a top D emocratic donor, but 
+it was just coming to light that he’d been giving similar amounts in dark money to 
+Republicans. The political calculus had shifted. (The D OJ’s press release following 
+SB F’s sentencing suggests this was still a sore point more than a year later —  he 
+hadn’t been convicted of a campaign finance charge, yet the statement claimed he 
+“took FTX  customer funds for . . . millions of dollars of political contributions to 
+candidates from both parties.”)
+From the moment SB F handed control of FTX  to his lawyers, the narrative was 
+locked in: C rypto’s poster boy had squandered billions of his customers’ money 
+gambling on sh*tcoins and partying with celebrities in the C aribbean! The ‘quirky, 
+genius philanthropist’ persona was all a con! Never mind those technical details 
+like ‘peer-to-peer margin lending’ or ‘illiquid but solvent,’ or the challenges of 
+trying to innovate in a regulatory gray zone —  in the confident words of the U .S. 
+Attorney for S.D .N.Y. one month later, “this was not a case of mismanagement or 
+poor oversight, but of intentional fraud, plain and simple” (DOJ website).
+Or so we were told, anyway.
+The D epartment of Justice is not a digital assets regulator. However, the 
+prior Administration used the Justice D epartment to pursue a reckless 
+strategy of regulation by prosecution, which was ill conceived and 
+poorly executed.
+—  U.S. Deputy Attorney General, April 2025
+SB F was a proxy for a movement that threatened entrenched financial interests. 
+His 25 -year sentence was a warning. A shot across the bow of an industry built on 
+decentralization, transparency, and autonomy. W hen the jury reached their verdict, 
+the U .S. Attorney General announced, “This case should send a clear message to 
+anyone who tries to hide their crimes behind a shiny new thing” (DOJ website). 
+Perhaps the administration’s real message was simply “to anyone who tries . . . a 
+shiny new thing.”
+In the end, it wasn’t just SB F’s freedom on the line, but also the reputation of an 
+entire industry. And the verdict reverberates far beyond a Manhattan courtroom.
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 28/29
+
+
+--- PAGE 29 ---
+
+Contact
+◭
+On November 4, 2025 , a three-judge panel heard SB F’s appeal. The panel will 
+likely decide whether to grant a retrial in early 2026 .
+W HAT NOW ?
+25/04/2026, 18:10 Free SBF: Sam Bankman-Fried's Side of the FTX Story
+https://freesbf.org 29/29

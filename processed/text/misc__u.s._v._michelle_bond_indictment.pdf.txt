@@ -1,0 +1,355 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+UNITED STATES OF AMERICA 
+V. 
+MICHELLE BOND, 
+Defendant. 
+SEALED INDICTMENT 
+~""-,V\ \.D:\\;~ 
+24 Cr. 
+2 4CRIM 49 4 
+Overview 
+1. MICHELLE BOND, the defendant, and her romantic partner ("CC-1 ") illegally 
+funded BOND's campaign for the U.S. House of Representatives in 2022. In particular, CC-1-
+then a high-level executive at a now-defunct cryptocurrency exchange (the "Exchange")-­
+arranged for a sham $400,000 payment from the Exchange to BOND, which BOND then used 
+almost entirely to fund her campaign illegally. Further, between June and August 2022, CC-1 wired 
+hundreds of thousands of dollars to BOND's personal bank account, which BOND then used to 
+fund her campaign illegally. BOND and CC-1 's conduct violated federal campaign finance laws 
+prohibiting corporate contributions, excessive contributions by an individual, and conduit (or 
+straw) contributions. BOND attempted to conceal her and CC-1 's conduct by, among other things, 
+making false statements to a congressional committee and the Federal Election Commission 
+("FEC"), and lying to her then-employer. 
+The Defendant and Co-Conspirator-1 
+2. MICHELLE BOND, the defendant, is an attorney based in or near Washington, 
+D.C. At all times relevant to this Indictment, BOND worked as the chief executive officer ("CEO") 
+for a digital assets trade group (the "Trade Group") . 
+
+
+--- PAGE 2 ---
+
+3. At all times relevant to this Indictment, CC-1 worked as an executive of the 
+Exchange. In particular, CC-1 was the CEO of a subsidiary of the Exchange based in the Bahamas 
+(the "Subsidiary"). 
+BOND Launches Her Congressional Campaign 
+4. MICHELLE BOND, the defendant, and CC-1 met in or about June 2021. By in or 
+about early 2022, BOND and CC-1 were in a romantic relationship. During that time, BOND, with 
+CC-1 's support, began considering a run for political office. 
+5. On or about February 3, 2022, CC-1 paid $3,000 to a political consulting firm 
+("Consulting Firm- I") on behalf of MICHELLE BOND, the defendant. That same day, BOND 
+and CC-1 exchanged the following messages: 
+BOND: hi I just wanted to say thank you so much for paying that [Consulting 
+Firm-I] invoice ... really appreciate this, means a lot 
+CC-1: if you' re thanking me for that 
+CC- I: the expenses on you actually running 
+CC-I: going to get me so much love <3 
+*** 
+BOND: you're going to get the love regardless . so might as well save the • 
+6. In late May 2022, MICHELLE BOND, the defendant, decided to launch a 
+campaign to run for the U.S. House of Representatives. BOND then hired another political 
+consulting firm ("Consulting Firm-2") to manage her congressional campaign (the "BOND 
+Campaign" or the "Campaign"), including a treasurer to handle the Campaign 's finances and FEC 
+filings. During certain conversations with Campaign personnel, BOND was advised, in sum and 
+substance, that she could self-fund the Campaign but that the funds needed to be her own. 
+7. On or about May 31 , 2022, MICHELLE BOND, the defendant, filed an FEC Form 
+2 Statement of Candidacy, declaring her intention to run for the U.S. House of Representatives in 
+2 
+
+
+--- PAGE 3 ---
+
+New York's first congressional district, which comprises the eastern portion of Long Island. The 
+"Michelle Bond for Congress Committee" filed its statement of organization the same day. 
+8. On or about May 31 , 2022, MICHELLE BOND, the defendant, made a $47,425 
+payment to a firm ("Vendor-I ") that was responsible for collecting signatures needed for BOND 's 
+inclusion on the ballot from her personal bank account (the "BOND Personal Account"). 
+BOND Receives the Sham Exchange Payment 
+9. On or about May 27, 2022, at the instruction of CC-1, an Exchange employee based 
+in the Bahamas (the "Exchange Employee") began preparing a consulting agreement between the 
+Subsidiary and MICHELLE BOND , the defendant . 
+10. In messages exchanged between CC-1 and the Exchange Employee , CC-1 stated, 
+in part, that CC-1 wanted the consulting agreement for MICHELLE BOND, the defendant , to 
+provide "flat 500,000 USD for services rendered and invoices effective today if possible[.]" The 
+Exchange Employee then asked if "it would just be easier to have them on our payroll for base 
+monthly pay and then submit invoices for additional expenses [] U)ust so payment isn't delayed." 
+CC-1 responded, "ok that makes sense, lets do 1 00k a year then with a signing bonus of 400k?" 
+11. Approximatel y a few hours later, the Exchange Employee asked CC-1 to whom 
+MICHELLE BOND, the defendant, would report under the contract, and CC-1 replied, "Me!" 
+12. On or about May 27, 2022, CC-1, on behalf of the Subsidiary, and MICHELLE 
+BOND, the defendant, s igned an "[Exchange] Professional Services Agreement ," effective 
+May 26, 2022 (the "Consulting Agreement"). The Consulting Agreement included a $400,000 
+sign-on bonus "that will be paid on the first payroll cycle following the Start Date," as well as an 
+annual payment of $100,000. BOND did not perform any services for the Exchange pursuant to 
+the Consulting Agreement. 
+3 
+
+
+--- PAGE 4 ---
+
+13. On or about June 1, 2022, the Subsidiary sent a $400,000 wire transfer (the 
+"Exchange Payment") to the BOND Personal Account from an overseas bank account that was 
+routed through a correspondent bank account located in Manhattan , New York, notwithstanding 
+that BOND had not performed any services in exchange for the Exchange Payment pursuant to the 
+Consulting Agreement. Before the Exchange Payment was deposited, there was less than $27,000 
+in the BOND Personal Account. 
+BOND Uses the Exchange Payment for Her Campaign 
+14. From on or about June 1, 2022-when the $400,000 Exchange Payment was 
+deposited into the BOND Personal Account-through on or about June 21 , 2022, the BOND 
+Personal Account sent a total of at least approximately $388,075 to Vendor-I and a bank account 
+established for the BOND Campaign (the "BOND Campaign Account"). Without the Exchange 
+Payment, there would not have been sufficient funds in the BOND Personal Account to make those 
+payments and contributions . 
+15. Specifically, on or about June 1, 2022, approximately four hours after receiving the 
+$400,000 payment from the Subsidiary, the BOND Personal Account transferred $25,000 to 
+Vendor-I. 
+16. On or about June 6, 2022, the BOND Personal Account sent another $63,075 to 
+Vendor-]. On or about the same day, MICHELLE BOND, the defendant, sent a screenshot of the 
+wire receipt to CC-1, who replied, "Want to wire 1 00k to campaign as well?" BOND then asked 
+for the wire instructions and CC-1 replied, ''Not a huge deal can do 25k chunks." 
+17. On or about June 21 , 2022, the BOND Personal Account wired .$300,000 to the 
+BOND Campaign Account. In a group text including MICHELLE BOND, the defendant , CC-1, 
+and Consulting Firm-2 employees, CC-1 provided BOND the wire instructions and BOND texted, 
+"$300k wired!" The BOND Campaign falsely reported the $300,000 wire on her campaign's FEC 
+4 
+
+
+--- PAGE 5 ---
+
+Form 3 as a loan from BOND to the Campaign , when, in truth and fact, the $300,000 at issue was 
+an illegal contribution from the Exchange to the Campaign. The FEC Form 3 did not disclose the 
+Exchange Payment. 
+CC-1 Makes the First Payment to BOND 
+18. On or about June 28, 2022, CC-1 wired $313,544 to the BOND Personal Account 
+from a bank account located in Manhattan , New York. Prior to receiving the wire, the balance in 
+the BOND Personal Account was less than approximately $20,000. 
+19. On or about June 29, 2022, the BOND Personal Account wired $300,000 to the 
+BOND Campaign Account in two separate wires ($100,000 and $200,000). That same day, the 
+following text messages were exchanged between MICHELLE BOND, the defendant, and CC-1, 
+with members of the BOND Campaign on the text chain: 
+CC-1: I can't see into campaign account, did I 00k land today? 
+BOND: I wired $100k (the max online) at about 7pm last night and was told it 
+would hit today. I just went into the branch and wired another $200k. 
+Can you guys monitor to make sure this $300k clears? 
+20. On or about June 27, 2022, the day before CC-1 wired money to the BOND 
+Personal Account, CC- I asked a friend to donate to the BOND Campaign. CC-1 stated, "the whole 
+thing is annoying cause you can only max donate $5,800 per person otherwise I would just cover 
+the whole thing." The friend replied, "Loi if you venmo me I'll donate it." CC-1 responded , "Joi 
+don't type that, that's not allowed." 
+21. The BOND Campaign falsely reported the June 29, 2022 wires on an FEC Form 3 
+as loans from MICHELLE BOND, the defendant, to the Campaign, when, in truth and fact, the 
+funds at issue were illegal campaign contributions from CC-1. The FEC Form 3 did not disclose 
+CC-1 's June 28, 2022 payment to BOND . 
+5 
+
+
+--- PAGE 6 ---
+
+BOND Lies on the House Ethics Committee's Financial Disclosure Form 
+22. As part of her candidacy, MICHELLE BOND, the defendant, was required to file 
+a financial disclosure form with the House Ethics Committee (the "House Ethics Form"). On or 
+about August 1, 2022, the House Ethics Form was submitted electronically through the House 
+Ethics Committee's website. 
+23. The House Ethics Form indicated that MICHELLE BOND, the defendant , had 
+digitally certified that the statements in the form were "true, complete, and correct to the best of 
+my knowledge and belief." The House Ethics Form, which covered the period from January 1, 
+2021 through July 30, 2022, falsely characterized the $400,000 Exchange Payment as consulting 
+income from the Subsidiary earned by BOND in 2021 and 2022. This characterization was 
+inconsistent with the other false cover story that BOND and CC-1 concocted by executing the 
+Consulting Agreement, which stated that the Exchange Payment was a "sign-on bonus." 
+24. On or about August 3, 2022, a crypto-focused news publication published a story 
+entitled "Crypto booster Michelle Bond is running for Congress - with help from her [Exchange] 
+exec boyfriend" (the "Article"). The Article noted, among other things , that MICHELLE BOND, 
+the defendant , had reported on the House Ethics Form that she had been paid $400,000 in 
+consulting fees from the Exchange for 2021 and 2022. 
+25. On or about August 4, 2022, MICHELLE BOND , the defendant, exchanged 
+messages about the Article with a public relations consultant (the "PR Consultant") who had 
+worked for BOND and the Trade Group. Contrary to what BOND had certified in the House Ethics 
+Form, BOND admitted to the PR Consultant , in part, "I'm not a consultant for [the Exchange]. .. 
+[i]t's a mess." On or about the same day, BOND also messaged CC-1 that, in response to questions 
+6 
+
+
+--- PAGE 7 ---
+
+from another employee of the Trade Group about the Article, "I just said I'm not a consultant for 
+[the Exchange]." 
+CC-1 Makes Another Payment to BOND 
+26. In or about July 2022, MICHELLE BOND, the defendant, and CC-I exchanged 
+text messages relating to fundraising for the Campaign. In those messages, CC- I stated, in sum 
+and substance, that CC-I would give BOND money to cover the Campaign's debt if BOND lost 
+the race. 
+27. The primary election for the congressional race in which MICHELLE BOND, the 
+defendant, was running occurred on or about August 23, 2022. BOND lost the primary and the 
+BOND Campaign had unpaid expenses. 
+28. On or about August 31 , 2022, CC-I wired approximately $215,000 to the BOND 
+Personal Account from a bank account located in Manhattan , New York. On or about September 7 
+and 8, 2022, the BOND Personal Account wired approximately $180,000 in two separate wires to 
+the BOND Campaign Account. On or about September 12, 2022, the BOND Personal Account 
+then sent a wire to the BOND Campaign Account of approximately $34,231. 
+29. The BOND Campaign falsely reported the September 2022 wires on an FEC Form 
+3 as loans from MICHELLE BOND, the defendant, to the Campaign, when, in truth and fact, the 
+funds at issue were illegal campaign contributions from CC-I. The FEC Form 3 did not disclose 
+CC-1 's payment to BOND on or about August 31, 2022. 
+30. The BOND Campaign reported a total of approximately $1,014,540 in loans and 
+contributions from MICHELLE BOND, the defendant, to the Campaign from on or about May 31 , 
+2022 through on or about September 12, 2022. During that same period, BOND received 
+approximately $928,544 from CC-I and the Subsidiary. 
+7 
+
+
+--- PAGE 8 ---
+
+BOND Gives Contradictory Explanations for the Exchange Payment 
+31. In or about September 2022, the Trade Group undertook a review of the 
+performance of MICHELLE BOND, the defendant, as CEO of the Trade Group. The Trade Group 
+scheduled a meeting with BOND to discuss, among other things, the Exchange Payment. 
+32. On or about September 28, 2022, MICHELLE BOND, the defendant, prepared a 
+document entitled "[Trade Group] Strategic Direction Word Document," which contained talking 
+points related to the Trade Group's review ofBOND 's performance. With respect to the Exchange 
+Payment, the document stated, "I do not work for [the Exchange] . . . Also I asked for an 
+amendment to the FEC filing that was misreported. [The Exchange] did give $ towards my 
+campaign and they have given [the Trade Group]$." 
+33. On or about that same day, MICHELLE BOND, the defendant, met with the Trade 
+Group' s board of directors (the "Board") to discuss her campaign and her future at the Trade 
+Group. At the end of the meeting, BOND denied that she had ever worked for the Exchange and 
+claimed that the House Ethics Form was misreported. 
+34. In or about November 2022, the PR Consultant reached out to MICHELLE BOND, 
+the defendant, regarding press inquiries about BOND's connections to the Exchange. In a series 
+of messages between BOND and the PR Consultant, BOND sent multiple versions of a proposed 
+response to those press inquiries, all of which admitted that she had never consulted for the 
+Exchange . 
+35. In light of the representation by MICHELLE BOND , the defendant, to the Board 
+regarding the House Ethics Form, the Board continued to ask BOND questions regarding the 
+Exchange Payment. In response to those questions, BOND and her counsel provided the Board 
+with contradictory and false explanations for the Exchange Payment. Among other 
+8 
+
+
+--- PAGE 9 ---
+
+misrepresentations, BOND , through counsel, falsely claimed, in sum and substance, that the House 
+Ethics Form was accurate, and that BOND had previously disclosed the Consulting Agreement to 
+the Board. 
+41. MICHELLE BOND, the defendant , and her counsel agreed to speak with the Board 
+about the Exchange Payment on or about December 23, 2022. Approximately one hour before the 
+scheduled call, BOND submitted her resignation as CEO of the Trade Group, effective 
+immediately . The call to discuss the Exchange Payment did not take place. 
+STATUTORY ALLEGATIONS 
+COUNT ONE 
+(Conspiracy to Cause Unlawful Political Contributions) 
+The Grand Jury charges: 
+42. The allegations contained in paragraphs 1 through 41 of this Indictment are 
+repeated and realleged as if fully set forth herein. 
+43. From at least in or about February 2022 through in or about December 2022, in the 
+Southern District of New York, and elsewhere, MICHELLE BOND, the defendant , and others 
+known and unknown, knowingly combined, conspired , confederated, and agreed together and with 
+each other to commit offenses against the United States, to wit: (i) knowingly and willfully causing 
+and accepting excessive campaign contributions aggregating to $25,000 or more during a calendar 
+year, in violation of Title 52, United States Code, Sections 30116(a)(l)(A) , 30116(£), and 
+30109( d)(l )(A)(i); (ii) knowingly and willfully causing and accepting an unlawful corporate 
+contribution aggregating to $25,000 or more during a calendar year, in violation of Title 52, United 
+States Code, Sections 30118(a) and 30 I 09( d)(I )(A)(i); and (iii) knowingly and willfully causing 
+and receiving conduit contributions aggregating to $25,000 or more during a calendar year, in 
+violation of Title 52, United States Code, Sections 30122 and 30109(d)(l )(A)(i). 
+9 
+
+
+--- PAGE 10 ---
+
+44. It was a part and object of the conspiracy that MICHELLE BOND, the defendant, 
+and others known and unknown, would and did knowingly and willfully cause contributions to a 
+candidate for federal office and accept contributions as a candidate for federal office in excess of 
+the limits set by the Election Act, aggregating to $25,000 and more in a calendar year, in violation 
+of Title 52, United States Code, Sections 30116(a)(l)(A) , 30116(f), and 30109(d)(l)(A )(i). 
+45. It was a further part and object of the conspiracy that MICHELLE BOND, the 
+defendant, and others known and unknown, would and did knowingly and willfully cause a 
+contribution by a corporation to a candidate for federal office and accept a contribution by a 
+corporation as a candidate for federal office, aggregating to $25,000 and more in a calendar year, 
+in violation of Title 52, United States Code, Sections 30118(a) and 30109(d)(l)(A) (i). 
+46. It was further part and an object of the conspiracy that MICHELLE BOND, the 
+defendant, and others known and unknown, would and did knowingly and willfully serve as a 
+conduit for contributions to a candidate for federal office, and accept contributions as a candidate 
+for federal office, in the name of another person, aggregating to $25,000 and more in a calendar 
+year, in violation of Title 52, United States Code, Sections 30122 and 30109(d)(l)(A)(i ). 
+Overt Acts 
+4 7. In furtherance of the conspiracy and to effect the illegal objects thereof, the 
+following overt acts, among others, were committed in the Southern District of New York and 
+elsewhere: 
+a. On or about June 1, 2022, MICHELLE BOND, the defendant, then a 
+candidate for federal office, received $400,000 from the Subsidiary, which payment was routed 
+through an account located in the Southern District of New York, and from on or about June 1, 
+
+
+--- PAGE 11 ---
+
+2022 through on or about June 21, 2022, BOND sent approximately $388,075 to the BOND 
+Campaign , which she falsely reported to the FEC as contributions and loans from BOND. 
+b. On or about June 28, 2022, BOND, then a candidate for federal office, 
+received $313,544 from CC-1, which payment was sent from the Southern District of New York, 
+and on or about June 29, 2022, BOND sent approximately $300,000 to the BOND Campaign , 
+which she falsely reported to the FEC as a personal loan from BOND. 
+(Title 18, United States Code, Section 371.) 
+COUNT TWO 
+(Causing and Accepting Excessive Campaign Contributions) 
+The Grand Jury further charges: 
+48. The allegations contained in paragraphs 1 through 41 in this Indictment are repeated 
+and realleged as though fully set forth herein. 
+49. From in or about June 2022 through in or about October 2022, in the Southern 
+District of New York and elsewhere, MICHELLE BOND, the defendant , knowingly and willfully 
+caused, and while a candidate for federal office, knowingly and willfully accepted and received, 
+contributions from CC-1, in excess of the limits set by the Election Act, aggregating to $25,000 
+and more during the 2022 calendar year, to wit, BOND caused CC-1 to transfer $528,544 to BOND 
+and accepted those payments , out of which BOND then sent approximately $515,000 to the BOND 
+Campaign and falsely reported to the FEC that those funds were personal loans. 
+(Title 52, United States Code, Sections 30116(a)(l)(A) , 30116(f) and 30109(d)(l)(A)(i) ; 
+Title 18, United States Code, Section 2.) 
+11 
+
+
+--- PAGE 12 ---
+
+COUNT THREE 
+(Causing and Receiving an Unlawful Corporate Contribution) 
+The Grand Jury further charges: 
+50. The allegations contained in paragraphs 1 through 41 in this Indictment are repeated 
+and realleged as though fully set forth herein. 
+51. From in or about May 2022 through in or about June 2022, in the Southern District 
+of New York and elsewhere, MICHELLE BOND, the defendant, knowingly and willfully caused 
+a corporation to make a contribution to a candidate for federal office and, as a candidate for federal 
+office, knowingly and willfully accepted a contribution from a corporation, aggregating to $25,000 
+and more during the 2022 calendar year, to wit, BOND caused the Subsidiary to make a $400,000 
+payment to BOND and accepted that payment , out of which BOND then sent approximately 
+$388,075 to the BOND Campaign and falsely reported to the FEC that those funds were personal 
+contributions and loans from BOND. 
+(Title 52, United States Code, Sections 30118(a) and 30109(d)(l)(A)(i); 
+and Title 18, United States Code, Section 2.) 
+COUNT FOUR 
+(Causing and Receiving a Conduit Contribution) 
+The Grand Jury further charges: 
+52. The allegations contained in paragraphs 1 through 41 in this Indictment are repeated 
+and realleged as though fully set forth herein. 
+53. From in or about May 2022, up to and including in or about December 2022, in the 
+Southern District of New York and elsewhere, MICHELLE BOND , the defendant, knowingly and 
+willfully caused contributions to be made to a candidate for federal office in the name of another 
+person , and, as a candidate for federal office, knowingly and willfully accepted contributions made 
+in the name of another person , aggregating to $25,000 and more during the 2022 calendar year, to 
+12 
+
+
+--- PAGE 13 ---
+
+--------------
+wit, BOND caused the BOND Campaign to falsely report that BOND made contributions to the 
+BOND Campaign of approximately $928,544 that were, in truth and fact, conduit contributions 
+made by the Subsidiary and CC-1 to the BOND Campaign through BOND. 
+(Title 52, United States Code, Sections 30122 and 30109(d)(l)(A)(i) ; 
+and Title 18, United States Code, Section 2.) 
+FOREPERSON 
+13 
+~~V\ ~:,,\~ 
+DAMIAN WILLIAMS 
+United States Attorney 

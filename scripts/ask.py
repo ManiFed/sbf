@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 from scripts.search_chunks import search
 
@@ -17,7 +18,10 @@ Rules:
 def build_context(results):
     blocks = []
     for i, (score, text, chunk_id) in enumerate(results, start=1):
-        blocks.append(f"[Source {i}: {chunk_id}, score={score}]\n{text}")
+        github_url = chunk_id_to_github_url(chunk_id)
+        blocks.append(
+            f"[Source {i}: {chunk_id}, score={score}, github={github_url}]\n{text}"
+        )
     return "\n\n".join(blocks)
 
 def build_prompt(question, context):
@@ -28,8 +32,56 @@ User question:
 Retrieved context:
 {context}
 
-Answer using only the retrieved context. Cite sources inline like [Source 1].
+Answer using only the retrieved context. Cite sources inline in markdown, like [Source 1](github-url).
 """
+
+
+def chunk_id_to_repo_path(chunk_id):
+    base = re.sub(r"_\d+$", "", chunk_id)
+
+    if "__" in base:
+        folder, filename = base.split("__", 1)
+        return f"{folder}/{filename}"
+
+    return base
+
+
+def chunk_id_to_github_url(chunk_id):
+    repo = os.getenv("GITHUB_REPOSITORY", "").strip()
+
+    if not repo:
+        return chunk_id_to_repo_path(chunk_id)
+
+    branch = os.getenv("GITHUB_BRANCH", "main").strip() or "main"
+    path = chunk_id_to_repo_path(chunk_id)
+    return f"https://github.com/{repo}/blob/{branch}/{path}"
+
+
+def build_source_links(results):
+    lines = ["Sources:"]
+
+    for i, (_, _, chunk_id) in enumerate(results, start=1):
+        url = chunk_id_to_github_url(chunk_id)
+        lines.append(f"- [Source {i}]({url})")
+
+    return "\n".join(lines)
+
+
+def render_clickable_citations(answer, results):
+    source_urls = {
+        str(i): chunk_id_to_github_url(chunk_id)
+        for i, (_, _, chunk_id) in enumerate(results, start=1)
+    }
+
+    def repl(match):
+        idx = match.group(1)
+        url = source_urls.get(idx)
+        if not url:
+            return match.group(0)
+        return f"[Source {idx}]({url})"
+
+    answer = re.sub(r"(?<!\]\()\[Source\s+(\d+)\]", repl, answer)
+    return f"{answer}\n\n{build_source_links(results)}"
 
 def chat_completion(url, api_key, model, prompt, extra_headers=None):
     headers = {
@@ -171,7 +223,8 @@ def ask(question):
     prompt = build_prompt(question, context)
 
     answer, provider = call_model(prompt)
-    return f"{answer}\n\nProvider used: {provider}"
+    answer_with_links = render_clickable_citations(answer, results)
+    return f"{answer_with_links}\n\nProvider used: {provider}"
 
 if __name__ == "__main__":
     while True:

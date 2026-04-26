@@ -257,11 +257,15 @@ function VariantLedger() {
                   <div style={ledger.msgWho}>{m.role === 'user' ? 'CHALLENGER' : 'COUNSEL'}</div>
                 </div>
                 <div style={ledger.msgBody}>
-                  <div
-                    dangerouslySetInnerHTML={{
-                      __html: marked.parse(m.text || m.full || "")
-                    }}
-                  />
+                  {m.role === 'bot' ? (
+                    <div
+                      dangerouslySetInnerHTML={{
+                        __html: marked.parse(m.text || m.full || "", { breaks: true, gfm: true }),
+                      }}
+                    />
+                  ) : (
+                    <div style={{ whiteSpace: 'pre-wrap' }}>{m.text || m.full || ""}</div>
+                  )}
                   {m.role === 'bot' && !m.done && <span style={ledger.cursor}>▮</span>}
                 </div>
               </article>

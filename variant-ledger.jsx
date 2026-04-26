@@ -65,36 +65,36 @@ function VariantLedger() {
     setThinking(true);
 
     inputRef.current?.focus();
+    fetch("/api/ask", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: t }),
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        setThinking(false);
+
+        const reply = data.answer || data.error || "No response";
+
+        setMessages((m) => [
+          ...m,
+          { role: "bot", text: "", full: reply, done: false },
+        ]);
+      })
+      .catch((err) => {
+        setThinking(false);
+
+        setMessages((m) => [
+          ...m,
+          {
+            role: "bot",
+            text: "",
+            full: "Error: " + err.message,
+            done: false,
+          },
+        ]);
+      });
   };
-fetch("/api/ask", {
-  method: "POST",
-  headers: { "Content-Type": "application/json" },
-  body: JSON.stringify({ question: t }),
-})
-  .then((res) => res.json())
-  .then((data) => {
-    setThinking(false);
-
-    const reply = data.answer || data.error || "No response";
-
-    setMessages((m) => [
-      ...m,
-      { role: "bot", text: "", full: reply, done: false },
-    ]);
-  })
-  .catch((err) => {
-    setThinking(false);
-
-    setMessages((m) => [
-      ...m,
-      {
-        role: "bot",
-        text: "",
-        full: "Error: " + err.message,
-        done: false,
-      },
-    ]);
-  });
   const tickerItems = [
     { k: 'CLAIMS.RECOVERY', v: '118.0%', d: '+0.4', pos: true },
     { k: 'APPEAL.STATUS', v: 'PENDING', d: '2DCIR', pos: true },

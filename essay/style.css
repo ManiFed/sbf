@@ -193,29 +193,30 @@ a, button, [role="button"], .term, .sc-bubble { touch-action: manipulation; }
 
 /* ── Evidence rail + source chips ── */
 .source-chip {
-  display: inline-flex;
-  align-items: center;
-  font-family: var(--sans);
-  font-size: 0.72rem;
-  line-height: 1.2;
-  padding: 0.26rem 0.56rem;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--card-bg) 84%, var(--accent-dim));
-  color: var(--text);
+  display: inline;
+  font-family: inherit;
+  font-size: 0.94em;
+  line-height: inherit;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: none;
+  color: var(--accent);
   cursor: pointer;
-  text-decoration: none;
-  transition: background 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
+  text-decoration: underline;
+  text-underline-offset: 0.13em;
+  text-decoration-thickness: 0.09em;
+  transition: color 0.16s ease, text-decoration-thickness 0.16s ease;
 }
 
 span.source-chip {
-  margin: 0 0.18rem;
+  margin: 0 0.08rem;
   vertical-align: baseline;
 }
 
 .source-chip:hover {
-  border-color: var(--accent);
-  transform: translateY(-1px);
+  color: color-mix(in srgb, var(--accent) 74%, #fff);
+  text-decoration-thickness: 0.12em;
 }
 
 .source-chip:focus-visible {
@@ -224,10 +225,8 @@ span.source-chip {
 }
 
 .source-chip.is-active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 24%, transparent);
+  color: var(--text);
+  text-decoration-thickness: 0.13em;
 }
 
 .steelman-note {

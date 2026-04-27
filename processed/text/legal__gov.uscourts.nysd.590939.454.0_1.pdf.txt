@@ -1,0 +1,1067 @@
+
+
+--- PAGE 1 ---
+
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 1 of 36
+
+
+--- PAGE 2 ---
+
+1 
+ 
+ Claimants Alexander Chernyavsky, Kyle Rupprecht, Mike Livieratos, and Sunil Kavuri 
+(“Individual Claimants”), both individually and on behalf of the MDL Class, by and through MDL 
+Co-Lead Counsel in In Re: FTX Cryptocurrency Exchange Collapse Litigation  (MDL No. 3076) 
+pending before the Honorable K. Michael Moore in the Southern District of Florida (the “FTX 
+MDL”), respectfully petition this Court for a hearing Pursuant to Rule 32.2 of the Federal Rules of 
+Criminal Procedure and 21 U.S.C. § 853(n) to adjudicate the validity of their interests in the assets 
+identified in Exhibit A to the Preliminary Order of Forfeiture / Money Judgment, issued on March 29, 
+2024 (together, the “Forfeited FTX Customer Assets
+”). The Individual Claimants herein are named 
+plaintiffs and putative class representatives in the FTX MDL who have moved for preliminary 
+approval, on behalf of the putative class of FTX victims (together, the “MDL Plaintiffs”), of 
+several class action settlements with FTX Insiders and Promoters, including Defendant Sam 
+Bankman-Fried (“SBF”).   
+Each MDL Plaintiff is an FTX customer whose digital assets were stolen by SBF. When 
+SBF committed the theft and fraudulent acts for which he was found guilty by a jury of his peers 
+in this Court, each MDL Plaintiff held all right, title, and interest to these digital assets. The assets 
+of the MDL Plaintiffs were the principal targets of SBF. The Court presiding over the FTX MDL 
+has already found that court-appointed Co-Lead counsel would be able to fairly and efficiently 
+represent the interest of the MDL Plaintiffs in the consolidated proceedings. Accordingly, MDL 
+Plaintiffs respectfully suggest that the MDL is best situated to distribute the funds discussed herein.  
+ 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 2 of 36
+
+
+--- PAGE 3 ---
+
+2 
+ 
+BACKGROUND 
+The FTX Fraud 
+1. In May 2019, SBF and his co-founders, Gary Wang and Nishad Singh, launched 
+FTX, which, along with various subsidiaries, affiliates and related entities, operated the FTX 
+Platform, which FTX purported to be a centralized digital asset exchange aimed at “the mass 
+market and first-time users” of cryptocurrencies. FTX portrayed itself as a trustworthy and law-
+abiding member of the cryptocurrency industry, focused not only on profits, but also on investor 
+and client protection. FTX claimed to employ security measures such as segregation of customer 
+funds and managing or eliminating conflicts, including SBF’s ownership of quantitative crypto 
+trading firm, Alameda, which was a trader on the FTX Platform, in order to curate a security-first 
+persona to lure in inexperienced and unwitting investors to the platform. 
+2. However, FTX was none of these things. Instead of managing conflicts, the FTX 
+Group actively embraced them, using funds from FTX Trading, FTX.US, and Alameda 
+interchangeably to prop up the enterprise, including FTX customer assets as an interest-free source 
+of capital for Alameda’s and SBF’s private ventures.  
+3. For many years, SBF directed that FTX customer funds be wired to bank accounts 
+held by North Dimension, a wholly owned subsidiary of Alameda, which were then commingled 
+with Alameda’s funds and misappropriated by SBF. This improper relationship between FTX and 
+Alameda was further detailed by SBF, who admitted that “people wired $8b to Alameda and . . . 
+it was never delivered to FTX.” Often, SBF used the misappropriated customer funds to pay for 
+Alameda’s, increasingly riskier, leveraged trades and investments. Additionally, FTX created a 
+backdoor in their code to allow Alameda to circumvent FTX’s risk engine, which would auto-
+liquidate accounts with a negative balance. Instead, Alameda was allowed to go into an estimated 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 3 of 36
+
+
+--- PAGE 4 ---
+
+3 
+ 
+$65 billion negative balance, effectively giving Alameda a line of credit in that amount which was 
+collateralized with FTX customer funds. 
+FTX Insider Liability 
+4. For their roles in this fraud, SBF, Gary Wang, Nishad Singh, and Caroline Ellison 
+(“FTX Insiders”) have been criminally charged by the United States, sued by customers in civil 
+suits so numerous that they are now consolidated in the FTX MDL, and individually named in 
+adversary proceedings initiated by the debtor in the FTX bankruptcy. 
+5. In this Court, SBF was charged with seven counts: wire fraud, conspiracy to 
+commit wire fraud on FTX’s customers, conspiracy to commit securities fraud on FTX’s investors, 
+conspiracy to commit commodities fraud on FTX’s customers, and conspiracy to commit money 
+laundering.  
+6. He was convicted on all seven counts. MDL Insider Defendants Caroline Ellison, 
+Gary Wang, and Nishad Singh have all pled guilty to charges related to their involvement in the 
+fraudulent activities at FTX and cooperated with the government in the case against SBF. Their 
+testimonies established the extensive fraud and misappropriation of customer funds now subject 
+to forfeiture. 
+7. The MDL Plaintiffs have sued the FTX Insiders for fifteen causes of action and 
+were careful not to include any claims that would arguably belong to the FTX Bankruptcy Estate: 
+x Claims for unlawful promotion and sale of unregistered securities 
+(Counts I, XII); 
+x State law consumer protection claims for unfair and deceptive practices 
+under Florida and California law (Counts II, XIV, XV); 
+x Contract and tort claims for civil conspiracy, fraud, aiding & abetting 
+fraud, conversion, aiding and abetting conversion, negligent 
+misrepresentation, breach of fiduciary duty, aiding and abetting breach 
+of fiduciary duty, and unjust enrichment (Counts III–XI); and  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 4 of 36
+
+
+--- PAGE 5 ---
+
+4 
+ 
+x Federal RICO claims under 18 U.S.C. § 1962(c) (Count XIII). 
+8. In the bankruptcy court, certain FTX customers have filed claims against SBF and 
+other FTX Insiders for breach of fiduciary duty and for other related claims (Adv. Proc. 22-50513-
+JTD). The FTX Debtors have filed adversary proceedings asserting fraudulent transfer and other 
+claims against SBF and other entities (Adv. Proc. 22-11068-JTD) and asserting claims for breach 
+of fiduciary duties and other claims against SBF and other FTX Insiders (Adv. Proc. 23-50448-
+JTD). 
+FTX MDL Settlement 
+9. The MDL Plaintiffs have already reached proposed settlements in the FTX MDL 
+with 11 defendants, including SBF and the FTX Insiders. See FTX MDL, ECF No. 565 at 10–11. 
+Motions for preliminary approval these settlements are pending.  
+10. Through these settlements, the MDL Plaintiffs have obtained documents and 
+information relevant to their other claims, assistance in pursuing those claims, and an agreement 
+not to object to the distribution of the forfeiture funds at issue here through the MDL, among other 
+things.  (See Section IV, infra, for further details.) 
+SBF Criminal Verdict: SBF Stole from Customers, Not FTX Trading 
+11. As charged in his Superseding Indictment, SBF stole FTX customer funds to 
+“finance exorbitant spending unrelated to the operation of the FTX platform,” including “to pay 
+for his own personal expenses, real estate in The Bahamas, speculative venture investments, a 
+wide-ranging political influence operation, and to repay Alameda’s lenders.” (Superseding 
+Indictment, ¶ 7).  
+12. On November 3, 2023, a jury convicted SBF for misappropriating FTX customer 
+funds, not funds owned by FTX Trading or any other corporate entity. SBF was convicted of 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 5 of 36
+
+
+--- PAGE 6 ---
+
+5 
+ 
+conspiracy to commit wire fraud on FTX’s customers (Count I), wire fraud on FTX’s customers 
+(Count II), and conspiracy to commit commodities fraud on FTX’s customers (Count V). See ECF 
+No. 1 at 1 – 2, 5; Gov’t Sentencing Mem., ECF No. 410, at 4. The assets SBF stole were customer 
+assets that should be returned to the customers through a procedural process best suited to accomplish 
+that—i.e., the claims administration process that will already be occurring in the FTX MDL for other 
+class settlements. Experienced MDL judges like Judge Moore in the Southern District of Florida 
+routinely oversee this kind of process in a fair and efficient manner.
+ 
+13. As the Government further explains: “The defendant directly, and through FTX, 
+represented to customers that the exchange was safe and trustworthy, that customers’ money 
+belonged to them and was custodied, and that their funds would not be used by FTX.” Gov’t 
+Sentencing Mem., at 5; see id. at 6 (“The FTX website also represented that customers owned the 
+funds they deposited.”). Notwithstanding these representations, SBF “conspired” with other FTX 
+Insiders to “defraud FTX’s customers by fraudulently inducing customers to deposit funds on 
+FTX, by misappropriating those funds by directing them to Alameda, and by making false 
+statements to lull customers into not withdrawing their money.” Id. at 6. 
+14. MDL Co-Lead Counsel and named Plaintiff Sunil Kavuri appeared at SBF’s 
+March 28, 2024, sentencing to give voice to the harm wrought by SBF’s criminal misconduct, 
+testifying that the MDL Plaintiffs suffered severe financial losses that have caused personal and 
+family distress, depression, lost time from work and even suicide. His testimony underscored the 
+reality that the most direct victims of SBF’s crimes are the putative class of customers in the FTX 
+MDL. 
+15. 
+Thus, this Court has been clear, and the law of the case moving forward is clear: the 
+assets at issue here belong to the customers from whom they were stolen.  As such, they deserved to 
+be returned to those customers in the most efficient manner.  (See Section IV, infra.)
+ 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 6 of 36
+
+
+--- PAGE 7 ---
+
+6 
+ 
+SBF’s Forfeiture Order and Apportionment of Funds for Customers 
+16. The Court’s Preliminary Order of Forfeiture directed the forfeiture of 259 specific 
+properties tied to the fraudulent activities of SBF and other insiders. These assets include 
+substantial amounts of cryptocurrency, cash, and other financial instruments held in various 
+accounts and entities linked to SBF and the other FTX Insiders. These assets are primarily the 
+proceeds of wire fraud and property involved in money laundering and include, as examples: 
+x The Robinhood Shares, of which this Court authorized the sale for a total of 
+$605,694,411.50, (Prelim. Order at 3), were purchased by Alameda using the line 
+of credit “ultimately coming from customer funds,” as Co-Defendant Ellison 
+testified at trial. (Tr. at 732). 
+x The $21 million of United States currency seized by the Government from accounts 
+at ED&F Man Capital Markets in the name of “Emergent Fidelity Technologies,” 
+(Prelim. Order at 3), are converted FTX customer deposits. (Tr. at 1740 and GX-
+1032). 
+x The $50 million of United States seized by the Government from accounts at 
+Moonstone Bank held in the name of “FTX Digital Markets,” (Prelim. Order at 2), 
+are converted FTX customer deposits. (Dkt. 49). MDL Plaintiffs have sued 
+Moonstone, along with its affiliate, Deltec Bank, and their co-owner, Jean 
+Chalopin, for conspiring with Defendant Sam Bankman-Fried and other co-
+conspirators to misappropriate customer funds through accounts at those banks, 
+including the $50 million on deposit at Moonstone that the Government has already 
+seized.  
+x The United States currency seized by the Government from accounts at Silvergate 
+Bank held in the name of “FTX Digital Markets,” (Prelim. Order at 2), are 
+converted FTX customer deposits. (Tr. at 1286-88 and GX-1050).  
+x The funds held at Signature Bank in the name of SBF and Luk Wei Chan, (Prelim. 
+Order, Ex. A. ¶ 258), are converted FTX customer funds. (Tr. at 1861 and GX-
+1089).  
+x The various cryptocurrencies in Debtors’ Binance accounts (Prelim. Order, Ex. A. 
+¶¶ 2-255), are converted property of FTX customers or were purchased with FTX 
+customer funds. (Tr. at 1715).  
+x The Bombardier Global 5000 BD-700-1A11 and Embraer Legacy EMB-135BJ 
+aircraft, (Prelim. Order, Ex. A. ¶¶ 257-58), were purchased with FTX customer 
+funds. (Tr. at 1715).  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 7 of 36
+
+
+--- PAGE 8 ---
+
+7 
+ 
+x The political contributions made by SBF, Co-Defendant Nishad Singh, and/or Co-
+Defendant Ryan Salame, (Prelim. Order, Ex. A. ¶¶ 259-261), were funded with 
+FTX customer funds. (Tr. at 1862-69). 
+17. This Court sentenced SBF to twenty-five (25) years in prison and ordered that 
+SBF forfeit to the United States the sum of $11,020,000,000, pursuant to the Preliminary Order 
+entered by the Court the next day. As the Government noted in its Sentencing Memorandum, of 
+that forfeiture amount, $8,000,000,000 is a conservative estimate of the forfeiture amount that 
+should flow to FTX’s customers (the “Forfeited FTX Customer Funds”), while the remaining 
+$3,020,000,000 is to be distributed to Alameda’s lenders and FTX’s investors (the “Forfeited FTX 
+Investor Funds”).
+1 (Gov. Mem. at 104). 
+18. Proceedings in the bankruptcy court are now ongoing, with a hearing on the 
+Debtors’ disclosure statement (to which the MDL Plaintiffs objected) curre ntly set for June 25, 
+2024. In addition, adversary proceedings against SBF and other FTX Insiders remain pending. 
+The Assets Being Forfeited Belong to the MDL Plaintiffs
+2 
+19. As this Court has already ruled, the converted customer assets have always, and 
+continue to be, owned solely by the individual customers as individual property. They were not 
+owned, at any point , by any FTX Group entity or FTX Insider. The FTX.US User Agreement 
+dated May 6, 2022, Section 6, “Account Services,” makes clear that “Title to cryptocurrency 
+represented in your FTX.US Account shall at all times remain with you and shall not transfer to 
+ 
+1 To the extent this Court agrees with this, or any other, apportionment of funds as between 
+customers and lenders/investors, the MDL Plaintiffs make no claim regarding how the latter funds 
+should be distributed. 
+2 To the extent the Court decides that the language in FTX’ Terms of Use is not clear, and thus 
+may consider extrinsic evidence for their interpretation, Class Counsel have already discussed 
+this issue with the FTX insiders that drafted these sections and are prepared to provide those 
+materials to the Court.  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 8 of 36
+
+
+--- PAGE 9 ---
+
+8 
+ 
+FTX.US,” and “FTX.US does not represent or treat assets in your FTX.US Account as belonging 
+to FTX.US.” Similarly, the FTX International User Agreement dated May 13, 2022. Section 8.2.6 
+makes clear that “Title to your Digital Assets shall at all times remain with you and shall not 
+transfer to FTX Trading,” and “None of the Digital Assets in your Account are the property of, or 
+shall or may be loaned to, FTX Trading; FTX Trading does not represent or treat Digital Assets in 
+User’s Accounts as belonging to FTX Trading.”  
+20. Schedule 1, “Definitions and Interpretation,” of the FTX International Terms, 
+defines digital assets as “BTC, ETH, FTT and any other digital asset, cryptocurrency, virtual 
+currency, token, leveraged token, stablecoin, tokenised stock, volatility token, tokenized futures 
+contract, tokenised option or other tokenised derivatives product that is supported by and made 
+available from time to time to transact in using the Platform.” Further, Section 8.3 makes clear that 
+FTX International “IS NOT A DEPOSITORY INSTITUTION.”  
+21. In order for customers to engage in “Complex Products” trading (including but 
+not limited to Futures Contracts, Options Contracts, and MOVE Volatility Contracts), customers 
+were required to post collateral in the form of fiat currency or Digital Assets, both of which always 
+remained titled to and owned by FTX customers, not FTX International, as indicated by the 
+foregoing terms. 
+ARGUMENT 
+I. CLAIMANTS HAVE A SUPERIOR INTEREST IN THE ASSETS SUBJECT TO 
+FORFEITURE 
+22. The Government has repeatedly and corr ectly observed that the assets involved 
+in this case were derived from criminal activity and have numerous victims. Specifically, the 
+Sentencing Memorandum notes that "the defendant misappropriated those funds to invest in a 
+variety of speculative assets" and "every dollar stolen from customers was taken out of their 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 9 of 36
+
+
+--- PAGE 10 ---
+
+9 
+ 
+deposits on FTX and went into the defendant’s (or his companies’) pockets[.]” Sentencing 
+Memorandum at 52, 73. Furthermore, the Sentencing Memorandum emphasizes the profound 
+impact on victims, including those who lost their "entire life savings" and experienced severe 
+financial and emotional distress as a result of the defendant’s actions. Id. at pp. 3, 79.  
+23. The Individual Claimants and MDL Plaintiffs here are those victims. They 
+invested millions of dollars’ worth of digital funds to purchase unregistered FTX securities, 
+including YBAs and FTT. It is those digital funds that are s ource for all of the Forfeited FTX 
+Customer Assets identified in the Preliminary Order of Forfeiture.  
+24. Those assets include but are not limited to the following accounts which have the 
+very tokens in them that SBF misappropriated from the MDL Plaintiffs and, in particular, from the 
+Individual Claimants: 
+x 1.3773854 units of Bitcoin (BTC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD 
+x 24.4135385 units of Bitcoin (BTC) formerly held in Binance.us account 
+number 35155204 in the name of Alameda Research LTD 
+x 657.92 units of Bitcoin (BTC) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD 
+x 19.98876671 units of ChainLink (LINK) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD 
+x 98591.64417196 units of ChainLink (LINK) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD 
+x 29.50308659 units of Ethereum (ETH) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD 
+x 289.65502554 units of Ethereum (ETH) formerly held in Binance.us 
+account number 35155204 in the name of Alameda Research LTD 
+x 4620.58 units of Ethereum (ETH) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 10 of 36
+
+
+--- PAGE 11 ---
+
+10 
+ 
+x 3.52598049 units of Litecoin (LTC) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD 
+x 550 units of Litecoin (LTC) formerly held in Binance.us account number 
+35155204 in the name of Alameda Research LTD 
+x 31341.27163278 units of Litecoin (LTC) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD 
+x 19.1760689 units of Polygon (MATIC) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD 
+x 122572.64205808 units of Polygon (MATIC) formerly held in 
+Binance.us account number 94086678 in the name of Alameda Research 
+LTD 
+x 0.50728742 units of Solana (SOL) formerly held in Binance.us account 
+number 35000066 in the name of Alameda Research LTD 
+x 15242.1 units of Solana (SOL) formerly held in Binance.us account 
+number 94086678 in the name of Alameda Research LTD 
+x 17.27458532 units of Uniswap (UNI) formerly held in Binance.us 
+account number 35000066 in the name of Alameda Research LTD 
+x 298179.10587996 units of Uniswap (UNI) formerly held in Binance.us 
+account number 94086678 in the name of Alameda Research LTD 
+A. The Claimants’ Property Rights 
+25. Individual Claimants Alexander Chernyavsky, Kyle Rupprecht, Mike Livieratos, 
+and Sunil Kavuri assert their property rights in the following assets subject to forfeiture as set out 
+in the chart here, both individually, and as representative examples of MDL Plaintiffs investments: 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 11 of 36
+
+
+--- PAGE 12 ---
+
+11 
+ 
+Name Name of Crypto Quantity Dates Acquired/Deposited 
+Alexander 
+Chernyavsky Bitcoin (BTC) 2.501863 On or after 3/11/2022 through 
+11/11/2022 
+Alexander 
+Chernyavsky Ethereum (ETH) 32.227 On or after 3/11/2022 through 
+11/11/2022 
+Alexander 
+Chernyavsky Solana (SOL) 224.3172 On or after 3/11/2022 through 
+11/11/2022 
+Alexander 
+Chernyavsky Litecoin (LTC) 37.03018 On or after 3/11/2022 through 
+11/11/2022 
+Alexander 
+Chernyavsky ChainLink Token (LINK) 238.0017 On or after 3/11/2022 through 
+11/11/2022 
+Alexander 
+Chernyavsky Uniswap Protocol Token (UNI) 175.3097 On or after 3/11/2022 through 
+11/11/2022 
+Kyle Rupprecht Bitcoin (BTC) 11.67976 On or about 2021 through 
+11/11/2022 
+Kyle Rupprecht Ethereum (ETH) 12.03103 On or about 2021 through 
+11/11/2022 
+Mike Livieratos Bitcoin (BTC) 1.003525 10/18/2022 (1 BTC) 
+Mike Livieratos Ethereum (ETH)  9.751568 10/18/2022 (8 ETH), 10/28/2022 
+(1.75 ETH) 
+Mike Livieratos Solana (SOL) 406.1113 10/18/2022 (200 SOL), 10/28/2022 
+(205 SOL) 
+Mike Livieratos Polygon (MATIC) 5042.246 
+10/18/2022 (7.59 MATIC), 
+10/28/2022 (3002.21 MATIC), 
+8/11/2022 (2000 MATIC) 
+Sunil Kavuri Bitcoin (BTC) 15.73505 Various dates between 11/8/2021 –  
+10/19/2022  
+Sunil Kavuri Ethereum (ETH) 799.943  8/11/2022, 12/2022 
+ 
+26. Altogether these four Individual Claimants assert a superior right, title, and/or 
+interest to the following assets both individually, and as representative examples of MDL Plaintiffs 
+investments: 
+x Bitcoin (BTC): 30.920198 
+x ChainLink Token (LINK): 238.0017 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 12 of 36
+
+
+--- PAGE 13 ---
+
+12 
+ 
+x Ethereum (ETH): 853.952598 
+x Litecoin (LTC): 37.03018 
+x Polygon (MATIC): 5042.246 
+x Solana (SOL): 630.4285 
+x Uniswap Protocol Token (UNI): 175.3097 
+27. As a class, the MDL Plaintiffs assert a superior right, title, and interest over the 
+Forfeited FTX Customer Assets, which were obtained with assets they held on FTX prior to the 
+date of the bankruptcy, and which the Court ruled in the Preliminary Forfeiture Order that 
+Bankman-Fried converted to make those purchases. Such information is readily ascertainable by 
+the Court, and can be obtained by MDL Co-Lead Counsel through a subpoena issued in this action 
+if desired. 
+28. The Individual Claimants and MDL Plaintiffs retain all title and ownership to the 
+assets they placed into FTX accounts. The terms of use for FTX.US and FTX Trading both specify, 
+using substantially similar language, that FTX does not claim any title or ownership to customer 
+assets placed into accounts on any of the FTX platforms and that FTX does not purport to be a 
+depository institution. See Declaration of B. Alexander (“Alexander Decl.”), Ex. A (FTX.US 
+Terms of Service), Section 6; Id., Ex. B (FTX Trading Terms of Service), Section 8.2.6, 8.3, and 
+Schedule 1. Even in instances of complex products, which require collateral, customers retained 
+all title and ownership of the collateral property. 
+B. The MDL Plaintiffs’ Interests in the Forfeited FTX Customer Assets Are 
+Directly Traceable to Their Investments 
+29. Here, all of the Forfeited FTX Customer Assets were obtained with FTX customer 
+funds. The jury convicted SBF for “defraud[ing] FTX customers … b]y exploiting the[ir] trust,” 
+as SBF “misappropriated and embezzled FTX customer deposits … billions of dollars in stolen 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 13 of 36
+
+
+--- PAGE 14 ---
+
+13 
+ 
+funds for a variety of purposes, including, among other things, to enrich himself, to support the 
+operations of FTX; to fund speculative venture investments; to help fund over a million dollars in 
+campaign contributions to Democrats and Republicans to seek to influence cryptocurrency 
+regulation; and to pay for Alameda’s operating costs” including “to repay Alameda’s lenders.” 
+(Superseding Indictment, ¶¶ 1, 7).  
+30. The jury found that SBF stole no less than $8 billion from FTX customers to fund 
+these purchases, which purchases include the Specific Property subject to forfeiture by the Court’s 
+Preliminary Order as previously described.  
+31. As Mr. Can Sun, one of FTX’s in-house attorneys, testified at SBF’s trial, neither 
+SBF nor any Debtor had the right to spend $8 billion in FTX customer funds on the Specific 
+Property or other purchases; instead, Mr. Sun testified, FTX “customer assets, when deposited 
+onto the platform continued to belong to the customers and FTX ha[d] no rights to customer 
+assets,” consistent with FTX’s terms of service providing that “[t]itle to [FTX customer] assets 
+shall at all times remain [with the customer]” and “[n]one of [those assets] are the property of, or 
+shall or may be loaned to, FTX Trading.” (Tr. at 1915–16). Accordingly, the Forfeited FTX 
+Customer Assets, comprised primarily of U.S. dollars and cryptocurrencies, belong to FTX 
+customers in the MDL class, not the Bankruptcy Estate. 
+II. CLAIMANTS ARE ENTITLED TO THE RETURN OF THEIR ASSETS 
+32. “Under 21 U.S.C. § 853(n), any third party ‘asserting a legal interest in property 
+which has been ordered forfeited to the United States’ may ‘petition the court for a hearing to 
+adjudicate the validity of his alleged interest in the property.’” United States v. Daugerdas, 2020 
+WL 364601 at *2-3 (S.D.N.Y. Jan. 22, 2020); see also U.S. v. Erpenbeck , 682 F.3d 472,475 (6th 
+Cir. 2012) (“To obtain title to property through criminal forfeiture, the government must give third 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 14 of 36
+
+
+--- PAGE 15 ---
+
+14 
+ 
+parties a chance to assert competing interests in the property… If anyone files a petition, the court 
+must hold an ancillary hearing to determine the bona fides of his alleged interest.”). Congress 
+created the procedure in 21 U.S.C. § 853(n) “to protect the rights of certain innocent third parties.” 
+U.S. v. Huntington Nat. Bank, 682 F.3d 429, 433 (6th Cir. 2012). 
+33. “At the hearing, the petitioner must first establish his standing to challenge the 
+forfeiture order by demonstrating a ‘legal interest’ in the forfeited property under § 853(n)(2).” 
+United States v. Watts, 786 F.3d 152, 160 (2d Cir. 2015). Then the claimant must demonstrate 
+that they have “a legal right, title, or interest in the property, … that was vested in the [claimant] 
+rather than the defendant or was superior to any right, title or interest of the defendant at the 
+time of the commission of the acts which gave rise to the forfeiture of the property.” 21 U.S.C. 
+§ 853(n)(6)(A); Watts, 786 F.3d at 160. As a result, the Individual Claimants are entitled to 
+relief because they can show either that their interest vested before SBF’s interest and that they 
+had a superior vested interest. Watts, 786 F.3d at 160. 
+34. The Second Circuit has embraced the Fourth Circuit’s “broader view of legal 
+interests” in concluding that “the term ‘legal interest’ in § 853(n)(2) encompasses all legally 
+protected rights, claims, titles, or shares in real or personal property.” U.S. v. Schwimmer, 968 
+F.2d 1570, 1582 (2d Cir. 1992) (citing Reckmeyer, 836 F.2d 200 (4th Cir. 1987)). In the Second 
+Circuit, a claimant may also assert an interest in property via constructive trust when the relevant 
+state law recognizes the creation of a constructive trust. Willis Mgmt. (Vermont) Ltd. v. U.S. , 
+652 F.3d 236, 245 (2d Cir. 2011). 
+35. Claimants can show that right, title, or interest to the seized assets was vested in 
+the Claimants rather than the Defendant because Defendant Bankman-Fried never had any 
+legitimate ownership interest in the Victims’ Crypto-Assets.  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 15 of 36
+
+
+--- PAGE 16 ---
+
+15 
+ 
+36. Notwithstanding this absence of legitimate interest, SBF caused the transfer of the 
+Forfeited FTX Customer Assets to the Binance.US accounts identified above as well as to other 
+accounts and destinations identified in the Court’s Preliminary Order of Forfeiture. As a result, the 
+interest in those Forfeited FTX Customer Assets was vested solely in Individual Claimants and the 
+MDL Class. Moreover, the Individual Claimants and the MDL Class can show their right, title or 
+interest was superior to any right, title, or interest of the defendant “at the time of the commission 
+of the acts which gave rise to the forfeiture of the property,” because if SBF had any interest in 
+Claimants’ cryptocurrencies—and he does not—SBF’s interest would have vested after Claimants 
+still maintained possession of their cryptocurrencies and thus Claimants’ right, title, or interest was 
+superior in time to Defendant’s. 
+III. THE CLAIMANTS’ INTERESTS IN THE PROPERTY ARE SUPERIOR TO 
+DEFENDANT’S INTEREST 
+37. The MDL Plaintiffs have a specific interest in the Forfeited FTX Customer Assets 
+set out above—they are not merely general cr editors of FTX. Similarly, the MDL Plaintiffs—
+including the Individual Claimants—have specific interest in each category of the properties set 
+out above (i) by virtue of the fact that the assets are directly traceable to assets the MDL Plaintiffs 
+placed on or attempted to transfer to the FTX Platform and/or (ii) by recognition of a constructive 
+trust. See Nechis v. Oxford Health Plans, Inc., 421 F.3d 96, 103 (2d Cir. 2005) (quoting Great-W. 
+Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204, 213 (2002)) (“[A] constructive trust or equitable 
+lien is imposed when, ‘in the eyes of equity,’ a plaintiff is ‘the true owner’ of funds or property, 
+and the ‘money or property identified as belonging in good conscience to the plaintiff [can] clearly 
+be traced back to particular funds or property in the defendant's possession’”). 
+38. Claimants thus have “a legal right, title, or interest in the property, and such right, 
+title, or interest . . . was superior to any right, title, or interest of the defendant at the time of the 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 16 of 36
+
+
+--- PAGE 17 ---
+
+16 
+ 
+commission of the acts which gave rise to the forfeiture of the property under this section.” 21 
+U.S.C. § 853. The statute “requires that the third party’s interest in any forfeited property must have 
+been superior to the defendant’s ‘at the time of th e commission of the acts which gave rise to the 
+forfeiture.’” United States v. Daugerdas , 892 F.3d 545, 554 (2d Cir. 2018) (quoting 21 U.S.C. 
+§ 853(n)(6)(A)).  
+39. Unlike a traditional brokerage, FTX took custody of Class Members’ assets, which 
+FTX promised to safeguard. In its terms of service, FTX represented to Class Members that “[a]ll 
+cryptocurrency or dollars (or other supported currencies) that are held in your account are held by 
+FTX.US for your benefit;” that “[t]itle to cryptocurrency represented in your FTX.US Account 
+shall at all times remain with you and shall not transfer to FTX.US.;” and that “FTX.US does not 
+represent or treat assets in your FTX.US Account as belonging to FTX.US.” FTX Trading’s terms 
+of service similarly represented that no customer funds were “the property of, or shall be loaned 
+to, FTX Trading,” and that FTX Trading “does not represent or treat Digital Assets in User’s 
+Accounts as belonging to FTX Trading.” See Alexander Decl., Ex. A (FTX.US Terms of Service), 
+Section 6; Id., Ex. B (FTX Trading Terms of Service Section), 8.2.6, 8.3, Schedule 1. 
+40. The MDL Plaintiffs’ particular and specific interests in the Victim’s Crypto-
+Assets were maintained at all times after they acquired each asset. Claimants maintained this 
+superior interest at the time that the Victim’s Crypto-Assets were transferred, wrongfully, into the 
+several Binance accounts identified in the Preliminary Order of Forfeiture and enumerated above. 
+As a result, Claimants’ interests were superior to those of SBF’s at all time. See 21 U.S.C. 
+§ 853(n)(6)(A) (“[T]he right, title, or interest was vested in the petitioner rather than the defendant 
+or was superior to any right, title, or interest of the defendant at the time of the commission of the 
+acts which gave rise to the forfeiture of the property.”).  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 17 of 36
+
+
+--- PAGE 18 ---
+
+17 
+ 
+41. The MDL Plaintiffs are thus third parties who had an interest in property before 
+the subject crime was committed (and before the Defendant’s interest vested). United States v. 
+Egan, 811 F. Supp. 2d 829 (S.D.N.Y. 2011) (standing found where “petitions plausibly assert legal 
+interests in portions of the seized funds”). 
+42. Claimants are thus entitled to the return a portion of the Forfeited FTX Customer 
+Assets equivalent to their investment  in those assets through FTX or the functional equivalent 
+thereof. A proceeding under 21 U.S.C. § 853 provides just such a mechanism to allow Claimants 
+to receive their assets in return—after being deprived of such assets by SBF, FTX, and others 
+participating in the FTX fraud. 
+IV. DISTRIBUTION MECHANISMS 
+43. Justice would be served by directing the proceeds of the forfeiture through the 
+MDL and the already-establish Claims Administration Process. In all events, as explained further 
+below, neither the Court nor the Justice Department should divert the proceeds of the forfeiture to 
+be distributed via the FTX bankruptcy proceedings because the bankruptcy process will not make 
+the victims—including MDL class members—“whole” and because the involvement of counsel 
+for Debtors presents serious conflicts that have not yet been resolved. 
+44. The claims of all of the specific injured FTX customers—each, a member of the 
+MDL class—are represented by counsel in the FTX MDL, and distribution of the $8 billion or 
+more in Forfeited FTX Customer Assets, which is comprised of those FTX customer funds, would 
+better flow to them through the MDL process and the Claims Administration Process that has been 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 18 of 36
+
+
+--- PAGE 19 ---
+
+18 
+ 
+established there, which will be administered by JND, one of the premier legal administration firms 
+in the country,3 and who are extremely experienced in these distribution matters.4  
+45. First, the jury found that the $8 billion Forfeited FTX Customer Assets are derived 
+from SBF’s fraud on FTX customers, not the FTX companies (now represented by the bankruptcy 
+estate). It was FTX customer funds  that SBF spent on “more than $200 million of real estate 
+properties in The Bahamas,” that he took in the form of “more than $1 billion” in personal loans, 
+that he misappropriated for “over $100 million in political contributions in advance of the 2022 
+election,” that he “authorized Alameda to draw down billions … to use to repay Alameda’s 
+lenders,” that he “used … to make billions of investments for his own interest and the interests of 
+his businesses,” including “$605 million worth of shares in Robinhood Markets Inc.” (the 
+“Robinhood Shares”) and other property subject to this Court’s forfeiture order. (Superseding 
+Indictment, ¶¶ 8, 9, 10, 38). And it was FTX customer funds that he diverted to Debtors’ accounts 
+at conventional banks and on cryptocurrency platforms, fiat and crypto assets that this Court has 
+now ordered be forfeited to the United States. (Prelim. Order at 4–7). The forfeited assets are not, 
+therefore, property of the FTX bankruptcy estates (collectively, the “Bankruptcy Estate”).  
+46. Second, unlike the bankruptcy process, as this Court is fully aware, the MDL 
+process is not restricted by the Bankruptcy Code’s distribution scheme, which requires that FTX 
+ 
+3 With more than 250 employees, JND operates out of its 35,000 square-foot headquarter office in 
+Seattle and has additional offices in Los Angeles, Minneapolis and New York. JND works with 
+plaintiff and defense firms, federal and state government agencies, and Fortune 500 companies. 
+4 All Parties have, and will continue to discuss, the best possible manner and method of distribution 
+of the forfeited proceeds directly to the FTX victims, whether through the MDL and/or the Chapter 
+11 case, commenced by FTX Trading Ltd. and its affiliates (collectively, the “Debtors”) in the 
+United States Bankruptcy Court for the District of Delaware, captioned In re FTX Trading Ltd., 
+Case No. 22-11068 (the “Chapter 11 Cases”). 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 19 of 36
+
+
+--- PAGE 20 ---
+
+19 
+ 
+customer claims be dollarized and “ measured at petition time value .” (Gov. Mem. at 46) 
+(emphasis added).5  
+47. Not only was the FTX bankruptcy filed during a “crypto winter,” 6 where crypto 
+prices as measured in U.S. Dollars saw a dramatic drop in value from where they were less than a 
+year before, when most customers invested in FTX, but the value of cryptocurrencies has since 
+recovered remarkably to those previous values since the FTX fraud collapsed. The Bankruptcy 
+Code’s requirement that FTX customer claims are measured as of the petition date therefore 
+deprives those customers of billions in value lost because of SBF’s criminal conduct. It would be 
+profoundly unfair for FTX customers to be deprived of their investment. If not for SBF’s crimes 
+for which he was convicted—i.e., the theft and misuse of customer assets—the customers would 
+have today owned their crypto investments. 
+48. For example, since the petition date, the price of Solana (SOL) has increased from 
+approximately $16 to over $145
+7—an increase of more than 9 times, such that the value of 
+customers’ SOL improperly held by FTX or other entities as a result of SBF’s crimes has increased 
+more than $7.8 billion since the petition date.8 During the same period of time, the price of Bitcoin 
+ 
+5 On February 7, 2024, the Bankruptcy Court entered its Order Granting Motion of Debtors to 
+Estimate Claims Based on Digital Assets [Bankruptcy Docket No. 7090] (the “Claim Estimation 
+Order”), pursuant to which the Bankruptcy Court established the value of digital assets as of the 
+petition date (along with additional value discounts for certain types of cryptocurrency). 
+6 “Crypto winter” is a common expression that refers to a poorly performing cryptocurrency 
+market, and is comparable to a bear market in the stock market, usually signified where the 
+downturn comes with a double-digit percentage drop in crypto values. See 
+https://www.investopedia.com/crypto-winter-5496605 (accessed June 12, 2024). 
+7 See the historical price chart below, reflecting a current trading price of $145.29 as of June 14, 
+2024. https://www.coindesk.com/price/solana/ 
+8 https://rates.coinmetrics.io/ as of 3:47 p.m. (Eastern Time) on June 1, 2024. On September 11, 
+2023, the Debtors reported holding $1.162 billion worth of SOL, which was valued as of August 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 20 of 36
+
+
+--- PAGE 21 ---
+
+20 
+ 
+(BTC) has more than quadrupled, from approximately $16,871 to approximately $67,552—an 
+increase of $50,681 per coin, such that the value of BTC9 in FTX’s possession has increased more 
+than $1.03 billion since the petition date. There is no equitable justification for placing the 
+Forfeited Assets through a bankruptcy procedure under which FTX or other entities will invariably 
+obtain the investments that belong to the customers, and which would have always remained in 
+customers’ possession but for SBF’s theft. The Bankruptcy Estate apparently sold a majority of its 
+position in SOL at a steep discount for $1.9 billion, reportedly to an affiliate in charge of 
+liquidating the Estate’s cryptocurrency holdings.
+10  
+ 
+  ZKHQ 62/¶V SULFH ZDV DSSUR[LPDWHO\   ELOOLRQ   §  PLOOLRQ
+SOL). See Notice of Presentation to Stakeholders [Bankruptcy Docket No. 2463]. 
+9 https://rates.coinmetrics.io/ as of 3:52 p.m. (Eastern Time) on June 11, 2024. September 11, 2023, 
+the Debtors reported holding $560 million worth of BTC, which was valued as of August 31, 2023 
+ZKHQ%7&¶VSULFHZDVDSSUR[LPDWHO\PLOOLRQ§%7&See Notice 
+of Presentation to Stakeholders [Bankruptcy Docket No. 2463]. 
+10 https://news.bitcoin.com/ftx-nets-1-9b-in-solana-sale-at-64-per-sol-discount-price-draws-
+creditor-scrutiny/  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 21 of 36
+
+
+--- PAGE 22 ---
+
+21 
+ 
+ 
+49. As a result of the strictures of the Bankruptcy Code, despite the remarkable 
+recovery in market prices of cryptocurrencies since the petition date, the economic injury to FTX 
+customers would be exacerbated because they would not recoup anywhere near the full value of 
+their crypto assets through the bankruptcy process, a result that the Debtors freely acknowledge. 
+By valuing FTX customer crypto holdings in this way, the Bankruptcy Estate deprives customers 
+of billions of dollars in recoveries. The MDL does not. 
+50. Moreover, the bankruptcy code requires that holders of certain cryptocurrencies 
+(e.g., holders of FTT) receive nothing. The bankruptcy court’s treatment of FTT, FTX’s exchange 
+token, will leave “[s]ome FTX customers [to] receiv[e] even lower value in bankruptcy.” The court 
+determined that FTX’s token, FTT, is akin to an equity interest in FTX, such that the token should 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 22 of 36
+
+
+--- PAGE 23 ---
+
+22 
+ 
+be valued at $0, even though the token’s current market capitalization exceeds $575 million. 11 
+Because of the bankruptcy court’s zero-dollar valuation of FTT, and because of the code’s 
+requirement to prioritize certain creditors over others,
+12 such that “[h]olders of FTX’s token FTT 
+are near the bottom of the priority list[,] it is unlikely that holders of that token will receive 
+compensation from the estate.” Gov. Mem. at 45 n.7. 
+51. Lastly, the Chapter 11 proceedings include a waterfall model that creates a 
+distribution prioritization hierarchy divided into twenty-eight classes and sub-classes. This 
+waterfall model provides for different levels of distribution for different classes and sub-classes 
+and prioritizes the compensation of some over others. Customers are not at the top of this 
+waterfall.
+13  
+52. Conversely, the MDL plans to return assets to their rightful owners on a 1:1 basis. 
+53. These features of the bankruptcy process have left FTX customers feeling 
+“aggrieved and robbed,” many of whom view the bankruptcy process as a “second act of theft” 14 
+and that the “FTX bankruptcy estate remains to be the same fraudulent corporate entity” as was 
+the enterprise run by SBF.15 The MDL is not restricted by the confines of the Bankruptcy Code in 
+this way and allows for FTX customers to be made whole through this Court’s forfeiture process. 
+ 
+11 https://coinmarketcap.com/currencies/ftx-token/ as of 8:30 AM (Eastern Time) on April 3, 2024. 
+12 See Exhibit 1 to Claim Estimation Order (Cryptocurrency No. 509 – FTT – valued at $0.00). 
+13 To the extent any of the forfeited funds are permitted to flow through the bankruptcy, the MDL 
+Plaintiffs respectfully request that this Court outline strict procedures for administration that 
+maintain the funds at all times outside of the waterfall and establish independent allocation rules 
+for those monies. 
+14 In re FTX Trading Ltd., et al., 22-11068 (JTD) (Bankr. D. Del. Jan. 31, 2024), Dkt. 5447. 
+15 D.E. 411-4, Victim Impact Statement by Sunil Kavuri [D.E. 411-4 at 16–26], at 19. 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 23 of 36
+
+
+--- PAGE 24 ---
+
+23 
+ 
+Even though the FTX Debtors have begun investigating claims and initiating adversary 
+proceedings against various former FTX Group executives, employees, professionals, business 
+partners, and other parties seeking to avoid transfers or disallow claims in the bankruptcy, the 
+Chapter 11 proceedings would be less effective than the MDL in furthering the ultimate goal of 
+compensating those who suffered losses as a result of the FTX fraud.  
+54. Third, the Bankruptcy Estate is laden with conflicts that may risk compromising 
+the just distribution of the Forfeited FTX Customer Assets to FTX customers, as well as possibly 
+the integrity of that distribution process. The Bankruptcy Estate owes a fiduciary duty to its 
+creditors, which comprises, at best, only a subset of FTX customers harmed by SBF’s criminal 
+conduct. Pursuant to that duty, the estate must prioritize recovery to creditors over recovery to 
+non-creditor FTX customers, who together suffered the largest economic loss and most devastating 
+impact of SBF’s misconduct.  
+55. Indeed, the Bankruptcy Estate has already committed Forfeited FTX Customer 
+Assets to non-customer creditors, including the Robinhood Shares, which the estate has agreed to 
+effectively pay to BlockFi by providing BlockFi with an allowed secured claim in the amount of 
+$250 million, which will be paid ahead of FTX customers. See Order (A) Authorizing the Debtors 
+to Enter Into Global Settlement Agreement with BlockFi; (B) Approving the Global Settlement 
+Agreement; and (C) Granting Related Relief [Bankruptcy Docket No. 10331]. But many of the 
+forfeited assets being used to pay FTX’s secured debts did not belong to FTX. Those investments 
+belonged to the customers. 
+56. Moreover, many of the Bankruptcy Estate’s creditors are not victims of Bankman-
+Fried’s crimes as charged and convicted, including for example the New York Times , the Wall 
+Street Journal , Netflix, and Apple. The Bankruptcy Estate is therefore obligated to maximize 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 24 of 36
+
+
+--- PAGE 25 ---
+
+24 
+ 
+recovery for only some of SBF’s victims, those who are also creditors of the Bankruptcy Estate, 
+and to maximize recovery for all creditors—including creditor non-victims—above the FTX 
+customers who it cannot make whole. 
+57. Additionally, the Bankruptcy Estate is represented by counsel that also represents 
+many of the Bankruptcy Estate’s non-customer creditors, including BlockFi, Coinbase, Gemini, 
+Kraken and Sequoia Capital, each of which filed hundred-million-dollar-plus claims in the 
+bankruptcy. Many of those non-customer creditors—such as Sequoia and other venture capital 
+firms—have already been sued in the MDL for aiding and abetting SBF’s conduct. Compounding 
+these conflicts, FTX’s lead bankruptcy counsel provided prepetition services not only to FTX 
+entities, but also to SBF personally, during the pendency of the fraud on FTX customers.  
+58. In fact, several of the court-appointed law firms on the FTX MDL Steering 
+Committee have filed suit against FTX’s lead bankruptcy counsel, Sullivan & Cromwell, based on 
+such counsel’s pre-petition conduct.
+16 These claims include civil conspiracy, aiding and abetting 
+fraud, aiding and abetting breach of fiduciary duty, and a RICO claim under 18 U.S.C. § 1962(d).  
+ 
+16 In Wildes v. BitConnect Int’l PLC,  25 F.4th 1341 (11th Cir. 2022), the Eleventh Circuit 
+clearly articulated the standard for mass solicita tion of unregistered securities, ruling that 
+spokespersons who promoted a crypto Ponzi scheme had engaged in “solicitation” of securities by 
+“urg[ing] people to buy [crypto tokens] in online videos,” even if the offering’s promoters did not 
+directly target particular purchasers. Id. at 1346.  
+The Honorable Edgardo Ramos of the S.D.N.Y. in SEC v. Genesis Global Capital, LLC et 
+al. No. 1:23-cv-00287-ER, ECF No. 56 (S.D. NY. March 18, 2024) (the “Final Judgment”), found 
+that “[u]nder both Howey and Reves, the SEC has plausibly alleged that Defendants offered and 
+sold unregistered securities through the Gemini Earn program”—a program where Gemini 
+customers could earn interest from defendants’ lending activities if they held eligible crypto assets 
+in their Gemini accounts—and that “the SEC has sufficiently alleged that Gemini was a necessary 
+participant or substantial factor in the scheme,” see ECF No. 230, Ex. A at 28.  
+Most recently, on March 27, 2024, in SEC v. Coinbase, Inc. et. al., 23 Civ. 4738 (KPF), 
+ECF No. 105 (S.D.N.Y. Mar. 27, 2024) the Honorable Katherine Polk Failla of the SD.N.Y. found 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 25 of 36
+
+
+--- PAGE 26 ---
+
+25 
+ 
+59. Furthermore, as noted above, Examiner Robert Cleary was appointed by the 
+bankruptcy court to investigate the engagement of Sullivan & Cromwell, among other things. 
+Notably, Mr. Cleary was appointed only after the Third Circuit reversed the bankruptcy court’s 
+initial refusal to name an examiner, based on assurances by Sullivan & Cromwell that it was 
+unnecessary for its conduct to be reviewed.  See In re FTX Trading, Ltd., et al., Bankr. D. Del., 
+22-11068-JTD, ECF No. 15545 (dated May 20, 2024), at 12–57. After concluding this phase of 
+investigations, the Examiner recommended two additional areas of investigation: (1) regarding 
+Sullivan & Cromwell’s representation of SBF in connection with the purchase of Robinhood 
+Shares and (2) Debtors’ claims against former shareholders of Ledger Holdings, Inc. (a holding 
+company for LedgerX) that sold their interests to West Realm Shires Inc. in a pre-petition sale. 
+These investigations have not yet occurred, and the Independent Examiner’s Motion to authorize 
+this phase of investigations is pending before the Bankruptcy Court.
+17  
+ 
+“the SEC has sufficiently pleaded that Coinbase operates as an exchange, as a broker, and as a 
+clearing agency under the federal securities laws, and, through its Staking Program, engages in the 
+unregistered offer and sale of securities.” Id. at 84.1 Judge Failla also found that the SEC had 
+pleaded “control person liability” for Coinbase Global. Id. 
+17 All interested Parties will greatly benefit from the upcoming findings by the FTX Independent 
+Examiner, who requested (with no objection) investigating just three narrow areas of FTX inquiry. 
+The Independent Examiner suggests that these areas of inquiry are crucial for deciding issues 
+relating to allocating assets for the FTX victims. The Bankruptcy Court issued an order concerning 
+the scope of the Examiner’s investigation (the “Scope Order”). ECF No. 9883 (the “Scope 
+Order”).  The Scope Order instructed the Examiner to issue a Report regarding the investigations, 
+and directed the Examiner to investigate the following topics, which the Third Circuit expressly 
+enumerated in its opinion: “… whether there are potential conflicts of interest … which were not 
+adequately addressed by the Court’s hearing.” 
+On May 23, 2024, Robert Cleary, the FTX Independent Examiner, filed his 225-page Report. ECF 
+No. 15545. The Report was greeted with broad support from the FTX Debtors and the FTX 
+victims. The Independent Examiner’s work is crucially important for instilling public confidence 
+in the proceedings and Petitioners respectfully submit it would be relevant for the Court to review 
+it. 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 26 of 36
+
+
+--- PAGE 27 ---
+
+26 
+ 
+60. At the end of the day, the MDL may be the only avenue for all FTX victims to 
+truly be made “100% whole.”  
+61. Fourth, the MDL has already settled claims the MDL Class had with SBF and 
+Co-Defendants Caroline Ellison, Gary Wang, and Nishad Singh, each of whom is jointly and 
+severally liable for the $8 billion Forfeited FTX Customer Assets derived from FTX customer 
+funds, and administration of those settlements dovetails with the distribution of the forfeiture 
+proceeds. The MDL presents the opportunity to efficiently streamline satisfaction of those 
+settlements. While the FTX Debtors filed an Adversary Proceeding in the FTX Bankruptcy after 
+the MDL Plaintiffs and FTX Insiders sought preliminary approval of their settlements, claiming 
+that the settlements attempt to settle claims belonging to the Estate, the settlements themselves 
+only release any claims that the FTX Customer class members have against the FTX Insiders.   
+62. Pursuant to those settlements, Ms. Ellison, Mr. Wang, and Mr. Singh have agreed 
+to cooperate with MDL Plaintiffs to assist in the prosecution of Plaintiffs’ claims on behalf of FTX 
+customers. Their assistance—in the form of proffer sessions, sworn declarations, and document 
+productions—has proven already to be tremendously helpful, and Ms. Ellison, Mr. Wang, and Mr. 
+Singh appear eager to continue to help FTX customers in this way, as set forth in the settlement 
+agreements.
+18  
+63. MDL Plaintiffs recognize that any monetary compensation in exchange for 
+settlement of the MDL claims against these Co-Defendants would be subordinate to an order of 
+restitution and/or forfeiture by this Court, including the Preliminary Order for which the Co-
+ 
+18 See In re FTX Cryptocurrency Exchange Collapse Litigation , Case No. 1:23-md-03076-KMM 
+(S.D. Fla.), ECF No. 565 and Exhibits thereto. 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 27 of 36
+
+
+--- PAGE 28 ---
+
+27 
+ 
+Defendants are jointly and severally liable. MDL Plaintiffs likewise recognize that the $11 billion 
+forfeiture amount set forth in the Preliminary Order, in addition to any other forfeiture amount 
+ordered by this Court, swallows any amounts that the Co-Defendants will likely ever be able to 
+pay. MDL Plaintiffs therefore agreed to defer their pursuit of any monetary consideration for 
+settlement of their claims against Co-Defendants to the restitution processed provided by the 
+Mandatory Victims Restitution Act (“MVRA”), 18 U.S.C. § 3663A and/or the forfeiture process 
+provided by 18 U.S.C. § 981. 
+64. MDL Plaintiffs expect that the Court will find that restitution by the Co-
+Defendants is not possible, as it did in sentencing SBF, such that forfeiture of assets will be the 
+exclusive avenue for monetary compensation for MDL Plaintiffs from Ms. Ellison, Mr. Wang, and 
+Mr. Singh. The forfeiture process pursuant to the instant Preliminary Order against SBF and 
+forthcoming orders of similar nature against Co-Defendants Ellison, Wang, and Singh will likely 
+proceed simultaneously, given the overlap in assets subject to forfeiture among them, and the 
+distribution of funds recovered in that process through the MDL will compensate FTX customers 
+as contemplated by applicable statute and the settlement agreements between MDL Plaintiffs and 
+these Defendants. 
+65. The MDL and forfeiture processes dovetail in other ways, as Co-Defendants Ellison, 
+Wang, and Singh are not the only parties jointly and severally liable for the forfeiture amount 
+ordered by this Court against SBF. Specifically, the Preliminary Order provides that “any other co- 
+conspirators” are also jointly and severally liable for the money judgment “up to the amount of 
+forfeiture money judgments that may be entered against them,” which could, presumably, include 
+the Bankruptcy Estate. Prelim. Order at 5. MDL Plaintiffs have filed claims of aiding and abetting 
+the FTX fraud, conversion, and other misconduct, as well as claims of civil conspiracy to do the 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 28 of 36
+
+
+--- PAGE 29 ---
+
+28 
+ 
+same, against dozens of banks, venture capital firms, accountants, law firms, and other co-
+conspirators (“Third Party Co-Conspirators”). The Bankruptcy Estate has thus far brought none of 
+these claims, and in fact many of these Co-Conspirat ors are creditors in the bankruptcy or are 
+actively assisting the FTX Debtors in administering the Bankruptcy. Distribution of funds 
+recovered from through the forfeiture process against those Co-Conspirators may be best achieved 
+in the MDL, where claims against them are currently, and exclusively, pending. 
+66. To administer these settlements, the MDL class has already engaged JND, one of 
+the premier legal administration firms in the country, to act as claims administrator for the 
+settlement distributions to class members. The MDL class members therefore comprise the broadest 
+group of victims holding, in the aggregate, the largest claim for losses, such that recovery of funds 
+forfeited pursuant to this Court’s Preliminary Order should flow through the FTX MDL, especially 
+given that FTX customers will not be made w hole by way of the FTX bankruptcy, and to ensure 
+that the forfeiture amounts compensate FTX customers to the fullest extent possible pursuant to the 
+Court’s Preliminary Order. 
+67. Lee Reiners (“Reiners Rpt.”), a lecturing fellow at Duke University with expertise 
+in cryptocurrency regulation, supports MDL Class Counsel’s request to route the $8 billion 
+forfeited by Samuel Bankman-Fried through the FTX MDL for the benefit of FTX customers as 
+discussed in his independent report to this Court attached to the Alexander Declaration as Exhibit 
+C (the “Reiners Rpt.”). Reiners Rpt. at 2. Reiners has extensive experience in this field, having 
+published numerous academic papers, testified before U.S. congressional committees, and advised 
+government agencies on cryptocurrency-related issues. Id. His assessment is based on his work as 
+an independent expert witness with MDL co-lead counsel Adam Moskowitz since shortly after the 
+FTX collapse in November 2022. Id. 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 29 of 36
+
+
+--- PAGE 30 ---
+
+29 
+ 
+68. Reiners argues that the digital assets held by the bankruptcy estate are the property 
+of the customers, not the estate. Id. at 3.  
+69. Reiners draws a parallel between In re Celsius Network LLC , Case No 22-
+10964(MG) (Bankr. S.D.N.Y. Jan. 4, 2022) and the current FTX proceedings to underscore his 
+argument that digital assets should be considered the property of FTX customers. Id. at 8–9. In the 
+Celsius case, Chief Judge Martin Glenn ruled that “[t]he issue of ownership of the assets in the 
+[Celsius] Earn Accounts is a contract law issue[,]” ultimately determining that the Terms of Use 
+transferred title and ownership of the digital assets to Celsius. Id. at 8. Reiners emphasizes that the 
+FTX Terms of Service are even clearer, stating explicitly that “[t]itle to your Digital Assets shall 
+at all times remain with you and shall not transfer to FTX Trading.” By applying Judge Glenn’s 
+reasoning to the FTX case, Reiners asserts that the FTX Terms of Service are unambiguous in that 
+digital assets are the property of FTX customers. Id. at 10. This perspective forms part of the basis 
+for his recommendation to route forfeited funds through the FTX MDL, ensuring that the assets 
+are returned to their rightful owners—the FTX customers. According to Reiners, the FTX MDL 
+has demonstrated relentless advocacy for FTX victims and has the expertise to maximize recovery 
+on their behalf. Id. at 3. 
+* * * 
+70. For the reasons stated above, the Court should hold a hearing pursuant to 21 
+U.S.C. § 853(n), to adjudicate the interests of the Individual Claimants and the MDL Plaintiffs in 
+the Forfeited Assets identified above. Pursuant to such a hearing, the Court should ultimately 
+conclude Individual Claimants and the MDL Plaintiffs have a superior right, title, and/or interest, 
+in the Forfeited FTX Customer Assets subject to the Preliminary Order of forfeiture and distribute 
+that property accordingly.  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 30 of 36
+
+
+--- PAGE 31 ---
+
+30 
+ 
+ 
+PRAYER FOR RELIEF 
+WHEREFORE, the Individual Claimants and the MDL Plaintiffs respectfully request that 
+the Court: 
+1. Hold a hearing to adjudicate the validity of their claim of legal right, title, and interest 
+with respect to the value of the Forfeited Assets; 
+2. Issue an Order amending the Preliminary Order of Forfeiture/Money Judgment to 
+recognize that the Individual Claimants and the MDL Plaintiffs have established that 
+they have a superior legal right, title, or interest in the property and/or the status of bona 
+fide purchaser with respect to their interests therein; and  
+3. Grant such additional relief as the Court deems just and proper. 
+ 
+ 
+Date: June 14, 2024     Respectfully submitted, 
+ 
+By: /s/ Adam Moskowitz 
+ 
+Adam M. Moskowitz 
+Florida Bar No. 984280 
+Joseph M. Kaye 
+Florida Bar No. 117520 
+THE MOSKOWITZ LAW FIRM, PLLC 
+Continental Plaza 
+3250 Mary Street, Suite 202 
+Coconut Grove, FL 33133 
+Office: (305) 740-1423 
+adam@moskowitz-law.com 
+joseph@moskowitz-law.com 
+service@moskowitz-law.com 
+Co-Lead MDL Counsel 
+ 
+By: /s/ David Boies 
+ 
+David Boies 
+Alexander Boies 
+Brooke A. Alexander 
+BOIES SCHILLER FLEXNER LLP 
+333 Main Street 
+Armonk, NY 10504 
+914-749-8200 
+dboies@bsfllp.com 
+aboies@bsfllp.com 
+balexander@bsfllp.com 
+Co-Lead MDL Counsel 
+ 
+  
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 31 of 36
+
+
+--- PAGE 32 ---
+
+31 
+ 
+INDIVIDUAL CLAIMANT SIGNATURES 
+ 
+I hereby attest under penalty of perjury that the contents of this petition are true and 
+accurate to the best of my knowledge, and that I have authorized the filing of this document. 
+ 
+Alexander Chernyavsky 
+DATE: 6/14/2024 
+SIGNATURE:    
+ 
+Kyle Rupprecht 
+DATE: ________________________ 
+SIGNATURE: __________________ 
+ 
+Mike Livieratos 
+DATE: ________________________ 
+SIGNATURE: __________________ 
+ 
+Sunil Kavuri 
+DATE: ________________________ 
+SIGNATURE: __________________ 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 32 of 36
+
+
+--- PAGE 33 ---
+
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 33 of 36
+
+
+--- PAGE 34 ---
+
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 34 of 36
+
+
+--- PAGE 35 ---
+
+
+
+ 
+
+#=:G:7N6II:HIJC9:GE:C6AIND;E:G?JGNI=6II=:8DCI:CIHD;I=>HE:I>I>DC6G:IGJ:6C9
+688JG6I:IDI=:7:HID;BN@CDLA:9<:
+6C9I=6I#=6K:6JI=DG>O:9I=:;>A>C<D;I=>H9D8JB:CI
+
+/)9%1()4,)41:%85.:
+-555555555555555555555555
+,#!(-.+555555555555555555
+
+:/)7334)',6
+-555555555555555555555555
+,#!(-.+555555555555555555
+
+-.)-8-)4%625
+-555555555555555555555555
+,#!(-.+555555555555555555
+
+71-/%874-
+-555555555555555555555555
+,#!(-.+555555555555555555
+14 June 2024
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 35 of 36
+
+
+--- PAGE 36 ---
+
+32 
+ 
+CERTIFICATE OF SERVICE 
+I hereby certify that I caused a copy of the foregoing to be filed via hand-delivery with 
+the Court Security Officers for the Southern District of New York at 500 Pearl Street New 
+York, NY 10007, as instructed by Clerk’s Office. Notice of this filing will be sent to all parties 
+by operation of the Court’s electronic filing system when this document is filed electronically 
+by Court personnel. 
+ 
+     /s/ Brooke Alexander   
+Brooke Alexander 
+Case 1:22-cr-00673-LAK     Document 454     Filed 06/17/24     Page 36 of 36

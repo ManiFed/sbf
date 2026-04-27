@@ -1,0 +1,2015 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT &
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 1 of 35
+
+
+--- PAGE 2 ---
+
+1 
+ 
+EXPERT REPORT OF LEE REINERS 
+06/14/2024 
+UNITED STATES DISTRICT COURT FOR THE SOUTHERN 
+DISTRICT OF NEW YORK 
+ 
+UNITED STATES OF AMERICA v. SAMUEL BANKMAN-
+FRIED a/k/a “SBF”, Defendant.  
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 2 of 35
+
+
+--- PAGE 3 ---
+
+2 
+ 
+INTRODUCTION AND QUALIFICATIONS 
+1.01. I am writing this letter in support of MDL Counsel’s request before this Court to have the $8 
+billion this Court ordered to be forfeited by the Defendant, Samuel Bankman-Fried, for FTX 
+customers be routed through the FTX MDL.1 I believe this outcome is in the best interest of 
+the millions of FTX customers who were made victims of the specific crimes for which the 
+Defendant was charged and convicted. This assessment is based upon my experience working 
+closely as an independent expert witness with MDL co-lead counsel Adam Moskowitz since 
+shortly after the FTX collapse in November 2022. 
+ 
+1.02. A copy of my Curriculum Vitae is attached hereto as Appendix A. I am qualified to opine on 
+this matter because of my expertise on cryptocurrency markets and the regulation thereof. I 
+began teaching and writing about cryptocurrency regulation since I came to Duke University 
+as a lecturing fellow in 2016. I have published several academic papers and book chapters 
+related to cryptocurrency regulation. I also released a popular online course, available on 
+Coursera, titled “FinTech Law and Policy” which provides a primer on the regulation of 
+cryptocurrency in the U.S. I have also taught courses on Cryptocurrency Law and Policy and 
+FinTech Law and Policy at Duke University School of Law for over five years 
+ 
+1.03. I have published articles related to cryptocurrency and its regulation in mainstream financial 
+news outlets, including the Wall Street Journal, American Banker, The Hill, and Coindesk. I 
+have also participated in cryptocurrency-related forums on mainstream television networks, 
+such as CNBC, CNN, Fox Business Network, and ABC. I have also been quoted as an expert 
+on cryptocurrency regulation in The New York Times, The Wall Street Journal , The 
+Washington Post, National Public Radio, and similar media outlets.  
+ 
+1.04. My expertise on cryptocurrency regulation is frequently sought by government agencies 
+around the world, and by Congress and its staff. In February, 2023, I testified in front of the 
+U.S. Senate Committee on Banking, Housing, and Urban Affairs at a hearing titled “Crypto 
+Crash: Why Financial System Safeguards are Needed for Digital Assets.”
+2 In March 2023, 
+I testified before the U.S. House of Representatives Committee on Financial Services 
+subcommittee on Digital Assets, Financial Technology and Inclusion at a hearing titled 
+“Coincidence or Coordinated? The Administration’ s Attack on the Digital Asset 
+Ecosystem.”
+3 
+ 
+1.05. I have spoken about cryptocurrency and related regulatory issues at numerous public events, 
+including at the Brookings Institution
+4 and the prestigious Seminars at Steamboat speaker 
+series.5 I also co-host a podcast with my Duke colleague, Jimmie Lenz, which focuses on 
+the cryptocurrency industry called “Coffee & Crypto with Lee & Jimmie.” Jimmie Lenz and 
+ 
+1 See Min Entry, United States v. Bankman-Fried, 22-cr-00673 (S.D.N.Y. Mar. 28, 2024). 
+2 hearing | Hearings | United States Committee on Banking, Housing, and Urban Affairs (senate.gov) 
+3 Hearing Entitled: Coincidence or Coordinated? The Administration’s Attack on the Digital Asset Ecosystem | 
+Financial Services Committee (house.gov) 
+4 Digital asset regulation: The prudential perspective | Brookings 
+5 Seminars at Steamboat 2022: Lee Reiners - YouTube 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 3 of 35
+
+
+
+--- PAGE 4 ---
+
+3 
+ 
+I are also the co-organizers of the annual Digital Assets at Duke conference.6 The conference 
+hosts key industry players in the digital assets space, regulatory experts, and select 
+researchers, for two days of rigorous debate, discussion and education on the Duke campus. 
+  
+2. OVERVIEW OF MAIN ISSUES 
+ 
+2.01. The question of digital asset property rights strikes at the heart of the criminal complaint 
+against Mr. Bankman- Fried and his subsequent conviction. The government’s seven-count 
+superseding indictment charged Bankman-Fried with wire fraud, conspiracy to commit wire 
+fraud, conspiracy to commit securities fraud, conspiracy to commit commodities fraud, and 
+conspiracy to commit money laundering (See Dkt. 202 (the “Indictment”)). The jury agreed 
+with the government’s assertion that these charges arose out of the defendant’s fraudulent 
+misappropriation of billions of dollars of funds deposited by customers of FTX.com (“FTX”) 
+and the use of these stolen funds for a variety of purposes including, among other things, to 
+support the operations and investments of FTX and Alameda; to fund speculative venture 
+investments; to make illegal campaign contributions; and to enrich himself.  
+ 
+2.02. In short, it was customer funds that Bankman- Fried stole. The forfeited assets are not, 
+therefore, property of the FTX bankruptcy estates and claiming otherwise in the bankruptcy 
+court is an implicit rebuke of Bankman-Fried’s criminal conviction. 
+  
+2.03.  I recommend routing forfeited funds through the MDL. I have worked closely with MDL 
+co-lead counsels for the past eighteen months and I have seen firsthand their relentless 
+advocacy on behalf of the FTX victims. They are both proven litigators with a long track 
+record of maximizing recovery on behalf of their clients. The MDL has already established a 
+claims administration framework that could readily incorporate the proceeds from forfeited 
+assets. The MDL class has engaged JND, one of the premier legal administration firms in the 
+country, to act as claims administrator for the settlement distributions to class members. The 
+MDL class members comprise the broadest group of victims, holding in the aggregate the 
+largest claim for losses, such that recovery of f unds forfeited pursuant to this Court’s 
+Preliminary Order should flow through the FTX MDL. This is especially important 
+considering the estate continues to sell customer assets that do not belong to them and the 
+conflicts of interest within the estate that  remain unresolved. I detail these concerns more 
+thoroughly below. 
+ 
+3. UNDERSTANDING PROPERTY INTERESTS IN DIGITAL ASSETS 
+ 
+3.01. To appreciate the legal arguments in defense of customer property interests in digital assets, 
+it is important to understand how digital assets (aka cryptocurrencies) and digital asset 
+exchanges operate. 
+ 
+6 Home - Duke Digital Assets Conference (digitalassetsatduke.org) 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 4 of 35
+
+
+
+--- PAGE 5 ---
+
+4 
+ 
+ 
+3.02. Cryptocurrencies such as Bitcoin and Ethereum are purely digital assets. The cryptocurrency 
+exists only as an entry on an append-only distributed ledger called a blockchain that associates 
+a cryptocurrency balance with a network address on the blockchain. The blockchain tracks 
+the association of cryptocurrency with cryptographic keys —an alphanumeric string of 
+characters— rather than who “owns” the keys. 
+ 
+3.03. Undertaking a transaction in the cryptocurrency—that is, to change the network address 
+associated with some amount of cryptocurrency on the blockchain—requires a paired public 
+key and a private key (password). These keys are each associated with an address on the 
+blockchain. The public key is a large numerical value used for encrypting the transaction 
+while the private key is a password that is used to verify the authorization of the transaction. 
+ 
+3.04. To transfer cryptocurrency into a blockchain address, a transferor must digitally sign the 
+transaction with the private key of the address from which the cryptocurrency is being sent 
+and the public key of the recipient address and broadcast the transaction  to the blockchain 
+network. The transaction is verified through a cryptographic hashing process called mining. 
+ 
+3.05. Cryptocurrencies vary in how they incentivize network participants to engage in mining. The 
+key detail here is that without the private key, it is impossible to access cryptocurrency 
+associated with a blockchain address. Thus, if a key is lost, so too is access to the 
+cryptocurrency. 
+ 
+3.06. Critically, the private key can be used by anyone who has access to it, not just by its “owner.” 
+While the key is the authorization device for transactions on the blockchain, the mining 
+system only checks the validity of the key, not the authorization for the key’s use in the 
+transaction. Each cryptocurrency runs on its own blockchain, and each cryptocurrency 
+blockchain address has its own public and private key. Thus, if an individual owns both 
+Bitcoin and Ethereum, the individual will have two separate s ets of keys because there are 
+two separate blockchains involved, one for each cryptocurrency. 
+ 
+3.07. Investors need to keep their private keys somewhere when they are not using them. Investors 
+store their private keys in crypto wallets. While a private key can be written down on paper 
+and stored physically until it needs to be used, cryptocurrency investors generally store their 
+keys in crypto wallets. Crypto wallets are encrypted software programs. Typically, the 
+investor would enter a password in order to unencrypt the private key, which would then be 
+used to authorize a transaction on the blockchain. 
+ 
+3.08. There are two types of crypto wallets: unhosted and hosted. An unhosted wallet involves 
+storage of the customer’s private keys in some format in the customer’s possession. This 
+might be in the form of a non-custodial software wallet such as a wallet app on the investor’s 
+phone or computer, a thumb drive, or even a scrap of paper. While an unhosted wallet lets the 
+investor retain possession of the private key, it also poses a risk of loss. If the investor loses 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 5 of 35
+
+
+--- PAGE 6 ---
+
+5 
+ 
+the scrap of paper, the thumb drive, or the digital device, the key and thus the access to the 
+cryptocurrency is lost forever. 
+ 
+3.09. In contrast, a hosted or custodial wallet puts the customer’s private keys in the custody of a 
+third party, generally a cryptocurrency exchange. With a hosted wallet, the exchange has 
+possession of the private keys, and the customer accesses them using a p assword or other 
+security protocol provided by the exchange. These security protocols might let a customer 
+who forgot a password still access his private keys. Additionally, if the hosted wallet provider 
+were to lose the keys, it would be liable to the customer. 
+ 
+3.10. Unhosted and hosted wallets can either be “hot” or “cold.” A cryptocurrency hot wallet is a 
+digital wallet connected to the internet, allowing users to quickly and easily access and 
+transact their cryptocurrency. This type of wallet is convenient for frequ ent trading and 
+spending but is more vulnerable to cyberattacks and hacking due to its online presence. In 
+contrast, a cold wallet is not connected to the internet, storing cryptocurrency offline, typically 
+on a hardware device or a piece of paper. Cold w allets are considered more secure against 
+online threats, making them ideal for long -term storage of large amounts of cryptocurrency, 
+although they are less convenient for regular transactions. Cryptocurrency exchanges will use 
+a mix of hot and cold wallets, but the exact details are confidential due to security concerns. 
+ 
+3.11. Cryptocurrency investors use hosted wallets for several reasons: concerns about losing their 
+own unhosted wallets; avoiding fees for transferring funds between wallets; the transactional 
+ease offered through hosted wallets that are integrated with an exchange; access to additional 
+income-generating services such as lending and staking ventures that exchanges offer 
+customers with hosted wallets; and greater ease at converting cryptocurrency to fiat currency 
+or vice versa, which requires a service that can r oute fiat payments from a bank account or 
+settle them into a bank account, something that is not possible on an unhosted wallet alone. 
+ 
+3.12. Cryptocurrency exchanges will generally offer custodial services for hosted wallets for their 
+customers. This means that the customer is giving the private keys—and hence access to the 
+associated cryptocurrency—to the exchange for safekeeping. While the exchange might be 
+contractually limited in what, if anything, it can do with the private keys, the private keys are 
+in the control of the exchange and can only be accessed by the customer using the exchange’s 
+security protocols. 
+ 
+3.13. Rather than leave each customer’s account segregated, exchanges will often transfer the 
+customers’ cryptocurrency to one or more omnibus accounts for which it alone holds the 
+private key(s). The customer’s interest is then tracked solely on the exchange’s books and 
+records rather than on the blockchain. Using omnibus accounts has a number of operational 
+benefits for the exchange. Among other things, it lets the exchange keep down mining fees 
+for transactions through bundling and netting. 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 6 of 35
+
+
+--- PAGE 7 ---
+
+6 
+ 
+3.14. The customers’ interests in the cryptocurrency are merely tracked on the exchange’s own 
+ledger, not the blockchain. If the customer were to look at his account statement on the 
+exchange, however, the account statement would indicate what is in the exchange’s own 
+ledger, not the blockchain, such that without doing an audit of the blockchain, the transfer of 
+the cryptocurrency from the customer’s own private key to an omnibus account controlled by 
+the exchange’s own private key would not be visible to the customer. 
+ 
+3.15. However, this approach poses enormous risks for cryptocurrency investors, as many 
+discovered in the wake of multiple failures in the cryptocurrency industry throughout 2022, 
+FTX being the most notable. Operating this way also puts cryptocurrency exchanges in the 
+role of performing multiple functions that are required to be kept separate in traditional 
+securities markets. Cryptocurrency exchanges frequently serve as the broker, the exchange, 
+the clearing agency, and the custodian. In fact, the Securities and Exchange Commission has 
+brought several high-profile enforcement actions against US-based cryptocurrency exchanges 
+for operating as an unregistered national securities exchange, broker, and clearing agency.
+7 
+In order for the SEC to prove their case, the court just needs to find that the cryptocurrency 
+exchange in question was listing at least one unregistered security. 
+ 
+3.16. Cryptocurrency exchanges operating in the US, including FTX.US, claim that they only list 
+digital assets that are commodities, not securities. The Commodity Futures Trading 
+Commission (CFTC) regulates commodity derivatives markets, but they do not have the legal 
+authority to regulate commodity spot (cash) markets (this is why FTX.us did not offer 
+derivatives products but the main FTX.com exchange out of the Bahamas did). Thus, there is 
+no federal regulation of cryptocurrency exchanges other than for anti -money laundering 
+purposes. 
+ 
+3.17. Nor is there any sort of Federal Deposit Insurance Corporation or Securities Investor 
+Protection Corporation insurance to protect cryptocurrency exchange customers. Likewise, 
+there is no specialized regime for resolving failed cryptocurrency exchanges. Acc ordingly, 
+there is no statutory prioritization of the claims of exchanges' customers, unlike those of 
+depositors in bank insolvencies. This is why it is critically important for cryptocurrency 
+exchanges to have clear and well -crafted terms of use/terms of service so that all parties are 
+clear on who “owns” the digital assets reflected in a customer’s account. 
+ 
+4. HOW THE FTX EXCHANGE OPERATED 
+ 
+4.01. The FTX exchange operated in much the same way as described above. However, FTX failed 
+due to the criminal conduct of “a very small group of grossly inexperienced and 
+unsophisticated individuals who failed to implement virtually any of the systems or contr ols 
+that are necessary for a company that is entrusted with other people’s money or assets.”
+8 
+ 
+7 See SEC v Coinbase, SEC v Binance, SEC v Kraken. 
+8 Testimony of Mr. John J. Ray III CEO, FTX Debtors December 13, 2022 House Financial Services Committee: 
+https://democrats-financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-rayj-20221213.pdf 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 7 of 35
+
+
+
+--- PAGE 8 ---
+
+7 
+ 
+ 
+4.02. FTX’s post-petition management has extensively detailed the absence of corporate controls 
+that contributed to FTX’s collapse. 9 While the proximate cause of the collapse was the 
+commingling and misuse of customer assets at the direction of Messrs. Bankman -Fried, 
+Singh, Wang, and others, the process by which the FTX Group maintained private keys 
+facilitated the fraud. 
+ 
+4.03. FTX’s current CEO, John Ray, noted in his First Interim Report to the Independent Directors 
+on Control Failures at the FTX Exchanges that there was “a pervasive lack of records and 
+other evidence at the FTX Group of where or how fiat currency and digital assets could be 
+found or accessed and extensive commingling of assets.”
+10 Mr. Ray acknowledges that “it is 
+axiomatic in the crypto industry that a private key should be kept confidential, including by 
+being generated and stored in a secure and encrypted manner and used exclusively by the 
+owner,” and that “businesses that contro l private keys need detailed access control policies 
+such that the keys may only be accessed by authorized parties or systems.”
+11 Unfortunately, 
+“the FTX Group failed to manage or implement any appropriate system to attempt to manage 
+private keys” and stored private keys “in various locations throughout the FTX Group’s 
+computing environment in a disorganized fashion using a variety of insecure methods and 
+without any uniform or documented procedure.”
+12 
+ 
+4.04. The First Ray Report goes on to note that the “FTX Group stored the private keys to its crypto 
+assets in its cloud computing environment, which included over one thousand servers and 
+related system architecture, services, and databases that it leased from Amazon Web 
+Services.”
+13 The report goes on to explain how “the FTX Group kept virtually all crypto assets 
+in hot wallets,” lacked a system to “monitor or move to cold wallets crypto assets in excess 
+of the amount needed to cover two days of trading activity, and failed to “offline, air-gapped, 
+encrypted, and geographically distributed laptops to secure crypto assets.”
+14 The FTX Group 
+also “failed to employ multi- signature capabilities or Multi -Party Computation (“MPC”) 
+controls that are widely used throughout the crypto industry to protect crypto assets.” 15 
+“These controls require the cooperation of multiple individuals using unique keys or key 
+fragments to effectuate a transaction” and in “the few instances in which the FTX Group even 
+attempted to employ these controls, it misapplied them: for each wallet, the FTX Group stored 
+together in one place all three private keys required to authorize a transfer such that any 
+ 
+9 See, First Interim Report of John J. Ray III to the Independent Directors on Control Failures at the FTX Exchanges 
+Cases [D.E. 1242] (the “First Ray Report”); Second Interim Report of John J. Ray III to the Independent Directors: 
+The Commingling and Misuse of Customer Deposits at FTX.com [D.E. 1704] (the “Second Ray Report”); Bankruotcy 
+Plan Disclosure Statement. 
+10 First Interim Report of John J. Ray III to the Independent Directors on Control Failures at the FTX Exchanges Cases 
+[D.E. 1242] (the “First Ray Report”),  
+11 Id.  
+12 Id. 
+13 Id. 
+14 Id. 
+15 Id. 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 8 of 35
+
+
+
+--- PAGE 9 ---
+
+8 
+ 
+individual who had access to one had access to all the keys required to transfer the contents 
+of the wallet, thus defeating the purpose of the controls.”16 
+ 
+4.05. As the Disclosure Statement for the Debtors’ Plan of Reorganization states: “these control 
+failures” at “the FTX Group exposed digital assets under its control to a grave risk of loss, 
+misuse, and compromise and lacked a reasonable ability to prevent, detect, respond to, or 
+recover from a significant cybersecurity incident.”
+17 But as I detail below, these control 
+failures do not void a private contract. 
+ 
+5. CELSIUS EXAMPLE 
+ 
+5.01. In the bankruptcy of failed cryptocurrency lender Celsius, Chief Judge Martin Glenn ruled 
+that “[t]he issue of ownership of the assets in the [Celsius] Earn Accounts is a contract law 
+issue.”
+18 Judge Glenn found it pertinent to decide the matter of who owns cryptocurrency 
+asserts deposited in Earn Account early on in the bankruptcy process because Celsius 
+requested court authority to sell $18 million worth of stablecoins – a type of cryptocurrency 
+designed to maintain a stable value – held in the Earn Accounts to fund the bankruptcy cases 
+and because “[t]his is a gating issue at the center of many disputes in this case.”
+19 
+ 
+5.02. By contrast, as detailed below, the FTX Debtors have been continuously selling disputed 
+cryptocurrency assets, presumably under the assumption/hope that either the bankruptcy 
+court would eventually decide the issue in their favor or the Unsecured Creditors Committee 
+(UCC) and relevant parties would endorse the plan disclosure statements and release any 
+claims brought by FTX customers that the digital assets are their property. 
+ 
+5.03. Customers who participated in the Earn program transferred their crypto assets to Celsius in 
+exchange for interest or what Celsius called rewards. In turn, Celsius deployed its customers’ 
+crypto assets—through further loans, investments, or on exchanges —to  generate income or 
+what Celsius called yield. Celsius’ co-founder and majority owner Alex Mashinsky repeatedly 
+told customers in his weekly livestream conversations (referred to as “Ask Mashinsky 
+Anything” or “AMAs”) that customer-deposited coins “are your coins, not our coins . . . [i]t’s 
+always your Bitcoin.” When asked what would happen in the event of a bankruptcy, Mr. 
+Mashinsky told customers “coins are returned to their owners even in the case of 
+bankruptcy.”
+20 
+ 
+5.04. Furthermore, just like FTX, Celsius illegally misappropriated customer assets and lacked 
+basic corporate controls. The independent Examiner for Celsius found the company “lacked 
+ 
+16 Id. 
+17 Disclosure Statement 
+18 Memorandum Opinion and Order Regarding Ownership of Earn Account Assets, In re Celsius Network LLC, Case 
+No 22-10964(MG) (Bankr. S.D.N.Y. Jan. 4, 2022) [ECF No. 1822] [Hereinafter, “Earn Assets Ruling”]. 
+19 Id. 
+20 Celsius Final Independent Examiner Report, at 4: Doc 1956 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 9 of 35
+
+
+
+--- PAGE 10 ---
+
+9 
+ 
+adequate reporting systems to track and reconcile customer assets on a coin -by-coin basis” 
+which resulted in Celsius being “unable to track when it was short the necessary coins to meet 
+customer obligations.”21 
+ 
+5.05. The Celsius Debtors filed a motion asking the bankruptcy court to find “that ownership of 
+the Earn Assets is an issue of contract interpretation and that the Terms of Use constituted a 
+valid and enforceable contract between Celsius and its Account Holders.”
+22 
+ 
+5.06. The most recent version of Celsius’ Terms of Use, a clickwrap contract governed by New 
+York law, unambiguously stated that Celsius “all right and title to such Eligible Digital Assets 
+including ownership rights” in the cryptocurrency assets (including stablecoins) in the Earn 
+Accounts. 
+ 
+5.07. The Celsius bankruptcy court found “that the Terms of Use formed a valid enforceable 
+contract between the Debtors and Account Holders and that the Terms unambiguously 
+transfer title and ownership of Earn Assets deposited into Earn Accounts from Accounts 
+Holders to the Debtors.”
+23 The Court also found “that stablecoins, like other Earn Assets, are 
+property of the Estates and the Debtors may sell the stablecoins outside of the ordinary course 
+of business to provide liquidity for these Chapter 11 proceedings.”24 
+ 
+5.08. As detailed below, the FTX terms of service unambiguously state that title to digital assets 
+remains with FTX customers at all times. Therefore, applying Judge Glenn’s reasoning in the 
+Celsius case to the facts of FTX reveals that digital assets are the property of FTX customers. 
+ 
+6. FTX TERMS OF SERVICE 
+ 
+6.01. Like the Celsius Terms of Use, the FTX User Agreement is unambiguous. However, the FTX 
+User Agreement makes clear that title to digital assets on the FTX.com platform remained at 
+all times with the customer and did not transfer to FTX Trading Ltd. (“FTX Trading” or 
+“FTX.com”) which owned and controlled the FTX.com platform. 
+ 
+6.02. The Terms of Service expressly state that all Digital Assets are held in a customer’s Account 
+on the following basis: 
+A. Title to your Digital Assets shall at all times remain with you and shall not transfer 
+to FTX Trading. As the owner of Digital Assets in your Account, you shall bear all 
+risk of loss of such Digital Assets. FTX Trading shall have no liability for 
+fluctuations in the fiat currency value of Digital Assets held in your Account. 
+ 
+21 Id. 
+22 Debtors’ Motion Seeking Entry of an Order (I) Permitting the Sale of Stablecoin in the Ordinary Course and (II) 
+Granting Related Relief, “Original Motion,” ECF Doc. # 832 
+23 Earn Assets Ruling at 30. 
+24 Id. 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 10 of 35
+
+
+
+--- PAGE 11 ---
+
+10 
+ 
+B. None of the Digital Assets in your Account are the property of or shall or may be 
+loaned to FTX Trading; FTX Trading does not represent or treat Digital Assets in 
+User’s Accounts as belonging to FTX Trading. 
+C. You control the Digital Assets held in your Account. At any time, subject to outages, 
+downtime, and other applicable policies (including the Terms), you may withdraw 
+your Digital Assets by sending them to a different blockchain address controlled by 
+you or a third party. 
+ 
+6.03. Likewise, the user agreement for exchange FTX.US states that the funds are owned by the: 
+“Title to cryptocurrency represented in your FTX.US Account shall at all times remain with 
+you and shall not transfer to FTX.US.” 
+ 
+6.04. FTX Trading represented to customers in the Terms of Service that it could issue them 
+electronic money or E-money from the fiat currency that they loaded into their accounts and 
+they could use the E-money to purchase digital assets. The Terms of Service provide that the 
+customers could redeem all or part of any E-money held in their accounts at any time. 
+ 
+6.05. English law governs the Terms of Service. Under English law, FTX.com customers – and not 
+FTX Trading or any other Debtor – are the owners of the assets they deposited, held, received, 
+or acquired on the FTX.com platform. If those assets can be identified either because they 
+remain on the platform or because they can be identified in another location, the customers 
+are entitled to recover the assets free of any claims of other customers or creditors. 
+ 
+6.06. Because these assets are customer property and not the Debtors’ property, the assets are not 
+part of the Debtors’ estates under section 541 of the Bankruptcy Code. So FTX.com customers 
+are not mere unsecured creditors of the Debtors, but rather the owners of interests in property. 
+ 
+6.07. Based on the clear and unambiguous Terms of Service, if a customer can identify the 
+customer’s Digital Assets now held by FTX Trading (for example, if the Digital Assets remain 
+at the network address where they were first deposited) or in the hands of another party, then 
+the customer clearly owns such Digital Assets free of any claims held by FTX Trading or 
+other customers or creditors of FTX Trading or its affiliates. 
+ 
+6.08. The same is true for a customer’s identifiable fiat currency and E-Money. Based on the Terms 
+of Service, as well as on FTX’s internal policies and representations to the outside world, 
+each FTX.com customer owns the fiat currency and E -Money described in t he Terms of 
+Service to the extent those Assets can be identified. 
+ 
+6.09. Accordingly, all identifiable FTX.com customer Assets described in the FTX.com Terms of 
+Service are property of the respective FTX.com customers and not property of the Debtors’ 
+estates under section 541 of the Bankruptcy Code and governing English law. 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 11 of 35
+
+
+--- PAGE 12 ---
+
+11 
+ 
+7. CONCLUSION 
+ 
+7.01.I present the above analysis not in an attempt to have Your Honor weigh in on issues that are 
+the sole reserve of the bankruptcy court; rather, that these facts will help inform your decision 
+on how best to distribute Bankman -Fried’s forfeited funds to the victims of his criminal 
+conduct.  
+ 
+7.02.I believe this Court should vest the ri ght to distribute proceeds of forfeited assets with the 
+MDL. Since the MDL was established in June 2023, the MDL Plaintiffs have named 52 
+different non- Debtor defendants, served and reviewed hundreds of discovery requests, 
+completed the review of hundreds of thousands of documents, and reached preliminary 
+settlements with numerous insiders and promoters of FTX. Furthermore, the MDL Plaintiffs 
+intend to provide full economic recovery to FTX victims by pursuing claims against non-
+Debtor third parties primarily relating to violations of applicable securities law (e.g., aiding 
+and abetting the sale of unregistered securities), unfair trade practices, and aiding and abetting 
+fraud. The defendants in the MDL include the Debtors’ current and former banks, law firms, 
+accountants, advertisers, domestic funds, international funds, and promoters including 
+Temasek Holdings (Private) Limited, Tiger Global Management, LLC, Golden State Warriors 
+LLC, Thoma Bravo L.P., Paradigm Operations LP, Sequoia Capital Operations LLC, Deltec 
+Bank and Trust Company Limited, Softbank Group Corp., Prager Metis CPAs, LLC, 
+Armanino, LLP, Major League Baseball, Mercedes- Benz Grand Prix Limited, Tom Brady, 
+Stephen Curry, Shaquille O’Neal, Shohei Ohtani, and Sullivan & Cromwell. 
+ 
+7.03.No matter how much customers may recover under the Plan of Reorganization in FTX’s 
+Chapter 11 Cases, that recovery will never be enough to give customers the true economic 
+value of what they lost at the hands of the Debtors’ criminal prepetition management. That is 
+where the MDL comes in. It  is a process under which criminally victimized customers may 
+assert additional means of recovery and additional bases for damages that promises to bring 
+customers far closer to complete economic recompense than the Debtors’ Plan ever could.  
+ 
+ 
+ 
+_______________________________ 
+        Lee Reiners 
+ 
+ 
+  
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 12 of 35
+
+
+--- PAGE 13 ---
+
+12 
+ 
+APPENDIX A 
+LEE REINERS, CV 
+ 
+ 
+ 
+  
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 13 of 35
+
+
+--- PAGE 14 ---
+
+13 
+ 
+LEE REINERS, CFA 
+Lecturing Fellow at the Duke Financial Economics Center  
+419 Chapel Drive, Box 90097, Durham, NC 27708 
+919-613-8532; lee.reiners@duke.edu 
+http://ssrn.com/author=2605227 
+ 
+ 
+ACADEMIC/TEACHING APPOINTMENTS 
+ 
+  
+ 
+DUKE UNIVERSITY, Durham, NC 2022-Present 
+Lecturing Fellow, Duke Financial Economics Center 
+ 
+ D
+UKE UNIVERSITY SCHOOL OF LAW, Durham, NC 2016-Present 
+ Lecturing Fellow 
+  
+D
+UKE UNIVERSITY SCHOOL OF LAW, Durham, NC 2016-August 2022    
+Executive Director of the Global Financial Markets Center  
+ 
+ S
+AINT PETER’S UNIVERSITY, Jersey City, NJ 2015-2016 
+ Adjunct Professor 
+ 
+ 
+PROFESSIONAL EXPERIENCE  
+ 
+ 
+ 
+FEDERAL RESERVE BANK OF NEW YORK (FRBNY) 2011-2016 
+ Senior Associate, Executive Office (2016) 
+ Bank Examiner (2011-2015) 
+ 
+ U.S. ARMY, Baghdad, Iraq 2004-2005 
+ Communications Specialist 
+ 
+ 
+EDUCATION 
+ 
+  
+ 
+ D
+UKE UNIVERSITY, Sanford School of Public Policy Durham, NC 
+ Master of Public Policy, Global Policy Concentration, May 2011 
+  
+ U
+NIVERSITY OF ST. THOMAS St. Paul, MN 
+ Bachelor of Science in Business Economics, summa cum laude, May 2009 
+   
+ 
+RESEARCH & TEACHING INTERESTS 
+ 
+ 
+B
+lockchain, Corporate Finance, Cryptocurrency, Cybersecurity, Financial Institutions, Financial Regulation, 
+Financial Technology, Climate Finance, Climate Policy 
+ 
+ 
+SCHOLARSHIP 
+ 
+ 
+BOOKS 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 14 of 35
+
+
+--- PAGE 15 ---
+
+14 
+ 
+ 
+FinTech Law and Policy: The Critical Legal and Regulatory Challenges Confronting FinTech Firms and the 
+Policy Debates that are Occurring across the Country (Independently published, 2018). 
+ 
+PUBLICATIONS 
+ 
+Wanted: A Prudential Framework for Crypto-Assets (with S. Gazi), Arkansas Law Review, Issue 76.2 
+(2024). 
+ 
+“Regulation of Robo-Advisory Services,” invited chapter (Chapter 19, pp.524-553) in FINTECH LAW AND 
+REGULATION (edited by Jelena Madir) (Elgar 2024). 
+  
+A Proposal for Oversight of Digital Assets, Competition Policy International TechREG Chronicle (1-7) (May 
+2022) 
+ 
+Blockchain Democracy: Technology, Law and the Rule of the Crowd, 37 Banking & Finance Law Review 
+191-196 (2021) (reviewing William Magnuson, Blockchain Democracy: Technology, Law and the Rule of 
+the Crowd (2020)). 
+ 
+Cryptocurrency and the State: An Unholy Alliance. Southern California Interdisciplinary Law Journal, 
+Volume 30 Southern California Interdisciplinary Law Journal 695-715 (2021). 
+ 
+“Regulation of Robo-Advisory Services,” invited chapter (Chapter 16, pp.353-376) in FINTECH LAW AND 
+REGULATION (edited by Jelena Madir) (Elgar 2021). 
+ 
+“The Uncertain Prudential Treatment of Crypto-Assets,” invited chapter in REGTECH, SUPTECH and 
+BEYOND (edited by William Coen and D.R. Maurice) (Risk Books 2021). 
+ 
+Banking on the Cloud (with C. Baker & D. Fratto), Transactions: The Tennessee Journal of Business Law, 
+Volume 21 (2020). 
+ 
+“Fintech Regulation in the United States,” invited chapter (Chapter 11) in THE LAW OF FINTECH (Wolter 
+Kluwer Italia 2020) (edited by Claudia Sandei and Marco Cian) (2020). 
+ 
+“Regulation of Robo-Advisory Services,” invited chapter (Chapter 16, pp.353-376) in FINTECH LAW AND 
+REGULATION (edited by Jelena Madir) (Elgar 2019). 
+ 
+Bitcoin Futures: From Self-Certification to Systemic Risk (January 14, 2019). North Carolina Banking 
+Institute Journal, Volume 23.  
+ 
+REPORTS 
+ 
+Regulating ESG: The SEC’s Upgraded Names Rule and Proposed ESG Disclosure Rule in Comparison with 
+EU Requirements (Climate Risk Disclosure Lab, November 2023) available at: 
+https://econ.duke.edu/dfe/climate-risk/2022/11/analyzes-efforts-regulate-esg-investing
+ 
+ 
+Summary of Comment Letters for the SEC’s Proposed Climate Risk Disclosure Rule (with Morgan 
+Smith)(Climate Risk Disclosure Lab, September 2022) available at: https://econ.duke.edu/dfe/climate-
+risk/2022/08/summary-comment-letters-secs-proposed-climate-risk-disclosure-rule 
+ 
+The Cost of Climate Disclosure: Three Case Studies on the Cost of Voluntary Climate-Related Disclosure 
+(with Karen E. Torrent) (Climate Risk Disclosure Lab, December 2021) available at: 
+https://econ.duke.edu/dfe/climate-risk/2021/12/climate-risk-disclosure-lab-report-provides-real-time-
+information-current 
+  
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 15 of 35
+
+
+--- PAGE 16 ---
+
+15 
+ 
+From Laggard to Leader: Updating the Securities Regulatory Framework to Better Meet the Needs of 
+Investors and Society (with Tyler Gellasch) (Global Financial Markets Center, February 2021) available at 
+https://web.law.duke.edu/sites/default/files/centers/gfmc/From-Laggard-to-Leader.pdf 
+ 
+Climate Risk Disclosures & Practices: Highlighting the Need for a Standardized Regulatory Disclosure 
+Framework to Weather the Impacts of Climate Change on Financial Markets (with Charlie Wowk) (Climate 
+Risk Disclosure Lab, October 2020) available at 
+https://climatedisclosurelab.duke.edu/2020/10/climate-risk-
+disclosure-lab-report/ 
+  
+CASE STUDIES 
+ 
+“Danske Bank Money Laundering Case Study,” (with J.A. Smith Jr.), The FinReg Blog, September 11, 2019, 
+available at https://sites.duke.edu/thefinregblog/2019/09/11/danske-bank-money-laundering-case-study/ 
+ 
+“Wells Fargo Unauthorized Account Openings: A Case Study for Bank Board Directors,” (with J. A. Smith 
+Jr.), The FinReg Blog, April 26, 2017, available at https://sites.duke.edu/thefinregblog/2017/04/26/phony-
+accounts-scandal-a-case-study-for-bank-board-directors/ 
+ 
+SHORT ARTICLES 
+ 
+“Sam Bankman Fried is still insulting his victims,” The Hill, March 27, 2024, available at 
+https://thehill.com/opinion/criminal-justice/4554840-sam-bankman-fried-refuses-accountability/ 
+ 
+“The worst scam of all: how Binance got away with a slap-on-the-wrist,” The Hill, January 14, 2024, 
+available at 
+https://thehill.com/opinion/finance/4405504-the-worst-scam-of-all-how-binance-got-away-with-
+a-slap-on-the-wrist/ 
+ 
+“Statement for the Record in Response to House Financial Services Committee Recent Hearing on Digital 
+Assets,” (with Hilary Allen & Mark Hayes), June 28, 2023, available at 
+https://ourfinancialsecurity.org/2023/06/statement-statement-for-the-record-to-the-house-financial-services-
+committee-in-response-to-the-hfsc-recent-hearing-on-digital-assets/ 
+ 
+“On regulation, the crypto industry has everything backward,” The Hill, June 9, 2023, available at 
+https://thehill.com/opinion/4038637-on-regulation-the-crypto-industry-has-everything-backwards/
+ 
+ 
+“US lags in financial innovation. Regulatory sandboxes are the answer,” (with Jimmie Lenz), American 
+Banker, May 2, 2023, available at 
+https://www.americanbanker.com/opinion/us-lags-in-financial-innovation-
+regulatory-sandboxes-are-the-answer 
+ 
+“Now I Know the Cryptocurrency Industry Is Here to Stay,” CoinDesk, January 10, 2023, available at 
+https://www.coindesk.com/consensus-magazine/2023/01/10/now-i-know-the-cryptocurrency-industry-is-
+here-to-stay/ 
+  
+"Regulators are thinking about stablecoins in the wrong way,” The Hill, November 12, 2022, available at 
+https://thehill.com/opinion/finance/3731399-regulators-are-thinking-about-stablecoins-in-the-wrong-way/ 
+ 
+“The industry will soon know if bank-fintech partnerships need more oversight,” American Banker, 
+September 20, 2022, available at https://www.americanbanker.com/opinion/the-industry-will-soon-know-if-
+bank-fintech-partnerships-need-more-oversight 
+ 
+“10 Things Judges Should Know About Cryptocurrency,” Judicature, Summer 2022, available at 
+https://judicature.duke.edu/articles/10-things-judges-should-know-about-cryptocurrency/
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 16 of 35
+
+
+--- PAGE 17 ---
+
+16 
+ 
+“CFTC Should Have Narrow Role in Crypto to Preserve SEC Primacy,” (with Hilary Allen & Mark Hayes), 
+September 14, 2022, available at https://ourfinancialsecurity.org/2022/09/news-release-cftc-should-have-
+narrow-role-in-crypto-to-preserve-sec-primacy/ 
+  
+“Ban Cryptocurrency to Fight Ransomware,” Wall Street Journal, May 25, 2021, available at 
+https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831?mod=article_inline
+ 
+ 
+“NC should speed help to the 435,000 North Carolinians who are behind on rent,” (with J.A. Smith Jr. & 
+Jesse Hamilton McCoy II), Raleigh News & Observer, March 08, 2021, available at 
+https://www.newsobserver.com/opinion/article249735918.html
+ 
+ 
+“Rural America needs an expanded Farm Credit System,” American Banker, January 2, 2019, available at 
+https://www.americanbanker.com/opinion/rural-america-needs-an-expanded-farm-credit-system 
+ 
+“Ten years from the bottom, financial crisis continues to reverberate,” Triangle Business Journal, March 22, 
+2019, available at https://www.bizjournals.com/triangle/news/2019/03/22/ten-years-from-the-bottom-
+financial-crisis.html 
+ 
+“The Problems with crypto’s revolving door,” American Banker, October 25, 2018, available at 
+https://www.americanbanker.com/opinion/the-problems-with-cryptos-revolving-door 
+ 
+“Should Wells Fargo execs responsible for bilking customers be forced to return their pay?” The 
+Conversation, September 18, 2016, available at 
+https://theconversation.com/should-wells-fargo-execs-
+responsible-for-bilking-customers-be-forced-to-return-their-pay-65631 
+ 
+BLOG POSTS and COMMENT LETTERS 
+ 
+“The SEC’s Climate-Risk Disclosure Rule: What a Long Strange Trip It’s Been,” The FinReg Blog, March 6, 
+2024, available at https://sites.duke.edu/thefinregblog/2024/03/06/the-secs-climate-risk-disclosure-rule-what-
+a-long-strange-trip-its-been/ 
+ 
+“Comment Letter to the CFTC Regarding the Use of Voluntary Carbon Credits in Derivatives Contracts,”  
+(with Susan Lin) The Climate Risk Disclosure Lab, February 21, 2024, available at 
+https://econ.duke.edu/dfe/climate-risk/2024/02/comment-letter-cftc-regarding-use-voluntary-carbon-credits-
+derivatives 
+ 
+“Reflections on the Ripple Decision,” The FinReg Blog, July 17, 2023, available at 
+https://sites.duke.edu/thefinregblog/2023/07/17/reflections-on-the-ripple-decision/
+ 
+ 
+“CFTC Complaint Against Gemini Reveals Weaknesses in the Agency’s Approach to Virtual Currency,” The 
+FinReg Blog, July 20, 2022, available at: 
+https://sites.duke.edu/thefinregblog/2022/07/20/cftc-complaint-
+against-gemini-reveals-weaknesses-in-the-agencys-approach-to-virtual-currency/ 
+  
+“Non-Intermediated Clearing of Crypto Derivatives on Margin is a Bad Idea,” (with Hilary Allen and Ryan 
+Clements) May 12, 2022, available at: 
+https://sites.law.duke.edu/thefinregblog/2022/05/12/non-intermediate-
+clearing-of-crypto-derivatives-on-margin-is-a-bad-idea/ 
+ 
+“Congress Should Grant the SEC Oversight of Digital Asset Spot Markets,” The CLS Blue Sky Blog, April 
+21, 2022, available at https://clsbluesky.law.columbia.edu/2022/04/21/congress-should-grant-the-sec-
+oversight-of-digital-asset-spot-markets/ 
+ 
+“Russian Sanctions will Compel Further Adoption of Cryptocurrency and Increase Compliance Risks for 
+Cryptocurrency Companies,” The FinReg Blog, February 28, 2022, available at 
+https://sites.law.duke.edu/thefinregblog/2022/02/28/russian-sanctions-will-compel-further-adoption-of-
+cryptocurrency-and-increase-compliance-risks-for-cryptocurrency-companies/ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 17 of 35
+
+
+--- PAGE 18 ---
+
+17 
+ 
+“More Crypto Craziness in Wyoming,” The FinReg Blog, February 11, 2022, available at 
+https://sites.law.duke.edu/thefinregblog/2022/02/11/more-crypto-craziness-in-wyoming/ 
+ 
+“Recent Comments on Improving Accountability in Net-Zero Commitments,” The FinReg Blog, February 9, 
+2022, available at https://sites.law.duke.edu/thefinregblog/2022/02/09/recent-comments-on-improving-
+accountability-in-net-zero-commitments/ 
+  
+ “Comments to the Commodity Futures Trading Commission on the proposed creation of a carbon markets 
+subcommittee of the Energy and Environmental Markets Advisory Committee,” The FinRegBlog, September 
+23, 2021, available at 
+https://sites.law.duke.edu/thefinregblog/2021/09/23/comments-to-the-commodity-
+futures-trading-commission-on-the-proposed-creation-of-a-carbon-markets-subcommittee-of-the-energy-and-
+environmental-markets-advisory-committee/ 
+ 
+“Where the Rubber Meets the Road: How Can an SEC Climate Risk Disclosure Rule Survive Cost-Benefit 
+Analysis?” (with Mario Olczkowski) August 9, 2021, available at 
+https://sites.law.duke.edu/thefinregblog/2021/08/09/where-the-rubber-meets-the-road-how-can-an-sec-
+climate-risk-disclosure-rule-survive-cost-benefit-analysis/ 
+  
+“Summary of Comment Letters for the SEC’s Climate Risk Disclosure RFI,” (with Mario Olczkowski) July 
+9, 2021, available at 
+https://sites.law.duke.edu/thefinregblog/2021/07/09/summary-of-comment-letters-for-
+the-secs-climate-risk-disclosure-rfi/ 
+ 
+“A Trip Down Crypto’s Memory Lane,” The FinReg Blog, June 11, 2021, available at 
+https://sites.law.duke.edu/thefinregblog/2021/06/11/a-trip-down-cryptos-memory-lane/
+ 
+ 
+“Restoring Order in Crypto’s Wild West,” The FinReg Blog, April 6, 2021, available at 
+https://sites.law.duke.edu/thefinregblog/2021/04/06/restoring-order-in-cryptos-wild-west/
+ 
+ 
+“Beware of the Bitcoin Balance Sheet,” The FinReg Blog, February 24, 2021, available at: 
+https://sites.law.duke.edu/thefinregblog/2021/02/24/beware-of-the-bitcoin-balance-sheet/
+ 
+ 
+“The Pandemic Relief Bill and the Battle Over Federal Reserve Emergency Lending Authority,” The FinReg 
+Blog, December 21, 2020, available at https://sites.law.duke.edu/thefinregblog/2020/12/21/the-pandemic-
+relief-bill-and-the-battle-over-federal-reserve-emergency-lending-authority/ 
+ 
+“Policy Options for Preventing an Eviction Crisis,” The FinReg Blog, December 16, 2020, available at 
+https://sites.law.duke.edu/thefinregblog/2020/12/16/policy-options-for-preventing-an-eviction-crisis/ 
+ 
+“Recent Announcement Reveal Financial Regulators Are Serious About Climate Change,” (with Charlie 
+Wowk) The FinReg Blog, November 16, 2020, available at 
+https://sites.law.duke.edu/thefinregblog/2020/11/16/recent-announcements-reveal-financial-regulators-are-
+serious-about-climate-change/ 
+ 
+“The Heat is On: U.S. Regulators Facing Increasing Pressure to Enhance Climate Disclosures,” (with Charlie 
+Wowk) The FinReg Blog, October 13, 2020, available at: 
+https://sites.law.duke.edu/thefinregblog/2020/10/13/the-heat-is-on-u-s-regulators-facing-increasing-pressure-
+to-enhance-climate-disclosures/ 
+ 
+“Pandemic Bailout of the Fossil Fuel Industry Highlights Financial Sector Risks,” The FinReg Blog, July 24, 
+2020, available at: https://sites.law.duke.edu/thefinregblog/2020/07/24/pandemic-bailout-of-the-fossil-fuel-
+industry-highlights-financial-sector-risks/ 
+ 
+“Designing a Prudential Supervisory Framework for Climate Change in the U.S.,” The FinReg Blog, July 16, 
+2020, available at: 
+https://sites.law.duke.edu/thefinregblog/2020/07/16/designing-a-prudential-supervisory-
+framework-for-climate-change-in-the-u-s/ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 18 of 35
+
+
+--- PAGE 19 ---
+
+18 
+ 
+“Rolling Back Dodd-Frank: One Bite at a Time,” The FinReg Blog, March 11, 2020, available at: 
+https://sites.law.duke.edu/thefinregblog/2020/03/11/rolling-back-dodd-frank-one-bite-at-a-time/ 
+ 
+“The Rise of Rent-A-Charter: Examining New Risks Behind Bank-Fintech Partnerships,” (with Joseph 
+Caputo) January 23, 2020, available at https://sites.law.duke.edu/thefinregblog/2020/01/23/the-rise-of-rent-a-
+charter-examining-new-risks-behind-bank-fintech-partnerships/ 
+ 
+“What Congress Should Ask About Facebook’s New Cryptocurrency,” The FinReg Blog, July 2, 2019, 
+available at https://sites.duke.edu/thefinregblog/2019/07/02/what-congress-should-ask-about-facebooks-new-
+cryptocurrency/ 
+ 
+“The SEC Should Continue to Say No to Bitcoin Exchange-Traded Products,” The FinReg Blog, April 18, 
+2019, available at https://sites.duke.edu/thefinregblog/2019/06/18/the-sec-should-continue-to-say-no-to-
+bitcoin-exchange-traded-products/ 
+ 
+“North Carolina’s Proposed Regulatory Sandbox Needs Work,” The FinReg Blog, May 28, 2019, available at 
+https://sites.duke.edu/thefinregblog/2019/05/28/north-carolinas-proposed-regulatory-sandbox-needs-work/ 
+ 
+“Wells Fargo’s Failure to Admit Deep-Seated Problems Led to its Current Predicament,” The FinReg Blog, 
+April 4, 2019, available at https://sites.duke.edu/thefinregblog/2019/04/04/wells-fargos-failure-to-admit-deep-
+seated-problems-led-to-its-current-predicament/ 
+ 
+“Ten Years From the Bottom: A Reflection on the Financial Crisis and Its Lasting Impact,” The FinReg Blog, 
+March 19, 2019, available at https://sites.law.duke.edu/thefinregblog/2019/03/19/ten-years-from-the-bottom-
+a-reflection-on-the-financial-crisis-and-its-lasting-impact/ 
+ 
+“Bitcoin Futures: From Self-Certification to Systemic Risk,” The CLS Blue Sky Blog, December 18, 2018, 
+available at http://clsbluesky.law.columbia.edu/2018/12/18/bitcoin-futures-from-self-certification-to-
+systemic-risk/ 
+ 
+“A New Proposal to Expand Banking Services in Rural America,” The FinReg Blog, December 15, 2018, 
+available at 
+https://sites.duke.edu/thefinregblog/2018/12/15/a-new-proposal-to-expand-banking-services-in-
+rural-america/ 
+ 
+“The Revolving Door Comes to Cryptocurrency,” The FinReg Blog, October 15, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/10/15/the-revolving-door-comes-to-cryptocurrency/ 
+ 
+“How Regulators are Responding to FinTech,” The FinReg Blog , June 29, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/06/29/how-regulators-are-responding-to-fintech/
+ 
+ 
+“Evolution of the FinTech Industry: From Disruption to Partnership,” The FinReg Blog, June 28, 2018, 
+available at 
+https://sites.duke.edu/thefinregblog/2018/06/28/evolution-of-the-fintech-industry-from-
+disruption-to-partnership/ 
+ 
+“What Happens When FinTech Firms Don’t Understand Regulation?,” The FinReg Blog,  June 27, 2018, 
+available at https://sites.duke.edu/thefinregblog/2018/06/27/what-happens-when-fintech-firms-dont-
+understand-regulation/ 
+ 
+“What is FinTech and Why is it Such a Big Deal?” The FinReg Blog, June 26, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/06/26/what-is-fintech-and-why-is-it-such-a-big-deal/
+ 
+ 
+“Reflections on NYC Cryptocurrency Conference,” The FinReg Blog, June 11, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/06/11/reflections-on-my-first-cryptocurrency-conference/
+ 
+ 
+“The Future of Bank Stress Testing,” The FinReg Blog, February 21, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/02/21/the-future-of-bank-stress-testing/
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 19 of 35
+
+
+--- PAGE 20 ---
+
+19 
+ 
+ 
+“Federal Reserve Consent Order Represents Worst Case Scenario for Wells Fargo Directors,” The FinReg 
+Blog, February 6, 2018, available at https://sites.duke.edu/thefinregblog/2018/02/06/federal-reserve-consent-
+order-represents-worst-case-scenario-for-wells-fargo-directors/ 
+ 
+“SEC Stands Firm Against New Bitcoin ETF Proposals,” The FinReg Blog, January 12, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/01/12/sec-stands-firm-against-new-bitcoin-etf-proposals/
+ 
+ 
+“For Bitcoin Futures, the CFTC Defends the Indefensible,” The FinReg Blog, January 4, 2018, available at 
+https://sites.duke.edu/thefinregblog/2018/01/04/for-bitcoin-futures-the-cftc-defends-the-indefensible/
+ 
+ 
+“Bitcoin Futures are a Bad Idea,” The FinReg Blog, December 13, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/12/13/bitcoin-futures-are-a-bad-idea/
+ 
+ 
+“Comptroller’s Remarks Indicate the Fintech Charter Could Lead to Mixing of Banking and Commerce,” The 
+FinReg Blog, October 2, 2017, available at https://sites.duke.edu/thefinregblog/2017/10/02/comptrollers-
+remarks-indicate-the-fintech-charter-could-lead-to-mixing-of-banking-and-commerce/ 
+ 
+“Wells Fargo is Broken Beyond Repair,” The FinReg Blog, September 2, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/09/02/wells-fargo-is-broken-beyond-repair/
+ 
+ 
+“Assessing the New FX Global Code,” The FinReg Blog, June 15, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/06/15/assessing-the-new-fx-global-code/ 
+ 
+“A Review of the Book Fed Up,” The FinReg Blog, April 28, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/04/28/a-review-of-the-book-fed-up/ 
+ 
+“Increasing Transparency at the Financial Stability Board and Basel Committee,” The FinReg Blog, March 
+14, 2017, available at https://sites.duke.edu/thefinregblog/2017/03/14/increasing-transparency-at-the-
+financial-stability-board-and-basel-committee/ 
+ 
+“Don’t Expect the OCC to Embrace Fintech Failure,” The FinReg Blog, February 22, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/02/22/dont-expect-the-occ-to-embrace-fintech-failure/
+ 
+ 
+“Do Hedge Funds Threaten Financial Stability?” The FinReg Blog, January 26, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/01/26/do-hedge-funds-threaten-financial-stability/ 
+ 
+“Killing the Volcker Rule,” The FinReg Blog, January 11, 2017, available at 
+https://sites.duke.edu/thefinregblog/2017/01/11/killing-the-volcker-rule/ 
+ 
+“Basel Committee is on the Clock,” The FinReg Blog, December 12, 2016, available at 
+https://sites.duke.edu/thefinregblog/2016/12/12/basel-committee-is-on-the-clock/ 
+ 
+“New Legislation Designed to Make the U.S. a Fintech Leader,” The FinReg Blog, November 17, 2016, 
+available at https://sites.duke.edu/thefinregblog/2016/11/17/new-legislation-designed-to-make-the-u-s-a-
+fintech-leader/ 
+ 
+“New Regulation Aims to Make Banking Fraud Less Lucrative,” The FinReg Blog, November 10, 2016, 
+available at 
+https://sites.duke.edu/thefinregblog/2016/11/10/new-regulation-aims-to-make-banking-fraud-less-
+lucrative/ 
+ 
+“Carmen Segarra and Competing Visions of Bank Supervision,” The FinReg Blog, October 25, 2016, 
+available at 
+https://sites.duke.edu/thefinregblog/2016/10/25/carmen-segarra-and-competing-visions-of-bank-
+supervision/ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 20 of 35
+
+
+--- PAGE 21 ---
+
+20 
+ 
+“Using Living Wills to Break up Big Banks,” The FinReg Blog, October 11, 2016, available at 
+https://sites.duke.edu/thefinregblog/2016/10/11/break-up-the-banks-but-how/ 
+ 
+“If Banks Sue the Fed Over Stress Tests, Will They Win?” The FinReg Blog, October 7, 2016, available at  
+https://sites.duke.edu/thefinregblog/2016/10/07/if-banks-sue-the-fed-over-stress-tests-would-they-win/ 
+ 
+“Effects of Regulatory Reform on Growth,” The FinReg Blog, October 5, 2016, available at 
+https://sites.duke.edu/thefinregblog/2016/10/05/effects-of-regulatory-reform-on-growth/ 
+ 
+“High-Frequency Trading Comes to Cryptocurrency,” (with Marissa Cantu), The FinReg Blog, April 24, 
+2019, available at https://sites.duke.edu/thefinregblog/2019/04/24/high-f requency-trading-comes-to-
+cryptocurrency/ 
+ 
+“Why a Bitcoin Bubble is a Good Thing,” (with R. Clements and S. Semmler), The FinReg Blog, December 
+5, 2017, available at https://sites.duke.edu/thefinregblog/2017/12/05/why-
+ a-cryptocurrency-market-bubble-is-
+a-good-thing/ 
+ 
+“The Case for a Cryptocurrency Market Bubble,” (with R. Clements and S. Semmler), The FinReg Blog, 
+November 22, 2017, available at https://sites.duke.edu/thefinregblog/2017/11/22/the-cas
+ e-for-a-
+cryptocurrency-market-bubble/ 
+ 
+“Federal Law Leaves Banks Shying Away from Marijuana Businesses,” (with John Matthews), The FinReg 
+Blog, December 5, 2016, available at https://sites.duke.edu/thefinregblog/2016/12/05/federal-l
+ aw-leaves-
+banks-shying-away-from-marijuana-businesses/ 
+ 
+“How Wells Fargo Illustrates the Failure of the CFPB Class Action Waiver Rule,” (with B. Jackson Nye), 
+The FinReg Blog, November 23, 2016, available at https://sites.duke.edu/thefinregblog/2016/11/23/how-
+wells-fargo-illustrates-the-failure-of-the-cfpb-class-action-waiver-rule/ 
+ 
+ 
+ 
+COURSES TAUGHT 
+ 
+ 
+ O NLINE  
+ 
+ Fintech Law and Policy, available at https://www.coursera.org/learn/fintechlawandpolicy 
+ 
+ DUKE UNIVERSITY  
+ 
+Climate Change and Financial Markets (Spring 2023, Spring 2024) 
+ 
+Cybersecurity and Interdisciplinary Law (Spring 2023, Spring 2024) 
+ 
+Financial Regulatory Policy (Fall 2022, Fall 2023) 
+ 
+Issues in Cryptocurrency Law and Policy (Fall 2021, Fall 2022) 
+ 
+The Financial Policy Response to Covid 19 (Fall 2020) 
+ 
+Fintech Law and Policy (Spring 2017, Fall 2017, Fall 2018, Fall 2019, Fall 2020) 
+ 
+FinTech Law and Policy, Master of Judicial Studies Program (Summer 2019, Summer 2022) 
+ 
+Big Bank Regulation (Guest Lecturer on Bank Capital and Lender of Last Resort), Fall 2017, Fall 2018, Fall 
+2019, Fall 2020, Fall 2021) 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 21 of 35
+
+
+--- PAGE 22 ---
+
+21 
+ 
+ 
+Introduction to Cyber Law and Policy (Guest Lecturer, Fall 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022, 
+Fall 2023) 
+ 
+Financial Law and Regulation: Practitioner’s Perspective (Spring 2017, Spring 2018, Spring 2020, Spring 
+2022) 
+ 
+ Financial Policy Outcomes of the 2016 Elections (Fall 2016) 
+ 
+ S
+AINT PETER’S UNIVERSITY MBA PROGRAM 
+ 
+ Corporate Finance (Spring 2015) 
+ 
+ Managerial Economics (Fall 2015, Spring 2016) 
+ 
+ 
+GOVERNMENT 
+ 
+ 
+U
+.S. House of Representatives Committee on Financial Services, Subcommittee on Digital Assets, Financial 
+Technology and Inclusion, “Coincidence or Coordinated? The Administration’s Attack on the Digital Asset 
+Ecosystem,” March 9, 2023, video available at 
+https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=408628 ( testimony begins at 56:50)  
+ 
+U.S. Senate Committee on Banking, Housing, and Urban Affairs, “Crypto Crash: Why Financial System 
+Safeguards are Needed for Digital Assets,” February 14, 2023, video available at  
+https://www.banking.senate.gov/hearings/crypto-cr ash-why-financial-system-safeguards-are-needed-for-
+digital-assets (testimony begins at 32:00) 
+ 
+ 
+SELECTED PRESENTATIONS & WORKSHOPS 
+ 
+ 
+H
+ost, “The FinReg Pod,” available at https://open.spotify.com/show/3jf8ee1FBg8sAnAa9jdwRw 
+ 
+Co-Host with Jimmie Lenz, “Coffee & Crypto with Lee & Jimmie,” Duke Engineering FinTech Program, 
+available at https://open.spotify.com/show/0yxDPqe6ZNwMqG8BT0PwQt 
+ 
+Panelist,  
+Panelist, “Investing in Cryptoassets:  Custody and Fiduciary Duty Challenges,” CFA Institute 27
+th Annual 
+GIPS Standards Conference, October 17, 2023 
+ 
+Panelist, “Wanted: A Prudential Framework for Crypto-Assets,” TechReg360, May 10, 2023, available at 
+https://www.hkufintech.com/techreg360files 
+ 
+Panelist, “What is a Bank? ILCs, FinTechs, and True Lender, and Recent Bank Failures and Regulatory 
+Action,” University of North Carolina School of Law’s Center for Banking and Finance, Banking Institute, 
+March 30, 2023 
+ 
+Presenter, “Regulating Cryptocurrency in the U.S.: Easier Said than Done,” Asian Digital Finance Forum & 
+Awards, March 19, 2023 
+ 
+Panelist, “Technology Trends (including AI & Blockchain) & Privacy Law Impact,” University of Illinois 
+Chicago 66th Annual Intellectual Property, Information & Privacy Law Conference, November 11, 2022 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 22 of 35
+
+
+--- PAGE 23 ---
+
+22 
+ 
+Panelist, “Regulating the Offspring of Blockchain: Digital Currency, Tokens and Organisations,” Monash 
+University, October 26, 2022, available at https://www.youtube.com/watch?v=odcnnyuZVMc 
+ 
+Panelist, “Digital asset regulation: The prudential perspective,” Brookings, October 20, 2022, available at 
+https://youtu.be/MBgjb_lOgqM 
+ 
+Presenter, “The Rise and Implications of Digital Asset Markets,” Harvard Law School Executive Education, 
+the Program on International Financial Systems, and the Qatar Financial Centre Regulatory Authority, 
+October 18, 2022 
+ 
+Panelist, “The Robo Advisor – Reshaping Financial Advisory,” Chartered Institute for Securities & 
+Investment, October 4, 2022 
+ 
+Presenter, “"The History of Self-Certification and the Dangers of Including it in the Digital Commodities 
+Consumer Protection Act,” Rutgers Fintech and Blockchain Collaboratory, September 30, 2022 
+ 
+Presenter, “Climate Change and Mortgage Finance: A Role for the GSEs,” Climate Adaptation Forum, 
+September 30, 2022 
+ 
+Presenter, “Fintech and the Pace of Adoption,” Agribank District Conference, September 13, 2022 
+Panelist, “A Holistic View of Blockchain: Understanding the Non-Financial Applications, and the Latest 
+Developments in Cryptocurrency,” National Association of Attorneys General 2022 Presidential Summit, 
+August 9, 2022 
+ 
+Presenter, “Cryptocurrency: The Future of Money or All Hype,” Seminars at Steamboat, July 25, 2022, 
+available at https://seminarsatsteamboat.org/lee-reiners/
+ 
+ 
+Presenter, “Ransomware & Cryptocurrencies,” Duke University Cybersecurity Leadership Program, June 13, 
+2022 
+ 
+Virtual Presentation, “What is Crypto and Why Should I Care?” Duke Provost’s Summer Academy 2022 
+Course on Science Policy, May 17, 2022 
+ 
+Panelist, “The Future of Money,” Research Triangle Area – Association of Corporate Counsel, Cary, NC, 
+May 4, 2022 
+ 
+Panelist, “Cryptocurrencies Regulations: Is the EU Lagging?” Human Technology Foundation, Webcast, 
+May 3, 2022, available at https://www.youtube.com/watch?v=hXBPG4Qi7c0
+ 
+ 
+Panelist, “Rethinking Student Learning and Engagement: Technology and Education,” Campus Consortium’s 
+EdTalk Webinar Series, April 27, 2022 
+ 
+Panelist, “Crypto Regulation & Enforcement: The Present & Future,” OffshoreAlert Miami 2022, Miami, 
+April 26, 2022 
+ 
+Virtual Presentation, “Cryptocurrency Regulations in the U.S.,” Travelers Legal Services Speaker Series, 
+April 26, 2022 
+ 
+AMA Interview, “Blockchain, Law, and Economics,” SciEcon-AMA, April 23, 2022, available at 
+https://medium.com/sciecon-ama/blockchain-law-and-economics-9d4bde730efd
+ 
+ 
+Virtual Presentation, “Digital Assets: Crypto and CBDCs,” Virtual Training Program on Fintech and Digital 
+Assets for the ASEAN Capital Markets Forum, April 22, 2022 
+ 
+Panelist, “The Role of Crypto in Sanctions Against Russia,” Columbia Law School’s National Security Law 
+Society, Virtual, April 11, 2022 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 23 of 35
+
+
+--- PAGE 24 ---
+
+23 
+ 
+ 
+Panelist, “Crypto: The Wave of the Future of a Giant Ponzi Scheme,” Securities Docket Webcast, March 10, 
+2022, available at https://www.securitiesdocket.com/webcasts/ 
+ 
+Panelist, “Current National Security Challenges: Ransomware and Cryptocurrency,” Duke Law Center on 
+Law, Ethics and National Security 27th Annual National Security Conference, Virtual, February 25, 2022 
+ 
+Virtual Presentation, “Cryptocurrency: Law and Lawlessness,” Osher Lifelong Learning Institute at the 
+University of California San Diego, December 2, 2021 
+ 
+Panelist, “CryptoWorld: BitCoin and Blockchain - The New Way or Passing Fad?” NAFOA 2021 Fall 
+Finance & Tribal Economies Conference, September 27, 2021 
+ 
+Panelist, “The Future of Global Money: How Real is the Cryptocurrency Threat & Value?” Great Talk Inc., 
+September 1, 2021, available at https://youtu.be/FvYA8zvW1G8
+ 
+ 
+Flash Presentation, “Cryptocurrency and the State: An Unholy Alliance,” DC Fintech Week, Virtual, October 
+19, 2020, available at https://www.dcfintechweek.org/videos/
+ 
+ 
+Mentor, “HBCU Blockchain Curriculum Development Institute 2019,” Center for Study of Blockchain and 
+Financial Technology, New Orleans, Oct. 31-Nov. 2, 2019 
+ 
+“The Promise and Peril of Facebook’s New Cryptocurrency,” Pontificia Universidad Católica de Chile, 
+October 4, 2019 
+ 
+“Regulating Cryptocurrency in the United States,” National Chengchi University College of Law, August 14-
+15, 2019 
+ 
+“Cryptoventures, Laws, and Regulatory Trends,” Conference on “The Inaugural HBCU Blockchain Summit,” 
+Center for Study of Blockchain and Financial Technology, Morgan State University, May 3-4, 2019 
+ 
+“Regulation in Blockchain,” Conference on “The Transformative Power of Blockchain,” Duke MBA 
+Blockchain Club, April 10, 2019 
+  
+Co-Chair and Welcoming Remarks, Conference on “Ten Years from the Bottom: A Reflection on the 
+Financial Crisis and its Lasting Impact,” Duke University, March 20, 2019 
+ 
+Panelist, Conference on “The Future of Fintech: Blockchain, Cryptocurrency, and the Emerging Financial 
+Ecosystem,” Kenan Institute of Private Enterprise at the University of North Carolina at Chapel Hill, January 
+24, 2019 
+ 
+Panelist, “Beyond Bitcoin,” Michael Best Law and Tech Symposium, October 25, 2018 
+ 
+“Wells Fargo Unauthorized Account Openings Case Study,” National Association of Corporate Directors, 
+Research Triangle Chapter, Director’s College, April 20, 2018 
+ 
+Moderator, “Beyond Talking Points: Looking at Financial Regulation Through the Frame of Resiliency,” 
+Duke in DC, March 27, 2018 
+  
+Panelist, Blockchain Conference and Hackathon, Lincoln Network, September 29, 2017 
+ 
+Moderator, “Global Financial Markets: A Look Ahead to the Future of Law & Business in a Changing 
+World,” Cadwalader, Wickersham & Taft LLP, April 12, 2017 
+ 
+“Media and Different Perspectives on Financial Regulation,” Rethinking Regulation at the Kenan Institute for 
+Ethics at Duke University, October 25, 2016  
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 24 of 35
+
+
+--- PAGE 25 ---
+
+24 
+ 
+ 
+ 
+MEDIA & CITATIONS 
+ 
+ 
+E
+mily Graffeo and Lydia Beyoud, “US Paves Way for Ether ETFs in Test of Crypto Demand Beyond 
+Bitcoin,” Bloomberg, May 24, 2024, available at https://www.bloomberg.com/news/articles/2024-05 -24/us-
+paves-way-for-ether-eth-etfs-in-test-of-demand-beyond-bitcoin-btc?srnd=undefined 
+ 
+Declan Harty, “Crypto billionaire Zhao sentenced to 4 months in prison,” Politico, April 30, 2024, available 
+at https://www.politico.com/news/2024/04/30/crypto-b
+ illionaire-changpeng-zhao-binance-sentenced-
+00155246 
+ 
+Cynthia Littleton & Andrew Wallenstein, “Is There a Hollywood Use Case for Crypto and Blockchain 
+Tech?” Strictly Business, April 24, 2024, available at https://podcasts.apple.com/us/podcast/strictly-
+business/id1367322664 
+ 
+Matt Levin, “Bitcoin devotees are rejoicing after the latest crypto thaw,” Marketplace, March 1, 2024, 
+available at https://www.marketplace.org/2024/03/01/bitcoin-d
+ evotees-are-rejoicing-after-the-latest-crypto-
+thaw/ 
+ 
+David Gura, “Will Bitcoin ETFs lead to crypto becoming more common in investment portfolios?” NPR, 
+February 6, 2024, available at https://www.npr.org/people/1019406539/david-gura 
+ 
+Alexander Osipovich, “Wall Street Gets Laser Eyes in Bid for Bitcoin ETF Bucks,” Wall Street Journal, 
+February 3, 2024, available at https://www.wsj.com/finance/investing/wall-s treet-gets-laser-eyes-in-bid-for-
+bitcoin-etf-bucks-3b890de3 
+ 
+Dave Michaels, “Binance Copped a $4 Billion Plea but Is Still Fighting the SEC,” Wall Street Journal, 
+December 4, 2023, available at https://www.wsj.com/finance/regulation/binance-c
+ opped-a-4-billion-plea-but-
+is-still-fighting-the-sec-44a4e5a5 
+ 
+Leo Schwartz and Jeff John Roberts, “Gary Gensler has remade the SEC into a crypto nemesis and climate 
+warrior. Now a backlash is brewing,” Fortune, November 28, 2023, available at 
+https://fortune.com/longform/gary-gensler-sec-chair-interview-cryptocurrency-climate-change/ 
+ 
+Thomas Barrabi, “Customers outraged over Winklevoss twins’ secret $282M crypto withdrawal: ‘You didn’t 
+tell anyone,’ NY Post, October 17, 2023, available at https://nypost.com/2023/10/17/customers-o
+ utraged-
+over-winklevoss-twins-secret-282m-crypto-withdrawal/ 
+ 
+Kevin Penton, “Sullivan & Cromwell, Fenwick Draw Scrutiny In FTX Debacle,” LAW360, October 3, 2023, 
+available at https://www.law360.com/articles/1726200/sullivan-cr
+ omwell-fenwick-draw-scrutiny-in-ftx-
+debacle 
+ 
+Declan Harty, Eleanor Mueller, Sam Sutton and Jasper Goodman, “How SBF’s fall keeps rattling Capitol 
+Hill,” Politico, October 3, 2023, available at https://www.politico.com/news/2023/10/03/sam-b
+ ankman-fried-
+trial-crypto-lobby-congress-00118858 
+ 
+Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren 
+Hirsch and Ephrat Livni, “Crypto’s Trial of the Century Is Set to Begin,” NYT, October 2, 2023, available at 
+https://www.nytimes.com/2023/10/02/business/dealbook/bankman-fried-ftx-trial.html 
+ 
+Brooke Masters and Scott Chipolina, “Crypto vs SEC: What Grayscale’s court victory means for bitcoin 
+ETFs,” Financial Times, August 30, 2023, available at https://www.ft.com/content/c862dd6c-6d 9f-4565-
+ae40-1869b00e6e48 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 25 of 35
+
+
+--- PAGE 26 ---
+
+25 
+ 
+Dave Michaels and Paul Kiernan, “SEC’s Strategy for Regulating Crypto Stumbles in Ripple Case,” Wall 
+Street Journal, July 15, 2023, available at https://www.wsj.com/articles/secs-strategy-for-regulating-crypto-
+stumbles-in-ripple-case-a003c057 
+ 
+Claire Williams, “BNY Mellon crypto custody application didn’t anticipate SEC accounting rule,” American 
+Banker, June 28, 2023, available at 
+https://www.americanbanker.com/news/new-document-highlights-
+conflict-over-bny-mellons-crypto-custody-business 
+ 
+Edd Gent, “U.S. SEC Puts Cryptocurrencies’ Futures in Crosshairs,” IEEE Spectrum, June 14, 2023, 
+available at https://spectrum.ieee.org/sec-crypto-lawsuits
+ 
+ 
+Joseph Zeballos-Roig, “Congress may be done with crypto,” SEMAFOR, June 7, 2023, available at 
+https://www.semafor.com/article/06/07/2023/congress-may-be-done-with-crypto
+ 
+ 
+Michael Martin and David Gura, “The SEC unveils 13 charges in a lawsuit against crypto exchange 
+Binance,” NPR, June 6, 2023, available at 
+https://www.npr.org/2023/06/06/1180361045/the-sec-unveils-13-
+charges-in-a-lawsuit-against-crypto-exchange-binance 
+ 
+Lily Jamali, “Climate change is high on the agenda as the World Bank gets a new president,” Marketplace, 
+May 2, 2023, available at 
+https://www.marketplace.org/2023/05/02/climate-change-is-high-on-the-agenda-as-
+the-world-bank-gets-a-new-president/ 
+ 
+Michelle Celarier, “Is the Bitcoin Comeback for Real?” Institutional Investor, April 24, 2023, available at 
+https://www.institutionalinvestor.com/article/2bstor7aqjglivlbmz6yo/portfolio/is-the-bitcoin-comeback-for-
+real 
+ 
+Russ Bowen, “NC State Treasurer weighs in on First Citizens buying Silicon Valley Bank,” March 27, 2023, 
+available at 
+https://www.cbs17.com/news/north-carolina-news/nc-state-treasurer-weighs-in-on-first-citizens-
+acquisition-of-silicon-valley-bank/ 
+ 
+Matt Levin, “Who are bank examiners, and what do they do?” Marketplace, March 24, 2023, available at 
+https://www.marketplace.org/2023/03/24/who-are-bank-examiners-and-what-do-they-do/
+ 
+ 
+Leo Schwartz, “Is Operation Chokepoint real? A crypto skeptic weighs in,” Fortune, March 22, 2023, 
+available at https://fortune.com/crypto/2023/03/22/is-operation-chokepoint-real-a-crypto-skeptic-weighs-in/
+ 
+ 
+David Yaffe-Bellany and Erin Griffith, “Crypto Wants it Shine Back,” The New York Times, March 20, 
+2023, available at https://www.nytimes.com/2023/03/20/technology/crypto-rebranding-marketing.html
+ 
+ 
+Joe Light, “Struggling Silvergate Bank Held Reserves for Major Stablecoins, Raising Investor Protection 
+Questions,” Barron’s, March 4, 2023, available at 
+https://www.barrons.com/articles/silvergate-stablecoins-
+bitcoin-fdic-banking-a355da8a 
+ 
+Lily Jamali, “Can crypto restore its credibility?” Marketplace, December 13, 2022, available at 
+https://www.marketplace.org/2022/12/13/can-crypto-restore-its-credibility/
+ 
+ 
+Joseph Zeballos-Roig, “A Republican joins the crypto backlash in Congress,” December 2, 2022, available at 
+https://www.semafor.com/article/12/02/2022/roger-marshall-kansas 
+ 
+Sharon Thiruchelvam, “FTX failure resets US crypto legislative programme,” Risk.net, November 29, 2022, 
+available at https://www.risk.net/regulation/7955328/ftx-failure-resets-us-crypto-legislative-programme
+ 
+ 
+Molly Fischer, “Yam Karkai’s Illustrations Made Her an N.F.T. Sensation. Now What?,” November 28, 
+2022, available at 
+https://www.newyorker.com/magazine/2022/12/05/yam-karkais-illustrations-made-her-an-
+nft-sensation-now-what 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 26 of 35
+
+
+--- PAGE 27 ---
+
+26 
+ 
+Joseph Zeballos-Roig, “Capitol Hill finally wants to regulate crypto. But some critics say just ‘let it burn.’ 
+Semafor, November 23, 2022, available at https://www.semafor.com/article/11/23/2022/crypto-bill-criticized 
+ 
+Maxwell Strachan, “How SBF Created the New Playbook for Manipulating Washington, D.C., Vice, 
+November 22, 2022, available at https://www.vice.com/en/article/xgyp8d/how-sbf-created-the-new-
+playbook-for-manipulating-washington-dc 
+ 
+David Yaffe-Bellany, “Inside a Crypto Nemesis’ Campaign to Rein In the Industry,” New York Times, 
+November 21, 2022, available at 
+https://www.nytimes.com/2022/11/21/technology/gary-gensler-crypto-
+sec.html 
+ 
+Ephrat Livini, “What is Next for the FTX Fallout,” Dealbook, November 20, 2022, available at 
+https://www.nytimes.com/2022/11/19/business/dealbook/ftx-fallout.html 
+ 
+Hannah Albarazi, “Would Rules Have Cured FTX’s ‘Internal Controls Wastleand’? Law360, November 18, 
+2022, available at https://www.law360.com/articles/1550638 
+ 
+Matt Levin, “FTX debacle worsens crypto’s trust issues,” Marketplace, November 18, 2022, available at 
+https://www.marketplace.org/2022/11/21/ftx-debacle-worsens-cryptos-trust-issues/ 
+ 
+Sarah Wynn, FTX failure may strengthen case for more robust crypto regulation, Roll Call, November 15, 
+2022, available at  https://rollcall.com/2022/11/15/ftx-failure-may-strengthen-case-for-better-crypto-
+regulation/ 
+ 
+Karl Evers-Hillstrom, Crypto faces a crisis of confidence amid FTX collapse, The Hill, November 11, 2022, 
+available at https://thehill.com/business-a-lobbying/3730175-crypto-faces-a-crisis-of-confidence-amid-ftx-
+collapse/ 
+ 
+Jeff Ostrowski, FTX Turmoil Undermines Miami’s Crypto Strategy, Commercial Observer, November 10, 
+2022, available at https://commercialobserver.com/2022/11/ftx-turmoil-undermines-miamis-crypto-
+strategy/#.Y23Bpcfp8f8.twitter 
+ 
+David Yaffe-Bellany, “Binance Pulls Out of Deal to Acquire Rival Crypto Exchange FTX,” November 9, 
+2022, available at https://www.nytimes.com/2022/11/09/technology/ftx-binance-crypto.html 
+ 
+Joe Light, “Face-Off Between Crypto Billionaires Is the Market’s Biggest Near-Term Risk,” Barron’s, 
+November 9, available at 
+https://www.barrons.com/articles/face-off-between-crypto-billionaires-is-the-
+markets-biggest-near-term-risk-51667865380 
+ 
+David Gura, “Cryptocurrency exchange FTX files for bankruptcy,” NPR, November 11, 2022, available at 
+https://www.npr.org/2022/11/11/1135984033/once-valued-at-more-than-30-billion-crypto-currency-ftx-is-
+near-bankruptcy 
+ 
+Lily Jamali, “Crypto exchange Binance walks away from FTX deal,” Marketplace, November 9, 2022, 
+available at https://www.marketplace.org/2022/11/09/crypto-exchange-binance-walks-away-from-ftx-deal/ 
+ 
+“Legal Explainer: Regulators face unique hurdles in FTX probes,” Reuters Video, November 14, 2022, 
+available at https://www.reuters.com/video/watch/idRCV00BKQQ 
+ 
+“Did FTX meltdown turn the ‘crypto winter’ into a ‘crypto ice age’? Fox Business, November 11, 2022, 
+available at https://video.foxbusiness.com/v/6315399200112#sp=show-clips 
+ 
+“Cryptocurrency exchange FTX facing potential bankruptcy,” CBS News, November 11, 2022, available at 
+https://www.cbsnews.com/video/cryptocurrency-exchange-ftx-facing-potential-bankruptcy/
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 27 of 35
+
+
+--- PAGE 28 ---
+
+27 
+ 
+Matt Levin, “What Message is the SEC sending about celebrity crypto endorsements with Kim Kardashian 
+fine?” Marketplace, October 4, 2022, available at https://www.marketplace.org/2022/10/04/what-message-is-
+the-sec-sending-about-celebrity-crypto-endorsements-with-kim-kardashian-fine/ 
+ 
+Sarah Wynn, “GOP midterm victory would add pressure on fintech regulators,” Roll Call, October 4, 2022, 
+available at https://rollcall.com/2022/10/04/gop-midterm-victory-would-add-pressure-on-fintech-regulators/
+ 
+ 
+Sarah Emerson, David Jeans, & Phoebe Liu, “Crypto Darling Helium Promised A ‘People’s Network.’ 
+Instead, Its Executives Got Rich.” Forbes, September 23, 2022, available at: 
+https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/
+ 
+ 
+David Dayen, “Battle Royale for Crypto Oversight Kicks Off,” The American Prospect, September 15, 2022, 
+available at   https://prospect.org/power/battle-royale-for-crypto-oversight-kicks-off/
+ 
+ 
+Lily Jamali, “With “the merge,’ Ethereum tries to set a greener example for crypto,” Marketplace, September 
+15, 2022, available at https://www.marketplace.org/?s=the%20merge 
+ 
+Kharishar Kahfi, “The world’s securities law watchdog is scrambling to create ‘common standards’ for 
+crypto,” The Block, September 3, 2022, available at https://www.theblock.co/post/167451/the-worlds-
+securities-law-watchdog-is-scrambling-to-create-common-standards-for-crypto 
+ 
+Cynthia Littleton, “A Crypto Skeptic Takes on Web3: ‘There’s No Real-World-Use Case’ for 
+Cryptocurrencies,” Variety, August 17, 2022, available at: 
+https://variety.com/2022/digital/news/crypto-
+skeptic-web3-cryptocurrencies-1235342888/ 
+ 
+Ben Margulies, “Fed announces new guidelines after master account controversy,” Central Banking, August 
+16, 2022, available at 
+https://www.centralbanking.com/regulation/banking/7952221/fed-announces-new-
+guidelines-after-master-account-controversy 
+ 
+Sarah Wynn, “’Securities’ label in SEC insider case may have broad crypto impact,” Roll Call, August 2, 
+2022, available at 
+https://rollcall.com/2022/08/02/securities-label-in-sec-insider-case-may-have-broad-crypto-
+impact/ 
+ 
+Katy Pickens, “Law professor tells Steamboat audience crypto not worth the hype,” Steamboat Pilot & 
+Today, July 26, 2022, available at 
+https://www.steamboatpilot.com/news/law-professor-tells-steamboat-
+audience-crypto-not-worth-the-hype/ 
+ 
+Julia Gerstein, “Will Current Geopolitical Crisis Influence Crypto Market?” Coinspeaker, July 11, 2022, 
+available at https://www.coinspeaker.com/geopolitical-crisis-crypto-market/
+ 
+ 
+Michael Bologna, “Crypto Crash Weighs on States’ Plans for Tax Payment by Bitcoin,” Bloomberg, July 5, 
+2022, available at https://www.bloomberg.com/news/articles/2022-07-05/crypto-crash-weighs-on-states-
+plans-for-tax-payment-by-bitcoin 
+ 
+Tory Newmyer, “Bill to grant crypto firms access to Federal Reserve alarms experts,” The Washington Post, 
+July 3, 2022, available at https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/
+ 
+ 
+“Crypto’s problem is it’s having trouble attracting new buyers, says Duke’s Lee Reiners,” CNBC Crypto 
+Night in America, July 1, 2022 available at https://www.youtube.com/watch?v=tk9pAFPjCjQ 
+ 
+Jacob Kozhipatt, “A former Federal Reserve regulator turned Duke fintech professor who’s calling for crypto 
+to be banned explains why “blockchain’s not really better at anything,” Business Insider, June 29, 2022, 
+available at https://www.businessinsider.com/crypto-bitcoin-ethereum-federal-reserve-blockchain-regulation-
+senator-lummins-reiners-2022-6 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 28 of 35
+
+
+--- PAGE 29 ---
+
+28 
+ 
+Kristine Liao, “Crypto companies are getting into carbon credits. But can they actually help the climate?” 
+Popular Science, June 27, 2022, available at https://www.popsci.com/environment/crypto-carbon-credit-
+tokens/ 
+ 
+Rebecca Heilweil, “Now might be a good time to think about crypto insurance,” Vox, June 17, 2022, 
+available at https://www.vox.com/recode/23171782/crypto-terra-ust-celsius-meltdown-crash-insurance
+ 
+ 
+Lauren Foster, “Proposed Legislation Promises to Empower Investors. What to Know.” Barron’s, June 14, 
+2022, available at https://www.barrons.com/articles/verizon-communications-stock-downgrade-51659023227 
+David Yaffe-Bellany and Erin Griffith, “‘The Music Has Stopped’: Crypto Firms Quake as Prices Fall,” June 
+14, 2022, available at https://www.nytimes.com/2022/06/14/technology/crypto-industry-prices-fall.html 
+ 
+Scott Nover, “Why crypto lender Celsius Network halted withdrawals,” June 13, 2022, available at 
+https://qz.com/2177014/why-celsius-network-froze-withdrawals/ 
+ 
+Lauren Foster, “How ‘Greenwashing’ Cost a CEO His Job,” Barron’s, June 2, 2022, available at 
+https://www.marketwatch.com/articles/greenwashing-dws-group-ceo-
+51654130739?mod=mw_latestnews&tesla=y 
+ 
+“The bull and bear case for cryptocurrencies,” CNBC Crypto Night in America, May 27, 2022, available at 
+https://www.youtube.com/watch?app=desktop&v=Sz-qJ6CMUVA
+ 
+ 
+David Yaffe-Bellany, “A Crypto Emperor’s Vision: No Pants, His Rules,” New York Times, May 14, 2022, 
+available at https://www.nytimes.com/2022/05/14/business/sam-bankman-fried-ftx-crypto.html
+ 
+ 
+Lily Jamali, “Crypto asset meltdown prompt calls for regulation,” Marketplace, May 13, 2022, available at 
+https://www.marketplace.org/2022/05/13/crypto-asset-meltdown-prompts-calls-for-regulation/
+ 
+ 
+Elise Hansen, “Crypto Meltdown Could Speed Stablecoin Regulations,” LAW360, May 13, 2022, available 
+at 
+https://www.law360.com/capitalmarkets/articles/1493194/crypto-meltdown-could-speed-stablecoin-
+regulations 
+ 
+Katrina Northrop, “Born to Run: After capitalizing on China’s crypto boom, Binance CEO “CZ” fled China 
+just in the nick of time – and he’s been running ever since,” The Wire China, May 8, 2022, available at 
+https://www.thewirechina.com/2022/05/08/born-to-run/ 
+ 
+Capital Tonight, “Navigating the regulations of cryptocurrency,” Spectrum News 1, May 2, 2022, available at 
+https://spectrumlocalnews.com/nc/charlotte/politics/2022/05/02/navigating-the-regulations-of-cryptocurrency
+ 
+ 
+Chris Sommerfeldt, “Mayor Adams suggests scrapping longstanding N.Y. cryptocurrency licensing rule,” 
+New York Daily News, April 27, 2022, available at 
+https://www.nydailynews.com/news/politics/new-york-
+elections-government/ny-nyc-mayor-eric-adams-new-york-state-cryptocurrency-licensing-20220427-
+5fpxfug3jbe7jkcftqi2wtzgci-story.html 
+ 
+Jacob Kozhipatt, “Experts Debate What Elon Musk’s Twitter Acquisition Means for Dogecoin,” Business 
+Insider, April 27, 2022, available at https://www.businessinsider.com/elon-musk-twitter-acquisition-crypto-
+dogecoin-doge-meme-coin-btc-2022-
+4?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter 
+ 
+Charlie Dunlap, “The National Security Challenges of Ransomware and Cryptocurrency,” Lawfire (Podcast), 
+April 4, 2022, available at 
+https://sites.duke.edu/lawfire/2022/04/04/podcast-the-national-security-challenges-
+of-ransomware-and-cryptocurrency/ 
+ 
+Corbin Hiar, “Fidelity sparks climate concern by using crypto in 401(k),” E&E News, April 28, 2022, 
+available at https://www.eenews.net/articles/fidelity-sparks-climate-concern-by-using-crypto-in-401k/
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 29 of 35
+
+
+--- PAGE 30 ---
+
+29 
+ 
+Carolina Bolado, “Crypto Industry Can’t Count on Congress, At Least Not Yet,” Law360, April 26, 2022, 
+available at https://www.law360.com/fintech/articles/1487649/crypto-industry-can-t-count-on-congress-at-
+least-not-yet 
+ 
+Matt Levin, “What are stablecoins, and why are regulators worried about them?” Marketplace, April 18, 
+2022, available at 
+https://www.marketplace.org/2022/04/18/what-are-stablecoins-and-why-are-regulators-
+worried-about-them/ 
+ 
+Eric Lipton and David Yaffe-Bellany, “Crypto Industry Helps Write, and Pass, Its Own Agenda in State 
+Capitols,” New York Times, April 10, 2022, available at 
+https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html
+ 
+ 
+David Gura, “Encore: The SEC wants companies to disclose how climate change is affecting them,” NPR, 
+March 30, 2022, available at 
+https://www.npr.org/2022/03/30/1089774550/encore-the-sec-wants-companies-
+to-disclose-how-climate-change-is-affecting-them 
+ 
+Corbin Hiar, “Michael Brune’s next battle: Clean up bitcoin,” E&E News, March 29, 2022 available at 
+https://www.eenews.net/articles/michael-brunes-next-battle-clean-up-bitcoin/
+ 
+ 
+Lily Jamali, “Proposed bitoin ETFs spotlight debate over rules governing crypto,” Marketplace, March 22, 
+2022, available at 
+https://www.marketplace.org/2022/03/22/proposed-bitcoin-etfs-spotlight-debate-over-
+rules-governing-crypto/ 
+ 
+David Gura, “The SEC wants companies to disclose how climate change is affecting them,” NPR, March 21, 
+2022, available at 
+https://www.npr.org/2022/03/21/1087832674/the-s-e-c-climate-change-disclosures-
+companies 
+ 
+Claire Williams, “A big bank is in trouble, and no one knows which one or why,” America Banker, March 
+10. 2022, available at https://www.americanbanker.com/news/a-b ig-bank-is-in-trouble-and-no-one-knows-
+which-one-or-why 
+ 
+Paul Kiernan and Andrew Duehren, “Bitcoin Price Surges on Biden’s Crypto Executive Order,” Wall Street 
+Journal, March 9, 2022, available at https://www.wsj.com/articles/biden-to-order-study-of-cryptocurrency-
+risk-creation-of-u-s-digital-currency-11646823600?page=1 
+ 
+Lily Jamali, “Donations fortify Ukraine’s defense spending,” Marketplace, March 9, 2022, available at 
+https://www.marketplace.org/2022/03/09/donations-fortify-ukraines-defense-spending/ 
+ 
+“You’re starting to see institutions revisit that they need a crypto strategy, says Anthony Scaramucci,” CNBC 
+Crypto Night in America, March 9, 2022, available at 
+https://www.cnbc.com/video/2022/03/09/youre-
+starting-to-see-institutions-revisit-that-they-need-a-crypto-strategy-says-anthony-
+scaramucci.html?__source=sharebar%7Ctwitter&par=sharebar 
+ 
+Corbin Hiar, “Tesla fights shareholder push to ditch carbo-rich crypto,” E&E News, March 8, 2022, available 
+at https://www.eenews.net/articles/tesla-fights-shareholder-push-to-ditch-carbon-rich-crypto/
+ 
+ 
+David Dayen, “The Real Reasons Republicans Are Blocking Biden’s Fed Nominees,” The American 
+Prospect, March 3, 2022, available at https://prospect.org/power/real-r eason-republicans-blocking-bidens-fed-
+nominees/#.YiDyqHQlK1Y.twitter 
+ 
+Nitasha Tiku and Jeremy B. Merrill, “Ukraine asked for donations in crypto. The things got weird,” 
+Washington Post, March 3, 2022, available at 
+https://www.washingtonpost.com/technology/2022/03/03/ukraine-cryptocurrency-donations/ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 30 of 35
+
+
+--- PAGE 31 ---
+
+30 
+ 
+Matt Levin, “As the ruble tumbles, cryptocurrency attracts ordinary Russians, oligarchs, maybe even the state 
+itself,” Marketplace, March 1, 2022, available at https://www.marketplace.org/2022/03/01/russians-turn-to-
+cryptocurrency-ruble-tumbles/ 
+ 
+Joseph A. Smith, “A Practitioner’s View on the Value of Team-Based, Student-Powered Interdisciplinary 
+Research,” Methodspace, February 2022, available at 
+https://www.methodspace.com/blog/a-practitioners-
+view-on-the-value-of-team-based-student-powered-interdisciplinary-research 
+ 
+Charlie Dunlap, “Lee Reiners on “Russian Sanctions will Compel Further Adoption of Cryptocurrency and 
+Increase Compliance Risks for Cryptocurrency Companies,” Lawfire, February 28, 2022, available at 
+https://sites.duke.edu/lawfire/2022/02/28/lee-reiners-on-russian-sanctions-will-compel-further-adoption-of-
+cryptocurrency-and-increase-compliance-risks-for-cryptocurrency-companies/ 
+ 
+Elliot Wilson, “Can the Cowboy State sell crypto to the Fed?” February 25, 2022, available at 
+https://www.euromoney.com/article/29rem175z7iw1vgd6zbpc/fintech/can-the-cowboy-state-sell-crypto-to-
+the-fed 
+ 
+Ben Sessoms, “Crypto miner power draw raises environmental concerns,” Carolina Public Press, February 
+25, 2022, available at 
+https://carolinapublicpress.org/51848/crypto-miner-power-draw-raises-environmental-
+concerns/ 
+ 
+Andrew Ross Sorkin, Jason Karaian, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch
+ 
+and Ephrat Livni “Wall Street Bumps Pay to Stem a Talent Exodus,” New York Times, February 9, 2022, 
+avaialable at https://www.nytimes.com/2022/02/09/business/dealbook/wall-street-pay.html 
+ 
+“You’re going to see volatility waves in bitcoin, but ling-term holders will by fine, says Anthony 
+Scaramucci.” CNBC Crypto Night in America, January 13, 2022, available at 
+https://www.cnbc.com/video/2022/01/13/youre-going-to-see-volatility-waves-in-bitcoin-but-long-term-
+holders-will-by-fine-says-anthony-scaramucci.html?qsearchterm=Anthony%20Scaramucci 
+ 
+Chad Day, “Only Two Senators Own Crypto Assets. Both Are shaping the Industry’s Rule,” Wall Street 
+Journal, December 20, 2021, available at https://www.wsj.com/articles/senators-own-cryptocurrency-assets-
+as-they-shape-rules-for-industry-11640005202?page=1&s=09 
+ 
+Sharon Thiruchelvam, “New Fed regulation head unlikely to roll back all Trump changes,” Risk.net, 
+December 3, 2021, available at 
+https://www.risk.net/regulation/7904126/new-fed-regulation-head-unlikely-
+to-roll-back-trump-changes 
+ 
+“Here’s what’s on the horizon for crypto regulation,” CNBC Crypto Night in America, November 24, 2021, 
+available at https://www.cnbc.com/video/2021/11/24/heres-whats-on-the-horizon-for-crypto-regulation.html
+ 
+ 
+Matt Ott, “Shiba Inu passes Dogecoin as top “dog” in cryptocurrency,” ABCNews, November 1, 2021, 
+available at https://abcnews.go.com/Business/wireStory/shiba-inu-passes-dogecoin-top-dog-cryptocurrency-
+80906180 
+ 
+Andrew Singer, “Cypto lending firms on the hot seat: New regulations are coming?” Cointelegraph, October 
+29, 2021, available at https://cointelegraph.com/news/crypto-lending-firms-on-the-hot-seat-new-regulations-
+are-coming 
+ 
+Andy Blye, “Shifting Sands,” Phoenix Business Journal, October 29, 2021, available at 
+https://www.bizjournals.com/phoenix/news/2021/10/29/fintech-sandbox-arizona-report.html
+ 
+ 
+Edd Gent, “Why is Facebook Getting Into Cryptocurrency?” IEEE Spectrum, September 30, 2021, available 
+at https://spectrum.ieee.org/facebook-cryptocurrency-diem-why#toggle-gdpr
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 31 of 35
+
+
+--- PAGE 32 ---
+
+31 
+ 
+Peter Feltman, “SEC seen having clear case against Coinbase’s lending program,” Roll Call, September 28, 
+2021, available at https://www.rollcall.com/2021/09/28/sec-seen-having-clear-case-against-coinbases-
+lending-program/ 
+ 
+Elizabeth Weise, “Climate change is ‘a freight train’ making some places too dangerous to live in, experts 
+say,” USA Today, September 28, 2021, available at 
+https://www.msn.com/en-us/news/us/climate-change-is-
+a-freight-train-making-some-places-too-dangerous-to-live-in-experts-say/ar-AAOWYhA 
+ 
+“Biden administration set to ban crypto for ransomware payments,” CNBC The Exchange, September 17, 
+2021, available at 
+https://www.cnbc.com/video/2021/09/17/biden-administration-set-to-ban-crypto-for-
+ransomware-payments.html?qsearchterm=Reiners 
+ 
+Cristiano Lima, “Facebook’s latest attempt to build a crypto empire meets familiar skepticism in 
+Washington,” Washington Post, September 8, 2021, available at 
+https://www.washingtonpost.com/politics/2021/09/08/technology-202-facebook-latest-attempt-build-crypto-
+empire-meets-familiar-skepticism-washington/ 
+ 
+Eric Lipton and Ephrat Livini, “Crypto’s Rapid Move Into Banking Elicits Alarm in Washington,” New York 
+Times, September 5, 2021, available at 
+https://www.nytimes.com/2021/09/05/us/politics/cryptocurrency-
+banking-regulation.html 
+ 
+Roger Parloff, “Portrait of a 29-year-old billionaire: Can Sam Bankman-Fried make his risky crypto business 
+work?” Yahoo! Finance, August 12, 2021, available at https://finance.yahoo.com/news/ftx-ceo-sam-
+bankman-fried-profile-
+085444366.html?guccounter=1&guce_referrer=aHR0cHM6Ly9sYXcuZHVrZS5lZHUvbmV3cy90YWcvR2
+xvYmFsJTIwRmluYW5jaWFsJTIwTWFya2V0cyUyMENlbnRlcg&guce_referrer_sig=AQAAAH03H3AIy4
+eT5-
+AZU4vDFfPMEWEi9_KcfZSiyffB7mfgYKgHa4chgyfthKOGwLFW5X4Id0S8KyzwEhjDkE3HgXGB47LO
+tVomonrAB8M0xSHrS1FfvtqQL7yiYO-qLqFAeqqQGXZrU-Zy3d5-lWrn7izXMYsNR2WLxCCtvTbGopLl 
+ 
+Dave Michaels and Alexander Osipovich, “SEC Chief Gary Gensler Braces for Clash With Crypto Traders,” 
+Wall Street Journal, August 5, 2021, available at 
+https://www.wsj.com/articles/sec-chief-gary-gensler-braces-
+for-clash-with-crypto-traders-11628164980?page=1 
+ 
+Maria Aspan, “How Caitlin Long turned Wyoming into crypto country,” Fortune, July 29, 2021, available at 
+https://fortune.com/2021/07/29/caitlin-long-wyoming-crypto/
+ 
+ 
+Neil Haggerty, “Why SEC's climate disclosure rules could hit banks hardest,” American Banker, July 2, 
+2021, available at https://www.americanbanker.com/news/why-secs-climate-disclosure-rules-could-hit-banks-
+hardest 
+ 
+Elena Botella, “Wyoming Wants to Be the Crypto Capital of the U.S.,” Slate, June 28, 2021, available at 
+https://slate.com/technology/2021/06/wyoming-cryptocurrency-laws.html
+ 
+ 
+Sophie Quinton, “Relaxed Rules Attract Entrepreneurs to State 'Sandboxes',” PEW, June 15, 2021, available 
+at https://www.pewtrusts.org/ar/research-and-analysis/blogs/stateline/2021/06/15/relaxed-rules-attract-
+entrepreneurs-to-state-sandboxes 
+ 
+Andrea Vittorio and Jake Holland, “Meat Producer’s Hack Ups Pressure to Regulate Crypto Payments,” 
+Bloomberg Law, June 3, 2021, available at 
+https://news.bloomberglaw.com/banking-law/meat-producers-
+hack-ups-pressure-to-regulate-crypto-payments 
+ 
+“Why this expert says to fight ransomware, we need to ban cryptocurrency,” CNBC Power Lunch, May 27, 
+2021, available at https://www.cnbc.com/video/2021/05/27/why-this-expert-says-to-fight-ransomware-we-
+need-to-ban-cryptocurrency.html 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 32 of 35
+
+
+--- PAGE 33 ---
+
+32 
+ 
+Brendan Pedersen and Hannah Lang,  “Will FDIC, OCC follow Fed into global climate group?” American 
+Banker, May 18, 2021, available at https://www.americanbanker.com/news/will-fdic-occ-follow-fed-into-
+global-climate-group 
+ 
+Terrence Fraser, “Amazon doesn’t take Dogecoin as payment on its site,” AP News,  May 6, 2021, available 
+at https://apnews.com/article/fact-checking-196022114861
+ 
+ 
+Alexander Osipovich, “This Vegan Billionaire Disrupted the Crypto Markets. Stocks May be Next,” Wall 
+Street Journal, April 16, 2021, available at https://www.wsj.com/articles/this-vegan-billionaire-disrupted-the-
+crypto-markets-stocks-may-be-next-11618565408 
+ 
+Danica Coto, “Eastern Caribbean Dollar Goes Digital, A Help for the Unbanked,” Business Journal, April 8, 
+2021, available at https://thebusinessjournal.com/eastern-caribbean-dollar-goes-digital-a-help-for-unbanked/
+ 
+ 
+Claire Williams, “FSOC Takes the First Step to Regulate Hedge Funds by Forming a Working Group. What’s 
+Next?” Morning Consult, March 31, 2021, available at https://morningconsult.com/2021/03/31/fsoc-
+regulation-hedge-funds-working-group/ 
+ 
+Catherine Boudreau, “When companies go green, the planet doesn’t always win,” Politico, March 30, 2021, 
+available at https://www.politico.com/news/2021/03/30/companies-green-planet-doesnt-always-win-478460
+ 
+ 
+Ashley Daley, “Who protects landlords? Eviction moratorium extended through June,” WCNC, March 29, 
+2021, available at https://www.wcnc.com/article/money/national-ban-evictions-extended-landlords/275-
+2617949b-f47c-4471-bac6-9a427ebe1103 
+ 
+Andrew Singer, “Bitcoin ETF may come to US, but not all crypto investors think it’s needed,” Cointelegraph, 
+March 5, 2021, available at 
+https://cointelegraph.com/news/bitcoin-eft-may-come-to-us-but-not-all-crypto-
+investors-think-it-s-needed 
+ 
+Chris Mathews, “Progressive hopes for a radical SEC agenda face a unicorn problem,” MarketWatch, 
+February 26, 2021, available at 
+https://www.marketwatch.com/story/progressive-hopes-for-a-radical-sec-
+agenda-face-a-unicorn-problem-11614369773 
+ 
+Avery Ellfeldt, “SEC to toughen climate rules on companies,” E&E News, February 25, 2021, available at 
+https://www.eenews.net/stories/1063725965
+ 
+ 
+Matt Ott, “Cost of a single bitcoin exceeds $50,000 for the first time,” AP News, February 16, 2021,  
+available at 
+https://apnews.com/article/single-bitcoin-cost-50k-first-time-
+cbe42b7f0bbc4194c64bbbaab47e5902 
+ 
+Peter Feltman, “Fintech experts divided on form for U.S. central digital currency,” Roll Call, October 27, 
+2021, available at 
+https://www.rollcall.com/2020/10/27/fintech-experts-divided-on-form-for-u-s-central-
+digital-currency/ 
+ 
+Jon Hill, “Barrett May Reinforce High Court Trends For Banking Industry,” Law 360, September 29, 2020, 
+available at https://www.law360.com/securities/articles/1314305/barrett-may-reinforce-high-court-trends-for-
+banking-industry 
+ 
+Avery Ellfeldt, “This watchdog wants to 'demystify' America's COVID-19 bailout,” E&E News, August 24, 
+2020, available at https://www.eenews.net/climatewire/stories/1063712309/search?keyword=Bharat 
+ 
+Andrew Singer, “WisdomTree Tests SEC’s Bitcoin Acceptance Threshold With Latest ETF Filing,” 
+Cointelegraph, June 20, 2020, available at 
+https://cointelegraph.com/news/wisdomtree-tests-secs-bitcoin-
+acceptance-threshold-with-latest-etf-filing 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 33 of 35
+
+
+--- PAGE 34 ---
+
+33 
+ 
+Peter Feltmen, “Optimism abounds on cryptocurrency ETFs despite lack of action,” Roll Call, June 9, 2020, 
+available at https://www.rollcall.com/2020/06/09/optimism-abounds-on-cryptocurrency-etfs-despite-lack-of-
+action/ 
+ 
+Commodity Futures Trading Commission, Comment for Federal Advisory Committees and Subcommittees 
+85 FR 21840, May 9, 2020, available at https://comments.cftc.gov/Handlers/PdfHandler.ashx?id=29174
+ 
+ 
+Duke Today Staff, “Lee Reiners: Who Are Your Trusted Sources on COVID-19?” Duke Today, May 7, 2020, 
+available at https://today.duke.edu/2020/05/lee-reiners-who-are-your-trusted-sources-covid-19 
+ 
+Duke Law Staff, “Reiners, Lawrence JD/LLM ’21, and others from Duke Law contribute to Bass 
+Connections analysis of predatory lending,” Duke Law: News, May 8, 2020, available at 
+https://law.duke.edu/news/reiners-lawrence-jdllm-21-and-others-duke-law-contribute-bass-connections-
+analysis-predatory 
+ 
+Nicholas Institute for Environmental Policy Solutions Staff, “Seven Duke Research Projects Receive Catalyst 
+Program Grants for 2020–2021,” Nicholas Institute for Environmental Policy Solutions: News, May 5, 2020, 
+available at https://nicholasinstitute.duke.edu/articles/seven-duke-research-projects-receive-catalyst-program-
+grants-2020-2021 
+ 
+Scott Hawksworth, “Exploring Fintech Law and Regulation with Lee Reiners of Duke Law,” PayPod, 
+Episode 83, January 30, 2020, available at https://www.soarpay.com/2019/12/lee-reiners/
+ 
+ 
+Brendan Pedersen, “Does Amazon-Google-Microsoft hold on the cloud pose a risk to banking?” American 
+Banker, September 30, 2019, available at https://www.americanbanker.com/news/does-amazon-google-
+microsoft-hold-on-the-cloud-pose-a-risk-to-banking 
+ 
+Dave Michaels and Alexander Osipovich, “Venture-Capital Stalwart Battles Washington’s Crypto 
+Crackdown,” The Wall Street Journal, September 1, 2019, available at https://www.wsj.com/articles/venture-
+capital-stalwart-battles-washingtons-crypto-crackdown-11567350000 
+ 
+Kristen Haunss, “Leveraged lending risk to be discussed at Congressional hearing Tuesday,” Reuters, June 3, 
+2019, available at https://www.reuters.com/article/levlending-hearing/leveraged-lending-risk-to-be-discussed-
+at-congressional-hearing-tuesday-idUSL2N23A0RW 
+ 
+Kristen Haunss, “Regulatory crackdown unlikely in US leveraged loan market,” Reuters, March 15, 2019, 
+available at https://www.reuters.com/article/regulatory-crackdown-unlikely-in-us-leve/regulatory-crackdown-
+unlikely-in-us-leveraged-loan-market-idUSL1N2120Q6 
+ 
+Colin Colter, “Once Used for Natural Disasters, Resilience Theory Informs Financial Regulation Debate,” 
+Duke Today, April 3, 2018, available at 
+https://today.duke.edu/2018/04/once-used-natural-disasters-
+resilience-theory-informs-financial-regulation-debate 
+ 
+Robert Schmidt and Benjamin Bain, “Who Wants to Be Bitcoin’s Watchdog?” Bloomberg Businessweek, 
+January 12, 2018, available at 
+https://www.bloomberg.com/news/articles/2018-01-12/who-wants-to-be-
+bitcoin-s-watchdog 
+ 
+Max Diamond, “BitConnect, a cryptocurrency trader, ordered to stop operating in NC,” The Raleigh News & 
+Observer, January 11, 2018, available at http://www.newsobserver.com/news/business/article194171819.html
+ 
+ 
+Ronald Orol, “How Trump’s Win May Provide a Windfall for Bailed-Out Insurer AIG,” The Street, 
+November 14, 2016, available at 
+https://www.thestreet.com/story/13892557/1/how-trump-s-win-may-
+provide-a-windfall-for-bailed-out-insurer-aig.html 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 34 of 35
+
+
+--- PAGE 35 ---
+
+34 
+ 
+Susan Bruce, “The Attitude with Arnie Arnesen, September 20, 2016,” The Attitude with Arnie Arnesen 
+Archive at WNHN 94.7, September 20, 2016, available at http://www.wnhnfm.org/attitude-ar nie-arnesen-
+september-201-2016/  
+ 
+ SERVICE & PROFESIONAL ACTIVITES  
+ 
+ 
+PROFESSIONAL SERVICE & MEMBERSHIPS  
+• Capital Markets Policy Council, CFA Institute (April 2023 – Present) 
+• CFA® charterholder, CFA Institute 
+ 
+DUKE UNIVERSITY 
+• Internal Advisory Board Member for Master of Engineering in Climate and Sustainability Engineering 
+• Co-organizer of the Digital Assets at Duke Conference 
+• Faculty Affiliate of RESILE: Risk Science for Climate Resilience 
+• Assistant Coach, Duke University Club Hockey Team 
+ 
+ 
+Case 1:22-cr-00673-LAK     Document 454-4     Filed 06/17/24     Page 35 of 35

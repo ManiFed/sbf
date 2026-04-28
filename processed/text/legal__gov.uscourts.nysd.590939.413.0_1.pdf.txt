@@ -1,0 +1,237 @@
+
+
+--- PAGE 1 ---
+
+ 
+ 570 Lexington Avenue, Suite 3500  
+New York, NY 10022 
+212-466-6400 
+ 
+ 
+ 
+March 19, 2024 
+ 
+VIA ECF 
+The Honorable Lewis A. Kaplan 
+United States District Judge 
+Daniel Patrick Moynihan United States Courthouse 
+500 Pearl Street 
+New York, New York 10007 
+ 
+ Re:  United States v. Samuel Bankman-Fried, 1:22 CR 673 (LAK) 
+ 
+Dear Judge Kaplan: 
+ 
+This letter is respectfully submitted on behalf of defendant Sam Bankman-Fried in reply 
+to the government’s Sentencing Memorandum, dated March 15, 2024 (ECF 410, “Gov. Br.”). 
+ 
+The government’s memorandum is disturbing.  With marked hostility, the memorandum 
+distorts reality to support its precious “loss” narrative and casts Sam as a depraved super-villain; 
+it attributes to him dark and megalomaniacal motives that fly in the face of the record; it makes 
+apocalyptic prophecies of recidivism; and it adopts a medieval view of punishment to reach what 
+amounts to a death-in-prison sentencing recommendation.  That is not justice. 
+ 
+No Loss 
+ 
+Section 3553 allows the Court to consider that the bankruptcy proceeding will result in 
+customers and lenders being made whole as of the bankruptcy petition date.  The government, 
+predictably, downplays this fact.  The truth is, there were never losses.  The money has always 
+been available.  Assets remain.  Each victim quoted in the government’s opposition will receive 
+100 cents on the dollar -- plus interest.
+1  This would be impossible if the estate’s assets had 
+disappeared into Sam’s personal pockets.    
+ 
+The government concedes that the Court can make “credits against loss” in cases 
+“involving collateral pledged or otherwise provided by the defendant.”  Gov. Br. at 39-40.  This 
+is such a case.  See Trial Tr. 1227 (discussion of collateral posted in the form of FTT, Robinhood 
+stock, and Grayscale trust shares).  The government also refuses to give Sam any credit for funds 
+Alameda paid to FTX prior to the bankruptcy, refusing to acknowledge Sam’s good faith effort to 
+process client withdrawals.  See Ex. A.  The government sees only red. 
+ 
+1 See In re FTX Trading Ltd., Case No. 22-bk-11068 (JTD) (Bankr. D. Del. March 6, 2024), ECF 8676 at ¶¶ 12, 18. 
+Case 1:22-cr-00673-LAK   Document 413   Filed 03/19/24   Page 1 of 5
+
+
+--- PAGE 2 ---
+
+The Hon. Lewis A. Kaplan, U.S.D.J. 
+March 19, 2024 
+Page 2 
+ 
+ 
+ 
+Given that full payment of creditor claims from the bankruptcy estate is inevitable, the 
+government instead laments that “nearly a year and a half” has passed without any payment and 
+that Sam has not “provided any significant assistance” to recovery efforts.  Gov. Br. at 40, 51-52.  
+But it has never been Sam standing in the way.
+2  Delay surely would have been reduced if Sam 
+had not been rebuffed in his repeated efforts to assist with identifying “meaningful value” in 
+FTX.  See ECF 186-1, 186-2, 186-3 (attached as Ex. B); see also ECF 407-10.  And the 
+government omits that one of the reasons the Debtors have delayed finalization of the Chapter 11 
+plan is that they “continue discussions with the U.S. Department of Justice with respect to asset 
+forfeitures and other governmental agencies regarding voluntary subordination of governmental 
+claims behind the victims . . .”  In re FTX Trading Ltd., Case No. 22-11068 (JTD), ECF 8621 at 
+10 (Bankr. D. Del. Mar. 5, 2024).  Thus, the same government seeking life in prison for Sam 
+because no one has yet been repaid is itself partially responsible for the delay.   
+ 
+False Motive 
+ 
+Hellbent on portraying Sam as a monster, the government makes repeated references to 
+his “unmatched greed” and his supposed ruthless desire to maximize his personal wealth. Gov. 
+Br. at 2, 52, 94.  This is a simple, seductive narrative. It is also a false one. 
+ 
+The word “greed” was never uttered by any trial witness.  And the government snubs the 
+people who have known Sam for years and tout his selflessness.  The government also continues 
+its conflation of corporate growth with personal greed.  See Gov. Br. at 94-95.  They fixate, still, 
+on Sam living “in an expensive penthouse apartment” – while ignoring that he paid rent for his 
+room, that he only rented one-tenth of the apartment, that FTX rented out corporate housing to 
+scores of employees, and that the real estate was always an asset of the company.  Nor is 
+corporate sponsorship a marker of personal greed; it is garden-variety marketing.
+3  The 
+government also derides Sam’s charitable giving because, they say, it was done with “other 
+people’s money.”  Gov. Br. at 95.  They turn a blind eye to the fact that Sam gave away his 
+earnings well before Alameda or FTX ever existed.  See ECF 407 at 1. 
+ 
+Risk of Recidivism 
+ 
+The government’s recidivism discussion stacks conjecture on top of hypothetical on top 
+of supposition.  Gov. Br. at 87-90.  According to the government, it is “conceivable,” that 
+“someday,” Sam “may feel compelled” to find people who “may hand over their money,” 
+concluding that “history could repeat itself.” Gov. Br. at 87-90.  That is not proof of recidivism.  
+That is a work of fiction.   
+ 
+ 
+2 See Ex. C, authorizing John Ray III omnibus corporate authority.   
+3 See e.g., Bank of America Stadium, TW Waterhouse Centre, Citizens Bank Park (Stadium naming rights, 
+ESPN.com (September 29, 2023, 7:43 AM ET), https://www.espn.com/sportsbusiness/s/stadiumnames.html).   
+Case 1:22-cr-00673-LAK   Document 413   Filed 03/19/24   Page 2 of 5
+
+
+--- PAGE 3 ---
+
+The Hon. Lewis A. Kaplan, U.S.D.J. 
+March 19, 2024 
+Page 3 
+ 
+ 
+ 
+Offenders with no criminal history, like Sam, are the least likely to re-offend. Nor does 
+offense level predict recidivism.  And offenders with a college education are less likely to 
+recidivate.
+4  In the words of Daniel Gitner, now Chief of the S.D.N.Y .’s Criminal Division:  
+ 
+[L]ong sentences often are not required to deter recidivism among business fraud 
+offenders.  White-collar offenders ... often become involved in illegal conduct as a 
+result of their position within a legitimate enterprise or in the context of a legitimate 
+financial relationship with others.  That position or relationship is often destroyed, 
+as is the ability to forge new ones, through the felony conviction alone.  Similarly, 
+research shows that the threat of short prison terms has a significant deterrent effect 
+on the typical white-collar would be criminal.
+5  
+ 
+There are many other reasons why Sam would not re-offend, including that he would 
+sooner suffer than bring disrepute to any philanthropic movement. 
+ 
+Unsupported Claims and Attacks 
+ 
+The government makes a host of other curious, unsupported and exaggerated claims.  
+They say that “in cases with $200 million or more in losses, courts have typically imposed a 
+sentence of 50 years imprisonment or more.”  Gov. Br. at 97.  That is misleading.  JSIN data, 
+which aggregates five years of data for offenders sentenced under the same primary guideline 
+and same final offense level, reflects much lower numbers.
+6  The government’s “comparable 
+defendants” chart is also way off base: 9 of the 13 involved frauds extending beyond 8 years; 
+several lasted decades (Madoff, Stanford, Wasendorft, Farkas); two attempted to flee the country 
+(Stanford, Rothstein); and one was a recidivist (Nicholson).  
+ 
+They also allege that Sam “shirked,” “evade[d],” and “deflect[ed] blame” (Gov. Br. at 1, 
+27), belittling his repeated, earnest statements to the contrary.  See, e.g., December 2022 
+proposed written Congressional testimony (“I fucked up…and so I’m dedicating as much of 
+myself as I can to doing right by customers.”).
+7  The government also takes umbrage with Sam’s 
+protestations of innocence and his temerity in putting the government to its proof at trial.  See 
+Gov. Br. at 84-85.  Sam is hardly the first defendant to acknowledge accountability without 
+conceding criminal culpability and to assert his basic constitutional rights.  See e.g., Sentencing 
+Transcript at 24:6-20, United States v. Goyal, S1 19 Cr. 844 (CS) (March 3, 2022), ECF 134 
+(“THE COURT: Well, you’re not asking me to hold it against the defendant that he exercised his 
+ 
+4 See U.S. Sent. Comm’n, Recidivism Among Federal Offenders: A Comprehensive Overview 18-24 (March 2016), 
+https://www.ussc.gov/research/research-reports/recidivism-among-federal-offenders-comprehensive-overview. 
+5 Gabrielle S. Friedman, Kan M. Nawaday, Daniel M. Gitner, Challenging the Guidelines’ Loss Table, Federal 
+Sentencing Reporter, Volume 20, Number 3, February 1, 2008, 2008 WL 2201041, at *178 (internal citations 
+omitted). 
+6 See U.S. Sent. Comm’n, Joint Sent. Info., available at https://jsin.ussc.gov/analytics/saw.dll?Dashboard (average 
+sentence is 283 months, and 272 months with two non-custodial cases; applying § 2B1.1, the median sentence 
+length is 156 months). 
+7 See December 2022 Proposed Written Congressional Testimony Notes, available at 
+https://s.wsj.net/public/resources/documents/SBFwrittentestimonynotes12122022.pdf. 
+Case 1:22-cr-00673-LAK   Document 413   Filed 03/19/24   Page 3 of 5
+
+
+--- PAGE 4 ---
+
+The Hon. Lewis A. Kaplan, U.S.D.J. 
+March 19, 2024 
+Page 4 
+ 
+ 
+ 
+constitutional rights, are you? . . . Everybody’s entitled to say to the government prove it. He 
+doesn’t have to admit anything.”).  
+ 
+Conclusion 
+ 
+At age 32, the government wants to break Sam Bankman-Fried.  They ignore completely 
+his condition and vulnerabilities.  Instead, they urge, menacingly, that the sentence imposed must 
+“disable” him even from “being in a position” where he theoretically “could” perpetrate a fraud.  
+Gov. Br. at 86.  That is a horrifying interpretation of specific deterrence.   
+We have yet to identify a federal defendant convicted of a non-violent offense who served 
+a 40-50 year sentence and was released – perhaps because inmates suffer a two-year decline in 
+life expectancy for each year of imprisonment.
+8  Crushing Sam in this way is unnecessary.  
+Hope is the necessary condition of mankind … A judge should be hesitant before 
+sentencing so severely that he destroys all hope and takes away all possibility of 
+useful life.  Punishment should not be more severe than that necessary to satisfy the 
+goals of punishment.
+9 
+John S. Martin, a former District Judge, recently addressed “the overly long sentences 
+that are being imposed every day in our federal courts on nonviolent offenders.”10  He wrote that 
+“[w]e have lost all sense of how horrible it is to spend even one year in prison, far away from 
+family and friends . . . and under constant fear of an unprovoked attack by another inmate.”  Id.  
+He concluded that “[w]e could achieve greater deterrence by sentencing Bankman-Fried to 
+receive 30 lashes on the street outside the New York Stock Exchange . . . If we did so, there 
+would be hue and cry about the cruelty of the criminal justice system.  But 100 years in prison, 
+ho hum.”  Id. 
+ 
+Sam has lost everything and almost everyone.  If the government truly believes that Sam 
+deserves to “return to liberty,” (Gov. Br. at 70), then a significant downward variance from the 
+proper guidelines range of 63-78 months is called for under § 3553, so that he may do so 
+promptly.  
+  
+ 
+8 See Evelyn J. Patterson, 2013: The Dose-Response of Time Served in Prison on Mortality: New York State, 1989-
+2003, American Journal of Public Health 103, 523-528. 
+9 United States v. Carvajal, Case No. 04-CR-222 (AKH), 2005 WL 476125, at *6 (S.D.N.Y . Feb. 22, 2005); see also 
+United States v. Musgrave, No. 15-3043, ECF 29-2 at 7 (6th Cir. 2016) (“[N]on-imprisonment sentence is …a 
+significant and severe punishment...”).  
+10 John S. Martin, Cruel But Not Unusual: The Sentence Recommended for Sam Bankman-Fried, New York Law 
+Journal (March 12, 2024), https://www.law.com/newyorklawjournal/2024/03/12/cruel-but-not-unusual-the-sentence-
+recommended-for-sam-bankman-fried/.  
+Case 1:22-cr-00673-LAK   Document 413   Filed 03/19/24   Page 4 of 5
+
+
+--- PAGE 5 ---
+
+The Hon. Lewis A. Kaplan, U.S.D.J. 
+March 19, 2024 
+Page 5 
+ 
+ 
+ 
+Respectfully submitted, 
+  /s/ Marc L. Mukasey   
+Marc L. Mukasey 
+Torrey K. Young 
+ 
+cc: All counsel (via ECF) 
+Case 1:22-cr-00673-LAK   Document 413   Filed 03/19/24   Page 5 of 5

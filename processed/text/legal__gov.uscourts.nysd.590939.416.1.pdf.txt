@@ -1,0 +1,338 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT  
+SOUTHERN DISTRICT OF NEW YORK 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  x  
+UNITED STATES OF AMERICA 
+-v.- 
+SAMUEL BANKMAN-FRIED 
+a/k/a “SBF,” 
+Defendant. 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+STIPULATION AND ORDER 
+S6 22 Cr. 673 (LAK) 
+ 
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  x  
+WHEREAS, on August 14, 2023, SAMUEL BANKMAN-FRIED was charged in a seven-
+count superseding indictment (the “Operative Indictment”), with wire fraud on customers of FTX, 
+in violation of 18 U.S.C. §§ 1343 and 2 (Count One); conspiracy to commit wire fraud on  
+customers of FTX, in violation of 18 U.S.C. § 1349 (Count Two); wire fraud on lenders to Alameda 
+Research, in violation of 18 U.S.C. §§ 1343 and 2 (Count Three); conspiracy to commit wire fraud 
+on lenders to Alameda Research, in violation of 18 U.S.C. § 1 349 (Count Four); conspiracy to 
+commit securities fraud on investors in FTX, in violation of 18 U.S.C. § 371 (Count Five); 
+conspiracy to commit fraud on customers of FTX in connection with the purchase and sale of 
+cryptocurrency and swaps, in violation of 18 U.S.C. § 371 (Count Six); and conspiracy to commit 
+money laundering, in violation of 18 U.S.C. § 1956(h) (Count Seven);  
+WHEREAS, the Operative Indictment included a forfeiture allegation as to Counts 
+One, Two, Three, Four, and Five pursuant to Title 18 , United States Code, Section 981(a)(1)(C) 
+and Title 28, United States Code, Section 2461(c), any and all property, real and personal, that 
+constitutes or is derived from proceeds traceable to the commission of the offenses charged in 
+Counts One, Two, Three, Four and Five of the Indictment, including but not limited to a sum of 
+money in United States currency representing the amount of proceeds traceable to the commission 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 1 of 14
+
+
+--- PAGE 2 ---
+
+ 
+2 
+of the offenses charged in Counts One, Two, Three, Four, and Five of the Indictment, as well as a 
+forfeiture allegation as to Count Seven seeking, pursuant to Title 18, United States Code, Section 
+982(a)(1), any and all property, real and personal, involved in said offense; 
+WHEREAS, on or about February 8, 2023, Magistrate Judge Ona T. Wang  issued 
+a seizure warrant authorizing the Government to seize the following as proceeds of wire fraud, in 
+violation of Title 18, United States Code, Section 1343, and as property involved in money 
+laundering, in violation of Title 18, United States Code, Sections 1956(h) and 1957: a Bombardier 
+Global 5000 BD -700-1A11 Aircraft Bearing Registration Number N410AT and Manufacturer 
+Serial Number 9295 and related maintenance logs and engine logs (the “Global 5000”); 
+WHEREAS, on or about October 4, 2023, the Government filed a bill of particulars 
+asserting that the Global 5000 and an Embraer Legacy EMB-135BJ Aircraft Bearing Registration 
+Number C6-BDE and Manufacturer Serial Number 14500967 (the “Legacy,” and collectively with 
+the Global 5000, the “Subject Properties”) was property subject to forfeiture as a result of the 
+offenses described in Counts One through Four and Seven of the Indictment;  
+WHEREAS, the Government understands that as of about March 2022, Island Air 
+Capital (“IAC”) claimed ownership of the Glob al 5000, and that as of about August 2022, IAC 
+claimed ownership of the Legacy; 
+WHEREAS, as of about February 2023 the registered owner of the Global 5000 
+was Capital Peak Aviation, LLC (“Capital Peak”); 
+WHEREAS, on or about February 8, 2023, the Government seized the Global 5000 
+pursuant to the seizure warrant issued on February 8, 2023; 
+WHEREAS, the Government understands that the Legacy is currently located in 
+the Bahamas in the custody of IAC;  
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 2 of 14
+
+
+--- PAGE 3 ---
+
+ 
+3 
+WHEREAS, on or about November 2, 2023, a jury convicted BANKMAN-FRIED 
+of all charges in the Operative Indictment;  
+WHEREAS, the Government is aware of the potential interest of FTX Trading Ltd. 
+and its associated companies1 (collectively defined as “FTX”), in the Subject Properties; 
+WHEREAS, the Government is aware of the potential interest of Ryan Salame 
+(“Salame”) in the Subject Properties; 
+WHEREAS, the Government is aware of the potential interest of the Defendant in 
+the Subject Properties; 
+WHEREAS, the Government is aware of the potential interest of IAC in the Subject 
+Properties; 
+WHEREAS, the Government is aware of the potential interest of Capital Peak in 
+the Subject Properties; 
+WHEREAS, the Government is aware of the potential interest of Paul Aranha 
+(“Aranha”) in the Subject Properties; 
+WHEREAS, the Government is not aware of any other party, other than IAC, 
+Capital Peak, Aranha, the Defendant, Salame, or FTX with a potential interest in the Subject 
+Properties; 
+WHEREAS, the Government, IAC, Capital Peak, Aranha, the Defendant, Salame, 
+and FTX (the “Parties”) have agreed that an interlocutory sale of the Subject Properties is 
+necessary in order to prevent their devaluation before the conclusion of this matter; 
+                                                      
+1 FTX Trading Limited and its associated companies are defined as those companies which have filed for 
+Chapter 11 bankruptcy in In Re FTX Trading Ltd, et al, consolidated case 22-11068 (JTD) (Bankr. D. Del) 
+(the “Chapter 11 Cases”). 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 3 of 14
+
+
+--- PAGE 4 ---
+
+ 
+4 
+WHEREAS, the Government and FTX have agreed  that in exchange for IAC 
+delivering the Legacy to the United States Marshals Service (“USMS”), IAC may be paid for 
+certain reasonable costs borne by IAC, as set forth below, from the proceeds of an interlocutory 
+sale of the Subject Properties;  
+WHEREAS, the Global 5000 is currently in the secure custody and control of the 
+USMS;  
+WHEREAS, IAC and Capital Peak have informed the Government that there are 
+no liens on the Subject Properties; 
+WHEREAS, the Parties have agreed to the interlocutory sale of the Subj ect 
+Properties before the conclusion of the forfeiture proceedings against BANKMAN-FRIED in order 
+to preserve the value of the Subject Properties pending a final order of forfeiture; 
+WHEREAS, the Parties agree that the proceeds of the sale of the Subject Properties 
+shall be held in escrow in the U.S. Marshals Service ’s (“USMS”) Seized Asset Deposit Fund 
+pending further order of this Court; 
+NOW THEREFORE, IT IS HEREBY STIPULATED AND AGREED by and 
+between United States of America, by its attorney Damian Willi ams, United States Attorney, 
+Samuel Raymond, of counsel, Salame and his counsel, Jason Linder Esq., FTX and its counsel, 
+Jacob Croke, Esq., the Defendant Samuel Bankman-Fried, and his counsel, Marc Mukasey, Esq.; 
+Paul Aranha, and his counsel, Sharon Frase,  Esq. and Richard Weber, Esq.; Capital Peak and its 
+counsel, Sharon Frase, Esq.; and IAC and its counsel, Sharon Frase, Esq. and Richard Weber, Esq., 
+that: 
+1. Upon the signing of this Stipulation by the Government, IAC and Aranha 
+will undertake all steps to withdraw and dismiss, without prejudice, the motion for relief from the 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 4 of 14
+
+
+--- PAGE 5 ---
+
+ 
+5 
+automatic stay filed by IAC and Aranha in the Chapter 11 Cases (the “Motion”).  Upon payment 
+to Aranha of the Reasonable Costs and Final Transport Expenses (as defined below), the Motio n 
+will be deemed withdrawn with prejudice and IAC and Aranha shall file a notice of withdrawal of 
+the Motion with prejudice in the bankruptcy court. 
+2. IAC will deliver the Legacy to the Government at Ft. Lauderdale Executive 
+Airport, Florida (FXE), but if ai rcraft performance limitations arising after takeoff require, the 
+Legacy may divert to Ft. Lauderdale Hollywood International Airport (FLL), (the “Delivery 
+Flight”).  The Delivery Flight will occur within 30 days of the date the Court enters this Order 
+unless, due to mechanical problems, weather issues, and/or other unforeseen circumstances not 
+within IAC’s control, the Government and IAC mutually agree to a later date for the Delivery 
+Flight, agreement which will not be unreasonably withheld by either party.  Except as outlined in 
+paragraph 8, infra, IAC will bear all costs for delivery of the Legacy.  As part of the delivery 
+process, IAC will take all steps necessary to deregister the Legacy from the Bahamian Civil 
+Aircraft Register, transfer the deregistration to the United States of America, and provide a copy 
+of the Bahamian-issued deregistration certificate to the USMS.  Upon delivery of the deregistration 
+certificate, the USMS will provide IAC with the name and contact information of a government -
+selected representative who can accept inquiries about the Subject Properties. Further, IAC, 
+Capital Peak, and/or Paul Aranha will take such steps as are necessary to delist IAC, Capital Peak 
+and/or Aranha from any publicly available on-line databases as the contact(s) for the Legacy and 
+the Global 5000.   
+3. The Parties agree to the interlocutory sale of the Subject Properties  by the 
+USMS, and the USMS is authorized to sell the Subject Properties in a commercially feasible 
+manner consistent with the policies, procedures, and methods used to sell forfeited property.  
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 5 of 14
+
+
+--- PAGE 6 ---
+
+ 
+6 
+4. The USMS will endeavor to sell the Global 5000 in a timely fashion upon 
+entry of this Order.  
+5. Reasonable Costs .  The Parties agree that IAC has incurred reasonable 
+costs in the maintenance and upkeep for the Subject Properties from November 11, 2022, up to the 
+present, not to exceed $1.8 million.  The Parties agree that IAC should be compensated for such 
+costs (the “Reasonable Costs”).  
+6. Payments from the First Sold Subject Property .  Upon the delivery of  
+the logbooks, pursuant to paragraph 9, infra, and the sale of either of the Subject Properties (the 
+“First Sold Subject Property ”), the following will be paid at the close of escrow from the gross 
+proceeds in the order listed: 
+a. To the United States, all amounts expended in the seizure, maintenance, custody, storage, 
+and sale of the First Sold Subject Property, and any maintenance expenses already paid by 
+the Government to the extent not already refunded to the United States. 
+b. To Aranha, as beneficial owner of IAC: 
+i. to the extent that the sale price of the First Sold Subject Property minus the costs 
+referred to in paragraph 6(a) above equals or exceeds the Reasonable Costs, 
+$1.8 million; but 
+ii. to the extent that the sale price of the First Sold Subject Property m inus the costs 
+referred to in paragraph 6(a) above is less than the Reasonable Costs, $900,000.  
+7. Payments from the Second Sold Subject Property.  Upon the sale of the 
+other of the Subject Properties (the “Second Sold Subject Property”), the following will be paid at 
+the close of escrow from the gross proceeds in the order listed: 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 6 of 14
+
+
+--- PAGE 7 ---
+
+ 
+7 
+a. To the United States, all amounts expended in the seizure, maintenance, custody, storage, 
+and sale of the Second Sold Subject Property, and any maintenance expenses already paid 
+by the Government to the extent not already refunded to the United States. 
+b. To Aranha, to the extent that Aranha received less than $1.8 million from the proceeds of 
+the First Sold Subject Property, an amount up to the balance of the unpaid Reasonable 
+Costs, not to exceed $900,000. 
+8. Expenses of Transport.  As of March 11, 2024, Aranha estimates that IAC 
+will incur $183,000 in reasonable costs for delivery by March 30, 2024 of the Legacy to the United 
+States (the “Estimated Transport Expenses”), including: 
+a. Fuel for the Delivery Flight and for any required engine runs and/or test flights prior 
+to the Delivery Flight; 
+b. Insurance; 
+c. Trans Island Airways (“TIA”) daily contract rate, return flights and travel expenses 
+for the Delivery Flight or, if the Delivery Flight occurs after the date on which TIA 
+pilots are no longer current on the Legacy, the cost to procure outside current certified 
+pilots for the Delivery Flight; 
+d. Airport fees and taxes for the Delivery Flight; 
+e. Deregistration costs; 
+f. Storage of the Legacy in TIA’s hangar from December 1, 2023 to the date of the 
+Delivery Flight, except that the storage costs will not include charges for any full 
+days the Legacy was pushed out of the TIA hangar; 
+g. CAMP maintenance software subscription, if needed, to obtain a ferry permit for the 
+Delivery Flight; 
+h. Parts and outside vendor costs required to obtain a ferry permit for the Delivery 
+Flight;  
+i. TIA personnel labor costs needed to obtain a ferry permit for the Delivery Flight and 
+incurred between December 1, 2023 to the Delivery Date; and 
+j. The costs to resolve and remove any liens on the Subject Properties identified by a 
+title search performed one week prior to the date of the Delivery Flight. 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 7 of 14
+
+
+--- PAGE 8 ---
+
+ 
+8 
+The Government has reviewed the Estimated Transport Expenses and shall reimburse Aranha for 
+the Estimated Transport Expenses actually incurred, after the sale of both Subject Properties, out 
+of the net proceeds of sale of both Subject Properties and up to the limits of said net proceeds.  If 
+any liens are identified, IAC will provide the Gover nment with lien release documentation prior 
+to sale.  The United States may, for accounting purposes, allocate those costs against one or both 
+of the Subject Properties in its sole discretion.  The Parties agree that in the event IAC reasonably 
+incurs Tran sport Expenses in excess of the Estimated Transport Expenses (“Excess Transport 
+Expenses”) in connection with delivering the Legacy to the United States, IAC and/or Aranha may 
+seek reimbursement of the excess from the Government upon the same terms as reimbursement of 
+the Estimated Transport Expenses.  IAC and/or Aranha must substantiate any Excess Transport 
+Expenses to the Government and the Government shall reimburse the Excess Transport Expenses 
+to the extent that it concludes they were reasonably incurred.  If reimbursement of any or all Excess 
+Transport Expenses are denied by the Government, IAC and/or Aranha may petition the United 
+States District Court, Southern District of New York, for reconsideration (the total sum of actually 
+transport expenses paid by the Government called the “Final Transport Expenses”). 
+9. Facilitating Sale .  In furtherance of the interlocutory sale, and in 
+accordance with the procedures set forth in this Stipulation, the Parties agree to execute promptly 
+any documents which may be  reasonably required to convey clear title to the Subject Properties 
+and complete the interlocutory sale of the Subject Properties.  IAC shall also deliver,  or cause to 
+be delivered, to the USMS, on or before the date of the Delivery Flight, all logbooks and other 
+documentation reasonably necessary to sell the Subject Properties. 
+10. Risk of Loss.   In the event either of the Subject Properties is lost in an 
+insured occurrence, the payment from the insurance company shall become the substitute res for 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 8 of 14
+
+
+--- PAGE 9 ---
+
+ 
+9 
+said Subj ect Property and the insurance payment shall be treated as the sale proceeds of said 
+Subject Property. 
+11. Net Proceeds.  Proceeds from the sales of the Subject Properties that remain 
+after payment of the amounts referenced in paragraphs 5, 6, 7 and 8 will be the “Net Proceeds”.  
+The Net Proceeds shall be paid to the United States Marshals Service (or its designee).   
+12. Substitute Res.  The Net Proceeds from the sale will be held by the USMS 
+in its Seized Asset Deposit Fund pending entry of a final order of forfeiture and will serve as a 
+substitute res for the Subject Properties (the “Substitute Res”) in the above-captioned case, with 
+all claims and defenses applicable to the Subject Properties, including any other claim or action 
+that may be brought by the Office for forfeiture of the Subject Properties or claims by third parties, 
+to apply instead to, and be payable only from, and up to t he limit of, the Substitute Res. 
+Accordingly, the buyer of the Subject Properties shall take clear title, free of all encumbrances. 
+13. Upon entry of any final Orders of Forfeiture as to the Subject Properties, 
+the Substitute Res shall be forfeited to the United States and disposed of according to law. 
+14. Except as allowed by 21 U.S.C. § 853(k), the Defendant, Salame and FTX, 
+agree not to bring any action  for damages against the United States or any of its agents and 
+employees, including the Federal Bureau of Investigation, USMS, Department of Justice, and the 
+United States Attorney ’s Office for the Southern District of New York, in connection with, or 
+arising out of, the United States’ seizure, custody, and interlocutory sale of the Subject Properties. 
+15. IAC, Capital Peak, Aranha, and any company owned by, controlled by, or 
+otherwise associated with Aranha, agree not to bring any claims, actions, or petitions of any kind, 
+or facilitate the bringing of any claims, actions, or petitions of any kind by any third party, with 
+respect to the Subject Properties, including any action for damages against the United States or 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 9 of 14
+
+
+--- PAGE 10 ---
+
+ 
+10 
+any of its agents and employees, including the Federal Bureau of Investigation, USMS, 
+Department of Justice, and the United States Attorney ’s Office for t he Southern District of New 
+York, in connection with, or arising out of, the United States ’ seizure, custody, and interlocutory 
+sale of the Subject Properties.   
+16. For avoidance of doubt, neither entry into this Stipulation, nor the entry of 
+an order approving this Stipulation, nor withdrawal of the Motion pursuant to this Stipulation, shall 
+have any effect on any claims that have been or may be asserted in the Chapter 11 Cases by Aranha 
+with respect to the FTX.com customer account registered in Aranha’s name or by Fours Rock Ltd., 
+with respect to amounts owing for flights or ground transportation, and all of the Parties ’ 
+arguments, rights, defenses, and counterclaims thereto, are expressly reserved. 
+17. Each party agrees to bear its costs and attorneys’ fees in connection with the 
+interlocutory sale of the Subject Properties. 
+18. The Parties with potential claims to the Subject Properties retain and do not 
+waive their legal rights to contest the forfeiture of the Subject Properties or Substitute Res, 
+including any challenge to this court’s jurisdiction over the Subject Properties and its inclusion in 
+the above-captioned criminal case. 
+19. This Court shall retain jurisdiction in this matter to take additional action 
+and enter further orders as necessary to implement and enf orce this order authorizing the sale of 
+the Subject Properties. 
+20. This Stipulation constitutes the entire agreement between the parties on the 
+matters contained herein, and no other statement, promise or agreement, either written or oral, 
+made by either party or agents of either party, that is not contained in this written agreement shall 
+be enforceable. Any modifications to this agreement shall be in a writing signed by the parties. 
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 10 of 14
+
+
+--- PAGE 11 ---
+
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 11 of 14
+
+
+--- PAGE 12 ---
+
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 12 of 14
+
+
+--- PAGE 13 ---
+
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 13 of 14
+
+
+--- PAGE 14 ---
+
+Case 1:22-cr-00673-LAK   Document 416-1   Filed 03/22/24   Page 14 of 14

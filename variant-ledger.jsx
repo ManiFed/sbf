@@ -141,6 +141,20 @@ function VariantLedger() {
 
   const utc = new Date().toUTCString().slice(17, 25);
 
+  const splitAnswerAndMeta = React.useCallback((text) => {
+    const raw = text || "";
+
+    const providerMatch = raw.match(/\n*Provider used:\s*([^\n]+)\s*$/i);
+    const provider = providerMatch ? providerMatch[1].trim() : "";
+    const withoutProvider = providerMatch ? raw.slice(0, providerMatch.index).trimEnd() : raw;
+
+    const sourcesMatch = withoutProvider.match(/\n{2,}Sources:\s*([\s\S]*)$/i);
+    const sourcesMarkdown = sourcesMatch ? (`Sources:\n${sourcesMatch[1].trim()}`) : "";
+    const main = sourcesMatch ? withoutProvider.slice(0, sourcesMatch.index).trimEnd() : withoutProvider;
+
+    return { main, sourcesMarkdown, provider };
+  }, []);
+
   return (
     <div style={ledger.root}>
       {/* top bar */}
@@ -265,27 +279,48 @@ function VariantLedger() {
 
           <div ref={scrollRef} style={ledger.chatScroll}>
             {messages.map((m, i) => (
-              <article
-                key={i}
-                style={{
-                  ...ledger.msgRow,
-                  ...(m.role === 'user' ? ledger.msgUser : ledger.msgBot),
-                  animation: 'lt-fadein 380ms ease both',
-                }}
-              >
-                <div style={ledger.msgGutter}>
-                  <div style={ledger.msgIdx}>{String(i + 1).padStart(3, '0')}</div>
-                  <div style={ledger.msgWho}>{m.role === 'user' ? 'CHALLENGER' : 'COUNSEL'}</div>
-                </div>
-                <div style={ledger.msgBody}>
-                  <div
-                    dangerouslySetInnerHTML={{
-                      __html: marked.parse(m.text || m.full || "")
+              (() => {
+                const content = m.text || m.full || "";
+                const { main, sourcesMarkdown, provider } =
+                  m.role === 'bot' ? splitAnswerAndMeta(content) : { main: content, sourcesMarkdown: "", provider: "" };
+                const moreInfo = sourcesMarkdown || provider;
+
+                return (
+                  <article
+                    key={i}
+                    style={{
+                      ...ledger.msgRow,
+                      ...(m.role === 'user' ? ledger.msgUser : ledger.msgBot),
+                      animation: 'lt-fadein 380ms ease both',
                     }}
-                  />
-                  {m.role === 'bot' && !m.done && <span style={ledger.cursor}>▮</span>}
-                </div>
-              </article>
+                  >
+                    <div style={ledger.msgGutter}>
+                      <div style={ledger.msgIdx}>{String(i + 1).padStart(3, '0')}</div>
+                      <div style={ledger.msgWho}>{m.role === 'user' ? 'CHALLENGER' : 'COUNSEL'}</div>
+                    </div>
+                    <div style={ledger.msgBody}>
+                      <div
+                        dangerouslySetInnerHTML={{
+                          __html: marked.parse(main)
+                        }}
+                      />
+                      {!!moreInfo && m.done && (
+                        <details style={ledger.moreInfo}>
+                          <summary style={ledger.moreInfoBtn}>MORE INFO</summary>
+                          {!!sourcesMarkdown && (
+                            <div
+                              style={ledger.moreInfoBody}
+                              dangerouslySetInnerHTML={{ __html: marked.parse(sourcesMarkdown) }}
+                            />
+                          )}
+                          {!!provider && <div style={ledger.providerLine}>Provider used: {provider}</div>}
+                        </details>
+                      )}
+                      {m.role === 'bot' && !m.done && <span style={ledger.cursor}>▮</span>}
+                    </div>
+                  </article>
+                );
+              })()
             ))}
             {thinking && (
               <article style={{ ...ledger.msgRow, ...ledger.msgBot, animation: 'lt-fadein 280ms ease both' }}>
@@ -675,6 +710,31 @@ const ledger = {
     lineHeight: 1.65,
     fontSize: 13.5,
     letterSpacing: '0.005em',
+  },
+  moreInfo: {
+    marginTop: 10,
+    border: '1px solid #2a2518',
+    background: '#0b0a07',
+  },
+  moreInfoBtn: {
+    cursor: 'pointer',
+    color: FG_DIM,
+    fontSize: 10.5,
+    letterSpacing: '0.16em',
+    padding: '8px 10px',
+    listStyle: 'none',
+  },
+  moreInfoBody: {
+    borderTop: '1px dashed #1d1a12',
+    padding: '10px',
+    color: FG,
+    fontSize: 12.5,
+  },
+  providerLine: {
+    borderTop: '1px dashed #1d1a12',
+    padding: '10px',
+    color: FG_DIM,
+    fontSize: 11.5,
   },
   cursor: {
     color: OK,

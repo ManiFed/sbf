@@ -1,0 +1,891 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT D 
+Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 1 of 21
+
+
+--- PAGE 2 ---
+
+-1-
+IN THE
+ UNITED STATES BANKRUPTCY COURT 
+FOR THE DISTRICT OF DELAWARE 
+In re: 
+FTX TRADING LTD., et al.,1 
+Debtors. 
+Chapter 11 
+Case No. 22-11068 (JTD) 
+(Jointly Administered) 
+Ref Nos.
+ 8676 & 10189
+ORDER (A) AUTHORIZING THE DEBTORS TO ENTER INTO     
+GLOBAL SETTLEMENT AGREEMENT WITH BLOCKFI; (B) APPROVING THE 
+GLOBAL SETTLEMENT AGREEMENT; AND (C) GRANTING RELATED RELIEF 
+Upon the motion (the “Motion”)2 of FTX Trading Ltd. and its affiliated debtors 
+and debtors-in-possession (collectively, the “Debtors”), for entry of an order (this “Order”)              
+(a) authorizing the Debtors to enter into the Global Settlement Agreement, which is attached
+hereto as Exhibit 1, (b) approving the Global Settlement Agreement, and (c) granting certain 
+related relief; and this Court having jurisdiction to consider the Motion pursuant to 28 U.S.C. 
+§§ 157 and 1334 and the Amended Standing Order of Reference from the United States District
+Court for the District of Delaware, dated February 29, 2012; and this Court being able to issue a 
+final order consistent with Article III of the United States Constitution; and venue of these 
+Chapter 11 Cases and the Motion in this district being proper pursuant to 28 U.S.C. §§ 1408 and 
+1409; and this matter being a core proceeding pursuant to 28 U.S.C. § 157(b); and this Court 
+having found that proper and adequate notice of the Motion and the relief requested therein has 
+1 The last four digits of FTX Trading Ltd.’s tax identification number are 3288.  Due to the large number of 
+debtor entities in these Chapter 11 Cases, a complete list of the Debtors and the last four digits of their federal 
+tax identification numbers is not provided herein.  A complete list of such information may be obtained on the 
+website of the Debtors’ claims and noticing agent at https://cases.ra.kroll.com/FTX.  The principal place of 
+business of Debtor Emergent Fidelity Technologies Ltd is Unit 3B, Bryson’s Commercial Complex, Friars Hill 
+Road, St. John’s, Antigua and Barbuda. 
+2  Capitalized terms not otherwise defined herein are to be given the meanings ascribed to them in the Motion.  
+Case 22-11068-JTD    Doc 10331    Filed 03/25/24    Page 1 of 4Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 2 of 21
+
+
+
+--- PAGE 3 ---
+
+ 
+ 
+-2- 
+been provided in accordance with the Bankruptcy Rules and the Local Rules; and objections (if 
+any) to the Motion having been withdrawn, resolved or overruled on the merits; and upon the 
+record of the Motion and supporting documents; and this Court having found and determined 
+that the relief set forth in this Order is in the best interests of the Debtors and their estates; and 
+that the legal and factual bases set forth in the Motion establish just cause for the relief granted 
+herein; and after due deliberation and sufficient cause appearing therefor; 
+IT IS HEREBY ORDERED THAT: 
+1. The Motion is GRANTED as set forth herein. 
+2. The Debtors are authorized to enter into the Global Settlement Agreement. 
+3. The terms of the Global Settlement Agreement are approved in their 
+entirety.   
+4. The failure to specifically include or reference any particular term or 
+provision of the Global Settlement Agreement in this Order shall not diminish or impair the 
+effectiveness of such term or provision. 
+5. BlockFi shall have the following allowed claims against the applicable 
+Debtor: 
+a. allowed secured claims held by BlockFi Lending LLC (“BlockFi 
+Lending”) and BlockFi International Ltd. (“BlockFi International”) 
+against FTX Debtor Alameda Research Ltd. (“Alameda”) in the 
+aggregate amount of $250,000,000, of which $43,820,000 shall be 
+allocated to BlockFi Lending and $206,180,000 shall be allocated to 
+BlockFi International, in each case entitled to post-petition interest to 
+be calculated at the federal judgment interest rate as set forth in 28 
+Case 22-11068-JTD    Doc 10331    Filed 03/25/24    Page 2 of 4Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 3 of 21
+
+
+--- PAGE 4 ---
+
+ 
+ 
+-3- 
+U.S.C. § 1961 (the “Feder al Judgment Rate”) through the date of 
+effectiveness of the chapter 11 plan of the Debtors (the “FTX Plan”); 
+b. allowed general unsecured claims held by BlockFi Lending and 
+BlockFi International against Alameda in the aggregate amount of 
+$439,319,866.07, of which $77,003,986.12 shall be allocated to 
+BlockFi Lending and $362,315,879.95 shall be allocated to BlockFi 
+International, in each case entitled to post-petition interest if and to the 
+extent provided to other similarly situated general unsecured claims in 
+any FTX Plan at the Federal Judgment Rate or such higher rate; and 
+c. an allowed customer claim held by BlockFi International against FTX 
+Trading Ltd. in the amount of $185,196,611.28, entitled to post-
+petition interest if and to the extent provided to other similarly situated 
+customer claims in any FTX Plan at the Federal Judgment Rate or such 
+higher rate. 
+6. Other than as expressly provided herein, all claims asserted by BlockFi 
+against the Debtors are hereby deemed WITHDRAWN with prejudice and EXPUNGED, 
+including the following proofs of claim: 
+a. Claim Nos. 3245, 4091, and 4325 filed by BlockFi Inc.; 
+b. Claim Nos. 4181 and 4214 filed by BlockFi International Ltd.; and 
+c. Claim Nos. 4052, 4317, 4227 filed by BlockFi Lending LLC. 
+7. The Debtors are authorized and empowered to execute and deliver such 
+documents, and to take and perform all actions necessary to implement and effectuate the relief 
+granted in this Order. 
+Case 22-11068-JTD    Doc 10331    Filed 03/25/24    Page 3 of 4Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 4 of 21
+
+
+--- PAGE 5 ---
+
+-4-
+8. The r
+equirements set forth in Bankruptcy Rule 6004(a) are waived.
+9. This Order is immediately effective and enforceable, notwithstanding the
+possible applicability of Bankruptcy Rule 6004(h) or otherwise. 
+10.This Court shall retain jurisdiction with respect to any matters, claims,
+rights or disputes arising from or related to the Motion or the implementation of this Order. 
+JOHN T. DORSEY 
+UNITED STATES BANKRUPTCY JUDGE
+Dated: March 25th, 2024 
+Wilmington, Delaware
+Case 22-11068-JTD    Doc 10331    Filed 03/25/24    Page 4 of 4
+~OF-
+Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 5 of 21
+
+
+--- PAGE 6 ---
+
+Exhibit
+ 1 
+Global Settlement Agreement 
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 1 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 6 of 21
+
+
+--- PAGE 7 ---
+
+-*)%$+'(%$
+
+
+
+
+)9:D=@32=(6EE=6>6?E8C66>6?EE96N=@32=(6EE=6>6?E8C66>6?EO:D>256
+2?56?E6C65:?E@3J2?52>@?8:E96H:?55@H?6DE2E6D@7=@4<:?42?5:ED277:=:2E65563E@CD
+2?5563E@CD:?A@DD6DD:@?4@==64E:G6=JN=@4<:O:?E96;@:?E=J25>:?:DE6C65492AE6C42D6D
+AC@4665:?8F?56CE9642AE:@?2D6$@#!E96N=@4<:
+2?<CFAE4J &C@4665:?8DO 2?5 :: )- )C25:?8 "E5 2?5 :ED 277:=:2E65 563E@CD 2?5 563E@CD:?
+A@DD6DD:@?E96N)-63E@CDO2?5E@86E96CH:E9=@4<:62492N&2CEJO2?54@==64E:G6=JE96
+N&2CE:6DO :? E96 ;@:?E=J25>:?:DE6C65 492AE6C  42D6D AC@4665:?8 F?56C E96 42AE:@?  
+
+
+2D6$@
+ )E96N)-2?<CFAE4J&C@4665:?8DO)96&2CE:6D
+96C63J28C662D7@==@HD
+
+@?$@G6>36C2?5
+E96)-63E@CD7:=65E96:CC6DA64E:G6
+A6E:E:@?D 7@C G@=F?E2CJ C6=:67 F?56C 492AE6C  @7 E:E=6  @7E96 *?:E65 (E2E6D @56 E96
+N2?<CFAE4J @56O :? E96 *?:E65 (E2E6D 2?<CFAE4J @FCE 7@C E96 :DEC:4E @7 6=2H2C6 E96
+N6=2H2C62?<CFAE4J@FCEO:?:E:2E:?8E96)-2?<CFAE4J&C@4665:?8D
+
+ @? $@G6>36C  
+ =@4<: 7:=65 :ED C6DA64E:G6 A6E:E:@?D7@C
+G@=F?E2CJC6=:67F?56C492AE6C@7E962?<CFAE4J@56:?E96*?:E65(E2E6D2?<CFAE4J@FCE
+7@C E96 :DEC:4E @7 $6H  6CD6J E96 N$6H  6CD6J 2?<CFAE4J @FCEO :?:E:2E:?8 E96 =@4<:
+2?<CFAE4J&C@4665:?8D
+
+@?@C23@FE#2C49
+E96)-63E@CD7:=654=2:>D282:?DE
+=@4<::?E96=@4<:2?<CFAE4J&C@4665:?8D:?4=F5:?8E9@D6D6E7@CE9:?I9:3:E2EE24965
+96C6E@ 4@==64E:G6=J E96 N)- &C@@7D @7 =2:>O 2?5 E96 4=2:>D2DD6CE65 E96C6:? E96 N)-
+=2:>DO
+
+ @? @C 23@FE  F?6  
+ =@4<: 7:=65 4=2:>D 282:?DE E96 )-
+63E@CD :? E96 )- 2?<CFAE4J &C@4665:?8D :?4=F5:?8 E9@D6 D6E7@CE9 :? I9:3:E  2EE24965
+96C6E@4@==64E:G6=JE96N=@4<:&C@@7D@7=2:>O2?5E964=2:>D2DD6CE65E96C6:?E96N=@4<:
+=2:>DO
+
+@?(6AE6>36C
+E96)-63E@CD2?5=@4<:6?E6C65:?E@
+E92E46CE2:?(6EE=6>6?E8C66>6?EH9:49H2D2AAC@G653JE96$6H 6CD6J2?<CFAE4J@FCE@?
+%4E@36C  
+ =@4<: 2?<CFAE4J &C@4665:?8D  $@ 2?5 3J E96 6=2H2C6
+2?<CFAE4J @FCE @? %4E@36C  
+ )- 2?<CFAE4J &C@4665:?8D  $@  2D
+2>6?565DFAA=6>6?E65@C@E96CH:D6>@5:7:65AFCDF2?EE@E96E6C>DE96C6@7AFCDF2?EE@H9:49
+2>@?8 @E96C E9:?8D : )- 63E@C ,6DE '62= (9:C6D ?4 N,'(O C646:G65 2  >:==:@?
+2==@H6586?6C2=F?D64FC654=2:>282:?DE=@4<:?4:?E96=@4<:2?<CFAE4J&C@4665:?8DE96
+N,'(==@H65=2:>O::E96)-63E@CD28C665E@H:E95C2H2==C6>2:?:?8)-=2:>D:?
+E96=@4<:2?<CFAE4J&C@4665:?8D7@CAFCA@D6D@7@3E2:?:?82?J277:C>2E:G65:DEC:3FE:@?7C@>
+=@4<:2?5E@2DD6CEDF494=2:>D6I4=FD:G6=J2D2C8F>6?ED5676?D6D4@F?E6C4=2:>DD6E@77D@C
+@E96CH:D6 282:?DE =@4<:PD 277:C>2E:G6 4=2:>D :? E96 )- 2?<CFAE4J &C@4665:?8D ::: E96
+&2CE:6D28C665E92E2===:E:82E:@?4@?46C?:?8E96)-=2:>D2?5E96=@4<:=2:>DH@F=5@44FC
+ 
+4@>A=6E6=:DE@7E96)-63E@CD>2J36@3E2:?65@?E96H63D:E6@7E96)-63E@CDP4=2:>D2?5?@E:4:?8286?E
+2E9EEAD		42D6DC2<C@==4@>	)-)96E6C>N)-63E@CDO5@6D?@E:?4=F56;@:?E=J25>:?:DE6C65563E@C>6C86?E
+:56=:EJ)649?@=@8:6D"E5
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 2 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 7 of 21
+
+
+--- PAGE 8 ---
+
+ 
+:?E96)-2?<CFAE4J&C@4665:?8D2?5:GE96&2CE:6D28C665E@A2CE:4:A2E6:?8@@572:E9:??@?
+3:?5:?8>65:2E:@?H:E9C6DA64EE@2==C6>2:?:?84=2:>D
+
+@?63CF2CJ
+E96)-63E@CD2?5=@4<:A2CE:4:A2E65:?
+8@@5 72:E9 :? 2 ?@?3:?5:?8 >65:2E:@? D6DD:@? 4@?5F4E65 3J E96@?@C23=6 C2:8 ) @=53=2EE
+E9C@F89H9:49E96)-63E@CD2?5=@4<:28C665E@28=@32=D6EE=6>6?E:?AC:?4:A=6@72==4=2:>D
+2?55:DAFE6D36EH66?E96>6>3@5:65:?E9:D=@32=(6EE=6>6?E8C66>6?E
+
+6249&2CEJ92D2?:?E6C6DE:?2G@:5:?8E964@DE2?56IA6?D6E92EH@F=5
+362DD@4:2E65H:E9=:E:82E:@?@7E96?@G6=2?54@>A=6I:DDF6DC2:D653J=:E:82E:@?36EH66?492AE6C
+6DE2E6D2?5
+
+H:E9@FE2?J25>:DD:@?3J2?J&2CEJ2?5DF3;64EE@E96E6C>D@7E9:D
+=@32=(6EE=6>6?E8C66>6?EE96&2CE:6D56D:C6E@7:?2==JC6D@=G62?5D6EE=62==5:DAFE6D36EH66?
+E96> C6=2E:?8 E@ E96 )- &C@@7D @7 =2:> E96 )- =2:>D E96 =@4<: &C@@7D @7 =2:> E96
+=@4<:=2:>D2?546CE2:?C6=2E65>2EE6CDD6E7@CE996C6:?
+:?4@?D:56C2E:@?@7E9623@G62?5E96C6DA64E:G6AC@>:D6D
+4@?5:E:@?DE6C>D2?528C66>6?ED4@?E2:?6596C6:?2?5@E96C8@@52?5G2=F23=64@?D:56C2E:@?E96
+C646:AE2?5256BF24J@7H9:492C696C63J24<?@H=65865E96&2CE:6D96C63J28C662D7@==@HD
+
+
+
+2 =@4<:==@H65=2:>D282:?DE)-63E@CD%?E96(6EE=6>6?E7764E:G62E6
+2D567:?6536=@H=@4<:D92==92G6E967@==@H:?82==@H654=2:>D282:?DEE962AA=:423=6)-
+63E@CD H9:49 D92== ?@E 36 DF3;64E E@ C64@?D:56C2E:@? AFCDF2?E E@ 656C2= 'F=6 @7 2?<CFAE4J
+&C@465FC6
+
+@C2?J@E96C2AA=:423=6CF=6@C=2H
+: 2==@H65D64FC654=2:>D96=53J=@4<:"6?5:?8""N=@4<:"6?5:?8O
+2?5=@4<:?E6C?2E:@?2="E5N=@4<:?E6C?2E:@?2=O282:?DE)-63E@C=2>652'6D62C49
+"E5 N=2>652O :? E96 288C682E6 2>@F?E @7 
+
+
+
+
+
+
+ @7 H9:49 
+
+
+
+ D92== 36
+2==@42E65E@=@4<:"6?5:?82?5
+
+
+
+
+D92==362==@42E65E@=@4<:?E6C?2E:@?2=:?6249
+42D66?E:E=65E@A@DEA6E:E:@?:?E6C6DEE@3642=4F=2E652EE967656C2=;F58>6?E:?E6C6DEC2E62DD6E
+7@CE9:?*(LE96N656C2= F58>6?E'2E6OE9C@F89E9652E6@767764E:G6?6DD@7E96
+)-&=2?2D567:?6536=@HE96N==@H65(64FC65"@2?=2:>O
+:: 2==@H65 86?6C2= F?D64FC65 4=2:>D 96=5 3J =@4<: "6?5:?8 2?5 =@4<:
+?E6C?2E:@?2= 282:?DE =2>652 :? E96 288C682E6 2>@F?E @7 
+ @7 H9:49
+
+
+D92==362==@42E65E@=@4<:"6?5:?82?5D92==362==@42E65E@
+=@4<:?E6C?2E:@?2=:?624942D66?E:E=65E@A@DEA6E:E:@?:?E6C6DE:72?5E@E966IE6?EAC@G:565E@
+@E96CD:>:=2C=JD:EF2E6586?6C2=F?D64FC654=2:>D:?2?J)-&=2?2EE96656C2= F586>6?E'2E6
+@CDF499:896CC2E6E96N==@H65*?D64FC65"@2?=2:>O2?5
+::: 2? 2==@H65 4FDE@>6C 4=2:> 96=5 3J =@4<: ?E6C?2E:@?2= 282:?DE ) - 
+)C25:?8"E5:?E962>@F?E@76?E:E=65E@A@DEA6E:E:@?:?E6C6DE:72?5E@E966IE6?E
+AC@G:565E@@E96CD:>:=2C=JD:EF2E654FDE@>6C4=2:>D:?2?J)-&=2?2EE96656C2= F58>6?E
+'2E6@CDF499:896CC2E6E96N==@H65FDE@>6C=2:>O2?5E@86E96CH:E9E96==@H65(64FC65
+"@2?=2:>2?5E96==@H65*?D64FC65"@2?=2:>E96N=@4<:==@H65=2:>DO
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 3 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 8 of 21
+
+
+--- PAGE 9 ---
+
+ 
+3 )C2?D76CD @7 ==@H65 =@4<: =2:>D  7764E:G6 2D @7 E96 52E6@7 E9:D =@32=
+(6EE=6>6?E8C66>6?EE96=@4<:==@H65=2:>DD92==36:>>65:2E6=J2?57C66=JEC2?D76C23=6
+:?H9@=6@C:?A2CEAC@G:565E92E2?JEC2?D76C66@72?JA@CE:@?@7@C:?E6C6DE:?E96=@4<:
+==@H65=2:>D62492N)C2?D76C66OD92==2D24@?5:E:@?E@DF49EC2?D76C62492N)C2?D76CO
+28C66E@363@F?53JE96E6C>D@7E9:D=@32=(6EE=6>6?E8C66>6?EH:E9C6DA64EE@E9624BF:C65
+A@CE:@?@7E96=@4<:==@H65=2:>D>FE2E:D>FE2?5:D3J6I64FE:?82?556=:G6C:?8E@E96)-
+63E@CD 2 ;@:?56C 28C66>6?E DF3DE2?E:2==J :? E96 7@C> 2EE2496596C6E@ 2D I9:3:E  6249 2
+N @:?56CO*A@?4@>A=:2?46H:E9E967@C68@:?8=@4<:D92==36566>65E@C6=:?BF:D9:EDC:89ED
+2?536C6=62D657C@>:ED@3=:82E:@?D6I46AE7@C2?J4=2:>7@C3C6249@7E9:D=@32=(6EE=6>6?E
+8C66>6?EE92E@44FCDAC:@CE@DF49EC2?D76CF?56CE9:D=@32=(6EE=6>6?E8C66>6?EH:E9C6DA64E
+E@ E96 EC2?D76CC65 A@CE:@? @7 E96 =@4<: ==@H65 =2:>D 2?5 E@ E96 6IE6?E @7 DF49 EC2?D76CC65
+C:89ED2?5@3=:82E:@?D$@EH:E9DE2?5:?82?JE9:?8E@E964@?EC2CJ96C6:?6?ECJ:?E@2 @:?56CD92==
+?@EC6BF:C6@C@E96CH:D642FD62)C2?D76C66E@C6=62D62?J=2:>D282:?DE2?J&2CEJ@E96CE92?2?J
+=2:>DC6=2E65E@@C2C:D:?8@FE@7E96)-&C@@7D@7=2:>@CE96=@4<:&C@@7D@7=2:>)96
+)-63E@CDD92==FA@?C62D@?23=6C6BF6DE@7=@4<:6I64FE65@4F>6?E2E:@?4@?7:C>:?8E96
+2==@H2?46@7E96=@4<:==@H65=2:>D:?E96)-2?<CFAE4J&C@4665:?8D2?524<?@H=658:?8
+E92EE96D2=62?5EC2?D76C@7=@4<:==@H65=2:>DH:E9@FEC64@FCD6@C5:D4@F?E:DA6C>:EE65
+F?56CE96E6C>D@7E9:D=@32=(6EE=6>6?E8C66>6?E
+4 ,2:G6C2?5'6=62D6@7=2:>D
+: %?E96(6EE=6>6?E7764E:G62E6@E96CE92?E96=@4<:==@H65=2:>D
+2?56I46AE2DC6BF:C65E@:>A=6>6?EE96DD:8?>6?E@7':89ED36=@H=@4<:96C63JH2:G6D2?5
+C6=62D6D7@C2==AFCA@D6D2?J2?52===2:>D2D567:?65:?*(L
+282:?DEE96)-
+63E@CD@CH:E9C6DA64EE@2?JAC@A6CEJ:?H9:49E96)-63E@CD92G696=5@C>2J9@=52?J
+4@?7=:4E:?8:?E6C6DE:?4=F5:?8E96=@4<:=2:>D2?52==4=2:>D2C8F>6?ED5676?D6DC:89ED2?5
+@E96CH:D6H:E9C6DA64EE@2?JAC@A6CEJAFCA@CE65=JA=658652D4@==2E6C2=3J@C@?3692=7@7E96
+)- 63E@CD E@ =@4<: 2?5 E96 AC@4665D E96C6@7 :?4=F5:?8 : 2== '@3:?9@@5 D92C6D E96
+N%%(92C6DOAFCA@CE65=JA=658653J=2>6522?5	@C>6C86?E:56=:EJ)649?@=@8:6D?4
+N>6C86?EOE@@C7@CE9636?67:E@7=@4<:::2DD6ED96=5:?244@F?ED2E#2?2A:E2=
+#2C<6ED?4?	<	2#2C6I2A:E2=#2C<6ED?4:?E96?2>6@7=2>652@C>6C86?E:::2==
+(@=2?2 E@<6?D 96=5 :? E92E 46CE2:? @:?32D6 FDE@5J ?E6C?2E:@?2= ":>:E65 244@F?E ?2>65
+N=2>652'6D62C49"E5M=@4<:"@2?@==2E6C2=OE96N@:?32D6(%"O2?5:G46CE2:?(6CF>
+E@<6?DE96N('#O
+:: %?E96(6EE=6>6?E7764E:G62E6@E96CE92?E96,'(==@H65=2:>E96
+)-63E@CD96C63JH2:G62?5C6=62D67@C2==AFCA@D6D2===2:>D282:?DE=@4<::?4=F5:?8E96
+)-=2:>D@CE962G@:52?46@75@F3E,'(C6E2:?D2==C:89ED2?5:?E6C6DED:?E96,'(==@H65
+=2:>
+::: D@7E96(6EE=6>6?E7764E:G62E66I46AE7@CE96=@4<:==@H65=2:>D
+2== @7 E96 =@4<: &C@@7D @7 =2:> D92== 36 566>65 5:D2==@H65 2?5 6IAF?865 :? E96 )-
+2?<CFAE4J&C@4665:?8D2?56I46AE7@CE96,'(==@H65=2:>2==@7E96)-&C@@7D@7=2:>
+D92==36566>655:D2==@H652?56IAF?865:?E96=@4<:2?<CFAE4J&C@4665:?8D
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 4 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 9 of 21
+
+
+--- PAGE 10 ---
+
+ 
+5 DD:8?>6?E @7 ':89ED H:E9 '6DA64E E@ &C@4665D @7 %% (92C6D 2?5 @:?32D6
+(%"2?5@@A6C2E:@?H:E9'6=62D6E@)-63E@CD
+: %?E96(6EE=6>6?E7764E:G62E6=@4<:D92==36566>65E@92G62DD:8?65
+E@E96)-63E@CD2==@7:EDC:89ED:72?JH:E9C6DA64EE@E96AC@4665D@7E96%%(92C6D96=5
+3JE96*(6A2CE>6?E@7 FDE:46:?4=F5:?8C:89ED2C:D:?87C@>@CC6=2E:?8E@2?JAFCA@CE65A=6586
+7C@>2?J@7E96)-63E@CD@C>6C86?E2?52?J8F2C2?E66AC@G:5653J>6C86?E:?4=F5:?8:?
+4@??64E:@?H:E92?J7@C76:EFC6C6DE:EFE:@?@C@E96C=682=AC@4665:?8AC@46DD@C5:DEC:3FE:@?H:E9
+C6DA64EE@DF49AC@4665D=@4<:D92==FA@?C62D@?23=6C6BF6DE @7 E96 )- 63E@CD 6I64FE6
+5@4F>6?E2E:@?4@?7:C>:?8E962DD:8?>6?E@7DF49C:89EDE@E96)-63E@CD
+:: %? 2?5 7@==@H:?8 E96 (6EE=6>6?E 7764E:G6 2E6 =@4<: 2?5 E96 ) - 
+63E@CDD92==FD64@>>6C4:2==JC62D@?23=6677@CEDE@4@@A6C2E6E@AC@>AE=J@3E2:?E96C6=62D62?5
+C6EFC?E@E96)-63E@CD@7:E96AC@4665D@7E96%%(92C6D::E96@:?32D6(%"2?5
+:::E96('#:?4=F5:?83J6I64FE:?82?J?646DD2CJ5@4F>6?E2E:@?E@67764EF2E6DF49C6=62D62?5
+C6EFC?E@E96)-63E@CD
+::: %?2?57@==@H:?8E96(6EE=6>6?E7764E:G62E6E96)-63E@CDD92==FD6
+4@>>6C4:2==J C62D@?23=6 677@CED E@ C6D@=G6 C6>2:?:?8 4=2:>D 2?5 5:DAFE6D H:E9 >6C86?E
+4@?46C?:?82?J:DDF6255C6DD65:?E9:D=@32=(6EE=6>6?E8C66>6?E
+6 =2DD:7:42E:@?@7=@4<:==@H65=2:>DF?56C)-&=2?)96)-63E@CD>2J
+:?E96:CD@=65:D4C6E:@?4=2DD:7JE96==@H65(64FC65"@2?=2:>E96==@H65*?D64FC65"@2?
+=2:> 2?5 E96 ==@H65 FDE@>6C =2:> D6A2C2E6=J 7C@> @?6 @C >@C6 @7 E96 7@C68@:?8 :? 2?J
+492AE6CA=2?@7E96)-63E@CD62492?N)-&=2?O2D=@?82DE96EC62E>6?EAC@G:5657@C
+DF494=2:>D:D4@?D:DE6?EH:E9E9:D=@32=(6EE=6>6?E8C66>6?E2?5E96==@H65(64FC65"@2?
+=2:>H:==36A2:5AC@>AE=J:?42D97@==@H:?8E9667764E:G652E6@7DF49)-&=2?%E96CE92?
+H:E9 C6DA64E E@ E6C>D 6IAC6DD=J AC@G:565 :? E9:D =@32= (6EE=6>6?E 8C66>6?E E96 =@4<:
+==@H65=2:>DD92==C646:G6?@H@CD6EC62E>6?E:?4=F5:?8H:E9C6DA64EE@E:>:?82?52>@F?E@7
+5:DEC:3FE:@?D:?4=F5:?8H:E9C6DA64EE@A@DEA6E:E:@?:?E6C6DE2D@E96CD:>:=2C=JD:EF2E652==@H65
+4=2:>D:?E96)-&=2?
+7 =@4<:(FAA@CE7@C)-&=2?=@4<:D92==DFAA@CE2?5G@E6:?72G@C@72?J)-
+&=2?E92EAC@G:56DEC62E>6?E@7E96=@4<:==@H65=2:>D4@?D:DE6?EH:E9E9:D=@32=(6EE=6>6?E
+8C66>6?EN4@?D:DE6?EH:E9E9:D=@32=(6EE=6>6?E8C66>6?EO>62?:?8E92EDF3;64EE@6DE2E6
+G2=F6492?86D27764E:?8E965:DEC:3FE:@?E@2==4C65:E@CD6BF2==JE96)-&=2?56=:G6CDDF3DE2?E:2==J
+D:>:=2C@C36EE6C64@?@>:4D@?E96=@4<:=2:>D2DE96DECF4EFC64@?E2:?65:?E96AC6D6?E2E:@?
+56=:G6C65 E@ =@4<: 3J E96 )- 63E@CD E:E=65 N&=2? '64@G6CJ ?2=JD:D D @7 646>36C 
+
+O 2?5 D92== ?@E : @3;64E @C 5:C64E=J @C :?5:C64E=J D66< D@=:4:E DFAA@CE 6?4@FC286 @C
+A2CE:4:A2E6 :? 2?J 5:D4FDD:@?D @C 28C66>6?E E@ @3;64E E@ 2?J )- &=2? D@ =@?8 2D DF49 A=2? :D
+4@?D:DE6?EH:E9E96E6C>D2?54@?5:E:@?D@7E9:D=@32=(6EE=6>6?E8C66>6?E@C::2AA62C@C
+>2<62?J7:=:?8D:?E96)-63E@CDP492AE6C42D6D:?2?JH2J25G6CD6E@2?JA@D:E:@?E2<6?
+3JE96)-63E@CD@C:?4@?D:DE6?EH:E9E96=@32=(6EE=6>6?E8C66>6?E@E96CE92?2D?646DD2CJ
+E@I6I6C4:D6@C5676?5=@4<:PDC:89EDF?56CE9:D=@32=(6EE=6>6?E8C66>6?E@CJ@AA@D6
+2?J>2EE6C@CAC@4665:?8E92EH@F=5DF3DE2?E:2==J:>A2:C=@4<:PD64@?@>:4C64@G6CJAFCDF2?E
+E@E9:D=@32=(6EE=6>6?E8C66>6?E
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 5 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 10 of 21
+
+
+--- PAGE 11 ---
+
+ 
+8 AAC@G2=@7=@32=(6EE=6>6?E8C66>6?E,:E9:?D6G6?52JD@76I64FE:@?@7
+E9:D=@32=(6EE=6>6?E8C66>6?EE96)-63E@CDD92==7:=62>@E:@?D66<:?82AAC@G2=@7E9:D
+=@32= (6EE=6>6?E 8C66>6?E F?56C 656C2= 'F=6 @7 2?<CFAE4J &C@465FC6 
+ :? E96 )-
+2?<CFAE4J&C@4665:?8DE96N'F=6
+#@E:@?O)96&2CE:6D28C66E@4@@A6C2E62?5E2<6DF49
+24E:@?D2D2C6C62D@?23=J?646DD2CJ:?4=F5:?8:?E966G6?EE92E2?@3;64E:@?@C@E96C@AA@D:E:@?E@
+E96'F=6
+#@E:@?:D7:=65E@@3E2:?AC@>AE4@FCE2AAC@G2=@72?52FE9@C:EJE@6?E6C:?E@E9:D
+=@32= (6EE=6>6?E 8C66>6?E 2?5 6?ECJ @7 E96 AAC@G2= %C56C 2D 567:?65 36=@H  )96 )-
+63E@CD2?5=@4<:D92==7FCE96C4@@A6C2E62?5E2<6DF4924E:@?D2D2C6?646DD2CJH:E9C6DA64EE@
+AC@>AE2AAC@G2=@7E9:D=@32=(6EE=6>6?E8C66>6?E:?E96=@4<:2?<CFAE4J&C@4665:?8D2?5
+E96 A6?5:?8 42D6 @7 =@4<: ?E6C?2E:@?2= :? E96 (FAC6>6 @FCE@7 6C>F52 E96 N6C>F52
+@FCEO
+9 ?7@C>2E:@? ':89ED  @==@H:?8 E96 (6EE=6>6?E 7764E:G6 2E6 E96 )- 63E@CD
+D92==AC@G:56=@4<:H:E9:?7@C>2E:@?C62D@?23=J4@?D:DE6?EH:E9:?7@C>2E:@?AC@G:565E@2A=2?
+DFAA@CEA2CEJ:?4=F5:?8H:E9@FE=:>:E2E:@?FA52E6DE@=@4<:H:E9C6DA64EE@E96EC62E>6?E@7E96
+==@H65=@4<:=2:>D:?4=F5:?8E962>@F?E2?5E:>:?8@75:DEC:3FE:@?D@?244@F?EE96C6@7
+
+
+2 #FEF2='6=62D6%E96CE92?2D6IAC6DD=JD6E7@CE996C6:?@?E96(6EE=6>6?E
+7764E:G62E66249@7E96)-63E@CD@?E96@?692?52?5=@4<:@?E96@E96C92?5@?
+3692=7@7:ED6=72?562492?52==@7:ED2?5:EDC6DA64E:G6A2DEAC6D6?E2?57FEFC6286?ED
+25>:?:DEC2E@CD4@?D6CG2E@CDAC65646DD@CDDF446DD@CD2?52DD:8?D2==DF49C6=62D:?8A6CD@?D
+2?56?E:E:6D4@==64E:G6=JE96N'6=62D:?8&2CE:6DO5@6D96C63J7F==JF?4@?5:E:@?2==J2?5
+:CC6G@423=JC6=62D6C6=:6G6H2:G6C6=:?BF:D9C6>:D624BF:E2?57@C6G6C5:D492C866249@E96C
+2?5E96:CC6DA64E:G6A2DEAC6D6?E2?57FEFC6286?ED25>:?:DEC2E@CD4@?D6CG2E@CDDF446DD@CD2?5
+2DD:8?D2==DF49C6=62D65A6CD@?D2?56?E:E:6D4@==64E:G6=JE96N'6=62D65&2CE:6DO7C@>282:?DE
+2?5:?C6DA64E@72?J2?52==A2DEAC6D6?E2?57FEFC64=2:>D:?4=F5:?8E96=@4<:=2:>D2?5
+E96)-=2:>D4C@DD4=2:>D4@F?E6C4=2:>DE9:C5A2CEJ4=2:>D56>2?5D=:23:=:E:6D
+@3=:82E:@?D563ED=:6?D52>286D=@DD6D4@DED6IA6?D6D4@?EC@G6CD:6D24E:@?DC:89EDDF:ED
+2DD6DD>6?EDA6?2=E:6D492C86D:?56>?:E:6D8F2C2?E:6DAC@>:D6D4@>>:E>6?ED@C42FD6D@7
+24E:@?@72?J?2EFC6H96E96C32D65:?4@?EC24EE@CE@C@E96CH:D6H96E96C:?=2H@C6BF:EJ2?5
+H96E96C5:C64E@C:?5:C64E<?@H?@CF?<?@H?2DD6CE65@CF?2DD6CE657@C6D66?@CF?7@C6D66?
+=:BF:52E65@CF?=:BF:52E657:I65@C4@?E:?86?EE92EDF49&2CEJ92D@C>2J92G6282:?DE2?J@E96C
+&2CEJD:?46E96368:??:?8@7E:>6F?56C2C:D:?8@FE@7@CC6=2E:?8E@E96)-&C@@7D@7=2:>
+E96=@4<:&C@@7D@7=2:>@C2?J@E96C4=2:>DE92E4@F=5362DD6CE65:?4=F5:?82?JC:89EE@
+4=2:>:?56>?:7:42E:@?@C2?2H2C5@72EE@C?6JDP766D@C@E96C4@DED2?56IA6?D6D:?4FCC65:?@C
+:?4@??64E:@?H:E92?J@7E967@C68@:?8:?2==42D6D@E96CE92?E96=@4<:==@H65=2:>D2?5
+E96,'(==@H65=2:>!"!E92EE967@C68@:?8D92==?@EC6=62D62?J@3=:82E:@?
+F?56C@C4=2:>7@C3C6249@7E9:D=@32=(6EE=6>6?E8C66>6?E
+
+
+
+
+2 #FEF2='6AC6D6?E2E:@?D2?5,2CC2?E:6D@7==&2CE:6D249&2CEJC6AC6D6?ED2?5
+H2CC2?EDE@6249@E96C&2CEJE92E2D@7E9652E6@7E9:D=@32=(6EE=6>6?E8C66>6?E
+: DF3;64EE@E96AAC@G2=%C56CD:E92DE96C6BF:D:E6@C82?:K2E:@?2=A@H6C2?5
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 6 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 11 of 21
+
+
+--- PAGE 12 ---
+
+ 
+2FE9@C:EJ E@ 6?E6C :?E@ E9:D =@32= (6EE=6>6?E 8C66>6?E 2?5 E@ 42CCJ @FE E96 EC2?D24E:@?D
+4@?E6>A=2E653J2?5A6C7@C>:EDC6DA64E:G6@3=:82E:@?DF?56CE9:D=@32=(6EE=6>6?E8C66>6?E
+:: DF3;64E E@ E96 AAC@G2= %C56CD E9:D =@32= (6EE=6>6?E 8C66>6?E
+4@?DE:EFE6D2=682=G2=:52?53:?5:?8@3=:82E:@?@7DF49&2CEJ6?7@C4623=6282:?DEDF49&2CEJ:?
+244@C52?46H:E9:EDE6C>D
+::: E96 6I64FE:@? 2?5 56=:G6CJ @7 E9:D =@32= (6EE=6>6?E 8C66>6?E2?5 E96
+A6C7@C>2?46@7:ED@3=:82E:@?D96C6F?56C92G6366?5F=J2FE9@C:K653J2==?646DD2CJ4@CA@C2E6@C
+@E96C@C82?:K2E:@?2=24E:@?@?:EDA2CE
+:G E96 6I64FE:@? 56=:G6CJ 2?5 A6C7@C>2?46 3J :E @7 E9:D =@32= (6EE=6>6?E
+8C66>6?E5@6D?@EG:@=2E62?JAC@G:D:@?@7=2HCF=6@CC68F=2E:@?2AA=:423=6E@:E@C2?J@7:ED
+277:=:2E6D@C:ED46CE:7:42E6@7:?4@CA@C2E:@?3J=2HD@C@E96C@C82?:K2E:@?2=5@4F>6?ED@CE9@D6@7
+2?J@7:ED277:=:2E6D2?5
+G 367@C6 6I64FE:?8 E9:D =@32= (6EE=6>6?E 8C66>6?E :E 92D 366? 7F==J
+:?7@C>65@7:EDE6C>D4@?E6?ED4@?5:E:@?D2?567764ED:E92D92527F==2?54@>A=6E6@AA@CEF?:EJ
+E@ 5:D4FDD E9:D D6EE=6>6?E H:E9 :ED 2EE@C?6J @C 2EE@C?6JD :E :D ?@E C6=J:?8 :? 2?J C6DA64E @? 2?J
+DE2E6>6?E@CC6AC6D6?E2E:@?>2563J2?J@E96C&2CEJ2?5?@AC@>:D6@CC6AC6D6?E2E:@?@72?J<:?5
+92D366?>256E@DF49&2CEJD6A2C2E62?52A2CE7C@>H92E:D6IAC6DD=J4@?E2:?6596C6:?E@:?5F46
+:E:?E@6I64FE:?8E9:D=@32=(6EE=6>6?E8C66>6?E
+	
+
+2 $@5>:DD:@?@7":23:=:EJ)96F?56CD:8?65&2CE:6D624924<?@H=65862?528C66
+E92E E96 >2EE6CD D6E 7@CE9 :? E9:D =@32= (6EE=6>6?E 8C66>6?E4@?DE:EFE6 E96 D6EE=6>6?E 2?5
+4@>AC@>:D6@7A@E6?E:2==J5:DAFE654=2:>D2?55676?D6DE92EE9:D=@32=(6EE=6>6?E8C66>6?E:D
+?@E2?25>:DD:@?@C6G:56?46@7=:23:=:EJ@C:?7:C>:EJ3J2?J@7E96>C682C5:?82?J4=2:>@C5676?D6
+2?5E92EE96=@32=(6EE=6>6?E8C66>6?ED92==?@E36@776C65@CC646:G65:?6G:56?463J@C282:?DE
+2?J&2CEJ6I46AEE@6?7@C46:EDE6C>D
+3 (A64:7:4 &6C7@C>2?46  E :D F?56CDE@@5 2?5 28C665 3J E96 &2CE:6D E92E >@?6J
+52>286DH@F=5362?:?DF77:4:6?EC6>65J7@C2?J3C6249@7E9:D=@32=(6EE=6>6?E8C66>6?E3J
+2?J &2CEJ 2?5 6249 ?@?3C6249:?8 &2CEJ D92== 36 6?E:E=65 E@ D66< DA64:7:4 A6C7@C>2?46 2?5
+:?;F?4E:G6 @C @E96C 6BF:E23=6 C6=:67 2D 2 C6>65J @7 2?J DF49 3C6249 @7 E9:D =@32= (6EE=6>6?E
+8C66>6?E:?4=F5:?82?@C56C@7E966=2H2C62?<CFAE4J@FCEC6BF:C:?82?J&2CEJE@4@>A=J
+AC@>AE=JH:E92?J@7:ED@3=:82E:@?D96C6F?56C249&2CEJ2=D@28C66DE92E:EH:==?@E:D66<2?5
+H:==H2:G62?JC6BF:C6>6?E7@CE96D64FC:?8@CA@DE:?8@723@?5:?4@??64E:@?H:E92?J&2CEJ
+D66<:?8 @C @3E2:?:?8 DF49 C6=:67 @C :: C2:D6 2D 2 5676?D6 E96C6E@ E96 ?646DD:EJ @7 AC@G:?8 E96
+:?256BF24J@7>@?6J52>286D2D2C6>65J
+4 2>286D  $@EH:E9DE2?5:?8 2?JE9:?8 E@ E96 4@?EC2CJ :? E9:D =@32= (6EE=6>6?E
+8C66>6?E?@?6@7E96&2CE:6D@C2?J@7E96:CC6DA64E:G6DF446DD@CD@C2DD:8?DD92==>2<624=2:>
+282:?DE@CD66<E@C64@G6C7C@>2?J@E96C&2CEJ@CE96DF446DD@CD2DD:8?D277:=:2E6D5:C64E@CD
+@77:46CD6>A=@J66D4@F?D6=C6AC6D6?E2E:G6D286?ED@C2EE@C?6JD:?724E@72?J@7E96>7@C2?J
+DA64:2= :?5:C64E 4@?D6BF6?E:2= 6I6>A=2CJ @C AF?:E:G6 52>286D @C 52>286D 7@C =@DE AC@7:ED :?
+C6DA64E@72?J4=2:>7@C3C6249@74@?EC24E@C2?J@E96CE96@CJ@7=:23:=:EJ2C:D:?8@FE@7@CC6=2E65
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 7 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 12 of 21
+
+
+--- PAGE 13 ---
+
+ 
+E@E9:D=@32=(6EE=6>6?E8C66>6?E
+5 FCE96CDDFC2?46D)96&2CE:6DD92==FD6E96:CC62D@?23=636DE677@CEDE@E2<6@C
+42FD6 E@ 36 E2<6? 2== 2AAC@AC:2E6 24E:@? E@ 5@ @C 42FD6 E@ 365@?6 2== E9:?8D ?646DD2CJ F?56C
+2AA=:423=6=2H2?5E@6I64FE62?556=:G6CDF495@4F>6?ED2?5@E96CA2A6CD:?624942D62D>2J
+36C6BF:C65E@42CCJ@FEE96AC@G:D:@?D@7E9:D=@32=(6EE=6>6?E8C66>6?E2?54@?DF>>2E62?5
+>2<667764E:G6E96EC2?D24E:@?D4@?E6>A=2E6596C63J
+6 I64FE:@?:?@F?E6CA2CED)9:D=@32=(6EE=6>6?E8C66>6?E>2J366I64FE65:?
+4@F?E6CA2CED 3J @?6 @C >@C6 @7 E96 &2CE:6D 2?5 2== DF49 4@F?E6CA2CED H96? D@ 6I64FE65 D92==
+E@86E96C4@?DE:EFE6E967:?2==@32=(6EE=6>6?E8C66>6?E2D:7@?65@4F>6?E925366?D:8?653J
+2==&2CE:6D2?56249DF494@F?E6CA2CEFA@?6I64FE:@?2?556=:G6CJD92==36566>6524@>A=6E6
+@C:8:?2=3:?5:?8E96&2CE:6DDF3D4C:365 E96C6E@ FA@? E96 6I64FE:@?3J2==&2CE:6DE@E9:D=@32=
+(6EE=6>6?E 8C66>6?E  6=:G6CJ @7 E9:D D:8?65 28C66>6?E 3J 724D:>:=6 EC2?D>:DD:@? @C
+3J A57 ;A68 ) @C @E96C 7@C> @7 6=64EC@?:4 >2:= 2EE249>6?E H:== 36 566>65 67764E:G6 2D
+56=:G6CJ@72>2?F2==J6I64FE654@F?E6CA2CEAC:@CE@2?5:?E9623D6?46@7>2?F2=56=:G6CJ2?5
+H:==363:?5:?8FA@?E96&2CE:6D
+7 @G6C?:?8 "2H  )9:D =@32= (6EE=6>6?E 8C66>6?E D92== 36 8@G6C?65 3J 2?5
+4@?DECF652?56?7@C465:?244@C52?46H:E9E96=2HD@7E96(E2E6@76=2H2C6H:E9@FEC682C5E@
+4@?7=:4ED@7=2HAC:?4:A=6DE92EH@F=5C6DF=E:?E962AA=:42E:@?@72?J=2H@E96CE92?E96=2H@7E96
+(E2E6@76=2H2C6
+8 @?D6?E E@ +6?F6  )96 &2CE:6D :CC6G@423=J 2?5 F?4@?5:E:@?2==J DF3>:E E@ 2?5
+2446AEE96;FC:D5:4E:@?@7E966=2H2C62?<CFAE4J@FCE7@C2?J24E:@?DF:E@CAC@4665:?82C:D:?8
+@FE@7@C32D65FA@?E9:D=@32=(6EE=6>6?E8C66>6?E2?5H2:G6D2?J@3;64E:@?E92E:E>2J92G6
+E@E96=2J:?8@7G6?F6:?2?JDF494@FCE@CE92E2?JDF494@FCE:D2?:?4@?G6?:6?E7@CF>@C5@6D
+?@E92G6A6CD@?2=;FC:D5:4E:@?@G6C:E:?4@??64E:@?H:E9DF492?24E:@?DF:E@CAC@4665:?8
+9 $@E:46D?J?@E:46DC6BF:C6596C6F?56CD92==36D6?E3J46CE:7:65>2:=7:CDE4=2DD
+C6EFC?C646:AEC6BF6DE65@C3J2?2E:@?2==JC64@8?:K65@G6C?:89E56=:G6CJD6CG:462?53J6>2:=E@
+E967@==@H:?8
+: 7E@=@4<:
+#@9D:?#689;:&=2?5>:?:DEC2E@C
+4	@#&2CE?6CD
+
+
+C@25H2J
+E9=
+$6H.@C<$6H.@C<
+
+
+
+
+
+>>689;:>A2CE?6CD4@>
+
+H:E94@A:6DE@
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 8 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 13 of 21
+
+
+--- PAGE 14 ---
+
+ 
+
+!6??6E9 F=6EDB
+ 677C6J" @?2DDB
+#:4926=(,:?@8C25DB
+)C:DE2?I6=C@5DB
+(6G6?):>6D(BF2C6
+$6H.@C<$6H.@C<
+
+
+
+
+
+
+<2F=6E3C@H?CF5?:4<4@>
+;;@?2D3C@H?CF5?:4<4@>
+>H:?@8C253C@H?CF5?:4<4@>
+E2I6=C@53C@H?CF5?:4<4@>
+
+2?5
+
+!
+':492C5(!2?@H:EK
+:>66#FC?6DD
+
+'@4<676==6C&=2K2E9=@@C
+$6H.@C<$6H.@C<
+
+
+
+
+C:492C5<2?@H:EK92J?6D3@@?64@>
+2:>667FC?6DD92J?6D3@@?64@>
+
+:: 7E@E96)-63E@CD
+ @9? '2J
+C@25(EC66E
+)-#2:='@@>?5=@@C
+$6H.@C<$6H.@C<
+
+
+
+>2:=;C2J8C6J=@4<A2CE?6CD==44@>
+
+H:E94@A:6DE@
+
+
+
+?5C6H:6E56C:49
+C:2?=F64<DE6:?
+6?;2>:?(6==6C
+C@25(EC66E
+$6H.@C<$6H.@C<
+
+
+
+5:6E56C:492DF==4C@>4@>
+8=F64<DE6:?3DF==4C@>4@>
+36==6C3DF==4C@>4@>
+
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 9 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 14 of 21
+
+
+--- PAGE 15 ---
+
+ 
+: ?E:C6 8C66>6?E 2?5 >6?5>6?ED  )9:D =@32= (6EE=6>6?E 8C66>6?E
+4@?DE:EFE6DE966?E:C628C66>6?E2?5F?56CDE2?5:?836EH66?2?52>@?8E96&2CE:6D4@?46C?:?8E96
+>2EE6CD D6E 7@CE9 96C6:? 2?5 DFA6CD656D 2?J AC:@C 28C66>6?ED @C F?56CDE2?5:?8D  )9:D =@32=
+(6EE=6>6?E8C66>6?E>2J?@E362>6?565@C>@5:7:65?@C>2J2?J@7:EDAC@G:D:@?D36H2:G65
+6I46AE:?HC:E:?8D:8?653JE96&2CE:6D3@F?5E96C63J@C3JE96:CC6DA64E:G62FE9@C:K652EE@C?6J@C
+@E96CC6AC6D6?E2E:G6
+; (6G6C23:=:EJ72?JAC@G:D:@?:?E9:D=@32=(6EE=6>6?E8C66>6?E:D56E6C>:?65
+E@ 36 :?G2=:5 :?@A6C2E:G6 @C F?6?7@C4623=6 E96 C6>2:?:?8 AC@G:D:@?D @7 E9:D =@32= (6EE=6>6?E
+8C66>6?EC6>2:?:?67764E:73@E9E9664@?@>:42?5=682=DF3DE2?46@7E9:D=@32=(6EE=6>6?E
+8C66>6?E2C6?@E>2E6C:2==J27764E65:?2?J>2??6C25G6CD6E@2?J&2CEJ%E96CH:D6E96&2CE:6D
+D92==?68@E:2E6:?8@@572:E9E@C6HC:E62?JDF49AC@G:D:@?D@2DE@2D?62C=J2?572:C=J2DA@DD:3=6
+2AAC@249E9664@?@>:42?5=682=DF3DE2?46@C:8:?2==J:?E6?565
+< DD:8?>6?E$6:E96CE9:D=@32=(6EE=6>6?E8C66>6?E?@C2?J@7E96C:89ED2?5
+@3=:82E:@?D @7 E96 &2CE:6D 96C6F?56C >2J 36 2DD:8?65 3J 6:E96C &2CEJ H:E9@FE E96 AC:@C HC:EE6?
+4@?D6?E@7E96@E96C&2CEJH9:494@?D6?EH:==?@E36F?C62D@?23=JH:E996=56I46AEE92E6249&2CEJ
+D92== 92G6 E96 C:89E E@ 2DD:8? 2?J @C 2== @7 :ED C:89ED 2?5 56=682E6 2?J @C 2== @7 :ED @3=:82E:@?D
+96C6F?56CE@2?J@7:ED277:=:2E6D@C2?JDF446DD@C:?:?E6C6DEH96E96C3J>6C86C24BF:D:E:@?2DD6E
+AFC492D6@C@E96CH:D6!E92E?@2DD:8?>6?EE@2?J277:=:2E6@CDF446DD@C:?:?E6C6DED92==
+C6=:6G6@C5:D492C86E962DD:8?:?8&2CEJ7C@>2?J@7:ED@3=:82E:@?D96C6F?56C! 
+E92EE96=@4<:==@H65=2:>DD92==367C66=JEC2?D76CC23=6:?244@C52?46H:E9(64E:@?3@7
+E9:D=@32=(6EE=6>6?E8C66>6?E?J)C2?D76C:?G:@=2E:@?@7E9:D=@32=(6EE=6>6?E8C66>6?E
+D92==36G@:52?5@7?@7@C46@C67764E
+= ?56>?:7:42E:@??E966G6?E@7E963C6249@7E9:D=@32=(6EE=6>6?E8C66>6?E
+E96 3C6249:?8 &2CEJ H:== :?56>?:7J 2?5 9@=5 92C>=6DD E96 ?@?3C6249:?8 &2CEJ 2?5 2?J @7 :ED
+277:=:2E6D @77:46CD 5:C64E@CD 6>A=@J66D 286?ED 2?5 DF3D:5:2C:6D 7@C 2?J 2?5 2== C62D@?23=6
+2EE@C?6JDP766D=:E:82E:@?6IA6?D6D2?54@FCE4@DED2C:D:?8@FE@7@C:?4@??64E:@?H:E9DF493C6249
+> (6EE=6>6?E7764E:G62E6)96N(6EE=6>6?E7764E:G62E6OD92==@44FC@?E9652E6
+E92E:D:8?2EFC6A286D6I64FE653J6249@7E96&2CE:6D92G6366?56=:G6C65E@6249@7E96@E96C
+&2CE:6D::E966=2H2C62?<CFAE4J@FCE$6H 6CD6J2?<CFAE4J@FCE2?5E966C>F52@FCE
+92G662496?E6C652?@C56CH9:49@C56CD92==92G6364@>627:?2=@C56C?@EDF3;64EE@2?J2AA62=
+DE2J@CG242EFC2AAC@G:?8E96&2CE:6DP6?ECJ:?E@E9:D=@32=(6EE=6>6?E8C66>6?E@?E6C>D2?5
+4@?5:E:@?D4@?D:DE6?EH:E9E9:D=@32=(6EE=6>6?E8C66>6?E2?5@E96CH:D6C62D@?23=J2446AE23=6
+E@6249&2CEJE96NAAC@G2=%C56CDO
+
+/
+#0
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 10 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 15 of 21
+
+
+--- PAGE 16 ---
+
+
+
+E96&2CE:6D96C6E@92G642FD65E9:D=@32=
+(6EE=6>6?E8C66>6?EE@366I64FE653J6249@7E96>@CE96:C5F=J2FE9@C:K65C6AC6D6?E2E:G6D@?
+E9652E6D96C6:?27E6CDF3D4C:365
+
+2E663CF2CJ11
+.
+$#
+))"
+
+ 
+2E663CF2CJ11
+.
+$#))" @9? '2J
+))"(@=6=J:?9:D42A24:EJ2D9:67I64FE:G6%77:46C 
+  @7E96)-63E@CD
+
+
+
+27
+Mohsin Meghji
+Plan Administrator
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 11 of 16
+t f 
+Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 16 of 21
+
+
+--- PAGE 17 ---
+
+
+ 
+
+3)*#*2
+
+ 0//'1/',"*-
+,"*-/  .2*24 ,/$+*.2*24
+
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:(6CG:46D?4
+
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:)C25:?8""
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:"6?5:?8""
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:?E6C?2E:@?2="E5
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:"6?5:?8""
+
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:+6?EFC6D""
+
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:,2==6E""
+
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:,2==6E""
+
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD
+=@4<:?G6DE>6?E&C@5F4ED
+""
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:"6?5:?8""
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:"6?5:?8""
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:"6?5:?8""
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:?4
+
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:)C25:?8""
+
+
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:)C25:?8""
+
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:"6?5:?8""
+
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:,2==6E""
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:+6?EFC6D""
+
+
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:,2==6E""
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:?E6C?2E:@?2="E5
+
+ ,6DE'62=>(9:C6D?4@? =@4<:+6?EFC6D""
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 12 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 17 of 21
+
+
+--- PAGE 18 ---
+
+
+ 
+
+3692=7@72==)-63E@CD
+
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD=@4<:?E6C?2E:@?2="E5
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD
+=@4<:?G6DE>6?E&C@5F4ED
+""
+
+ ,6DE'62=>(9:C6D?4@?
+3692=7@72==)-63E@CD
+=@4<:?G6DE>6?E&C@5F4ED
+""
+
+
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:(6CG:46D?4
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:"6?5:?8""
+
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:+6?EFC6D""
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:(6CG:46D?4
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:?E6C?2E:@?2="E5
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:?G6DE>6?E&C@5F4ED
+""
+ ,6DE'62=>(9:C6D(6CG:46D
+?4@?3692=7@72==)-
+63E@CD
+=@4<:?4
+
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:"6?5:?8""
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:?4
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:(6CG:46D?4
+ =2>652'6D62C49"E5@?
+3692=7@72==)-63E@CD=@4<:)C25:?8""
+ )-)C25:?8"E5@?3692=7
+@72==)-63E@CD=@4<:?4
+
+ ,6DE'62=>(9:C6D?4)-
+*( =@4<:?4
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 13 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 18 of 21
+
+
+--- PAGE 19 ---
+
+
+ 
+
+3)*#*2
+
+,/$+*0//'1/',"*-
+,"*-/ ,/$+*.2*24  .2*24
+ =@4<:?4,6DE'62=>(9:C6D?4
+
+ =@4<:"6?5:?8"" =2>652'6D62C49"E5
+
+ =@4<:?4)-)C25:?8"E5
+ =@4<:?E6C?2E:@?2="E5 =2>652'6D62C49"E5
+ =@4<:?E6C?2E:@?2="E5 )-)C25:?8"E5
+ =@4<:)C25:?8"" ,6DE'62=>(9:C6D?4
+ =@4<:"6?5:?8"" ,6DE'62=>(9:C6D?4
+ =@4<:?4=2>652'6D62C49"E5
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 14 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 19 of 21
+
+
+--- PAGE 20 ---
+
+
+ 
+
+3)*#*2
+/0-/'/*.%&0
+(0&&-&.2
+)9:D @:?56C8C66>6?EE96N @:?56C8C66>6?EOE@E96=@32=(6EE=6>6?E8C66>6?E
+52E652D@763CF2CJ/yy0
+E96N=@32=(6EE=6>6?E8C66>6?EO3J2?52>@?8=@4<:2?5
+E96)-63E@CD:D6I64FE652?556=:G6C653J/y0E96N @:?:?8&2CEJOE@E96)-63E@CD2D@7
+/y024942A:E2=:K65E6C>FD6596C6:?3FE?@E@E96CH:D6567:?65D92==92G6E96>62?:?8D6E7@CE9
+:?E96=@32=(6EE=6>6?E8C66>6?E
+8C66>6?EE@36@F?5)96 @:?:?8&2CEJD92==96C627E6C36566>65E@362N&2CEJO7@C2==
+AFCA@D6DF?56CE96=@32=(6EE=6>6?E8C66>6?E2?596C63J28C66DE@363@F?53J2==@7E96
+E6C>D 2?5 4@?5:E:@?D @7 E96 =@32= (6EE=6>6?E 8C66>6?E :? DF49 42A24:EJ 2?5 2?J
+C6AC6D6?E2E:@?DH2CC2?E:6D2?54@G6?2?EDE96C6:?$@EH:E9DE2?5:?82?JE9:?8E@E964@?EC2CJ
+:? E96 =@32= (6EE=6>6?E 8C66>6?E 6?ECJ :?E@ E9:D  @:?56C 8C66>6?E D92== ?@E C6BF:C6 @C
+@E96CH:D642FD62 @:?:?8&2CEJE@C6=62D62?J=2:>D282:?DE2?J&2CEJ@E96CE92?2?J=2:>D
+C6=2E65E@@C2C:D:?8@FE@7E96)-&C@@7D@7=2:>@CE96=@4<:&C@@7D@7=2:>
+@G6C?:?8"2H)9:D @:?56C8C66>6?ED92==368@G6C?653J2?54@?DECF65:?244@C52?46
+H:E9 E96 :?E6C?2= =2HD @7 E96 (E2E6 @7 6=2H2C6 H:E9@FE C682C5 E@ 2?J 4@?7=:4ED @7 =2H
+AC@G:D:@?DH9:49H@F=5C6BF:C6E962AA=:42E:@?@7E96=2H@72?J@E96C;FC:D5:4E:@?
+
+	#
+
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 15 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 20 of 21
+
+
+--- PAGE 21 ---
+
+
+ 
+ 
+ $ ,)$(( ,'% E96  @:?:?8 &2CEJ 92D 42FD65 E9:D  @:?56C8C66>6?E E@ 36
+6I64FE652D@7E9652E67:CDEHC:EE6?23@G6
+
+$ 2 > 6  @ 7   @ : ? : ? 8  & 2 C E J      
+J  111111111111111111111111111
+$2>6 111111111111111111111111111
+):E=6  111111111111111111111111111
+
+
+$@E:4655C6DD
+
+
+
+2I  
+EE6?E:@?  
+ 
+
+,:E924@AJE@
+
+ 
+
+
+2I 
+EE6?E:@?  
+ 
+
+Case 22-11068-JTD    Doc 10331-1    Filed 03/25/24    Page 16 of 16Case 1:22-cr-00673-LAK     Document 450-4     Filed 06/14/24     Page 21 of 21

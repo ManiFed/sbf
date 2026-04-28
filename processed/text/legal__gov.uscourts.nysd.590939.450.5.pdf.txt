@@ -1,0 +1,1572 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT E 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 1 of 45
+
+
+--- PAGE 2 ---
+
+IN THE UNIT
+ED STATES BANKRUPTCY COURT 
+FOR THE DISTRICT OF DELAWARE 
+In re: 
+FTX TRADI
+NG LTD., et al.,1 
+Debtors. 
+Chapter 11 
+Case No. 22-
+11068 (JTD) 
+(Jointly Administered) 
+Re:  D.I. 265
+9 
+DEBTORS’ OBJECTION TO THE MOTION OF ISLAND AIR CAPITAL AND 
+PAUL F. ARANHA FOR RELIEF FROM THE AUTOMATIC STAY,  
+TO THE EXTENT APPLICABLE, AND RELATED RELIEF 
+FTX Trading Ltd. and its affiliated debtors and debtors-in-possession (collectively, 
+the “Debtors”) respectfully submit this objection (this “ Objection”) to the Motion of Island Air 
+Capital and Paul F. Aranha for Relief from the Automatic Stay, to the Extent Applicable, and 
+Related Relief [D.I. 2659] (the “Motion” or “Mot.”)2 filed by Island Air Capital (“IAC”) and its 
+beneficial owner Paul F. Aranha (“Aranha” and collectively, with IAC the “Movants”).  In support 
+of this Objection, the Debtors rely on the contemporaneously filed Declaration of Jacob M. Croke 
+in Support of Debtors’ Objection to the Motion of Island Air Capital and Paul F. Aranha for Relief 
+from the Automatic Stay, to the Extent Applicable, and Related Relief (the “Debtors’ Declaration”) 
+and accompanying exhibits, and respectfully state as follows: 
+1 The last four digits of Alameda Research LLC’s tax identification number is 4063.  Due to the large 
+number of debtor entities in these Chapter 11 Cases, a complete list of the Debtors and the last four 
+digits of their federal tax identification numbers is not provided herein.  A complete list of such 
+information may be obtained on the website of the Debtors’ claims and noticing agent at 
+https://cases.ra.kroll.com/FTX.  The principal place of business of Debtor Emergent Fidelity 
+Technologies Ltd is Unit 3B, Bryson’s Commercial Complex, Friars Hill Road, St. John’s, Antigua and 
+Barbuda. 
+2 Capitalized terms used but not otherwise defined herein shall have the meaning ascribed to them in this 
+Objection or in the Motion. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 1 of 22Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 2 of 45
+
+
+
+--- PAGE 3 ---
+
+-2-
+PRELI
+MINARY STATEMENT 
+This Motion is premature, unfounded and seeks relief to which the Movants 
+are
+ not entitled—neither in this procedural posture nor substantively.  The Movants ask this Court 
+to (i) ente
+r an order finding that two private planes—a Bombardier Global 500 (the “Global”) and 
+an Embraer Legacy (the “Legacy ,” and, together with the Global, the “ Plane s”)—that were 
+purchased entirely with the Debtors’ funds  are, in fact, sol ely owned by the Movants ; (ii) in t he 
+alternative, grant the Movants relief from the automatic stay to use or sel l the Planes as they see 
+fit; and (iii) in the alternative, grant the Movants a lien on the Planes totaling several million 
+dollars based solely on unsupported and facially implausible statements.  The Court should 
+reject these requests. 
+First, the Movants’ request is barred by 21 U.S.C. 853(k), which provides 
+that 
+“no party claiming an interest in property subject to forfeiture [] may . . . commence an action 
+at law 
+or equity against the United States concerning the validity of his alleged interest in the 
+property subsequent to the filing of an indictment or information alleging that the property is 
+subje
+ct to forfeiture under this section.”  The Movants acknowledge that the U.S. Department of 
+Just
+ice (the “Government”) seized the Global on February 8, 2023, and that the Government has 
+ass
+erted that both Planes are subject to forfeiture as proceeds of the criminal conduct charged in 
+the indi
+ctments against Samuel Bankman-Fried (“Bankman-Fried”) and other senior FTX Group3 
+3  The “FTX Group” is comprised of four silos.  These silos include:  (a) a group composed of Debtor 
+West Realm Shires, Inc., Debtor West Realm Shires Services, Inc., and their Debtor and non -Debtor 
+subsidiaries; (b) a group composed of Debtors  Alameda Research Ltd., Alameda Research LLC and 
+their Debtor subsidiaries; (c) a group composed of Debtors Clifton Bay Investments LLC, Clifton Bay 
+Investments Ltd., Island Bay Ventures Inc. and FTX Ventures Ltd. (“FTX Ventures”); and (d) a group 
+composed of Debtor FTX Trading Ltd. and its Debtor and non-Debtor subsidiaries. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 2 of 22
+1. 
+2. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 3 of 45
+
+
+
+--- PAGE 4 ---
+
+ -3- 
+ 
+executives.  (Mot. at ¶ 3). 4  The Debtors are (and have long been) in communication with the 
+Government regarding the Planes, and, in light of the Government’s stated intention to forfeit the 
+Planes and the implications of section 853(k), have refrained from taking any action in thes e 
+Chapter 11 Cases to assert their interests in the Planes. 5  In bringing the Motion, the Movants not 
+only attempt to circumvent section  853(k) by asserting an interest in property that is subject to 
+forfeiture, but also attempt to construe the Debtors’ compliance with section 853(k) as evidence 
+that the Debtors have no interest in the Planes.  Not so. 
+ Second, the Motion is procedurally improper and seeks relief that can be 
+obtained only through an adversary proceeding.  Bankruptcy Rule 7001 provides that an adversary 
+proceeding is required “to recover money or property,” “to determine the validity, priority, or 
+extent of a lien or other interest in property,” “to obtain . . . equitable relief,” and “to obtain a 
+declaratory judgement.”  Fed. R. Bankr. P. 7001(1), (2), (7), (9).  The Motion’s requested relief 
+clearly falls within the scope of Bankruptcy Rule 7001, in that the Movants are seeking a ruling 
+that the Planes are not estate property (Mot. at ¶ 46) or a determination that the Movants have a 
+valid lien on the Planes  (Mot. at ¶ 58).  Because the Movants failed to commence an adversary 
+proceeding to obtain the requested relief, as required pursuant to Bankruptcy Rule  7001, the 
+Motion should be denied.  See Fed. R. Bankr. P. 7003.   
+ Third, even if the Movants’ requests were not barred by section 853(k) or 
+Bankruptcy Rule 7001, the Movants would not be entitled to the relief that they seek.  At its heart, 
+ 
+4  Indeed, on October 4, 2023, the Government filed a Forfeiture Bill of Particulars alleging that the Planes 
+are subject to forfeiture as property traceable to the proceeds of Bankman-Fried’s criminal offenses and 
+as property involved in money laundering.  United States v. Bankman-Fried, 22-cr-00673 (S.D.N.Y. 
+2022), ECF No. 314 (Oct. 4, 2023). 
+5  The Debtors understand that the Government will be filing its own objection to the Motion on 
+October 11, 2023. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 3 of 22
+3. 
+4. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 4 of 45
+
+
+
+--- PAGE 5 ---
+
+ -4- 
+ 
+this Motion asks this Court to issue an order finding that, although the FTX Group and its 
+employees selected the Planes, paid every penny of the approximately $27.4 million to acquire the 
+Planes, and paid Aranha millions more to make extensive renovations to the Planes to fit their 
+specific needs, the Planes are actually owned entirely by the Movants because Aranha purports to 
+have reached an oral “handshake deal” with Bankman -Fried to treat these tens of millions of 
+dollars in transfers as an undocumented, unsecured, zero- interest loan to Aranha.  The only 
+“support” that the Movants provide is a declaration from Aranha attaching a handful of documents 
+that are silent as to the core issues.  As set forth in more detail below, although the Court need not 
+make a finding on these issues at this stage and on this Motion, the Debtors expect to establish at 
+the appropriate time that the Movants’ claims regarding the Planes are nonsensical, internally 
+inconsistent and thoroughly contradicted by the evidence.  To the extent that the Court is inclined 
+to consider the Movants’ requests, the Debtors believe that discovery and an evidentiary hearing 
+are necessary, and respectfully request that the Court direct the parties to negotiate a scheduling 
+order regarding those issues. 
+ Fourth, the Movants cannot satisfy their burden of proof to demonstrate that 
+“cause” exists to lift the automatic stay.  The Movants focus entirely on their purported hardships 
+suffered and flatly ignore the hardship on the Debtors if the stay were lifted—a critical element to 
+demonstrate cause.  Moreover, there is no need for the Movants to incur any further hardship—the 
+Movants could simply unburden themselves by turning the Legacy over to the Government.   
+ Fifth, contrary to their assertions, the Movants have failed to demonstrate 
+the application of section 550 of the Bankruptcy Code or the Movant s’ entitlement to liens over 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 4 of 22
+5. 
+6. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 5 of 45
+
+
+--- PAGE 6 ---
+
+ -5- 
+ 
+the Plans.  Accordingly, the Motion should be denied, and the Debtors will, at the appropriate time, 
+seek to enforce their rights with respect to the Planes and their claims against Aranha and IAC.6 
+BACKGROUND 
+A. The Debtors and Their Chapter 11 Cases 
+ On November  11, 2022 and on November  14, 2022 (as applicable, the 
+“Petition Date”), the Debtors filed with the Court voluntary petitions for relief under title 11 of the 
+United States Code, 11 U.S.C. §§ 101 et seq. (the “Bankruptcy Code”).  The Debtors continue to 
+operate their businesses and manage their properties as debtors -in-possession pursuant to 
+sections 1107(a) and 1108 of the Bankruptcy Code.  Joint administration of these Chapter 11 Cases 
+was authorized by the Court by entry of an order on November  22, 2022 [D.I. 128].  On 
+December 15, 2022, the Office of the United States Trustee for the District of Delaware (the “U.S. 
+Trustee”) appointed an Official Committee of Unsecured Creditors (the “Committee”) pursuant to 
+section 1102 of the Bankruptcy Code [D.I. 231]. 
+ Additional factual background relating to the Debtors’ businesses and the 
+commencement of these chapter 11 cases (the “Chapter 11 Cases”) is set forth in the Declaration 
+of John J. Ray III in Support of Chapter 11 Petitions and First Day Pleadings  [D.I. 24], the 
+Declaration of Edgar W. Mosley II in Support of Chapter 11 Petitions and First Day Pleadings 
+[D.I. 57], the Supplemental Declaration of John J. Ray III in Support of First Day Pleadings 
+[D.I. 92], and the Supplemental Declaration of Edgar W. Mosley II in Support of First Day 
+Pleadings [D.I. 93]. 
+ 
+6  Movant Island Air Capital is an airplane holding company of Aranha’s charter company, Trans Island 
+Airways (“TIA”). 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 5 of 22
+7. 
+8. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 6 of 45
+
+
+
+--- PAGE 7 ---
+
+ -6- 
+ 
+B. The Purchase of the Planes  
+ Aranha and TIA provided services for Bankman- Fried and other FTX 
+Group personnel beginning in late 2021.  Shortly thereafter, senior  FTX employees expressed a 
+desire for the FTX Group to acquire private planes, but noted concerns about the potential reaction 
+if the FTX Group’s ownership of those planes were publicly known.  FTX Group executives 
+considered various options, including making a potential equity investment in TIA, but ultimately 
+decided not to proceed with that investment. 
+ To obscure the FTX Group’s acquisition of the Planes, the FTX Group 
+executives settled on a different approach.  On February 1, 2022, at the FTX Group’s direction, 
+TIA entered into a letter of intent to purchase the Global for $15.9 million.  (Decl. Ex. A.)  On 
+February 2, 2022, Debtor Alameda Research Ltd. (“Alameda”) wired a $500,000 deposit directly 
+to the Global’s escrow agent, and, on March 3, 2022, a senior FTX Group executive caused another 
+$15.4 million of Alameda funds to be transferred to the escrow agent to complete the purchase of 
+the Global.  (Id., Exs. B, C.)  The Debtors thus paid the entire $15.9 million purchase price of the 
+Global. 
+ On March  16, 2022, after the purchase of the Global already had been 
+completed, FTX Ventures and Aranha executed a term sheet relating to a potential equity 
+investment in TIA.  (Id., Ex. D.)  The term sheet explicitly stated that FTX Ventures was not 
+obligated to proceed with an investment —in fact, the only binding part of the term sheet was a 
+confidentiality provision barring TIA from disclosing “this proposal and any related discussions 
+and correspondence” without prior written approval, consistent with the FTX Group executives’ 
+desire to conceal the FTX Group’s ownership of private planes. 
+ In addition to the Global, FTX Group executives instructed Aranha to find 
+a second plane for the FTX Group.  Aranha eventually identified the Legacy as a potential 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 6 of 22
+9. 
+10. 
+11. 
+12. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 7 of 45
+
+
+--- PAGE 8 ---
+
+ -7- 
+ 
+acquisition, and, on August 16, 2022, Debtor Alameda transferred $11,545,000 directly to the 
+Legacy’s escrow agent, representing the entire purchase price of the Legacy.  ( Id., Ex. E.)  The 
+Debtors thus paid a total of $27,445,000 to purchase the Planes—Aranha and TIA paid nothing. 
+ In addition to selecting the Planes and paying their entire purchase price, 
+the FTX Group also instructed Aranha to make extensive renovations to the Planes to satisfy the 
+whims of senior FTX Group executives.  Between July and October 2022, Aranha invoiced the 
+Debtors more than $4 million for purported upgrades to the Planes and other related expenses, 
+including, among other things, nearly $1.3 million for Wifi upgrades, approximately $900,000 for 
+interior renovations and “Aircraft Bed Systems,” and $975 for “Board Game Purchases for SBF 
+for Airplane.”  (Id., Ex. F.)  The Debtors paid each of these invoices in full.
+7 
+C. Post-Petition Events 
+ The Debtors’ first communications with the Movants regarding the Planes 
+was in May 2023, months after the Debtors had begun discussing the Planes with the Government.8  
+The Debtors have repeatedly urged the Movants to agree to the most logical and cost -effective 
+path forward, which is to cooperate with the Government to arrange for interlocutory sales of both 
+Planes, as doing so would allow the parties to address at the appropriate time any disputes as to 
+their respective entitlement to the sale proceeds, without the Movants incurring further 
+maintenance and storage costs.  As to the Global currently in the Government’s possession, the 
+Movants have professed a willingness to agree to a sale, yet have for months sought to impose on 
+the Government and the Debtors a shifting series of conditions with respect to the sale process and 
+ 
+7  The Movants assert that, “as of the Petition Date, the Debtors owe TIA approximately $2.6 million for 
+unpaid Flight Services” (Mot. at ¶ 14).  The Debtors have requested copies of these purported invoices 
+from the Movants, but to date the Movants have not provided them. 
+8  Contrary to the Movants’ claims, the Debtors did not request that the Joint Provisional Liquidators 
+speak with Aranha on the Debtors’ behalf. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 7 of 22
+13. 
+14. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 8 of 45
+
+
+
+--- PAGE 9 ---
+
+ -8- 
+ 
+treatment of proceeds for any sale.  As to the Legacy, the Movants have flatly refused to commit 
+to conducting a sale, instead using their current possession of the Legacy as leverage to try to force 
+the Debtors to grant the Movants an unjustified windfall or to fund the Movants’ busine ss 
+operations. 
+ARGUMENT 
+ THE REQUESTED RELIEF IS BARRED BY 21 U.S.C. 853(K)(2) 
+ The Motion is fatally flawed because it seeks relief that this Court cannot 
+grant.  21 U.S.C. § 853(k)(2) provides that “no party claiming an interest in property subject to 
+forfeiture [] may . . . commence an action at law or equity against the United States concerning the 
+validity of his alleged interest in the property subsequent to the  filing of an indictment or 
+information alleging that the property is subject to forfeiture under this section.”  In enacting this 
+provision, Congress “impose[d] an absolute bar on all suits claiming an interest in forfeitable 
+property” save for claims pursued in ancillary forfeiture proceedings pursuant to 21 U.S.C. 
+§ 853(n).  In re The American Basketball League, Inc., 317 B.R. 121, 129 (Bankr. N.D. Cal. 2004) 
+(emphasis in original) (granting United States’ motion for summary judgment in adversary action 
+on partial ground that relief requested by Debtors’ plan administrator was barred by § 853(k)); see 
+also In re Rothstein Rosenfeldt Adler, P.A ., 2012 WL 4320479, at *5 (S.D. Fla. Aug. 30, 2012) 
+(granting United States’ cross-motion for summary judgment in adversary action because ancillary 
+proceeding was exclusive forum for considering trustee’s motion under § 853(k)) .  Under t he 
+relation-back doctrine, “all right, title, and interest” in property subject to forfeiture vests in the 
+United States “upon commission of the act[s] giving rise to [its] forfeiture.”  21 U.S.C. § 853(c).    
+ The Movants run squarely into this statutory bar.  According to the 
+Government’s Superseding Indictment of Bankman-Fried (the “Indictment”), beginning as early 
+as 2019, Bankman-Fried defrauded customers, investors and banks via the misappropriation of 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 8 of 22
+I. 
+15. 
+16. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 9 of 45
+
+
+--- PAGE 10 ---
+
+ -9- 
+ 
+billions of dollars of FTX Group assets, enabling “exorbitant spending unrelated to the operation 
+of the FTX platform.”  (Indictment at ¶ 7.)  The Indictment contains forfeiture allegations 
+seeking “any and all property, real and personal, that constitutes or is derived from proceeds 
+traceable” to the charged money-laundering, commodities fraud and wire fraud offenses, and the 
+related Bill of Particulars specifically identifies the Planes as subject to forfeiture as property 
+derived from the proceeds of the charged fraud offenses and property involved in money 
+laundering.
+9 
+ The Movants acknowledge that the Government has asserted that the Planes 
+are subject to forfeiture as proceeds of this criminal scheme and/or property involved in money 
+laundering, and that the Government has obtained a seizure warrant and seized the Global.  (Mot. 
+at ¶ 32).  The Motion, is, for all intents and purposes, an action against the United States.  Courts 
+have consistently held that a claim brought against a private party regarding property vested in the 
+United States qualifies as an action against the United States: 
+Although the foreclosure action was technically brought against 
+Phillips, Jr. and not the United States, subsection (c) provides that 
+title to the properties at issue had already vested in the United States 
+at the time of the foreclosure sale.  Because the Government held 
+title to the properties at the time of the sale, the foreclosure action 
+constituted “an action at law or equity against the United States” 
+and was statutorily barred under § 853(k). 
+United States v. Phillips, 185 F. 3d 183, 188 (4th Cir. 1999).  See also In re Rothstein Rosenfeldt 
+Adler, P.A., 2012 WL 4320479, at *6 (S.D. Fla. Aug. 30, 2012) (barring claim against private party 
+under 853(k) as to property vested in the United States); In re Duval at Gulf Harbors, LLC , 515 
+B.R. 884, 887 (Bankr. M.D. Fla. 2014) (same).  As the Government has filed an Indictment and 
+ 
+9  See Superseding Indictment ¶ 97-99, United States v. Bankman-Fried, 22-cr-00673 (S.D.N.Y. 2022), 
+ECF No. 115 (Aug. 14, 2023); Bill of Particulars, United States v. Bankman-Fried, 22-cr-00673 
+(S.D.N.Y. 2022) ECF No. 314 (Oct. 4, 2023). 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 9 of 22Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 10 of 45
+
+
+
+--- PAGE 11 ---
+
+ -10- 
+ 
+related Bill of Particulars alleging the Planes are subject to forfeiture, section 853(k) prohibits 
+Aranha from litigating his interest in the Planes outside of the ancillary proceeding in the 
+Bankman-Fried prosecution as required by section 853(n). 
+ THE MOTION IS PROCEDURALLY DEFECTIVE 
+ The Movants allege that they are “the rightful owners of the Aircraft,” and 
+ask the Court to enter an order to that effect.  (Mot. at ¶¶ 46, 49.)  Pursuant to Bankruptcy 
+Rule 7001, a determination regarding ownership of an asset may be obtained only through an 
+adversary proceeding.  See Fed. R. Bankr. P. 7001(1), (2), (7), (9) (adversary proceeding required 
+“to recover money or property,” “to determine the validity, priority, or extent of a lien or othe r 
+interest in property,” “to obtain . . . equitable relief,” and “to obtain a declaratory judgement”). 
+ First, the Movants’ request for a ruling that the Planes are not estate 
+property (Mot. at ¶ 46) clearly falls within Bankruptcy Rule 7001.  See In re DBSI, Inc., 432 B.R. 
+126, 135 (Bankr. D. Del. 2010) (finding a creditor’s motion seeking a judgment regarding its 
+alleged interest in certain property “procedurally improper” because the creditor had to proceed 
+through an adversary proceeding); see also In re Fin. Oversight and Mgt. Bd. for Puerto Rico, 631 
+B.R. 589, 593-94 (D.P.R. 2021) (finding procedurally defective creditor’s motion for declaratory 
+relief concerning the extent of his interest in a motor vehicle); In re Colafranceschi, 577 B.R. 817, 
+825 (Bankr. D. Idaho 2017) (“Ordinarily, [a]ny disagreement or question of whether property is 
+or is not property of the estate requires adjudication through an adversary proceeding.”). 
+ Second, the Movants’ request that the Court, in the alternative, find that the 
+Movants are entitled to a lien totaling several million dollars —without citing a shred of evidence 
+substantiating those figures—also is procedurally improper.  Bankruptcy Rule 7001(2) expressly 
+applies to proceedings “to determine the validity, priority, or extent of a lien.”  Fed. R. Bankr. P. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 10 of 22
+II. 
+18. 
+19. 
+20. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 11 of 45
+
+
+--- PAGE 12 ---
+
+ -11- 
+ 
+7001(2);10 see, e.g., In re Glenbrook Grp., Inc., 552 B.R. 735, 738 (Bankr. N.D. Ill. 2016) (noting 
+that the “appropriate avenue” for determining a party’s “equitable interest” in property is an 
+adversary proceeding).  
+ Adversary proceedings must be commenced by the filing of a complaint, 
+pursuant to Bankruptcy Rule 7003.  Fed. R. Bankr. P. 7003.  This Motion is a paradigmatic 
+example of the rationale for these rules —the Movants have asked this Court to find, on a pa per-
+thin record consisting primarily of Aranha’s say-so, that the Debtors have no interest in two Planes 
+that were purchased and renovated at the Debtors’ direction, using more than $30 million of Debtor 
+assets.  It bears noting that Aranha’s story rests in large part on his retelling of a purported 
+March 22, 2022 in-person meeting with Bankman-Fried, during which Aranha claims that he and 
+Bankman-Fried reached an “oral agreement” related to an amorphous and undocumented “loan.”  
+Aranha’s declaration also contains many irreconcilable inconsistencies—as just one example, the 
+purported March 2022 “oral agreement” was reached nearly two months  after the agreement to 
+purchase the Global was signed, and weeks after the Debtors had completed that purchase. 
+ To the extent that the Movants believe they have a valid claim to ownership 
+of the Planes, they are required to commence an adversary proceeding in which those assertions 
+will be subject to discovery and a full evidentiary hearing.  As it stands, the Motion is procedurally 
+defective and must be denied.  See, e.g., In re Aftandilian, 2014 WL 1244789, at *5 (Bankr. App. 
+9th Cir. Mar. 26, 2014) (holding that “[t]he bankruptcy court correctly ruled that the movant’s 
+ 
+10  Rule 7001(2) provides only two exceptions to requiring the commencement of an adversary proceeding:  
+proceedings under Bankruptcy Rule 3012 or Bankruptcy Rule 4003(d)—neither of which involves the 
+determination of a lien under section 550(e), as the Movants seek here.  See Fed. R. Bankr. P. 7001(2), 
+3012, 4003(d).   
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 11 of 22Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 12 of 45
+
+
+
+--- PAGE 13 ---
+
+ -12- 
+ 
+failure to present his declaratory relief motion as an adversary proceeding was a sufficient ground, 
+by itself, to justify denial of the motion”).   
+ THE MOVANTS CANNOT ESTABLISH THAT THEY ARE THE “SOLE 
+OWNERS” OF THE PLANES 
+ Procedural defects aside, if this Court is inclined to consider the merits of 
+these issues, the Debtors request that there be discovery and a full evidentiary hearing.  As it stands, 
+the evidence available to the Debtors, including records of the Debtors’ payments and 
+communications between Aranha and senior FTX Group personnel, fundamentally undermines 
+Movants’ claims. 
+ At the outset, the Debtors respectfully submit that, on t he current record, 
+Movants have not established that they have any valid interest in the Planes, much less that they 
+are entitled to an order declaring them to be the “sole owners” of the Planes such that the automatic 
+stay does not apply.  (Mot. ¶ 46.)  (Decl. ¶ 2).  Section 541 of the Bankruptcy Code provides that 
+estate property includes “all legal or equitable interests of the debtor in property as of the 
+commencement of the case.”  11 U.S.C. § 541(a)(1).  This provision is interpreted broadly.  In re 
+A. Bus. and Community Corp., 901 F.2d 325, 327 (3d Cir. 1990).  See United States  v. Whiting 
+Pools, Inc., 462 U.S. 198, 205 (1983) (“The House and Senate Reports on the Bankruptcy Code 
+indicate that § 541(a)(1)’s scope is broad.”).  It extends to property “w herever located and by 
+whomever held.”  Matter of Contl. Airlines, Inc., 134 B.R. 536, 541 (Bankr. D. Del. 1991) (citing 
+In re Mays, 85 B.R. 955, 960 (Bankr. E.D. Pa 1988)) (emphasis added). 
+ The Movants acknowledge that the Debtors paid the entire $27.4 mi llion 
+purchase price for the Planes and directed extensive further renovations.  (Mot. at ¶¶ 19-20.)  
+Movants also conspicuously do not assert that they paid a single penny out of pocket  toward the 
+purchase price or those upgrades, asserting only that they are owed certain amounts related to post-
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 12 of 22
+III. 
+23. 
+24. 
+25. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 13 of 45
+
+
+--- PAGE 14 ---
+
+ -13- 
+ 
+Petition services and upkeep.  Movants’ claim that “[t]here is, quite simply, no indicia of the 
+Debtors’ ownership” is nonsensical (Mot. at ¶ 48); see, e.g., In re LTG, LLC , at *6 (Bankr. M.D. 
+Fla. Aug. 4, 2020) (noting that, in determining whether a boat was property of the estate, the court 
+could consider “who paid the purchase price”). 
+ The fact that the Planes are not titled and registered to the Debtors does not 
+come close to demonstrating that Debtors have no ownership interest in the Planes.  In In re Le, 
+for example, the court determined that, although debtors did not have legal title to two vessels, 
+debtors had an equitable interest in the vessels because, along with other indicia of ownership, the 
+debtors had paid the purchase price for the vessels, and had paid all subsequent expenses.  WL 
+4197515, at *2 (Bankr. S.D. Tex. Nov. 21, 2007).  The same is true here. 
+ Moreover, “[i]n determining whether a debtor has a ‘legal’ or ‘equitable’ 
+interest in property, the court must turn to state law as the determination of property rights in the 
+assets of a bankruptcy estate is governed by state law.”  In re Competrol Acq. Partn., L.P ., 203 
+B.R. 914, 917 (Bankr. D. Del. 1996) (citations omitted); see Butner v. United States, 440 U.S. 48 
+(1979) (“Property interests are created and defined by state law.”).  Delaware law recognizes that 
+even where property is registered in the name of one party, another party may have an ownership 
+interest in that property if, for example, that party paid to purchase the property.  See, e.g. , 
+Malloy v. U.S. Fid. & Guar. Co., WL 179511, at *3 (Del. Super. June  16, 1992) (finding that the 
+individual named on the certificate of title of a vehicle may not be the equitable owner of the 
+vehicle); W. Am. Ins. Co . v. Bogush, 2006 WL 1064069, at *1 n.6 (Del. Super. Apr. 12, 2006) 
+(“[O]wnership can be established in equity based on the circumstances surrounding the acquisition 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 13 of 22
+26. 
+27. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 14 of 45
+
+
+--- PAGE 15 ---
+
+ -14- 
+ 
+and/or use of property even though legal ownership may lie elsewhere”) (citing Malloy, 1992 WL 
+179511 at *3).11 
+ THE MOVANTS HAVE NOT SHOWN CAUSE TO LIFT THE AUTOMATIC 
+STAY PURSUANT TO SECTION 362(d)(1) OF THE BANKRUPTCY CODE 
+ In the alternative, the Movants seek relief from the automatic stay “to permit 
+them to use, operate, preserve, maintain, and, if they desire to do so, sell the [Planes].”  (Mot. at 
+¶ 50.)  Section 362(d) of the Bankruptcy Code allows a party to obtain relief from the automatic 
+stay only “for cause,” and, as the Movants acknowledge, the party seeking to lift the automatic 
+stay bears the initial burden to make a prima facie showing of “cause” for relief.  In re Trib. Co., 
+418 B.R. 116, 127 (Bankr. D. Del. 2009); see (Mot. at ¶ 51); see also In re RNI Wind Down Corp., 
+348 B.R. 286, 299 (Bankr. D. Del. 2006), subsequently aff’d, 359 Fed. Appx. 352 (3d Cir. 2010) 
+(“Failure to prove a prima facie case requires denial of the requested relief.”).  To succeed on this 
+claim, the Movants must show that there is “cause” to lift the automatic stay by proving that the 
+hardship suffered by the Movants as a result of the stay “ considerably outweigh” the hardship on 
+the Debtors and the estate if the stay were lifted.  In re Rexene Prods. Co ., 141 B.R. 574, 576 
+(Bankr. D. Del. 1992).   
+ This is a heavy burden, and one that the Movants have not come close to 
+meeting.  Indeed, “[t]he automatic stay is one of the most fundamental protections provided by the 
+Bankruptcy Code” and “[t]he scope of the automatic stay is very broad.”  In re TH G Holdings 
+LLC, 604 B.R. 154, 160 (Bankr. D. Del. 2019) (Dorsey, J.).  Unsubstantiated, undocumented 
+ 
+11  The Movants also suggest that the Debtors’ relatively limited references to the Planes as estate property 
+in the Debtors’ prior public filings somehow demonstrates that the Debtors have no ownership right in 
+the Planes.  This borders on bad faith.  Over the past several months, the Movants have repeatedly 
+asked the Debtors and the Government to refrain from any public statements regarding the Planes, on 
+the theory that minimizing public attention could help maximize value in any interlocutory sales of the 
+Planes.   
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 14 of 22
+IV. 
+28. 
+29. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 15 of 45
+
+
+
+--- PAGE 16 ---
+
+ -15- 
+ 
+allegations are insufficient to show “cause” to lift the stay.  In re Irish Bank Resol. Corp. Ltd., 
+2019 WL 4740249, at *7 (D. Del. Sept. 27, 2019) (“Determining whether ‘cause’ has been shown 
+requires a fact-specific inquiry, in which the movant must substantiate its case with an evidentiary 
+showing of a factual and legal right to the relief it seeks.”).   
+ In the Third Circuit, courts typically examine thre e factors to determine 
+whether the movant has made a showing of “cause” for relief from the stay:  
+(1) Whether any great prejudice to either the bankrupt estate or the debtor 
+will result from continuation of the civil suit;  
+(2) Whether the hardship to the non- bankrupt party by maintenance of the 
+stay considerably outweighs the hardship to the debtor; and  
+(3) Whether the creditor has a probability of prevailing on the merits. 
+In re Rexene Prods. Co., 141 B.R. at 576.  This balancing test places the burden on the movant to 
+show that “the balance of hardships from not obtaining relief tips significantly in its favor.”  In re 
+Am. Classic Voyages, Co., 298 B.R. 222, 225 (D. Del. 2003) (citations omitted) (emphasis added).   
+ First and foremost, the Movants fail to make a prima facie showing of 
+“cause” for relief from the stay because they do not even attempt to address the potential for 
+prejudice to the Debtors .  As this Court recently observed in denying a request for stay relief in 
+this proceeding, “in order to lift the stay, the burden is on the Movant to prove cause,” which 
+involves, among other things, showing that “there would be  no harm to the bankruptcy estate.”  
+(Apr. 12, 2023 Hr’g Tr. 52:16–18, 53:1–3) (emphasis added).  The potential harm here is clear —
+the Movants are located outside of the United States and are asking this Court to lift the stay and  
+grant them unfettered discretion to “use” and/or “sell” two planes that were purchased and 
+renovated using more than $30 million of Debtor assets.   
+ If the stay is lifted, the Debtors —and potentially also the Government —
+would be forced to expend resources to litigate the ownership of the Planes now.  As explained by 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 15 of 22
+30. 
+31. 
+32. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 16 of 45
+
+
+--- PAGE 17 ---
+
+ -16- 
+ 
+the Third Circuit, the purpose of the automatic stay is three-fold:  (1) “to prevent certain creditors 
+from gaining a preference for their claims against the debtor,” (2) “to forestall the depletion of the 
+debtor’s assets due to legal costs in defending proceedings against it,” and (3) “to avoid 
+interference with the orderly liquidation or rehabilitation of the debtor.”  Borman v. Raymark 
+Indus., Inc., 946 F.2d 1031, 1036 (3d Cir. 1991) (quoting St. Croix Condominium Owners  v. St. 
+Croix Hotel, 682 F.2d 446, 448 (3d Cir. 1982)).  The Movants’ motion for relief from the stay runs 
+roughshod over all three of these underlying policies.  See e.g., In re DBSI, Inc., 407 B.R. 159, 167 
+(Bankr. D. Del. 2009) (denying relief from the stay and noting that, “by lifting the stay, I may 
+encourage a race to the courthouse by parties seeking similar orders, which will cause undue 
+hardship and expense to the estate”); see also United States v. Nicolet, Inc., 857 F.2d 202, 207 (3d 
+Cir. 1988). 
+ Moreover, the Movants cannot show that any hardship they might face 
+under the automatic stay “considerably outweighs” the hardship to the Debtors if the stay were 
+lifted.  See, e.g., In re Aleris Int’l Corp ., 456 B.R. 35, 48 (Bankr. D. Del. 2011) (finding the 
+movants had not shown cause to lift the stay because although the creditor alleged hardship as a 
+result of the stay, “it has not shown that its continued dispossession would cause it greater hardship 
+than the hardship on the Debtor”).  At the outset, there is no need for the Movants to incur any 
+further hardship at all —the Movants could unburden themselves simply by turning the Legacy 
+over to the Government.  Similarly, the Movants are under no obligation to continue to maintain 
+the Global (and have not been since the Government seized the Global nearly eight months ago).  
+The Movants’ assertion that they need relief on account of “their large cash expenditure required 
+to maintain the Aircraft. . . [that will] continu[e] indefinitely into the future” (Mot. at ¶  54) is a 
+false choice entirely of the Movants’ own creation. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 16 of 22
+33. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 17 of 45
+
+
+--- PAGE 18 ---
+
+ -17- 
+ 
+ The Movants offer similarly inadequate allegations in support of Rexene’s 
+third prong:  the likelihood they will prevail on the merits of their claims against the Debtors.  In 
+re Rexene Prods. Co., 141 B.R. at 576.  As set out above, the Debtors have an ownership interest 
+in the Planes.  Although the Movants recognize that “FTX wired the deposits and balances [for the 
+Planes] directly into escrow” ( Mot. at ¶ 19), they neither acknowledge the Debtors’ clear 
+ownership interest, nor offer any showing that they would prevail against the Debtors’ interest.  
+See, e.g., In re Aleris Int’l Corp., 456 B.R. at 48 (applying the Rexene factors to deny a creditor’s 
+motion for relief from the stay, including because the creditor, who had an unperfected security 
+interest in property in possession of the Debtors, had “made no showing that it is likely to prevail 
+against the Debtor on the strength of its security interest”).  
+ The Movants have failed to satisfy the Rexene factors to demonstrate that 
+cause exists to lift the automatic stay and, accordingly, the requested relief must be denied. 
+ THE MOVANTS FAIL TO PROVE ENTITLEMENT TO A LIEN UNDER 
+SECTION 550(e) OF THE BANKRUPTCY CODE 
+ The Movants further allege that they are entitled to a lien pursuant to 
+section 550(e) of the Bankruptcy Code on the Debtors’ property to secure the costs they allegedly 
+incurred “improv[ing]” the property.  (Mot. at ¶ 56.)  Under section 550(e), when a transfer is 
+avoided under section 544, 545, 547, 548, 549, 553(b) or 724(a), the transferee may assert a claim 
+for a lien to secure the cost of any improvements made after the transfer of the property, “if, and 
+only if, the transferee accepted the transfer  in good faith.”  In re Consol. Yacht Corp., 337 B.R. 
+711, 714 (Bankr. S.D. Fla. 2006); 11 U.S.C. § 550(a), (e).  The Movants’ claim that they are 
+entitled to a “substantial lien” under section 550(e) (Mot. at ¶ 56) is unavailing for two reasons.  
+First, the Movants are not transferees of the Legacy or the Global.  Second, even if the Movants 
+could establish they were transferees, the Movants cannot establish “good faith.” 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 17 of 22
+34. 
+35. 
+V. 
+36. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 18 of 45
+
+
+--- PAGE 19 ---
+
+ -18- 
+ 
+ As an initial matter, the Movants do not offer any basis for the applicability 
+of section 550(e) to the Planes.  The statute specifically refers to improvements “made after the 
+transfer.”  11 U.S.C. § 550(e); see, e.g., In re Cowan, 273 B.R. 98, 107 (Bankr. App. 6th Cir. 
+2002), aff’d, 70 Fed. Appx. 797 (6th Cir. 2003) (finding section 550(e) inapplicable where there 
+was no transfer that had to be avoided because “§ 550 only comes into play if the Trustee avoids 
+a transfer.”); see also In re Saunders , 413 B.R. 722, 726 (Bankr. D. Idaho 2009) (finding that, 
+“absent an avoided transfer, § 550 appears to have no relevance”). 
+ The Movants have not alleged facts or provided any evidentiary support to 
+show that the Debtors transferred the Planes to Aranha or IAC, nor did the Debtors ever transfer 
+the Planes or express their intent to effect a transfer of them.  Merely placing the Movants’ name 
+on the title of the Planes did not constitute a “transfer” within the meaning of section 550.  As the 
+court explained in In re Saunders , “[a]n impermissibly expansive reading of § 550 would be 
+required” in order to find that placing someone else’s name on the title of a vehicle constituted a 
+“transfer.”  413 B.R at 726.  Accordingly, since there was no transfer of the Planes, section 550(e) 
+does not apply. 
+ Even if the Movants were transferees of the Plan es under the meaning of 
+section 550, which they are not, the Movants are not “good faith” transferees, as required to assert 
+a claim for a lien under section 550(e).  “Good faith” is not a defined term in the Bankruptcy Code, 
+and is properly determined on a case-by-case basis.  In re Sherman, 67 F.3d 1348, 1355 (8th Cir. 
+1995) (citing In re Roco Corp., 701 F.2d 978, 984 (1st Cir. 1983)).  When assessing the 
+circumstances under which a transferee establishes “good faith,” courts have observed that “[t]he 
+bona fide purchaser for good faith, creating entitlement to a lien for improvements, is meant to be 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 18 of 22
+37. 
+38. 
+39. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 19 of 45
+
+
+--- PAGE 20 ---
+
+ -19- 
+ 
+reserved for situations involving an arms length transfer to an outside third party.”  In re Blitstein, 
+105 B.R. 133, 137 (Bankr. S.D. Fla. 1989). 
+ The Movants attempt to establish their status as good -faith transferees by 
+alleging “there is no allegation, much less evidence, that the Movants had any reason to know of 
+[the FTX Group executives’] fraud or otherwise lacked good faith.”  (Mot. at ¶ 57.)  Yet, “an 
+absence of fraudulent intent does not mean that the transaction was necessarily entered into in 
+good faith.  The lack of good faith imports a failure to deal honestly, fairly and openly.”  In re 
+Greenbrook Carpet Co., Inc., 22 B.R. 86, 90-91 (Bankr. N.D. Ga. 1982) (citing S. Indus., Inc. v. 
+Jeremias, 66 A.D.2d 178, 183 (N.Y. App. Div. 2d Dep’t 1978)).  Courts have found bad faith when 
+the dealings between the creditor and the debtor lack the attributes of an arm’s-length transaction, 
+for instance, where a creditor has an economic interest in pleasing the debtor, or anticipates a 
+reward of the debtors’ “largess.”  In re Am. Way Serv. Corp., 229 B.R. 496, 505, 511-512 (Bankr. 
+S.D. Fla. 1999).  As set forth above, the Movants’ dealings with Bankman-Fried and the other FTX 
+Group executives exhibit similar indications of bad faith, and the Movants thus have failed to 
+establish that they were transferees in good faith as required under section 550(e).
+12 
+ The Movants further allege they are entitled to adequate protection of their 
+“550(e) lien on the Aircraft” and the “improvements . . . that the Movants have made to the 
+Aircraft” under 11 U.S.C. § 361(1).  (Mot. at ¶¶ 59, 61.)  For the reasons set out above, the Movants 
+are not entitled to any lien under section 550(e), and thus cannot prevail on this claim. 
+ 
+12  Movants also have failed to offer any evidence demonstrating that any purported costs that they 
+incurred qualify as “improvements” under Section 550(e).  For example, by his own account, in the 
+days following the FTX Group’s collapse, Aranha repainted the Global to hide its affiliation with 
+Aranha, transferred the Global’s title to a company not owned by Aranha, and took steps to attempt to 
+sell the Global, all prior to any communications with the Debtors or the Government.  (Aranha Decl. 
+¶ 15.)  There are many ways to describe those actions, but “improvements” is not one of them. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 19 of 22
+40. 
+41. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 20 of 45
+
+
+
+--- PAGE 21 ---
+
+ -20- 
+ 
+ The Movants’ claim to adequate protection is additionally unavailing 
+because the Movants are not secured creditors.  “The purpose of adequate protection is to protect 
+a secured creditor from diminution in the value of its interest in the particular  collateral.”  In re 
+Energy Future Holdings Corp., 546 B.R. 566, 581 (Bankr. D. Del. 2016) (citing In re Satcon Tech. 
+Corp., No. 12–12869, 2012 WL 6091160, at *6 (Bankr. D. Del. Dec. 7, 2012).  The Movants have 
+no entitlement to adequate protection for the Planes given that they have not established the Planes 
+are collateral or that they are secured creditors.  Unsecured creditors are not entitled to adequate 
+protection under section 361(1) of the Bankruptcy Code.  In re Chama, Inc ., 265 B.R. 662, 669 
+(Bankr. D. Del. 2000) (finding that, since the debtors had avoided the creditor’s security interest, 
+the creditor was merely a “general unsecured creditor . . . not entitled to any adequate protection”). 
+ Finally, the Movants als o fail to establish a claim under section 361(1) to 
+the extent that they seek protection “in the amount of approximately $6 million (plus a minimum 
+of $65,000 per month for the ongoing maintenance and preservation of the Legacy).”  (Mot. 
+at ¶ 61.)
+13  Courts have endorsed the view that a creditor “can only receive adequate protection to 
+the extent the collateral declined in value after the secured creditor filed its motion for adequate 
+protection, rather than receiving compensation for all postpetition decline in value.”  In re Cont’l 
+Airlines, Inc., 154 B.R. 176, 180- 81 (Bankr. D. Del 1993) (citing In re Best Products, Inc ., 138 
+B.R. 155, 157- 58 (Bankr. S.D.N.Y. 1992)) (emphasis added).  The Movants are not entitled to 
+adequate protection—they have no section 550(e) lien and they are not secured creditors —but 
+even if they were, that protection would apply only to cover depreciations in value since the 
+ 
+13  Although Aranha previously had offered to provide the Debtors with documentation to substantiate 
+his claimed $6 million in post-Petition “services,” he changed course after the Debtors took him up on 
+that offer.  This is not surprising, as Aranha’s claims appear facially implausible—for example, he 
+asserts that “the Debtors also owe me $3,397,958 for maintaining and preserving the Global since the 
+Petition Date” (Aranha Decl. at ¶ 30), notwithstanding that the Global was seized by the Government 
+on February 8, 2023, less than three months after the Petition Date. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 20 of 22
+42. 
+43. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 21 of 45
+
+
+
+--- PAGE 22 ---
+
+ -21- 
+ 
+Movants filed the Motion on September 21, 2023.  Accordingly, the requested relief must be 
+denied. 
+RESERVATION OF RI GHTS 
+ In filing this Objection, the Debtors have not waived any rights, and the 
+Debtors expressly reserve all of their rights, powers, privileges and remedies under applicable 
+law or otherwise with respect to the Movants and the Planes.  The Debtors may elect to exercise 
+any or all of their rights, at their sole option without the necessity of any further notice, demand 
+or other action on the part of the Movants.  Nothing contained in this Objection or any delay by 
+the Debtors in exercising any rights, powers, privileges and remedies under applicable law with 
+respect to the Movants or the Planes now existing or hereafter arising shall be construed as a 
+waiver or modification of such rights, powers, privileges or remedies.
+ 
+CONCLUSION 
+ For the foregoing reasons, the Motion should be denied. 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 21 of 22
+44. 
+45. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 22 of 45
+
+
+--- PAGE 23 ---
+
+ -22- 
+ 
+Dated:  October 5, 2023 
+ Wilmington, Delaware 
+ 
+LANDIS RATH & COBB LLP 
+ 
+/s/ Matthew R. Pierce                   
+Adam G. Landis (No. 3407) 
+Kimberly A. Brown (No. 5138) 
+Matthew R. Pierce (No. 5946) 
+919 Market Street, Suite 1800 
+Wilmington, DE 19801 
+Telephone: (302) 467-4400 
+Facsimile: (302) 467-4450 
+E-mail: landis@lrclaw.com 
+  brown@lrclaw.com 
+  pierce@lrclaw.com 
+ 
+-and- 
+ 
+SULLIVAN & CROMWELL LLP 
+Andrew G. Dietderich (admitted pro hac vice) 
+James L. Bromley (admitted pro hac vice) 
+Brian D. Glueckstein (admitted pro hac vice) 
+Jacob M. Croke (admitted pro hac vice) 
+Alexa J. Kranzley (admitted pro hac vice) 
+125 Broad Street 
+New York, NY 10004 
+Telephone: (212) 558-4000 
+Facsimile: (212) 558-3588 
+E-mail: dietdericha@sullcrom.com 
+ bromleyj@sullcrom.com 
+ gluecksteinb@sullcrom.com 
+ crokej@sullcrom.com 
+ kranzleya@sullcrom.com 
+ 
+Counsel for the Debtors and Debtors-in-Possession 
+ 
+ 
+Case 22-11068-JTD    Doc 3002    Filed 10/05/23    Page 22 of 22Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 23 of 45
+
+
+--- PAGE 24 ---
+
+  
+ 
+ 
+ 
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE DISTRICT OF DELAWARE 
+ 
+In re: 
+ 
+FTX TRADING LTD., et al.,1 
+  
+ Debtors. 
+ 
+Chapter 11 
+ 
+Case No. 22-11068 (JTD) 
+ 
+(Jointly Administered) 
+ 
+Ref. No.2659 
+ 
+ 
+DECLARATION OF JACOB M. CROKE  
+IN SUPPORT OF DEBTORS’ OBJECTION TO THE MOTION OF ISLAND AIR 
+CAPITAL
+ AND PAUL F. ARANHA FOR RELIEF FROM THE AUTOMATIC STAY, 
+TO THE EXTENT APPLICABLE, AND RELATED RELIEF 
+ 
+I, Jacob M. Croke, declare under penalty of perjury as follows: 
+1. I am a partner in the law firm of Sullivan & Cromwell LLP, counsel to 
+the Debtors.  I submit this declaration (the “Declaration”) in support of Debtors’ Objection to the 
+Motion of Island Air Capital and Paul F. Aranha for Relief from the Automatic Stay, to the 
+Extent Applicable, and Related Relief (the “Objection”),
+2 filed concurrently herewith, to place 
+before the Court certain documents and information referred to in the Objection.  
+2. Except as otherwise indicated, all facts set forth in this Declaration are 
+base
+d upon information learned from my review of documents stored in the Debtors’ document 
+repository or obtained from counsel to former FTX Group personnel, or from information 
+ 
+1 The last four digits of Alameda Research LLC’s tax identification number is 4063.  Due to the large number of 
+debtor entities in these Chapter 11 Cases, a complete list of the Debtors and the last four digits of their federal tax 
+identification numbers is not provided herein.  A complete list of such information may be obtained on the website 
+of the Debtors’ claims and noticing agent at https://cases.ra.kroll.com/FTX.  The principal place of business of 
+Debtor Emergent Fidelity Technologies Ltd is Unit 3B, Bryson’s Commercial Complex, Friars Hill Road, St. 
+John’s, Antigua and Barbuda. 
+ 
+2 Capitalized terms used but otherwise not defined shall have the meaning ascribed to them this Declaration or in 
+the Objection. 
+Case 22-11068-JTD    Doc 3003    Filed 10/05/23    Page 1 of 3Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 24 of 45
+
+
+
+--- PAGE 25 ---
+
+2 
+ 
+supplied by persons working directly with me or under my supervision, direction or control 
+and/or from the Debtors’ professionals and advisors.  If I were called upon to testify, I could and 
+would testify competently to the facts set forth in this Declaration. 
+3. Attached hereto as Exhibit A are true and correct copies of a February 
+2022 email chain and its attachments, sent by Paul Aranha to a senior FTX Group executive.  
+4. Attached hereto as Exhibit B is a
+  true and correct copy of a February 2, 
+2022 notification of a wire transfer of $500,000 from a Silvergate Bank account ending #456 
+held in the name of Debtor Alameda Research Ltd. (“Alameda”) to AIC Title Agency, LLC, the 
+escrow agent for the Global. 
+5. Attached hereto as Exhibit C is a  true and correct copy of a March 2, 
+2022 notification of a wire transfer of $15,400,000 from a Silvergate Bank account ending #738 
+held in the name of Debtor North Dimension Inc. to AIC Title Agency, LLC, the escrow agent 
+for the Global. 
+6. Attached hereto as Exhibit D is a true and correct copy of an executed 
+ter
+m sheet dated March 16, 2022, signed by Trans Island Airways Group (“TIA”), Paul Aranha, 
+and FTX Ventures.   
+7. Attached hereto as Exhibit E is a true and correct copy of an August 16, 
+2022 notif
+ication of a wire transfer of $11,545,000 from a Silvergate Bank account ending #456 
+held in the name of Debtor Alameda to Aerotitle, the escrow agent for the Legacy. 
+8. Attached hereto as Exhibit F are true and correct copies of certain 
+invoices sent by Paul Aranha, on behalf of TIA, to a senior FTX Group executive related to, 
+among other things, expenses for renovations of the Planes. 
+Case 22-11068-JTD    Doc 3003    Filed 10/05/23    Page 2 of 3Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 25 of 45
+
+
+--- PAGE 26 ---
+
+3 
+ 
+9. Pursuant to 28 U.S.C. § 1746, I declare under penalty of perjury that the 
+foregoing is true and correct. 
+Dated: October 5, 2023                          
+New York, New York 
+ 
+By: /s/ Jacob M. Croke      
+Jacob M. Croke 
+Sullivan & Cromwell LLP 
+ 
+Case 22-11068-JTD    Doc 3003    Filed 10/05/23    Page 3 of 3Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 26 of 45
+
+
+--- PAGE 27 ---
+
+ 
+Exhibit A 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-1    Filed 10/05/23    Page 1 of 5Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 27 of 45
+
+
+--- PAGE 28 ---
+
+To: Emma Dalessio[emmajdalessio@gmail.com]; ryan.salame@gmail.com[ryan.salame@gmail.com]
+From: Paul Francis Aranha[paularanha@gmail.com]
+Sent: Mon 2/28/2022 3:11:18 PM (UTC)
+Subject: Payment Balance for Global 5000 Purchase
+Aircraft Deposit Instructions.pdf
+Letter of Intent Global 5000 sn 9295  2.01.2022.pdf
+Hey,
+We are ready to accept the aircraft.
+Can you please arrange for the balance of $15,400,000.00 to the attached escrow account.
+I am going to send over the High Speed Internet, paint and interior deposit information in the next days.
+If you can let me know when sent I can inform escrow 
+---------- Forwarded message ---------
+From: Paul Francis Aranha <paularanha@gmail.com
+>
+Date: Wed, Feb 2, 2022 at 10:37 AM
+Subject: Deposit Information for Global 5000 Purchase
+To: <ryan.salame@gmail.com
+>, <emmajdalessio@gmail.com>
+Hi Ryan/Emma,
+I have attached the LOI and the escrow instructions for the Global 5000.
+If you could please send the $500,000 refundable deposit to the escrow agent and let me know when sent it 
+would be great.
+We are planning on starting the initial records inspection today, the visual inspection tomorrow or Friday and 
+then continue from there.
+We were able to get the aircraft inspection scheduled in HK so it will be leaving from there to come to South 
+Florida for the Wifi, Paint and Interior. 
+Please let me know,
+ 
+Best,
+Paul
+Paul Francis Aranha
+President | Director Operations
+Trans Island Airways
+242-427-8888
+paularanha@gmail.com
+www.transislandairways.com
+7th Floor, ALBANY Financial Center, Nassau, Bahamas
+-- 
+Best,
+Case 22-11068-JTD    Doc 3003-1    Filed 10/05/23    Page 2 of 5Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 28 of 45
+
+
+--- PAGE 29 ---
+
+Paul
+Paul Francis Aranha
+President | Director Operations
+Trans Island Airways
+242-427-8888
+paularanha@gmail.com
+www.transislandairways.com
+7th Floor, ALBANY Financial Center, Nassau, Bahamas
+Case 22-11068-JTD    Doc 3003-1    Filed 10/05/23    Page 3 of 5Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 29 of 45
+
+
+--- PAGE 30 ---
+
+T IT LE SERVI CE 
+WIRE TRANSFER INSTRUCTIONS 
+FOR AIC TITLE SERVICE ESCROW ACCOUNT 
+BANK OF AMERICA 
+ABA # 026009593 
+FOR CREDIT TO: AIC TITLE AGENCY, LLC 
+ACCOUNT# 305005374465 
+ATTN: Suzanne M. Pruitt 
+RE: -------
+FOR INTERNATIONAL WIRES-SWIFTCODE:  BOFAUS3N 
+PLEASE NOTE WE DO NOT ACCEPT ACH TRANSFERS FOR ESCROW CLOSINGS  
+NOTE: OUR ESCROW  ACCOUNT IS A NON-INTEREST  BEARING  ACCOUNT.  FUNDS 
+CANNOT  BE TRANSFERRED  OUT OF OUR ESCROW  ACCOUNT  AFTER  3:00 P.M. 
+(CENTRAL  TIME)  FOR DOMESTIC  WIRES AND 2:00 P.M. (CENTRAL  TIME) FOR 
+INTERNATIONAL WIRES. DISBURS EMENTS  AUTHORIZED AFTER THESE TIMES WILL NOT 
+BE TRANSMITTED UNTIL THE MORNING OF THE NEXT BUSINESS DA Y. 
+NOTE: ALL ESCROW FEES MUST  BE "PAID IN FULL" AT THE TIME OF CLOSING. 
+BANK OF AMERI CA 
+211 N ROBINSON AVE 
+OKLAHOMA CITY,  OK 73102 
+Bank Contact:  Angela Parks 
+REFUNDABLE  DEPOSITS:  IN THE ABSENCE  OF CONTRARY  INSTRUCTIONS  FROM THE 
+REMITTER OF FUNDS,  DEPOS ITS ARE CONSI DERED  TO BE FULLY  REFUNDABLE  TO 
+AND UNDER THE CONTROL OF THE REMITTER.  WRITTEN  DIRECTIONS  THAT GOVERN 
+THE DISBURSEMENT OR DISPOSITION OF THE DEPOSITS AND THAT MAY BE PROVIDED 
+FOR 
+IN ANY LETTERS OF INTENT, AIRCRAFT PURCHA SE AGREEME NTS,  OR ANY OTHER 
+AGREEMENTS BETWEEN  THE REMITTER AND ANY OTHER  PARTIES,  ARE CONSIDERED 
+TO BE "CONTRARY INSTRUCTIONS". 
+Beneficiary  address: 
+6350 W Reno,  OKLAHOMA CITY,  OK 73127 
+800-288-2519  - 405-948-181 1 - FAX 405-948-1869
+G5000 - 9295
+Case 22-11068-JTD    Doc 3003-1    Filed 10/05/23    Page 4 of 5Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 30 of 45
+
+
+--- PAGE 31 ---
+
+ 
+ 
+ 
+Letter of Intent 
+ 
+Trans Island Airways, Bahamas ( Purchaser ) or assigns hereby offers to purchase from Carolina Corporate Jets, Inc., USA  ( Seller ) 
+one Bombardier Global 5000 manufacturer’s serial number 9295 upon the following terms and conditions:  
+ 
+1. Purchase Price:  The purchase price for the Aircraft is $15,900,000 USD. 
+ 
+2. Deposit:  Upon acceptance of this LOI, Purchaser to place a $500,000 USD deposit in escrow with AIC Title Service, LLC in 
+Oklahoma City, OK within two (2) business days.   The deposit shall become non -refundable upon execution of a n 
+Aircraft Purchase Agreement (the “Purchase Agreement”), except in the event of Seller’s default as further defined in 
+the Purchase Agreement.  
+ 
+3. Condition: Aircraft shall be delivered by the Seller in the following condition :  
+a. In airworthy condition, with all calendar and hourly inspections current through the date of delivery; avionics and 
+systems functioning in accordance  with the manufacturer’s specifications.  
+b. With all Mandatory AD’s and Mandatory Service Bulletin s in compliance.   
+c. With all original logbooks, manuals and drawings. 
+d. Free and clear of all liens and encumbrances.  
+e. With no material damage history and no material corrosion that cannot be rectified by Seller prior to delivery of the 
+Aircraft. “Damage History” shall mean (a) damage, the repair of which would constitute a “major repair” as such term 
+is defined in 14 C.F.R. Part 43, Appendix A, Paragraph (b) or ( b) damage, the repair of which would require the 
+issuance of an FAA Form 337 or its equivalent.  
+f. Engines on Rolls Royce RRCC Enhanced; APU on MSP and airframe on Smart Parts to be fully paid and transferrable 
+at closing. 
+g. The Aircraft to be de-registered from the San Marino registry.  
+ 
+4. Inspections:  The Purchaser shall conduct a Visual Inspection of the Aircraft on or about February 4, 2022 or at a date mutually 
+agreed by both parties .  If the Visual Inspection is successful, t he Aircraft will be subject to a mutually agreeable Inspection 
+work scope, Records Review and Test Flight 
+at Purchaser s expense at a mutually agreeable Bombardier approved facility (the 
+“Inspection Facility”). Ferry flights to and from the Inspection Faci lity shall be borne by the Purchaser.  
+ 
+5. Acceptance:  Purchaser shall accept or reject the Aircraft in writing after the Inspection, Records Review and Test Flight, 
+provided the Buyer may only reject the aircraft in the event the Inspection Facility determines it cannot be rendered to meet the 
+delivery conditions or in the event of Seller’s default of his obligations under the Purchase Agreement .  
+ 
+6. Closing and Delivery:  Closing to occur with three (2) business days after the Aircraft is Returned to Service (RTS) by the 
+Inspection Facility. Delivery to occur at a mutually agreeable location and the positioning cost shall be borne by the Purchaser. 
+ 
+7. This offer is valid until close of business on Wednesday, February 2, 2022. 
+ 
+If the terms and conditions of t his LOI are acceptable, please acknowledge below and an Aircraft Purchase Agreement (APA) consisting 
+of industry standard terms will be pr epared by Seller within 5 working days, for both parties to sign.  If a mutually agreeable AP A cannot 
+be reached within 10 working days after issuance of the Purchase Agreement , then this LOI shall become null and void and the deposit 
+shall be immediately returned.  
+ 
+ 
+_____________________ __________________   Date: _February 1, 2022______ 
+Trans Island Airways (Purchaser) 
+ 
+___Tony Ryan____________________   Date: __February 1, 2022_______ 
+Carolina Corporate Jets, Inc. (Seller) 
+ 
+Case 22-11068-JTD    Doc 3003-1    Filed 10/05/23    Page 5 of 5Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 31 of 45
+
+
+--- PAGE 32 ---
+
+Exhibit B 
+Case 22-11068-JTD    Doc 3003-2    Filed 10/05/23    Page 1 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 32 of 45
+
+
+--- PAGE 33 ---
+
+From: customerservice@silvergate.com[customerservice@silvergate.com]
+Sent: Wed 2/2/2022 8:08:24 PM (UTC)
+To: fiats@alameda-research.com[fiats@alameda-research.com]
+Subject: Advice of Debit - Bank Confidential
+WIRE TRANSFER OPERATIONS ADVICE OF DEBIT
+ON Wed Feb 02 00:00:00 UTC 2022 , WE DEBITED YOUR ACCOUNT *******456 FOR 
+USD 500000.00 
+DETAILS OF PAYMENT
+PAYMENT DATE AND TIME: 2022-02-02 20:08:23.204 
+PAID AMOUNT: USD 500000.00 
+METHOD OF PAYMENT: FED 
+TRANSACTION NUMBER: M022K08187A2O18N 
+OMAD(CYCLE DATE/LTERM/OMSN): 20220202B6B7HU1R01158302021508FT01 
+IMAD(CYCLE DATE/LTERM/IMSN): 20220202MMQFMPUR001185 
+REFERENCE: 1224699601 
+UETR: 8ab34ed4-1b1c-497f-ae2e-3e8e5f39ebc0 
+BENEFICIARY:
+Acct: *********465 
+AIC TITLE AGENCY, LLC 
+6350 W RENO, OKLAHOMA CITY OK 73127 
+BENEFICIARY BANK
+ABA: 026009593 
+BIC: 
+NAME: BANK OF AMERICA, N.A., NY 
+RECEIVER BANK
+ABA: 026009593 
+BIC: 
+NAME: BANK OF AMERICA, N.A., NY 
+DEBITED FROM:
+ALAMEDA RESEARCH LTD 
+TORTOLA PIER PARK, BLDG. I SECOND FLOOR WICKHAM CAY I. ROAD TOWN 
+TORTOLA BRITISH VIRGIN ISLAN 
+ORIGINATOR TO BENEFICIARY INFO: ATTN: SUZANNE M. PRUITTRE: G5000-92 95 
+Case 22-11068-JTD    Doc 3003-2    Filed 10/05/23    Page 2 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 33 of 45
+
+
+--- PAGE 34 ---
+
+Exhibit C 
+Case 22-11068-JTD    Doc 3003-3    Filed 10/05/23    Page 1 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 34 of 45
+
+
+--- PAGE 35 ---
+
+From: customerservice@silvergate.com[customerservice@silvergate.com]
+Sent: Wed 3/2/2022 4:03:52 PM (UTC)
+To: fiats@alameda-research.com[fiats@alameda-research.com]
+Subject: Advice of Debit - Bank Confidential
+WIRE TRANSFER OPERATIONS ADVICE OF DEBIT
+ON 2022-03-02 , WE DEBITED YOUR ACCOUNT *******738 FOR USD 15400000.00 
+DETAILS OF PAYMENT
+PAYMENT DATE AND TIME: 2022-03-02 16:03:51.142 
+PAID AMOUNT: USD 15400000.00 
+METHOD OF PAYMENT: FED 
+TRANSACTION NUMBER: M032E3831Q95H198 
+OMAD(CYCLE DATE/LTERM/OMSN): 20220302B6B7HU2R00636203021103FT01 
+IMAD(CYCLE DATE/LTERM/IMSN): 20220302MMQFMPUR000952 
+REFERENCE: 74142200 
+UETR: 6da17da7-29ad-4fef-a08e-bd44c795d525 
+BENEFICIARY:
+Acct: *********465 
+AIC TITLE AGENCY, LLC 
+6350 W RENO, OKLAHOMA CITY OK 73127, US 
+BENEFICIARY BANK
+ABA: 026009593 
+BIC: 
+NAME: BANK OF AMERICA, N.A., NY 
+RECEIVER BANK
+ABA: 026009593 
+BIC: 
+NAME: BANK OF AMERICA, N.A., NY 
+DEBITED FROM:
+NORTH DIMENSION INC. 
+2000 CENTER ST STE 400 BERKELEY CA 94704-1996 
+ORIGINATOR TO BENEFICIARY INFO: SUZANNE M. PRUITT G5000 - 9295 
+Case 22-11068-JTD    Doc 3003-3    Filed 10/05/23    Page 2 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 35 of 45
+
+
+--- PAGE 36 ---
+
+Exhibit D 
+Case 22-11068-JTD    Doc 3003-4    Filed 10/05/23    Page 1 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 36 of 45
+
+
+--- PAGE 37 ---
+
+ 
+GDSVF&H\8001862.1 
+ 
+Terms of Investment 
+ 
+The following is a summary of the principal terms (  Summary of Terms  ) with respect to the proposed 
+investment to [Trans Island Airways Group]1 (the  Company ). 
+Closing   Within 30 days of signing this proposal (the  Closing ).  
+ 
+Securities Common stock (or the most senior class of stock) of the Company.  
+ 
+Investment  FTX will invest $12 million at the Valuation. 
+ 
+Secondary Purchase  FTX will purchase $5 million worth of shares from Paul Francis Aranha (CEO of 
+the Company) at the Valuation. 
+   
+Valuation Price per share to be calculated based on a p ost-money valuation of $42.5 million on 
+a fully-diluted basis, which will include the conversion of all outstanding convertible 
+instruments. 
+ 
+Confidentiality This proposal and any related disc ussions and correspondence may not be disclosed 
+by the Company to any party (other tha n to legal counsel and the accountants of the 
+Company in order for such persons to render advice in connection with the proposed 
+transaction, and other than to existing s tockholders of the Company) without the 
+prior written approval of FTX. 
+ 
+Binding Terms Except for the provision  labeled  Confidentiality , which is explicitly agreed to be 
+legally binding agreements among the parties hereto, this Summary of Terms is not 
+intended t o create any legally binding obligation on either party, and no s uch 
+obligation shall be created unless and until the Investors have completed satisfactory 
+due diligence and the parties have entered into definitive written agreements 
+evidencing such agreement as described above.  
+ 
+ 
+The parties to this term sheet acknowledge their agreement to the terms contained herein. 
+ 
+             
+[Trans Island Airways Group]      FTX Ventures 
+          
+Date:   , 2022 
+        
+ 
+      
+Paul Francis Aranha  
+ 
+Date:   , 2022 
+ 
+                                                 
+1 Note to Company: please confirm full legal corporate name.  
+ D o c u S i g n   E n v e l o p e   I D :   E C 8 F 5 4 2 3 - F 1 2 C - 4 7 7 1 - 9 7 B 7 - 6 4 9 0 4 5 0 C B B D 1
+ A m y   W u
+ 3 / 1 6 / 2 0 2 2
+ 3 / 1 6 / 2 0 2 2
+Case 22-11068-JTD    Doc 3003-4    Filed 10/05/23    Page 2 of 2
+•F"FTX Ventures 
+G
+Ol>Orn51~ by 
+~\_~ 
+1::IJHfl· t- l UlY !UN t:. l 
+t.J!l ."I I lot:. .. t. l : .. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 37 of 45
+
+
+--- PAGE 38 ---
+
+Exhibit E 
+Case 22-11068-JTD    Doc 3003-5    Filed 10/05/23    Page 1 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 38 of 45
+
+
+--- PAGE 39 ---
+
+1
+Ross, Luke W.
+From: customerservice@silvergate.com
+Sent: Tuesday, August 16, 2022 5:00 PM
+To: fiats@alameda-research.com
+Subject: Advice of Debit - Bank Confidential
+WIRE TRANSFER OPERATIONS ADVICE OF DEBIT 
+ON 2022-08-16 , WE DEBITED YOUR ACCOUNT *******456 FOR USD 11545000.00  
+ 
+DETAILS OF PAYMENT 
+ 
+ 
+ 
+ 
+PAYMENT DATE AND TIME: 2022-08-16 20:59:32.680  
+PAID AMOUNT: USD 11545000.00  
+METHOD OF PAYMENT: FED  
+TRANSACTION NUMBER: M08GG3926G3B63C6  
+OMAD(CYCLE DATE/LTERM/OMSN): 20220816B1QGC01R07731508161659FT03  
+IMAD(CYCLE DATE/LTERM/IMSN): 20220816MMQFMPUR001626  
+REFERENCE: 3207766601  
+UETR: 40f26ee2-b464-48eb-ab65-6ec4fcc35ea2  
+ 
+BENEFICIARY: 
+Acct: ******018  
+AEROTITLE  
+1200 METROPOLITAN AVE. OKLAHOMA CITY, OK 73108  
+ 
+BENEFICIARY BANK 
+ABA: 021000021  
+BIC:  
+NAME: JPMORGAN CHASE BANK, NA  
+ 
+RECEIVER BANK 
+ABA: 021000021  
+BIC:  
+NAME: JPMORGAN CHASE BANK, NA  
+ 
+DEBITED FROM: 
+ALAMEDA RESEARCH LTD  
+TORTOLA PIER PARK, BLDG. I SECOND FLOOR WICKHAM CAY I. ROAD TOWN TORTOLA 
+BRITISH VIRGIN ISLAN  
+ 
+ORIGINATOR TO BENEFICIARY INFO: REFERENCE: JACINDA JANKO 14500967  
+Case 22-11068-JTD    Doc 3003-5    Filed 10/05/23    Page 2 of 2Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 39 of 45
+
+
+--- PAGE 40 ---
+
+Exhibit F 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 1 of 6Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 40 of 45
+
+
+--- PAGE 41 ---
+
+Invoice # 189092 Trans Island Airways  Page 1 of 1 
+Trans Island Airways  
+Phone: 242.362.4006 | 954.727.3377 
+Fax: 954.727.5599 
+Email: sales@tia.aero 
+Website: http://www.tia.aero 
+ 
+Invoice # 189092  (Aircraft Expenses) 17-July-2022 
+  
+ 
+Prepared For  Ryan Salame     Pay To:  Trans Island Airways 
+   FTX Bahamas       Banyan Air Service 
+           5360 NW 20th Terrace  
+           Fort Lauderdale FL 33309 
+           United States  
+ 
+ 
+Aircraft  Global 5000  
+ 
+ 
+Pre Purchase Inspection Expenses for Global 5000 9124 49,958.00 
+Closing Costs and Title Search 6,750.00 
+Delivery Flight Costs from Hong Kong to Ft. Lauderdale 97,700.00 
+Insurance Expense through November 2022 33,630.00 
+Pilot Training - Simulator Training 270,000.00 
+Pilot Training – Expenses and Salary for the Periods at Training (Hotels, Airfare, Meals, Transportation) 128,160.00 
+Interior Refurbishment Progress Payment – May 128,088.00 
+Interior Refurbishment Progress Payment – June 175,540.00 
+Interior Refurbishment Progress Payment – July  175,540.00 
+Interior Refurbishment Progress Payment – August  175,540.00 
+Rolls Royce Corporate Care Payment – June 51,924.00 
+Rolls Royce Corporate Care Payment – July 51,924.00 
+Rolls Royce Corporate Care Payment – August 51,924.00 
+Pre Purchase Inspection on Global 9324 and Travel for Legacy 69,612.00 
+Honeywell APU Program Transfer Cost 7,000.00 
+Smart Parts Coverage – April 20,360.00 
+Smart Parts Coverage – May 20,360.00 
+Smart Parts Coverage – June 20,360.00 
+Smart Parts Coverage – July 20,360.00 
+Smart Parts Coverage – August 20,360.00 
+Aircraft Strip and Paint  165,000.00 
+Total $1,740,090.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 2 of 6
+.. ,~ 
+TRANS ISLAND 
+----- A I 1't WAY. 
+Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 41 of 45
+
+
+
+--- PAGE 42 ---
+
+Invoice # BDE-08-2022 Trans Island Airways  Page 1 of 1 
+Trans Island Airways  
+Phone: 242.362.4006 | 954.727.3377  
+Fax: 954.727.5599 
+Email: sales@tia.aero 
+Website: http://www.tia.aero 
+ 
+Invoice # BDE-08-2022 (Aircraft Expenses) 21-Aug-2022 
+  
+ 
+Prepared For  Ryan Salame     Pay To:  Trans Island Airways 
+   FTX Bahamas       Banyan Air Service 
+           5360 NW 20
+th Terrace  
+           Fort Lauderdale FL 33309 
+           United States  
+ 
+ 
+Aircraft  Legacy Shuttle     
+ 
+ 
+ 
+Aviation Manuals MEL for Shuttle (Legacy)                        1,600.00  
+Pre Purchase Inspection Costs for Shuttle                     49,700.00  
+Scheme Designers Guidelines for Shuttle Paint                        2,075.00  
+Closing Costs and Title Search for Shuttle (Legacy)                        7,950.00  
+Wifi and USB Charger Installation for Shuttle                    450,843.10  
+Insurance Coverage for Shuttle Through November 2022                      12,800.00  
+APG iPreflight Genesis Runway Analysis                        1,740.00  
+SchedAero Subscription for Shuttle                         3,600.00  
+Paint Deposit for Shuttle                    165,000.00  
+Foreflight Subscriptions - Annual                       1,440.00  
+Aileron ADS-B Subscription - Annual                       2,450.00  
+CAA-B Airworthiness / Registration / Noise / Radio Certificate Fees                       2,969.09  
+USCBP DTOPS                             30.53  
+iPads for Shuttle                       3,636.00  
+Escrow Company and Title Search Fees for Shuttle                        7,950.00  
+Total                   713,783.72  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 3 of 6Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 42 of 45
+
+
+--- PAGE 43 ---
+
+Invoice # SPR-08-2022 Trans Island Airways  Page 1 of 1 
+Trans Island Airways  
+Phone: 242.362.4006 | 954.727.3377  
+Fax: 954.727.5599 
+Email: sales@tia.aero 
+Website: http://www.tia.aero 
+ 
+Invoice # SPR-08-2022 (Aircraft Expenses) 21-Aug-2022 
+  
+ 
+Prepared For  Ryan Salame     Pay To:  Trans Island Airways 
+   FTX Bahamas       Banyan Air Service 
+           5360 NW 20
+th Terrace  
+           Fort Lauderdale FL 33309 
+           United States  
+ 
+ 
+Aircraft  Global 5000    
+ 
+ 
+Rolls Royce Corporate Care Payment – September                     51,924.00  
+Smart Parts Coverage – September                     20,360.00  
+Autumn Elizabeth Design Deposit - Interior Designer and Design Oversight for Global Interior Work                      40,000.00  
+Pilot Training - Scott International Procedures Course                     11,950.00  
+Maintenance Training – Technician to Rolls Royce for BD700 Engine Course and Borescope (Travel and Expenses) 5637.00 
+Aviation Manuals MEL for Global                        3,200.00  
+Aircraft Parts – 2 x Spare Nose Wheel Assy for Global                      60,000.00  
+Aircraft Parts – 2 x Spare Main Wheel Assy for Global                   220,000.00  
+Aircraft Operations Manuals Subscriptions for Global                      12,392.20  
+Banyan Wifi Install Final Payment for Global                    845,321.00  
+Interior Refurbishment Progress Payment - September - Final Discrepancy Payment Only Remains After Install Complete                    175,540.00  
+Scheme Designers Guidelines for Global Paint                        2,075.00  
+Pilot Foreflight Subscription                        1,440.00  
+USCBP DTOPS                             30.53  
+Aileron ADS-B Subscription - Annual                       2,450.00  
+CAA-B Airworthiness / Registration / Noise / Radio Certificate Fees                       2,969.06  
+APG iPreflight Genesis                        1,740.00  
+iPads for Global                       3,636.00  
+SchedAero Subscription for Global                        3,600.00  
+Total                1,464,264.79  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 4 of 6Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 43 of 45
+
+
+--- PAGE 44 ---
+
+ 
+Invoice # BDE-10-2022 Trans Island Airways  Page 1 of 1 
+Trans Island Airways  
+Phone: 242.362.4006 | 954.727.3377  
+Fax: 954.727.5599 
+Email: sales@tia.aero 
+Website: http://www.tia.aero 
+ 
+Invoice # BDE-10-2022 (Aircraft Expenses) 26-Oct-2022 
+  
+ 
+Prepared For  Ryan Salame     Pay To:  Trans Island Airways 
+   FTX Bahamas       Banyan Air Service 
+           5360 NW 20
+th Terrace  
+           Fort Lauderdale FL 33309 
+           United States  
+ 
+ 
+Aircraft  Legacy 600    
+ 
+ 
+Test and Delivery Flight Costs from Riga to Fort Lauderdale  98,900 
+Pilot Training - Simulator Training 124,500 
+Pilot Training – Expenses and Salary for the Periods at Training (Hotels, Airfare, Meals, Transportation)  97,910 
+Embraer - SB 145LEG-31-0025 5,147 
+Embraer - Aircraft Operations Manuals Subscription  12,750 
+Embraer - Aircraft Maintenance Manuals Subscription  12,000 
+CAMP Systems - Maintenance Tracking Software Subscription  18,400 
+Bruce Custom Covers - Aircraft Covers Order 12,590 
+USCBP DTOPS 2023 32.62 
+TLD – Ground Support Equipment NBL 63,849.90 
+Total 446,079.52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 5 of 6Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 44 of 45
+
+
+--- PAGE 45 ---
+
+Invoice # SPR-10-2022 Trans Island Airways  Page 1 of 1 
+Trans Island Airways  
+Phone: 242.362.4006 | 954.727.3377  
+Fax: 954.727.5599 
+Email: sales@tia.aero 
+Website: http://www.tia.aero 
+ 
+Invoice # SPR-10-2022 (Aircraft Expenses) 26-Oct-2022 
+  
+ 
+Prepared For  Ryan Salame     Pay To:  Trans Island Airways 
+   FTX Bahamas       Banyan Air Service 
+           5360 NW 20
+th Terrace  
+           Fort Lauderdale FL 33309 
+           United States  
+ 
+ 
+Aircraft  Global 5000    
+ 
+ 
+Rolls Royce Corporate Care Payment – October                     51,924.00  
+Smart Parts Coverage – October                      20,360.00  
+Rolls Royce Corporate Care Payment – November                     51,924.00  
+Smart Parts Coverage – November                      20,360.00  
+Amazon – Board Game Purchases for SBF for Air plane 975.00 
+Diep Sleep – Deposit on Aircraft Bed Systems 24,030.00 
+TLD – Ground Support Equipment AC GPU-406-E-CUP  64,250.00 
+US Customs – DTOPS Sticker for Calendar Year 2023 32.62 
+Total 233,847.62  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 22-11068-JTD    Doc 3003-6    Filed 10/05/23    Page 6 of 6Case 1:22-cr-00673-LAK     Document 450-5     Filed 06/14/24     Page 45 of 45

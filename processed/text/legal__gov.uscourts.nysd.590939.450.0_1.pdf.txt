@@ -1,0 +1,603 @@
+
+
+--- PAGE 1 ---
+
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+––––––––––––––––––––––––––––––––––––  
+United States of America  
+v. 
+Samuel Bankman-Fried 
+Defendant. 
+Case No. 1:22-cr-00673-LAK 
+THIRD-PARTY MOVANTS  
+FTX DEBTORS’ AND FTX DIGITAL 
+MARKETS’ VERIFIED PETITION 
+FOR ANCILLARY PROCEEDINGS 
+PURSUANT TO 21 U.S.C. § 853(n)
+––––––––––––––––––––––––––––––––––––  
+FTX Trading Ltd. (“FTX Trading”) and its affiliated debtors and debtors-in-
+possession (collectively, the “Debtors”) and FTX Digital Markets Ltd. (“FTX Digital”) 
+respectfully submit this petition for an ancillary proceeding pursuant to 21 U.S.C. § 853(n) and 
+Rule 32.2 of the Federal Rules of Criminal Procedure, and assert their superior interest to 
+specific property subject to this Court’s Preliminary Order of Forfeiture/Money Judgment 
+[D.I. 423] dated March 28, 2024 (the “Preliminary Forfeiture Order”) in the above-captioned 
+matter.  
+I. Procedural History
+On August 14, 2023, Samuel Bankman-Fried was charged in a seven-count 
+Superseding Indictment (the “Indictment”) with wire fraud (Counts One and Three), conspiracy 
+to commit wire fraud (Counts Two and Four), conspiracy to commit securities fraud (Count 
+Five), conspiracy to commit commodities fraud (Count Six), and conspiracy to commit money 
+laundering (Count Seven).  Counts One through Five and Seven of the Indictment included 
+forfeiture allegations.  See Superseding Indictment, United States v. Bankman-Fried, No. 22-cr-
+673 (S.D.N.Y. Aug. 14, 2023), ECF No. 202. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 1 of 20
+
+
+--- PAGE 2 ---
+
+2 
+ 
+On November 2, 2023, Bankman-Fried was found guilty of Counts One through 
+Seven, and on March 29, 2024 the Court entered the Preliminary Forfeiture Order, attached 
+hereto as Exhibit A, pursuant to which the United States seeks to “forfeit all right, title and 
+interest of [Bankman-Fried] in the Specific Property1 as (i) proceeds traceable to the commission 
+of the offenses charged in Count One through Five of the Indictment, that the Defendant 
+personally obtained and/or controlled; and/or (ii) property involved in the offense charged in 
+Count Seven of the Indictment.”  Id. at 4.  
+Pursuant to the Preliminary Forfeiture Order, a Money Judgment was entered 
+against Bankman-Fried in the amount of $11,020,000,000.  The Preliminary Forfeiture Order 
+provides that all Specific Property forfeited to the United States shall be applied towards 
+satisfaction of the Money Judgment.  21 U.S.C. § 853(n) requires that prior to entering a final 
+order of forfeiture, third-party interests in the Specific Property must be adjudicated.  See, e.g., 
+United States v. Wolf, 375 F. Supp. 3d 428, 435 (S.D.N.Y. 2019).  Under 21 U.S.C. 
+§ 853(n)(6)(A), either the Debtors or FTX Digital or both have a superior interest in the Specific 
+Property as set out below,2 and it cannot be forfeited to the United States.  
+                                                           
+1  The “Specific Property” collectively comprises (i) items (b)-(j) listed in the Indictment; 
+(ii) the $605,694,411.59 realized from the interlocutory sale of shares of stock of Robinhood 
+Markets Inc., listed in item (a) in the Indictment; and (iii) items 1-261 of Exhibit A to the 
+Preliminary Forfeiture Order.  
+2  The only items of Specific Property in which FTX Digital claims an interest, pursuant to 
+the Global Settlement Agreement between the Debtors and FTX Digital, attached hereto at 
+Exhibit B, are the funds formerly held in accounts at Farmington State Bank d/b/a “Moonstone 
+Bank” and at Silvergate Bank, all in the name of “FTX Digital Markets,” comprising items (c)-
+(g) of the Indictment.  See FTX Digital Global Settlement Agreement, In re FTX Trading Ltd., 
+No. 22-11068 (Bankr. D. Del. Jan. 24, 2024), ECF No. 6365-1. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 2 of 20
+
+
+--- PAGE 3 ---
+
+3 
+ 
+II. The Property 
+The Specific Property seized by the United States and subject to the Preliminary 
+Forfeiture Order falls into the following six categories: 
+1. Property formerly held in an account in the name of Emergent Fidelity 
+Technologies (“Emergent”) and proceeds from the interlocutory sale of shares of 
+the stock of Robinhood Markets Inc. (“Robinhood”) formerly held in the name of 
+Emergent, comprising item (b) of the Indictment and item 1 of Exhibit A to the 
+Preliminary Forfeiture Order; 
+2. Funds formerly held in accounts at Farmington State Bank d/b/a “Moonstone 
+Bank” and at Silvergate Bank in the name of “FTX Digital Markets,” comprising 
+items (c)-(g) of the Indictment;  
+3. Monies, assets, and funds formerly held in Binance.com and Binance.us accounts 
+(collectively, the “Binance Accounts”) in the name of Alameda Research Ltd. 
+(“Alameda”) and Evergreen North Enterprises, Inc., comprising items (h)-(j) of 
+the Indictment and items 2-255 of Exhibit A to the Preliminary Forfeiture Order; 
+4. Aircraft including:  (i) a Bombardier Global 5000 BD-700-1A11 Aircraft Bearing 
+Registration Number N410AT and Manufacturer Serial Number 9295, and related 
+maintenance logs and engine logs, and (b) an Embraer Legacy EMB-135BJ 
+Aircraft Bearing Registration Number C6-BDE and Manufacturer Serial Number 
+14500967, comprising items 256 and 257 of Exhibit A to the Preliminary 
+Forfeiture Order; 
+5. Funds formerly held in an account at Signature Bank in the name of Bankman-
+Fried and Luk Wai Chan, comprising item 258 of Exhibit A to the Preliminary 
+Forfeiture Order; and 
+6. Political contributions made by Bankman-Fried, Ryan Salame, and Nishad Singh 
+that are traceable to the wire fraud and wire fraud conspiracy offenses charged in 
+Counts One through Four of the Indictment or property involved in the money 
+laundering offense charged in Count Seven of the Indictment, comprising items 
+259-261 of Exhibit A to the Preliminary Forfeiture Order. 
+III. The Debtors and/or FTX Digital Have a Superior Right to the Specific Property 
+Following the entry of a preliminary order of forfeiture, any person other than the 
+defendant with an interest in property which has been ordered forfeited to the United States may 
+petition the court for a hearing to adjudicate the validity of that alleged interest.  21 U.S.C. 
+§ 853(n)(2).  If the court determines that the petitioner has established, by a preponderance of the 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 3 of 20
+
+
+--- PAGE 4 ---
+
+4 
+ 
+evidence, a legal right, title, or interest in the property that “renders the order of forfeiture invalid 
+in whole or in part because the right, title, or interest was vested in the petitioner rather than the 
+defendant or was superior to any right, title, or interest of the defendant at the time of the 
+commission of the acts which gave rise to the forfeiture of the property,” then the court “shall 
+amend the order of forfeiture in accordance with its determination.”  21 U.S.C. § 853(n)(6)(A). 
+With respect to each of the six categories of Specific Property ordered forfeited to 
+the Government in this matter, the right, title or interest was vested not in the Defendant but in 
+the Debtors or FTX Digital, as discussed herein, and/or the Debtors or FTX Digital have a right, 
+title or interest that is (and was) superior to Bankman-Fried’s right, title or interest at all relevant 
+times.  As established at trial, all of the Specific Property was held in the name of a Debtor entity 
+or FTX Digital, and/or was funded entirely by Debtor assets.  See, e.g., Bankman-Fried Trial Tr. 
+at 1740:16-23; 1748:4-11; 1862:7-12; 1863:2-17; 1865:13-21; 1866:25-1867:7; 1867:13-20; 
+1868:1-22, No. 22-cr-673, United States v. Bankman-Fried (S.D.N.Y. 2023) (“Bankman Fried 
+Trial Tr.”). 
+Moreover, the Specific Property is property of the estate pursuant to 
+Section 541(a) of the Bankruptcy Code, and/or, with respect to the funds formerly held in the 
+accounts registered in the name of FTX Digital, property of FTX Digital pursuant to the Global 
+Settlement Agreement between the Debtors and FTX Digital.  Section 541(a) defines estate 
+property to include “all legal or equitable interests of the debtor in property as of the 
+commencement of the case” “wherever located and by whomever held.”3  The definition of 
+                                                           
+3  Property of the estate also includes property recoverable using the avoidance power of 
+the trustee.  11 U.S.C. § 541(3).  Property recoverable using the avoidance power is broadly 
+understood as “property that would have been part of the estate had it not been transferred before 
+the commencement of bankruptcy proceedings.”  Begier v. I.R.S., 496 U.S. 53, 58 (1990) 
+(emphasis added). 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 4 of 20
+
+
+--- PAGE 5 ---
+
+5 
+ 
+estate property in the Bankruptcy Code is “construed expansively.”  MacArthur Co. v. Johns-
+Manville Corp., 837 F.2d 89, 92 (2d Cir. 1988) (citing United States v. Whiting Pools, Inc., 462 
+U.S. 198, 205 n.9 (1983)).  Courts have held that the scope of estate property even extends to 
+property nominally held in the name of another when the Debtor funded the acquisition of the 
+property.  See, e.g., In re Dordevic, 67 F.4th 372, 387 (7th Cir. 2023) (finding that turnover was 
+appropriate where the debtor contributed all the funding for a property interest, although the 
+property interest was itself held nominally by another person).  To the extent there are any 
+questions as to the definition or disposition of estate property, the bankruptcy courts are the 
+appropriate forum to resolve such issues.  See, e.g., In re Texaco Inc., 109 B.R. 609, 610 
+(S.D.N.Y. 1989) (“It is within the Bankruptcy Court’s traditional jurisdiction to determine all 
+matters relating to property in which the debtor has any interest.”); In re Cont’l Airlines, 138 
+B.R. 442, 445 (D. Del. 1992) (“The determination of what constitutes property of the bankruptcy 
+estate is inherently an issue to be determined by the bankruptcy court.”) (citation omitted). 
+Amending the Preliminary Forfeiture Order to provide for the return the Specific 
+Property to the Debtors and/or FTX Digital will benefit all the creditors and stakeholders in the 
+Debtors’ Chapter 11 bankruptcy proceedings and FTX Digital’s liquidation in The Bahamas, 
+including victims of Bankman-Fried’s crimes.  Over the past eighteen months, the Debtors have 
+worked, and continue to work, in close coordination with the Government.  As recently noted in 
+the Report of Robert J. Cleary, the Independent Examiner appointed in the Debtors’ Chapter 11 
+cases, the Debtors “responded to more than 400 requests for documents and information from the 
+[U.S. Attorney’s Office for the Southern District of New York] . . . produced almost 4.5 million 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 5 of 20
+
+
+--- PAGE 6 ---
+
+6 
+ 
+pages of documents and the Amazon Web Services FTX Group4 database . . . [and] responded to 
+over 300 requests from other federal government and law enforcement agencies, as well as over 
+100 requests from state and local government and law enforcement agencies.”  Report of Robert 
+J. Cleary, Examiner at 62-63, In re FTX Trading, No. 22-11068 (Bank. D. Del. May 23, 2024), 
+ECF No. 15545.  In conjunction with these investigative efforts, the Debtors have “helped 
+governmental authorities seize assets beyond the reach of the Debtors that might ultimately be 
+the source of incremental recovery for FTX creditors,” and “encouraged the potential distribution 
+by the Debtors to creditors of assets forfeited in criminal proceedings against Mr. Bankman-
+Fried and others.”  Disclosure Statement for Debtors’ Joint Chapter 11 Plan of Reorganization of 
+FTX Trading at 61, In re FTX Trading, No. 22-11068 (Bank. D. Del. May 22, 2024), ECF No. 
+15521 (“Disclosure Statement”), attached hereto as Exhibit C.  Many of those assets were 
+secured directly by the Debtors, while others, including those identified in the Preliminary 
+Forfeiture Order, were secured by the Government.   
+As with the assets secured directly by the Debtors, the Debtors have a superior 
+interest to Bankman-Fried with respect to the Specific Property identified in the Preliminary 
+Forfeiture Order.  With respect to the accounts identified in items (c)-(g) of the Indictment, the 
+Debtors and/or FTX Digital have a superior interest to Bankman-Fried.  Pursuant to 21 U.S.C. 
+§ 853(n)(6), the Preliminary Forfeiture Order should be amended to exclude each of these 
+categories of Specific Property and to provide for their return to the Debtors and/or FTX Digital, 
+to allow them to be distributed for the benefit of the Debtors’ creditors and Bankman-Fried’s 
+victims pursuant to the Debtors’ Plan of Reorganization. 
+                                                           
+4  The term “FTX Group” means, collectively, the Debtors and all affiliates of the Debtors 
+that have not filed voluntary Chapter 11 petitions in the United States under the Bankruptcy 
+Code. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 6 of 20
+
+
+--- PAGE 7 ---
+
+7 
+ 
+1. Property formerly held in an account in the name of Emergent and proceeds 
+from the interlocutory sale of shares of the stock of Robinhood formerly held 
+in the name of Emergent, comprising item (b) of the Indictment and item 1 of 
+Exhibit A to the Preliminary Forfeiture Order; 
+The shares of Robinhood stock and other funds formerly held in the name of 
+Emergent (and the proceeds thereof) represent assets of Alameda and its affiliated Debtors, and 
+the Debtors’ interests in those assets were at all relevant times superior to any interests of 
+Bankman-Fried. 
+As established at trial, although the shares of Robinhood stock were held in the 
+name of a different entity—Emergent—the funds used to purchase the shares came entirely from 
+Debtor Alameda.  Bankman-Fried Trial Tr. at 1741:9-13 (“[T]here was a transfer out of Alameda 
+Research of $491 million to Sam Bankman-Fried and $54.6 million to Gary Wang.  This amount 
+was exactly equal to the amount that was used to purchase Robinhood shares.”).  The additional 
+funds held in accounts in the name of Emergent can likewise be traced back to transfers from 
+Alameda, which made numerous transfers totaling tens of millions to Emergent throughout 2022. 
+The Debtors coordinated with the Government to facilitate the interlocutory sale 
+of the Robinhood shares with the aim of preserving the shares’ value for the benefit of the 
+Debtors’ creditors and Bankman-Fried’s victims.  The Interlocutory Sale Order itself 
+acknowledges the Debtors’ interest by requiring the United States Marshals Service to provide 
+reasonable notice to the Debtors prior to conducting an interlocutory sale of the Robinhood 
+shares, and recognized only three other parties as having expressed or asserted an interest in the 
+shares:  Bankman-Fried, BlockFi Inc. (“BlockFi”) and Emergent.  See Interlocutory Sale Order 
+at ¶ 2, United States v. Bankman-Fried, No. 22-cr-673 (S.D.N.Y. Sept. 1, 2023), ECF No. 242. 
+Any interest Bankman-Fried had in the Robinhood shares has been forfeited.  
+With respect to the other three parties, during a March 14, 2023 hearing in Emergent’s 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 7 of 20
+
+
+--- PAGE 8 ---
+
+8 
+ 
+Chapter 11 case, Emergent, BlockFi, and the Debtors discussed their respective claims to the 
+Robinhood shares in the context of the forfeiture proceeding.  Judge Dorsey instructed the 
+parties:  “these parties clearly have some interest superior to the Government[’]s, so go back 
+from whence you came, and figure out who amongst you is the one who owns them.”  Emergent 
+Hearing Tr. at 5:19-22, In re Emergent Fidelity Technologies Ltd., No. 23-10149 (Bankr. D. Del. 
+Mar. 14, 2023), ECF No. 82.  The Debtors have done exactly that. 
+The Debtors have entered into a settlement with BlockFi and its affiliated debtors, 
+attached hereto as Exhibit D, which has been approved by the Debtors’ and BlockFi’s respective 
+bankruptcy courts and provides that BlockFi has waived any and all claims, arguments, defenses, 
+and rights to the Robinhood shares and has agreed to cooperate with the Debtors’ efforts to 
+secure the return of these assets to the Debtors.5  The Debtors also have engaged in discussions 
+with Emergent regarding a potential resolution pursuant to which Emergent would acknowledge 
+the Debtors’ superior interest in the Robinhood shares and other funds held in the Emergent 
+account and waive any potentially competing claims without the need for further litigation.6 
+                                                           
+5  To resolve this and other disputes between the Debtors and BlockFi, and to ensure the 
+return of this property to the Debtors, the Debtors agreed to give BlockFi secured claims against 
+Alameda totaling $250,000,000 as well as a general unsecured claim against Alameda totaling 
+$439,319,866, and a customer claim against FTX Trading totaling $185,196,611.  See BlockFi 
+Global Settlement Agreement at 3, In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del. 
+Mar. 25, 2024), ECF No. 10331-1. 
+6  For avoidance of doubt, the Debtors dispute the assertions of interest in this property set 
+forth in the petitions filed by Emergent and Emergent’s Joint Liquidators, United States v. 
+Bankman-Fried, No. 22-cr-673 (S.D.N.Y. June 13, 2024), ECF Nos. 446-47, and will respond to 
+those assertions at the appropriate time, should those petitions not be dismissed. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 8 of 20
+
+
+--- PAGE 9 ---
+
+9 
+ 
+2. Funds formerly held in accounts at Farmington State Bank d/b/a 
+“Moonstone Bank” and at Silvergate Bank in the name of “FTX Digital 
+Markets,” comprising items (c)-(g) of the Indictment. 
+The funds formerly held in the accounts registered in the name of FTX Digital are 
+not, and have never been Bankman-Fried’s assets, and the interests of the Debtors and/or FTX 
+Digital in those funds were at all relevant times superior to any interests of Bankman-Fried. 
+FTX Digital was founded in the Bahamas in November 2020, after which time 
+FTX Trading and affiliated entities transferred approximately $143 million into FTX Digital’s 
+bank accounts at Farmington State Bank d/b/a “Moonstone Bank” and Silvergate Bank.  After 
+extensive negotiations, the Debtors and FTX Digital have reached an agreement regarding the 
+disposition of the funds held in the FTX Digital accounts.  See FTX Digital Global Settlement 
+Agreement at 2, 15, In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del. Jan. 24, 2024), ECF 
+No. 6365-1. 
+FTX Digital is subject to a liquidation proceeding in the Bahamas, and the Global 
+Settlement Agreement also represents the successful outcome of months-long negotiations 
+between the Debtors and the Joint Official Liquidators of FTX Digital over commitments to 
+coordinate the insolvency proceedings and maximize recoveries for creditors.  Following the 
+return of these funds, and upon the confirmation of the Debtors’ Plan of Reorganization, the 
+funds held in these accounts will be distributed to creditors by FTX Digital in accordance with 
+the stipulated property allocation in the Global Settlement Agreement between the Debtors and 
+FTX Digital.  See FTX Digital Global Settlement Agreement at 13, 15; Id. at Exs. A, C. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 9 of 20
+
+
+--- PAGE 10 ---
+
+10 
+ 
+3. Monies, assets, and funds formerly held in the Binance Accounts in the name 
+of Alameda and Evergreen North Enterprises, Inc., comprising items (h)-(j) 
+of the Indictment and items 2-255 of Exhibit A to the Preliminary Forfeiture 
+Order. 
+The monies, assets, and funds formerly held in the Binance Accounts represent 
+assets of Alameda and its affiliated Debtors, and the Debtors’ interests in the monies, assets and 
+funds in the Binance Accounts were at all relevant times superior to any interests of Bankman-
+Fried. 
+Each of the Binance Accounts was funded, controlled by, and used solely for the 
+benefit of Alameda and its affiliated Debtors.  See, e.g., Disclosure Statement app. C at 11; 
+Report of Robert J. Cleary, Examiner at 172-73.  With respect to the two Binance.us accounts 
+(Acct. Nos. 35000066 and 35155204), those accounts were explicitly registered in the name of 
+Debtor Alameda and were used by Alameda for trading and investment activities.  With respect 
+to the Binance.com account (Acct. No. 94086678), although that account was nominally 
+registered to Evergreen North Enterprises Inc., a shell company nominally owned by Luk Wai 
+Chan, a senior FTX Group employee, that account was similarly used by Alameda and its 
+affiliated Debtors for trading and investment activities.  See, e.g., Bankman-Fried Trial Tr. 
+at 1764:4-1765:6.   
+The Debtors have worked to recover Debtor assets held in accounts at several 
+other third-party cryptocurrency exchanges in addition to the Binance Accounts.  See Disclosure 
+Statement at 63; Report of Robert J. Cleary, Examiner at 168-176.  Many of these accounts 
+holding Debtor assets were similarly registered in the names of non-Debtor entities or 
+individuals associated with the Debtors.  See, e.g., In re FTX Trading, No. 22-11068 (Bank. D. 
+Del. Apr. 10, 2023), ECF No. 1245 (Order granting Debtors’ motion for turnover of Debtor 
+assets held in certain OKX and OkCoin accounts, including accounts registered in the names of 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 10 of 20
+
+
+--- PAGE 11 ---
+
+11 
+ 
+Debtor entities as well as in the names of non-Debtor entities or individuals associated with the 
+Debtors); Disclosure Statement at 56. 
+4. Aircraft including:  (i) a Bombardier Global 5000 BD-700-1A11 Aircraft 
+Bearing Registration Number N410AT and Manufacturer Serial Number 
+9295, and related maintenance logs and engine logs, and (ii) an Embraer 
+Legacy EMB-135BJ Aircraft Bearing Registration Number C6-BDE and 
+Manufacturer Serial Number 14500967, comprising items 256 and 257 of 
+Exhibit A to the Preliminary Forfeiture Order. 
+The Bombardier Global 5000 (the “Global”) and Embraer Legacy (the “Legacy,” 
+and, together with the Global, the “Planes”) represent assets of Alameda and its affiliated 
+Debtors, and the Debtors’ interests in the Planes were at all relevant times superior to any 
+interests of Bankman-Fried. 
+Beginning in early 2022, Bankman-Fried and other senior FTX Group employees 
+expressed a desire to acquire private planes, but noted concerns about the potential reaction if 
+their ownership of those planes were publicly known.7  To obscure the acquisition of the Planes, 
+on February 1, 2022, Trans Island Airways—a charter company that had prior dealings with the 
+FTX Group—entered into a letter of intent to purchase the Global for $15.9 million at the 
+direction of senior FTX Group employees.  On February 2, 2022, Debtor Alameda wired a 
+$500,000 deposit directly to the Global’s escrow agent, and on March 3, 2022, Ryan Salame 
+caused another $15.4 million of Alameda funds to be transferred to the escrow agent to complete 
+the purchase of the Global.  The Debtors thus paid the entire $15.9 million purchase price of the 
+Global.  In addition, on August 16, 2022, Debtor Alameda transferred $11,545,000 to the 
+                                                           
+7  Additional detail and supporting documentation regarding the Debtors’ ownership of the 
+Planes is more fully set forth in the Debtors’ Objection to the Motion of Island Air Capital and 
+Paul F. Aranha for Relief From the Automatic Stay, to the Extent Applicable, and Related Relief, 
+In re FTX Trading Ltd., No. 22-11068 (Bankr. D. Del. Oct. 5, 2023), ECF No. 3002, attached 
+hereto as Exhibit E, as well as the Debtors’ supporting declaration thereto. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 11 of 20
+
+
+--- PAGE 12 ---
+
+12 
+ 
+Legacy’s escrow agent, representing the entire purchase price of the Legacy.  The Debtors thus 
+paid a total of $27,445,000 to purchase the Planes. 
+In addition to selecting the Planes and paying their entire purchase price, the 
+Debtors also incurred extensive renovation costs to satisfy the whims of Bankman-Fried and 
+other senior FTX Group executives.  For example, more than $4 million in Debtor funds were 
+transferred to Paul Aranha, owner of Trans Island Airways, for purported upgrades to the Planes 
+and other related invoices, including nearly $1.3 million for Wi-Fi upgrades, approximately 
+$900,000 for interior renovations and “Aircraft Bed Systems,” and $975 for “Board Game 
+Purchases for SBF for Airplane.” 
+Notwithstanding that the Government had specifically identified the Legacy as 
+property potentially subject to forfeiture, Aranha had continued to hold the Legacy in The 
+Bahamas and had refused to return it to the United States.  The Debtors and the Government 
+spent many months negotiating with Aranha to secure the Legacy’s return to the United States, 
+and as part of a resolution designed to avoid further expense and to maximize value for the 
+Debtors’ creditors and Bankman-Fried’s victims, the Debtors and the Government agreed to a 
+Stipulation and Order whereby Aranha would return the Legacy to the United States and consent 
+to an interlocutory sale of the Planes in exchange for being reimbursed for certain out-of-pocket 
+expenses associated with maintaining the Planes post-petition and returning the Legacy to the 
+United States.  See Stipulation and Order, No. 22-cr-673, United States v. Bankman-Fried 
+(S.D.N.Y. 2023), ECF. 417 (Ex. F).  As the Government acknowledged in that Stipulation and 
+Order, the only parties other than the Debtors that have expressed a potential interest in the 
+Planes are Bankman-Fried and Salame (both now convicted) and Aranha (or his affiliated 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 12 of 20
+
+
+--- PAGE 13 ---
+
+13 
+ 
+entities).  None of those other asserted interests is valid, and the Debtors have a superior interest 
+in the Planes (or the proceeds of the interlocutory sales thereof).8 
+5. Funds formerly held in an account at Signature Bank in the name of 
+Bankman-Fried and Luk Wai Chan, comprising item 258 of Exhibit A to the 
+Preliminary Forfeiture Order. 
+The funds formerly held in the Signature Bank account represent assets of 
+Alameda and its affiliated Debtors, and the Debtors’ interests in those funds were at all relevant 
+times superior to any interests of Bankman-Fried. 
+Based on information available to the Debtors, although this Signature Bank 
+account was nominally registered to Bankman-Fried and Luk Wai Chan, this account was funded 
+entirely by Debtor Alameda.  Specifically, the Debtors’ records reflect transfers from Alameda to 
+this Signature Bank account of $5 million on May 2, 2022, $5 million on May 17, 2022 and $10 
+million on June 29, 2022, and evidence introduced at trial reflects an additional four transfers 
+totaling $16 million from Alameda to the Signature Bank account, which Bankman-Fried then 
+used to make political contributions.  See, e.g., Bankman-Fried Trial Tr. at 1863:2-6 (“So what’s 
+shown here is four wires sent on August 15, 2022 and October 3, 2022, totaling $16 million, 
+from Alameda Research’s Silvergate account to Samuel Bankman-Fried’s Signature Bank 
+account, and then the ultimate political contribution sent on August 16th and October 3rd of 
+2022.”).  Additionally, Debtor records indicate that numerous FTX Group employees received 
+account statements for this account, belying any notion that this was a personal account. 
+                                                           
+8  For avoidance of doubt, the Debtors are not disputing that the Stipulation and Order 
+provides for Aranha to be reimbursed for certain expenses from the proceeds of the interlocutory 
+sales of the Planes. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 13 of 20
+
+
+--- PAGE 14 ---
+
+14 
+ 
+6. Political contributions made by Bankman-Fried, Ryan Salame, and Nishad 
+Singh that are traceable to the wire fraud and wire fraud conspiracy offenses 
+charged in Counts One through Four of the Indictment or property involved 
+in the money laundering offense charged in Count Seven of the Indictment, 
+comprising items 259-261 of Exhibit A to the Preliminary Forfeiture Order. 
+The funds used for the referenced political contributions represent assets of 
+Alameda and its affiliated Debtors, and the Debtors’ interests in those funds were at all relevant 
+times superior to any interests of Bankman-Fried. 
+The Debtors have closely coordinated with the Government to seek the return of 
+more than 700 political contributions totaling more than $100 million made by Bankman-Fried, 
+Salame, and Singh, including by discussing whether the Debtors or the Government were better 
+positioned to pursue the recovery of particular contributions.  See, e.g., Disclosure Statement 
+at 62; Government’s Sentencing Memorandum at 109 n.15, United States v. Bankman-Fried, 
+No. 22-cr-673 (S.D.N.Y. Aug. 28, 2023), ECF No. 410 (“The Government is also coordinating 
+with the FTX Debtors, so that the estate retrieves some of the political contributions.”).  
+Although these contributions were nominally made by Bankman-Fried, Salame or Singh, they 
+were all funded using Debtor assets, either directly or indirectly.  See, e.g., Bankman-Fried Trial 
+Tr. at 1862:7-12 (“So on April 4, 2022, there was a $6 million wire sent from Alameda 
+Research’s Prime Trust account; on the same day, $6 million was then wired from Samuel 
+Bankman-Fried’s Prime Trust account to House Majority PAC.”). 
+Some of these transfers were funded by purported “loans” from the Debtors, 
+which Bankman-Fried, Salame and Singh never intended to repay.  See, e.g.,  Bankman-Fried 
+Trial Tr. at 889:21-891:11; 1420:17-1422:5 (“There were political donations made in my name, 
+using my bank account, so these did literally go through my bank account, the funds deposited 
+straight from Alameda.”); 2422:7-9.  Salame and Singh also have pleaded guilty to violations of 
+the Federal Election Campaign Act for their actions in using Debtor assets to fund political 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 14 of 20
+
+
+--- PAGE 15 ---
+
+15 
+ 
+contributions in their own name.  Plea Tr. at 33, United States v. Singh, No. 22-cr-673 (S.D.N.Y. 
+Feb. 28, 2023), ECF No. 102; Plea Tr. at 21-22, United States v. Salame, No. 22-cr-673 
+(S.D.N.Y. Sept. 7, 2023),ECF No. 283. 
+IV. Distribution of Funds to Creditors and Victims 
+For months, the Debtors have engaged extensively with governmental authorities 
+to “coordinate asset recovery and asset forfeiture efforts in order to maximize recoveries for 
+creditors and victims.”  Disclosure Statement at 61-62.  As the Debtors’ CEO John Ray 
+described to this Court, “[t]he value we hope to return to creditors would not exist without the 
+tens of thousands of hours that dedicated professionals have spent digging through the rubble of 
+Mr. Bankman-Fried’s sprawling criminal enterprise to unearth every possible dollar, token or 
+other asset that was spent on luxury homes, private jets, overpriced speculative investments, and 
+otherwise lost to the four winds,” and the Debtors have been “working on a coordinated 
+distribution scheme that will funnel over $1 billion in value seized by prosecutors to victims of 
+Mr. Bankman-Fried’s crimes.”  Victim Impact Statement of Intervenors FTX Trading Ltd., [et 
+al] at 1, 5, United States v. Bankman-Fried, No. 22-cr-673 (S.D.N.Y. Aug. 28, 2023), ECF No. 
+415 (“Debtors’ Victim Statement”). 
+As Mr. Ray further articulated in the Debtors’ Victim Statement, the total dollar 
+amount of claims filed in the Debtors’ Chapter 11 proceedings is $23.6 quintillion dollars, and 
+“the task of addressing filed claims and reducing them to their proper and ‘allowed’ amount is 
+monumental.”  Debtors’ Victim Statement at 5.  The Delaware bankruptcy court overseeing the 
+Debtors’ Chapter 11 proceedings already has resolved many such issues, and continues to 
+address numerous additional disputes and competing claims involving the Debtors’ creditors and 
+other stakeholders, including with respect to the definition and disposition of estate property and 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 15 of 20
+
+
+--- PAGE 16 ---
+
+16 
+ 
+asserted interests as to certain of the Specific Property.  The bankruptcy court is the appropriate 
+forum to resolve such issues, see, e.g., In re Texaco Inc., 109 B.R. 609, 610 (S.D.N.Y. 1989); In 
+re Cont’l Airlines, 138 B.R. 442, 445 (D. Del. 1992), and the Debtors continue to work to resolve 
+these issues to maximize and expedite recoveries for the creditors and other stakeholders in the 
+Debtors’ Chapter 11 cases—a group that is largely coextensive with the victims of Bankman-
+Fried’s crimes. 
+As part of their efforts to facilitate an efficient, fair and effective distribution of 
+assets, the Debtors have developed and implemented a Know-Your-Customer process to be 
+employed in their Chapter 11 cases to ensure that Debtor assets are not distributed to any persons 
+or entities “with whom it is illegal for a U.S. person to do business under the Office of Foreign 
+Assets Control sanctions regulations and/or the list of Specially Designated Nationals and 
+Blocked Persons.”  Disclosure Statement at 118.  The Debtors’ proposed Chapter 11 plan also 
+includes an anti-double dip provision which will prevent claimants from pursuing duplicative 
+claims for the same losses in different venues, thus promoting fair distribution.  Id. at 117.  
+Distributing the value of the Specific Property to the more than 1 million victims of Bankman-
+Fried’s criminal scheme is no small feat, and doing so through the Debtors’ existing claims 
+administration architecture and processes will maximize the funds available for distribution by 
+minimizing the incremental administrative and professional costs.  The Global Settlement 
+Agreement between the Debtors and FTX Digital ensures that distributions to creditors who are 
+eligible to elect to have their claims adjudicated in FTX Digital’s liquidation process in the 
+Bahamas will be subject to the same processes, procedures, and safeguards as the Debtors’ 
+proposed Chapter 11 plan. 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 16 of 20
+
+
+--- PAGE 17 ---
+
+17 
+ 
+The Debtors also have continued to work towards achieving the best outcome for 
+their creditors and Bankman-Fried’s victims by negotiating with other third parties that have 
+asserted potential interests with respect to certain of the seized assets.  As noted above, the 
+Debtors already have reached a settlement agreement with BlockFi in connection with the 
+proceeds from the sale of the Robinhood shares and other assets held in the Emergent account.  
+Disclosure Statement at 69-70.  The Debtors have also successfully negotiated or are in the 
+process of negotiating resolutions with certain other governmental creditors, including the United 
+States Commodity Futures Trading Commission (the “CFTC”) and the Internal Revenue Service, 
+to ensure that the recoveries of the Debtors’ creditors and Bankman-Fried’s victims are not 
+diminished.  Id. at 9-10.  The Debtors’ contemplated resolution with the CFTC will enable the 
+creation of a Supplemental Remission Fund pursuant to which additional funds will be 
+distributed to victims and creditors, including “FTX.com customers, FTX.US customers, 
+cryptocurrency lenders to Alameda, FTX DM for the benefit of Holders of Eligible DM 
+Customer Entitlement Claims and other creditors agreed with the CFTC.”  Id. at 86-87. 
+Upon securing the return of the Specific Property in accordance with 21 U.S.C. 
+§ 853(n)(6)(A), the Debtors and FTX Digital will continue to work in close coordination with the 
+Government and other authorities, as well as in consultation with other stakeholders, to distribute 
+funds through a process that complies with applicable federal laws and regulations, furthers the 
+aims of victim recovery, maximizes the funds available for distribution, and minimizes 
+administrative and professional costs.  
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 17 of 20
+
+
+--- PAGE 18 ---
+
+For the reasons stated above, the Debtors respectfully request that the Specific 
+Property be returned and that this Petition be granted in its entirety, together with such other and 
+further relief as this Court deems equitable and proper. 
+Dated: New York, New York 
+June 14, 2024 
+18 
+Respectfully submitted, 
+St~heeler 
+Brian D. Glueckstein 
+Jacob M. Croke 
+SULLIVAN & CROMWELL LLP 
+125 Broad Street 
+New York, New York 10004 
+(212) 558-4000 
+Counsel for Third-Party Petitioner 
+FTX Trading Ltd. and its affiliated debtors and 
+debtors-in-possession 
+Isl Michael Kendall 
+Michael Kendall 
+WHITE & CASE LLP 
+75 State Street 
+Boston, MA 02109 
+(617) 979 9300 
+Counsel for Third-Party Petitioner 
+FTX Digital 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 18 of 20
+
+
+--- PAGE 19 ---
+
+1 
+ 
+DECLARATION PURSUANT TO 21 U.S.C. § 853(n)(3) 
+I, John J. Ray III, Chief Executive Officer of FTX Trading Ltd. and its affiliated 
+debtors and debtors-in-possession, am authorized to make this declaration on behalf of the 
+Debtors. 
+Pursuant to 21 U.S.C. § 853(n)(3), I declare under penalty of perjury that, to the 
+best of my knowledge, information and belief, the foregoing is true and correct.  
+Executed on June 14, 2024 
+_________________________________ 
+John J. Ray III 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 19 of 20
+
+
+
+--- PAGE 20 ---
+
+1 
+ 
+DECLARATION PURSUANT TO 21 U.S.C. § 853(n)(3) 
+I, Peter Greaves, Joint Official Liquidator of FTX Digital Ltd., am authorized to 
+make this declaration on behalf of FTX Digital. 
+Pursuant to 21 U.S.C. § 853(n)(3), I declare under penalty of perjury under the 
+laws of the United States of America that, to the best of my knowledge, information and belief, 
+the foregoing is true and correct.  
+Executed on June 14, 2024 
+_________________________________ 
+Peter Greaves 
+Case 1:22-cr-00673-LAK     Document 450     Filed 06/14/24     Page 20 of 20

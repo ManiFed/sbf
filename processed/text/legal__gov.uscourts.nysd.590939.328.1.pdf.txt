@@ -1,0 +1,2644 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+-----------------------------------------------------------------  x  
+UNITED STATES OF AMERICA 
+ 
+  v. 
+ 
+SAMUEL BANKMAN-FRIED, 
+   
+ Defendant. 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+22 Cr. 673 (LAK) 
+ 
+-----------------------------------------------------------------  x  
+EXPERT WITNESS DISCLOSURE 
+JOSEPH M. PIMBLEY, PH.D. 
+I.  Background & Qualifications 
+1. I am currently affiliated with PF2 Securities, a litigation consulting firm.  My expertise 
+includes the review and analysis of financial risk management; review and creation of 
+financial and mathematical models for purposes of risk assessment or valuation of 
+derivatives, structured products, and other investments; credit risk and credit rating 
+models; economic capital calculations; portfolio risk/return calculations; other cash flow 
+or business optimization applications; consulting and expert testimony in connection with 
+legal disputes involving structured products, credit ratings, derivatives, bond insurance, 
+and securities trading; providing advisory opinions and compliance review of investment 
+policies and their execution for the portfolios of endowments and other entities including 
+corporate Treasuries, colleges/universities, insurance companies, and non-profits.   
+2. I have been active in the financial profession for more than 30 years in areas including 
+derivatives and securities trading, portfolio and risk management, trading systems, credit 
+ratings, structured finance, banking, investment advisory, consulting, financial litigation, 
+and teaching.   
+3. I have published more than seventy articles in financial and economic journals and 
+publications, provided more than seventy presentations for financial professionals on 
+various topics in the capital markets, co-authored three books and contributed chapters to 
+two others. 
+4. In addition to my published work, I have extensive experience managing risk and 
+information technology systems, including financial databases and associated code layer, 
+analyzing cashflows within transactions and across firms, and valuing illiquid securities 
+and derivatives and have done consulting work as well as provided expert reports in 
+various legal disputes and other litigation related to such activities and instruments. 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 1 of 54
+
+
+--- PAGE 2 ---
+
+ 
+2
+5. I hold a Ph.D. in Theoretical Physics (1985), an M.S. in Physics (1981), and a B.S. in 
+Physics (1980) (summa cum laude and minor in Mathematics) from Rensselaer 
+Polytechnic Institute.  I am a past member of the Editorial Board of the GARP (Global 
+Association of Risk Professionals) Risk Professional, and have served on the Advisory 
+Board of the Polytechnic University Center for Finance & Technology.  I am also a 
+member of Sigma Pi Sigma, the National Physics Honor Society, and was elected a 
+Senior Member of the Institute of Electrical and Electronic Engineers (IEEE).  I am a past 
+member of Sigma Xi (scientific research society), the IEEE Election Devices Society, the 
+Society for Industrial and Applied Mathematics (SIAM), and the American Association 
+for the Advancement of Science (AAAS). 
+6. I am a past Member of the Executive Advisory Board for the Master’s Degree 
+“Quantitative Finance and Risk Analytics” program of the Lally School of Management 
+at the Rensselaer Polytechnic Institute.  I am also a past Member of the Strategic 
+Advisory Board of ARMA International, LLC, an infrastructure engineering firm.  I am 
+also a past member of the Board of Directors of SOLVE, a financial technology firm. 
+7. I am the Editor of the Journal of Derivatives, a widely known and respected publication 
+for financial professionals and academics. 
+8. My current curriculum vitae is attached as Appendix A.  Appendix B lists all publications 
+I have authored in the prior ten years.  Appendix C lists the cases in which I have testified 
+as an expert by deposition over the prior four years.  I have not testified as an expert at 
+trial over the prior four years. 
+9. I have no financial interest in the outcome of this case.  I am being compensated for my 
+time and services on an hourly basis at the billing rate of $720 per hour with 
+reimbursement for reasonable expenses.  My compensation in this case is not in any way 
+contingent or based on the opinions presented herein or on the outcome of these legal 
+proceedings. 
+II.  Scope and Summary of Opinions 
+ If called as a witness, I will testify to the following: 
+10. I understand that the FTX Debtors provided a snapshot of FTX’s Amazon Web Services 
+database as of November 2022 (the AWS database) as part of discovery in this case.  I 
+used database queries to extract data from the AWS database related to the line of credit 
+(LOC) FTX provided to Alameda and Alameda-affiliated entities for the time period 
+October 2021 to November 2022.  Specifically, I extracted data showing the amount of 
+the LOC that was used by Alameda and its affiliated entities over that time period.  I 
+provide this database extract as a graph in Appendix D.  I provide also in Appendix E the 
+database queries I employed to extract this in-use LOC data from the AWS database.  
+Appendix F shows the database data responsive to the queries in Appendix E. 
+11. The extracted data from the AWS database shows that Alameda’s usage of its line of 
+credit fluctuated between approximately $1 billion and $3 billion between October 7, 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 2 of 54
+
+
+--- PAGE 3 ---
+
+ 
+3
+2021 and September 18, 2022, and decreased for a substantial portion of the month of 
+June 2022. 
+12. I have extracted from the “balances” table of the AWS database the following: 
+a. The sum of the fair values expressed in US dollars of balances in all accounts 
+excluding the accounts of Alameda and FTX and limited to the “coins” USD 
+(US dollar), BTC (Bitcoin), ETH (Ethereum), and USDT (Tether).  This result 
+is $5,842,162,373. 
+b. The portion of the sum in (a) preceding in which the accounts have 
+spot_margin_enabled equals TRUE or spot_margin_lending_enabled equals 
+TRUE or show futures activity (as denoted by non-zero net_size field in the 
+“positions” table).  This result is $4,539,524,208.  I append these results of (a) 
+and (b) in pie chart format in Appendix G.  I provide also in Appendix H the 
+database queries I employed to extract the (a) and (b) results.  Appendix I 
+shows the accounts of Alameda and FTX that were excluded in the queries in 
+Appendix H. 
+c. The sum of the fair values expressed in US dollars of balances in all accounts 
+excluding the accounts of Alameda and FTX aggregated over all “coins.”  
+This result is $8,943,675,162. 
+d. The portion of the sum in (c) preceding in which the accounts have 
+spot_margin_enabled equals TRUE or spot_margin_lending_enabled equals 
+TRUE or show futures activity (as denoted by non-zero net_size field in the 
+“positions” table).  This result is $6,910,615,317.  I append these results of (c) 
+and (d) in pie chart format in Appendix J.  I provide also in Appendix K the 
+database queries I employed to extract the (c) and (d) results. 
+13. This extracted balances data as of November 2022 shows that the majority (65%) of the 
+non-Alameda / non-FTX balances are concentrated in just four coins (USD, BTC, ETH, 
+and USDT) relative to the hundreds of coins defined within the AWS database.  Whether 
+for just the four coins or for all coins, more than 75% of the non-Alameda / non-FTX 
+balances arise from accounts that have spot_margin_enabled equals TRUE or 
+spot_margin_lending_enabled equals TRUE or show futures activity. 
+III. Basis of Opinions 
+14. My opinions offered herein are based on my own academic and professional education, 
+training, skill and knowledge regarding common and prevailing methods of computer 
+coding and data retrieval of financial industry firms.  I base my opinions also on my 
+review of the AWS database and the portions of the codebase produced in discovery.   
+        Respectfully submitted, 
+ 
+        ___________________ 
+        Joseph M. Pimbley, Ph.D. 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 3 of 54
+
+
+--- PAGE 4 ---
+
+ 
+
+##!*%0<>70919<0:3 #47-60A
+9<0:3 #47-60A
+ 07-0;
+,8>,;A	
+–#;0<08=
+#;48.4:,6	 ,;.3	
+	#;0<08=
+/4=9;&0:=07-0;	
+#;0<08=
+
+/>.,=498
+): -:7AD7F;53>):KE;5E*377*1&*641=8*(-3.(378.898*	
+&,  ):KE;5E*377*1&*641=8*(-3.(378.898*	
+,  ):KE;5E*377*1&*641=8*(-3.(378.898*	
+7922&(921&9)*3@6?;@AD;@&3F:7?3F;5E
+9,;/#9<4=498<
+6;FAD;3>A3D6A8.7064+*77.43&1	
+
+69-,6<<9.4,=49891%4<5#;910<<498,6<
+
+A3D6A8;D75FADE	
+
+&96?0/?4<9;<8.
+
+A3D6A8;D75FADE	
+
+9>/,460;8.
+
+#,<=#;910<<498,6@:0;408.0
+#3@G3DK–#G@7
+0;4?,=4?0<&=;,=024<=A8&683*67	3BD;H3F77CG;FK8;D?+7EBA@E;4>78AD
+5D73F;A@A83EE7F
+435=76E75GD;FK,FD3@E35F;A@E3@6F:73EEA5;3F76EFDG5FGD;@9	
+CG3@F;F3F;H7?A67>;@9	3@65D76;FD3F;@9397@5KD7>3F;A@E3@6@79AF;3F;A@EEE7FFKB7E
+8ADE75GD;F;L3F;A@;@5>G6769G3D3@F7763@6>;87
+5A@F;@97@FEFDG5FGD76E7FF>7?7@FE3@6
+5A??;EE;A@3@6>;F;93F;A@D757;H34>7E
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 4 of 54
+
+
+--- PAGE 5 ---
+
+ 
+
+#G@7–&3D5:
+ ,8,24824;0.=9;I;F:;@F:7;@3@5;3>@9;@77D;@9BD35F;57A89++-*157–
+3IAD>6I;678;@3@5;3>5A@EG>F;@98;D?5F;H;F;7E;@5>G6766;D75F5A@F35FI;F:5>;7@FE
+:76978G@6E	BD;H3F77CG;FK8;D?E	8;@3@5;3>;@EF;FGF;A@E3@6D7H;7IA85>;7@F35F;H;F;7E
+FA8AD?G>3F73@67J75GF747@78;5;3>36H;EADKBDA<75FE,B75;3>8A5GEI3EA@67D;H3F;H7
+FD3@E35F;A@E3@6EFDG5FGD76BDA6G5FE+&,	(E	&,	*8(*8*6&%736;@9DA>7;@
+F:7%7:?3@DAF:7DE43@=DGBF5K5AGDFJ3?;@7D;@H7EF;93F;A@F:3FK;7>676;?BADF3@F
+8;@6;@9E8AD8G@6;@9	>7H7D397	5A>>3F7D3>	>;CG;6;FK	3@6H3>G3F;A@5:3>>7@97EF:3F>76FA
+F:743@=DGBF5K
+&3D5:–&3K
+@0.>=4?0)4.0#;0<4/08=,8/0,/918<=4=>=498,6%4<5A8&5.8&1
+41).3,7	3:K4D;68;@3@5;3>BDA6G5FE3@6;@EGD3@575A?B3@KI;F:D;E=BAE;F;A@E
+3@63EE7FEG@67D?3@397?7@F7J5776;@94;>>;A@+7BADF76FAF:7(3@6FAF:7
+A3D6A8;D75FADE+7EBA@E;4>78AD8;D?
+I;67	7@F7DBD;E7D;E=?3@397?7@F+&	
+CG3@F;F3F;H7?A67>;@9	;@8AD?3F;A@F75:@A>A9K	3@663F3;@F79D;FK,7@;AD675;E;A@
+?3=7DA@D76;F3@6"@H7EF?7@FA??;FF77E8AD?G@;5;B3>4A@6E	EFDG5FGD764A@6E
+3@6BDA6G5FE	43@=>A3@E	67D;H3F;H7FD3@E35F;A@ED73F76BDABD;7F3DK53E:
+8>AI3@6
+438*&614E;?G>3F;A@?A67>EA85D76;F	;@F7D7EFD3F7	3@667D;H3F;H7BD;5;@93@6D;E=
+8AD(3@6,FDG5FGD76D76;FFD3@E35F;A@E;@#.79&1&7.(3@6+75DG;F763@6
+?3@39763F73?A8CG3@F;F3F;H78;@3@57BDA87EE;A@3>E&3@3976F:7"@8AD?3F;A@
+-75:@A>A9K8G@5F;A@3@6>76F:7F75:@;53>67H7>AB?7@FA8BDABD;7F3DK63F343E7EKEF7?E
+8ADFD36;@93@6D;E=?3@397?7@F:;78+;E=(88;57DA8&5.8&1&683*673
+“credit hedge fund”) with oversight of investments, funding, risk assesE?7@F	3@6
+H3>G3F;A@E
+#G>K–74DG3DK
+&0849;)4.0#;0<4/08=3@6D76;F7D;H3F;H7)DA6G5F&3@397DA8 92.8424.879.
+&30.3,46546&8.43&5.8&1&60*87,&&)D;?3DKF3E=I3EFA>736F:7
+67H7>AB?7@FA834GE;@7EE;@5D76;F67D;H3F;H7EGF;7E;@5>G6764GE;@7EE67H7>AB?7@F
+BDA6G5FE	6;EFD;4GF;A@	*8(*8*6&	7J75GF;A@A8FD367E	F:75A@EFDG5F;A@A8?A67>E<(*1
+#.79&1&7.(3@6DAGF;@7EI;F:?3D=7F63F38776E8ADBD;5;@93@6D;E=
+?3@397?7@F	3@65D73F;A@A8@757EE3DKFD36;@93@6AB7D3F;A@3>EKEF7?E)D;?3DK8A5GE
+was on managing economic and regulatory capital for the parent bank’s US and Asian 
+5ADBAD3F7>A3@BADF8A>;A
+(5FA47D
+#G>K
+&0849;%4<5 ,8,20;;@F:73B;F3>&3D=7FE,7DH;57E9DAGBA8F:7.3&3(.&1
+9&6&38=3796&3(*425&3=+7EBA@E;4>78AD3>>D;E=E?3D=7F	5D76;F	>;CG;6;FK	
+AB7D3F;A@3>	*8(*8*6&) in the firm’s ($64;>>;A@8;@3@5;3>E7DH;57E8AD?G@;5;B3>;F;7E
+BD;?3D;>K9G3D3@F776;@H7EF?7@F5A@FD35FE3@63EE7F?3@397?7@F&3@3976F:7
+53B;F3>?3D=7FE"-8G@5F;A@!7>B765A@57;H7	>3G@5:	3@6A4F3;@FD;B>7
+D3F;@9E8AD3
+@7IEB75;3>
+BGDBAE7H7:;5>7
+&3K
+(5FA47D
+&0849;8,6A<=;@F:7 869(896*).3&3(*9DAGBI;F:;@F:7ADBAD3F76;H;E;A@A8
+44)=73:*78467 *6:.(*)D;?3D;>KD7EBA@E;4>78ADD7E73D5:;@F:75D76;F3@6?3D=7F
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 5 of 54
+
+
+--- PAGE 6 ---
+
+ 
+
+D;E=EA8EFDG5FGD76@AF7E3@65D76;F67D;H3F;H7E-:7D7EG>FEA8EG5:D7E73D5:;@5>G67F:7
+67H7>AB?7@FA8@7ID3F;@94GE;@7EE7E*,	;@6;H;6G3>E75GD;FK3@6?GFG3>8G@6?3D=7F
+D;E=D3F;@9E3EI7>>3E44)=7	;@6GEFDK	3@635367?;5BG4>;53F;A@E>EA35F;H7;@
+D3F;@99G3D3@F776;@H7EF?7@F5A@FD35FE "E	5A>>3F7D3>;L764A@6>A3@A4>;93F;A@E3@6
+AF:7DEB75;3>BGDBAE7H7:;5>7E
+74DG3DK
+&3K
+<<4<=,8=)4.0#;0<4/08=;@F:7.703&1=8.(7.@;FA8;F;5ADB'ADF:?7D;53 >A43>
+;@3@57!36BD;?3DKD7EBA@E;4;>;FK8ADF:73@3>KE;E3@6?73EGD7?7@FA85D76;FD;E=;@
+3>>@A@
+EF3@63D63@67?7D9;@9?3D=7F67D;H3F;H7FD3@E35F;A@EAD;9;@3F;@9;@'ADF:
+?7D;53	%3F;@?7D;53	,AGF:?7D;533@6,AGF:73EFE;3,G5:FD3@E35F;A@E;@5>G676
+67D;H3F;H7EA@7CG;F;7E	7CG;FK;@6;57E	674FE75GD;F;7E	E;@9>75GDD7@5K;@F7D7EFD3F7
+EI3BE	5DAEE5GDD7@5KEI3BE	8AD7;9@7J5:3@975A@FD35FE3@65A??A6;F;7E>EA
+D7EBA@E;4>78ADH3>;63F;@93@697@7D3F;@9BD;5;@9?A67>E8AD67D;H3F;H7;@EFDG?7@FE
+5F;H;F;7ED7CG;D767JF7@E;H75A?BGF7D?A67>67H7>AB?7@F"%'%!	3@6
+EBD736E:77FBDA9D3??;@93@663;>K5A??G@;53F;A@I;F:FD367DE3@68;@3@5;3>
+7@9;@77DE
+#3@G3DK
+74DG3DK
+<<4<=,8=#;910<<9;;@F:77B3DF?7@FA8&3F:7?3F;53>,5;7@57EA8+7@EE7>37D
+)A>KF75:@;5"@EF;FGF7A@6G5F76;@67B7@67@FD7E73D5:;@F:7?3F:7?3F;5E3@6B:KE;5E
+A8AB7D3F;A@A8H3D;AGEE7?;5A@6G5FAD67H;57E;E5AH7D76I;F:35A>>739G73@AH7>	
+795*66*74198.43EB75FD3>7EF;?3F;A@3>9AD;F:?-3G9:F5>3EE7EA@F:7EG4<75FEA8
+AD6;@3DK6;887D7@F;3>7CG3F;A@E9D36G3F73@6G@67D9D36G3F7	36H3@576?3F:7?3F;53>
+?A67>;@99D36G3F7	@G?7D;53>5A?BGF;@9G@67D9D36G3F7	BDA434;>;FK	EF3F;EF;5E3@6
+53>5G>GEI;F:EK?4A>;55A?BGF;@9
+#G@7
+#3@G3DK
+&=,11#3A<4.4<=3FF:7 7@7D3>>75FD;5ADBAD3F7+7E73D5:3@67H7>AB?7@F7@F7D	
+,5:7@75F36K	'7I2AD=;D75F763@65AAD6;@3F76F:7834D;53F;A@A8:3D97
+"@<75F;A@
+7H;57EA>;6
+EF3F7;?397DE,G997EF763@6EFG6;7667E;9@3@6834D;53F;A@;@@AH3F;A@E
+FA;?BDAH7CG3@FG?K;7>63@6E;9@3>@A;E7D3F;AA8F:7E7;?39;@967H;57E3@6IA@3
+ 7@7D3>>75FD;5GE:?3@I3D68ADF:;E36H3@57667H7>AB?7@FIAD=
+,G557EE8G>>K>76F:767H7>AB?7@FA83D36;3F;A@
+:3D6	&(,834D;53F;A@BDA57EE,FG6;76
+5:3@@7>:AF7>75FDA@D7>;34;>;FK;@E:ADF
+5:3@@7>'&(,-E3@6?367@7I
+5A@FD;4GF;A@EFAF:;E8;7>67D;H763@6EA>H76@G?7D;53>>K3@7IE7FA8E7?;5A@6G5FAD
+67H;577CG3F;A@E8AD?AD7355GD3F7?A67>;@9A867H;57B:KE;5E
+
+995<
+#A7);?4>7K3@6%3GD7>&57H;FF	&30.3,43&.196*	&3JI7>>A@EG>F;@9	%%	",'
+1	
+#A7);?4>7K3@6%3GD7>&57H;FF	 .251*43*=	@66;F;A@	&3JI7>>A@EG>F;@9	%%	
+",'
+	
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 6 of 54
+
+
+--- PAGE 7 ---
+
+ 
+
+#&);?4>7K	& :7LLA	! )3D=E3@6&DAI@	):&3(*) 64(*77
+!*(-3414,=	5367?;5)D7EE	,3@;79A	
+S. D. Silverstein and J. M. Pimbley, “The Minimum Free Energy Method of Spectral 
+Estimation,”' chapter in ):&3(*) .,3&164(*77.3,	76,!3K=;@	)D7@F;57
+!3>>	
+J. M. Pimbley, “Transistors”', chapter in &,.117 96:*=4+ (.*3(*551.*) (.*3(*	
+'&39;>>	76;FAD	,3>7?)D7EE	)3E367@3	&!		
+	
+48,8.0;=4.60<
+&0?08=A:6><,;=4.60<ID;FF7@8AD8;@3@5;3>BDA87EE;A@3>EA@3I;67D3@97
+A8FAB;5E;@F:753B;F3>?3D=7FE8DA?FAF:7BD7E7@F-:;E>;EF;E3H3;>34>7
+GBA@D7CG7EF;H7D757@F3DF;5>7E3D75;F7647>AI
+
+J. M. Pimbley, “Testing and Mapping an Empirical Exercise Boundary for the American 
+Put Option,” *6.:&8.:*7	3>>
+J. M. Pimbley, “Efficient Routines for CDO Loss Calculations”,  869(896*).3&3(*
+	
+	,BD;@9
+J. M. Pimbley and G. Phillips, “The =*6Ruling and its Limitations,” 422*6(.&1&;
+9&8*61=		&3D5:
+&3K
+J. M. Pimbley, “Simple Correlated Binomial Portfolio Loss Distribution”,  869(896*)
+.3&3(*	
+	,G??7D
+J. M. Pimbley, “T
+Vasicek Credit Portfolio Loss Distribution”,  869(896*).3&3(*
+	
+	3>>
+$>,8=#0;<:0.=4?0<
+&A@F:>K5A>G?@8ADF:7.70*;7*7496(*7BG4>;53F;A@A8F:714'&1
+774(.&8.434+.7064+*77.43&17
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 7 of 54
+
+
+--- PAGE 8 ---
+
+ 
+
+48,8.0#>-64.#;0<08=,=498<
+&0?08=A:6><:>-64.:;0<08=,=498<8AD8;@3@5;3>BDA87EE;A@3>EA@3I;67
+D3@97A8FAB;5E;@F:753B;F3>?3D=7FE8DA?FAF:7BD7E7@F-:;E>;EF;E
+3H3;>34>7GBA@D7CG7EFAGDD757@FBD7E7@F3F;A@E3D75;F7647>AI
+
+J. M. Pimbley and R. Chang, “Rapid Monte Carlo Simulation –!3@6E
+On Learning,” 
+;@H;F76>75FGD78AD	8-339&1.70&3&,*2*38A@H7@F;A@	'7I2AD=	&3D5:
+2017; also Industry Webcast “Rapid Monte Carlo Simulation,” May 2016.
+J. M. Pimbley, “Mathematical Finance, Models, Simulation and Today’s Pressing 
+Problem”, invited lecture for  
+		'3E:H;>>7	'AH7?47D
+J. M. Pimbley and S. R. Lindo, “Flight Simulator for Banking,” invited PRMIA Webcast, 
+(5FA47D
+J. M. Pimbley, “Data, Models & Concepts for Quantitative Finance”, GARP Webcast, 
+G9GEF
+;@5>G67E3GFAD79D7EE;H7+3@6AF:7DEF3F;EF;53>F;?7E7D;7E3@3>KE;E
+
+9>;8,6;=4.60<
+'73D>KA@7:G@6D76D787D7763DF;5>7E;@F:78;7>6EA87>75FD;53>	5:7?;53>	3@6@G5>73D
+7@9;@77D;@93@6E7?;5A@6G5FADB:KE;5E-:;E>;EF;E3H3;>34>7GBA@D7CG7EF
+#'!'&
+#&);?4>7K3@6!+):;>;BB	&).&8.43!6&372.77.:*1*(864)*
+ 869(896*				&3K
+
+207;3@6#&);?4>7K	<8*3)*)6&.343(*58+46*)9(*)48
+1*(8643++*(8				,7BF7?47D
++%;>>CG;EF	#&);?4>7K3@6-%/A97>EA@9	42547.8*
+#.7.'1*!-*62&13+6&6*)2&,.3, =78*2				#G>K
+
+207;3@6#&);?4>7K	6&)*)<8*3)*)6&.343(*58+46*)9(*)
+481*(8643++*(8				#G>K
+#&);?4>7K	  ;>67@4>3F	
+207;3@6#,:3BB;D	='6.)<8*3)*)
+6&.343(*58+46*)9(*)481*(8643++*(8				,7BF7?47D
+
+207;3@6#&);?4>7K	6&)*)<8*3)*)6&.343(*58+46*)9(*)
+481*(8643++*(8				G9GEF
+2';EE3@
+A:7@	)D3@=	#&);?4>7K	&DAI@	03>5:	3@6
+$#)A>3E=A	)/978&'1*$.3)&,**8-4)&3)&70+46466*(8.434+64<.2.8=
+++*(8.3 9'2.(643-4841.8-4,6&5-=				#3@G3DK
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 8 of 54
+
+
+--- PAGE 9 ---
+
+ 
+
+#&);?4>7K3@6&DAI@	*8&11.>&8.43*8-4)+46# 
+&'6.(&8.43	5GDD7@FEF3FGEG@=@AI@
+,,;>H7DEF7;@3@6#&);?4>7K	 5*(86&178.2&8.43"8.1.>.3,&3
+984(466*1&8.43&7*).3.2926**3*6,=*8-4)				#3@G3DK
+,,;>H7DEF7;@3@6#&);?4>7K	 5*(86&178.2&8.43"8.1.>.3,&
+.3.2926**3*6,=*8-4);.8-*(967.:**+1*(8.434*++.(.*387				
+'AH7?47D
+!&+AG97AF3@6#&);?4>7K	.,-8*8*(846 (.38.11&846&).4&(8.:*
+2&,*.(09555&6&897;.8-2564:*).,-8411*(8.43	
+	G9GEF
+
+&DAI@	& :7LLA3@6#&);?4>7K	 .1.(43&6'.)* !
+38*,6&8*).6(9.8*:.(*7	5GDD7@FEF3FGEG@=@AI@
+!&+AG97AF3@6#&);?4>7K	-484)*8*(846 (.38.11&846&).&8.43
+2&,*6&:.3,.,-++.(.*3(=.,-8411*(8.43				&3K
++$I3E@;5=3@6#&);?4>7K	*8-4)4+4(&8.3,422431*(864)*
+ -4687.3&32&,*677*2'1=				(5FA47D
+&57H;FF
+);?4>7K3@6#&);?4>7K	 =78*27&3)*8-4)7+46
+!6&++.(9.)&3(*4)*7&3)!6&++.(&:.,&8.3,38.8.*7				,7BF7?47D
+
+&57H;FF
+);?4>7K3@6#&);?4>7K	 =78*27&3)*8-4)7+46
+!6&++.(9.)&3(*4)*7&3)!6&++.(&:.,&8.3,38.8.*7				(5FA47D
+
+&9.40=A 07-0;<34:<#,<=,8/#;0<08=
+6;FAD;3>A3D6?7?47DA8F:7.7064+*77.43&1
+6H;EADKA3D6A8F:7)A>KF75:@;5.@;H*38*6+46.3&3(*!*(-3414,=
+ .,2&. .,2&
+'3F;A@3>):KE;5E!A@AD,A5;7FK
+,7@;AD&7?47D378.898*4+1*(86.(&1&3)1*(8643.(3,.3**67"
+ .,2&%.E5;7@F;8;5D7E73D5:EA5;7FK
+"1*(8.43*:.(*7 4(.*8=
+ 4(.*8=+463)9786.&1&3)551.*)&8-*2&8.(7,"&
+2*6.(&3774(.&8.43+468-*):&3(*2*384+ (.*3(*,
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 9 of 54
+
+
+--- PAGE 10 ---
+
+ 
+
+#;910<<498,6.=4?4=40<,8/989;<
+ ;@3@5;3>+;E=&3@397D–7DF;8;764KF:714'&1
+774(.&8.434+.7064+*77.43&17
+ )3EE76F:7,7D;7E3@6,7D;7E 7@7D3>,75GD;F;7E
++7BD7E7@F3F;H7J3?;@3F;A@E
+ &7?47DA8F:7)A>KF75:@;5.@;H7DE;FK6H;EADKAG@5;>A8
+F:77@F7D8AD-75:@A>A9K;@3@5;3>,7DH;57E
+  >75F76FA *3.46*2'*6A8F:7"
+
+ :3;D?3@A8F:7339&1$4607-4543&8-*2&8.(&1
+64'1*27.33)9786=3F*377*1&*641=8*(-3.(378.898*
+
+ :3;D?3@A8F:7*38*6+4638*,6&8*)1*(8643.(7# 
+ *2.3&6 *6.*73F*377*1&*641=8*(-3.(378.898*
+  7@7D3>>75FD;5+7E73D5:3@67H7>AB?7@F7@F7D
+Dushman Award for “outstanding technical contributions” to 
+F:7/%,")DA9D3?
+  *377*1&*641=8*(-3.(378.898*$3D7@3@6%7EF7D
+ 7D:3D6F)D;L73I3D6763@@G3>>K8ADF:747EF):F:7E;E
+8DA?F:7,5:AA>EA8,5;7@573@6@9;@77D;@9
+ *377*1&*641=8*(-3.(378.898*!!G@F;@9FA@)D;L7
+3I3D6763@@G3>>K8ADF:747EFD7E73D5:4K3EFG67@F;@F:7
+):KE;5E7B3DF?7@F
+  7@7D3>>75FD;5+7E73D5:3@67H7>AB?7@F7@F7D
+Dushman Award for “outstanding technical contributions” to 
+F:7""?397D)DA9D3?
+ '3F;A@3>&7D;F"&-:A?3E#03FEA@,5:A>3DE:;B
+ '7I2AD=,F3F7+797@FE,5:A>3DE:;B
+
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 10 of 54
+
+
+--- PAGE 11 ---
+
+ 
+
+##!*#>-64.,=498<91=30#,<='08+0,;< #47-60A
+
+J. M. Pimbley, “-7EF;@93@6&3BB;@93@?B;D;53>J7D5;E7AG@63DK8AD
+F:7?7D;53@)GF(BF;A@,” *6.:&8.:*7	3>>
+#&);?4>7K3@6&57H;FF
+Pimbley, “(BF;?3>-7EF;@9;@
+,7?;5A@6G5FAD&3@G835FGD;@9,” 3,.3**6.3,&3&,*2*38*:.*;
+	
+	:FFBE6A;AD9&+	757?47D
+
+J. M. Pimbley, “88;5;7@F+AGF;@7E8AD(%AEE3>5G>3F;A@E”, 
+ 869(896*).3&3(*	
+	,BD;@9
+J. M. Pimbley and G. Phillips, “-:7&K7D+G>;@93@6;FE%;?;F3F;A@E,” 
+422*6(.&1&;9&8*61=		&3D5:
+&3K
+J. M. Pimbley, “,;?B>7ADD7>3F76;@A?;3>)ADF8A>;A%AEE;EFD;4GF;A@”, 
+ 869(896*).3&3(*	
+	,G??7D
+J. M. Pimbley, “-
+/3E;57=D76;F)ADF8A>;A%AEE;EFD;4GF;A@”, 
+ 869(896*).3&3(*	
+	3>>
+J. M. Pimbley and G. Phillips, “;JF:7/"1+76G5;@9&3@;BG>3F;A@;@F:7
+/A>3F;>;FK"@67J”, .7038*11.,*3(*	BD;>
+J. M. Pimbley, “7D@AG>>;7:3H;AD3>;@3@57AF:0DA@9”, 
+9&38*675*(8.:*7	G9GEF
+J. M. Pimbley, “*G3@F;F3F;H7;@3@57A@3,?3DFB:A@7–""”, 9&38
+*675*(8.:*7	#G@7
+J. M. Pimbley, “,;J D73F+73EA@E2(.,:AG>6%73D@FAA67”, 
+9&38*675*(8.:*7	BD;>
+J. M. Pimbley, “+3F;@9E+78AD?>3EF;@9F:7GE;@7EE&A67>”, 
+9&38*675*(8.:*7	74DG3DK
+J. M. Pimbley, “7?A@7F;L3F;A@3@6F:7+73>/3>G7A8&A@7K”, 
+9&38*675*(8.:*7	#3@G3DK
+J. M. Pimbley, “Today’s Pressing Problem in Quantitative Finance”, 
+9&38*675*(8.:*7	757?47D
+J. M. Pimbley, “+;E=G>FGD70:3F&3FF7DE&AEF”, 9&38
+*675*(8.:*7	(5FA47D
+J. M. Pimbley, “&3F:7?3F;53>;@3@57	&A67>E	Simulation and Today’s 
+)D7EE;@9)DA4>7?”, chapter in !98.&17.35*6&8.437*7*&6(-	
+",'
+
+
+
+	
+J. M. Pimbley, “!AIFA75A?737FF7D+;E=&3@397D.@;F;@9
+JB7D;7@57I;F:"?39;@3F;A@”, 9&38*675*(8.:*7	,7BF7?47D
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 11 of 54
+
+
+--- PAGE 12 ---
+
+ 
+
+#&Pimbley, “,?3DF;@3@57*G3@F;F3F;H7;@3@57A@3,?3DF):A@7”, 
+9&38*675*(8.:*7	G9GEF
+J. M. Pimbley, “7FF7D&73EGD7?7@FE8AD%(CG;FK)7D8AD?3@57”, 
+ 869(896*).3&3(*	
+	,G??7D
+J. M. Pimbley, “-:;@=;@A67	2AG@9+;E=@3>KEF”, 9&38
+*675*(8.:*7	#G@7
+J. M. Pimbley, “+3B;6&A@F73D>A,;?G>3F;A@”, 9&38
+*675*(8.:*7	&3K
+J. M. Pimbley, “Quant’s View of Negative Interest Rates, Part: II”, 
+9&38*675*(8.:*7	BD;>
+#&);?4>ey, “3@=;@93E;5E:;@33@6"FE>3D?;@9')%E”, 
+9&38*675*(8.:*7	&3D5:
+J. M. Pimbley, “%;CG;6;FK%;47D3F;A@8AD&GFG3>G@6E”, 9&38
+*675*(8.:*7	74DG3DK
+J. M. Pimbley, “!AIFAEE7EE3@6&3@397D76;F+;E=”, 9&38
+*675*(8.:*7	#3@G3DK
+J. M. Pimbley, “&GFG3>EE:AG>6@AFAH7D
+BDA?;E7A@>A3@>;CG;6;FK”, 
+6*).8+19<	#3@G3DK
+J. M. Pimbley, “Before #BigData, Let’s Confront #BadData”, 9&38
+*675*(8.:*7	'AH7?47D
+J. M. Pimbley, “&ADF9397&36@7EE”, 9&38*675*(8.:*7	(5FA47D
+
+J. M. Pimbley, “>;9:F,;?G>3FAD8AD;@3@5;3>+;E=”, 9&38
+*675*(8.:*7	G9GEF
+J. M. Pimbley, “Greece, Black Holes and Banks’ Ankles”, 9&38
+*675*(8.:*7	#G>K
+J. M. Pimbley, “-:7 D73F7EF >A43>;@3@5;3>+;E=”, 9&38
+*675*(8.:*7	#G@7
+J. M. Pimbley, “75;E;A@E%;8773F:A@03>>,FD77F”, 9&38
+*675*(8.:*7	&3K
+#&);?4>7K	“A Quant’s View of Negative Interest Rates”	9&38
+*675*(8.:*7	BD;>
+#&);?4>7K	“Fixing Banking –/A>5=7D+G>7A@,F7DA;6E”, 9&38
+*675*(8.:*7	74DG3DK
+#&);?4>7K	“Fixing Banking –Part II”	9&38*675*(8.:*7	
+#3@G3DK
+#&);?4>7K	“Fixing Banking –Part I”	9&38*675*(8.:*7	
+757?47D
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 12 of 54
+
+
+--- PAGE 13 ---
+
+ 
+
+#&);?4>7K	“A Bailout Plan to Increase Systemic Risk?”	9&38
+*675*(8.:*7	'AH7?47D
+#&);?4>7K	“Book Excerpt:  Banking on Failure”	9&38
+*675*(8.:*7	(5FA47D
+#&);?4>7K	“How to Build Disastrous Financial Models”	9&38
+*675*(8.:*7	,7BF7?47D
+#&);?4>7K	“Banks and Political Bargains”	9&38*675*(8.:*7	
+G9GEF
+#&);?4>7K	“Are Systemically Important Banks Junk Credits?”	
+9&38*675*(8.:*7	#G>K
+#&);?4>7K	“Monetary Policy Risk?  Deflation!”	9&38
+*675*(8.:*7	#G@7
+J. M. Pimbley, “Benford’s Law and the Risk of Financial Fraud”, .70
+64+*77.43&1	
+	&3K
+&57H;FF
+Pimbley and J. M. Pimbley, “,;?B>;8K;@9JBD7EE;A@8AD
+F:7>3EE;53>A@6)D;57
+2;7>6+7>3F;A@E:;B”, .7064+*77.43&1	
+	
+,7BF7?47D
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 13 of 54
+
+
+--- PAGE 14 ---
+
+ 
+
+##!*4=42,=498'0<=4798A91=30#,<=9>;+0,;< #47-60A
+
+x 66020/;,>/>608=%,=482<91% &"<–&3D5:FA#G>K
+0AD=;@9I;F:3>3I8;D?	"E7DH763E4AF:EG4<75F?3FF7D3@6F7EF;8K;@9
+7JB7DFFAD7H;7I6A5G?7@FE3@63@3>KL75D76;FD3F;@9BD35F;57E8AD
+
+H;@F397(EA8+&,"BD7B3D767JB7DF3@3>KE7EFAEGBBADF
+3@66787@66;E5AH7DKD7CG7EFE3@6D7H;7I767JB7DFD7BADFE"EG4?;FF76
+3@388;63H;F	EG4?;FF763@7JB7DFD7BADF	3@693H77JB7DF67BAE;F;A@
+F7EF;?A@K8ADF:;E53E7F:3FF:7@E7FF>76BD;ADFAFD;3>
+
+	
+			
+,8/	
+			!&3046546&8.43:
+Moody’s Investors Service, Inc.,GBD7?7AGDFA8F:7,F3F7A8'7I
+2AD=	AG@FKA8D;7
+
+x 66020/;,>/>608=8/>.0708=9198/8<>;0;–#G@7FA
+0AD=;@9I;F:5A@EG>F;@95A>>739G7E3@63>3I8;D?	"E7DH763E3@
+7JB7DFFA3@3>KL75>3;?EF:3F343@=EBA@EADA8+&,FD3@E35F;A@E
+4D735:76I3DD3@F;7E3@6;@6G5768D3G6G>7@F>KF:7B3DF;5;B3F;A@A83@
+;@EGD7D"BD7B3D763@7JB7DFD7BADF3@693H77JB7DF67BAE;F;A@
+F7EF;?A@K
+
+
+	
+.3&3(.&19&6&38=3796&3(*425&3=:46,&3
+ 8&31*= &5.8&13(*8&1,GBD7?7AGDFA8F:7,F3F7A8'7I
+2AD=	AG@FKA8'7I2AD=
+
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 14 of 54
+
+
+--- PAGE 15 ---
+
+ 
+
+##!*,=,-,<0@=;,.=916,70/,8(<0"
+
+
+
+ 
+F8F
+G8F
+H8F
+I8F
+J8F
+K8F
+L8F
+GF9M9HFHG GG9M9HFHG
+GH9M9HFHGG9M9HFHH H9M9HFHH I9M9HFHH J9M9HFHH K9M9HFHH L9M9HFHH M9M9HFHH N9M9HFHH O9M9HFHH GF9M9HFHHGG9M9HFHH
+
+	
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 15 of 54
+
+
+--- PAGE 16 ---
+
+ 
+
+##!*,=,-,<0$>0;40<=9@=;,.=6,70/,8(<0"
+
+="#- #,-.+/,3 #(-&'3.".-)/(.#) O8>
+
+-&.? ,)'&)<#(.,-.<",!-
+$)#(
+)/(.-)(&)<#(.,-.<",!-8)/(.<#S)/(.-8#
+1",)/(.-8/-,<#S
+@/."F:KM NLKGNGFFL@
+),,3,.<.-&#'#.KFF
+;dŚŝƐƐĞĐŽŶĚƋƵĞƌǇĚĞĨŝŶĞƐůĂŵĞĚĂďǇƚŚĞĚĂƚĂďĂƐĞƵƐĞƌŝĚŽĨ͚/."F:KM NLKGNGFFL͛
+1"#"  .#0&3!!,!.-&'-/;)/(.-8",-/&.-) ."&'2.,.#)(,
+#(.#& ),."- #,-.(-)(+/,#-8>
+
+ 
+-&.? ,)'&)<#(.,-.<",!-1",)/(.<#SO&#'#.HFFF
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 16 of 54
+
+
+--- PAGE 17 ---
+
+ 
+
+##!*,=,-,<0,=,%0<:98<4?0=9::08/4@$>0;40<
+ 
+G O GF9M9HFHGG6FGI6GKK6GLMGFG6IGLHMFNFKLIM
+IJ O GF9N9HFHG G6FML6HJO6FFN GFM6LHK HMFNFKLIO
+LM O GF9O9HFHGG6GOH6IGF6NKKGGO6HIGHMFNFKLJG
+GFF O GF9GF9HFHG G6GGM6JKI6ONK GGG6MJK HMFNFKLJI
+GII O GF9GG9HFHGG6FNI6JOI6JGLGFN6IJOHMFNFKLJK
+GLL O GF9GH9HFHG G6FNL6JNK6IJK GFN6LJO HMFNFKLJM
+GOO O GF9GI9HFHGG6GGK6FLI6OIFGGG6KFLHMFNFKLJO
+HIH O GF9GJ9HFHG G6FKM6OIN6LKI GFK6MOJ HMFNFKLKG
+HLK O GF9GK9HFHGG6HFG6KMO6ILGGHF6GKNHMFNFKLKI
+HON O GF9GL9HFHG G6GLO6FIL6HLK GGL6OFJ HMFNFKLKK
+IIG O GF9GM9HFHGG6FKN6NMH6MFGGFK6NNMHMFNFKLKM
+ILJ O GF9GN9HFHG G6FOI6LMM6JOH GFO6ILN HMFNFKLKO
+IOM O GF9GO9HFHGG6GIF6KMH6FLLGGI6FKMHMFNFKLLG
+JIF O GF9HF9HFHG G6FMM6GHN6HOH GFM6MGI HMFNFKLLI
+JLI O GF9HG9HFHGG6GOO6KLO6HLJGGO6OKMHMFNFKLLK
+JOL O GF9HH9HFHG G6FLI6MKI6HFJ GFL6IMK HMFNFKLLM
+KHO O GF9HI9HFHGG6FLL6NIH6FJNGFL6LNIHMFNFKLLO
+KLH O GF9HJ9HFHG G6GIF6LNG6JFH GGI6FLN HMFNFKLMG
+KOK O GF9HK9HFHGG6GKL6NJF6OMOGGK6LNJHMFNFKLMI
+LHN O GF9HL9HFHG G6GHF6OOO6OON GGH6GFF HMFNFKLMK
+LLG O GF9HM9HFHGG6FNI6HLG6GFKGFN6IHLHMFNFKLMM
+MFI O GF9HN9HFHG G6FMO6LMI6OOK GFM6OLM HMFNFKLMO
+MIM O GF9HO9HFHGG6GGF6GJL6GHKGGG6FGKHMFNFKLNG
+MLI O GF9IF9HFHG G6GGO6GJL6IIM GGG6OGK HMFNFKLNI
+NFJ O GF9IG9HFHGG6GHF6LIM6KLHGGH6FLJHMFNFKLNK
+NIM O GG9G9HFHG G6GHG6JLG6GHJ GGH6GJL HMFNFKLNM
+NLK O GG9H9HFHGG6FLG6IJK6MLGGFL6GIKHMFNFKLNO
+OFF O GG9I9HFHG G6FGK6NKK6GOI GFG6KNL HMFNFKLOG
+OIN O GG9J9HFHGG6GJL6MLL6MHMGGJ6LMMHMFNFKLOI
+OMF O GG9K9HFHG G6FNH6OGG6MLF GFN6HOG HMFNFKLOK
+GFFF O GG9L9HFHGG6GNG6MMF6OKMGGN6GMMHMFNFKLOM
+GFHO O GG9M9HFHG G6FNL6KIG6MJM GFN6LKI HMFNFKLOO
+GFLJ O GG9N9HFHGG6GIM6FIL6GJFGGI6MFJHMFNFKMFG
+GGFM O GG9O9HFHG G6GJH6NHH6FGI GGJ6HNH HMFNFKMFI
+GGJH O GG9GF9HFHGG6FLO6MNM6NKNGFL6OMOHMFNFKMFK
+GGLM O GG9GG9HFHG G6FJM6KJO6LIF GFJ6MKK HMFNFKMFM
+GHFN O GG9GH9HFHGG6GHH6NHJ6NFOGGH6HNHHMFNFKMFO
+GHHJ O GG9GI9HFHG G6GNM6LIG6FIH GGN6MLI HMFNFKMGG
+GHLN O GG9GJ9HFHGG6FNM6JNM6LMKGFN6MJOHMFNFKMGI
+GHOJ O GG9GK9HFHG G6GIJ6FKO6KLI GGI6JFL HMFNFKMGK
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 17 of 54
+
+
+--- PAGE 18 ---
+
+ 
+
+GIJG O GG9GL9HFHGG6GFK6IMG6KMMGGF6KIMHMFNFKMGM
+GIKO O GG9GM9HFHG G6FNM6HIG6IHM GFN6MHI HMFNFKMGO
+GJFK O GG9GN9HFHGG6FFO6MGM6OONGFF6OMHHMFNFKMHG
+GJIJ O GG9GO9HFHG G6GOG6IFM6HMH GGO6GIG HMFNFKMHI
+GJKL O GG9HF9HFHGG6FOM6GKJ6NJIGFO6MGKHMFNFKMHK
+GKFL O GG9HG9HFHG G6GMN6GMG6KHM GGM6NGM HMFNFKMHM
+HMLK O GG9HH9HFHGG6GJG6FKL6MIOGGJ6GFLHMFNFKMHO
+HMLL O GG9HI9HFHG G6GFN6MON6OFG GGF6NNF HMFNFKMIG
+HMLM O GG9HJ9HFHGG6FHK6NOK6LFHGFH6KOFHMFNFKMII
+HMLN O GG9HK9HFHG G6FLN6MNK6MHJ GFL6NMO HMFNFKMIK
+HMLO O GG9HL9HFHGG6GOH6INH6KFMGGO6HINHMFNFKMIM
+HMMF O GG9HM9HFHG G6HFL6MKM6LON GHF6LML HMFNFKMIO
+HMMG O GG9HN9HFHGG6FGG6IIK6LJFGFG6GIJHMFNFKMJG
+HMMH O GG9HO9HFHG G6GIH6FFL6LHO GGI6HFG HMFNFKMJI
+HMMI O GG9IF9HFHGG6FOO6MOH6LHGGFO6OMOHMFNFKMJK
+HMMJ O GH9G9HFHG G6GKM6HLF6OMI GGK6MHL HMFNFKMJM
+HMMK O GH9H9HFHGG6FJI6JKM6MOJGFJ6IJLHMFNFKMJO
+HMML O GH9I9HFHG G6GKJ6MGI6KLJ GGK6JMG HMFNFKMKG
+HMMM O GH9J9HFHGG6GNJ6NLO6OHNGGN6JNMHMFNFKMKI
+HMMN O GH9K9HFHG G6FIF6FNK6JKM GFI6FFO HMFNFKMKK
+HMMO O GH9L9HFHGG6GFI6HHG6FGFGGF6IHHHMFNFKMKM
+HMNF O GH9M9HFHG G6GHJ6NIM6GFJ GGH6JNJ HMFNFKMKO
+HMNG O GH9N9HFHGG6GNH6FOF6NOIGGN6HFOHMFNFKMLG
+HMNH O GH9O9HFHG G6GLI6MOG6FFG GGL6IMO HMFNFKMLI
+HMNI O GH9GF9HFHGG6GKI6LKH6IHHGGK6ILKHMFNFKMLK
+HMNJ O GH9GG9HFHG G6GLL6JIN6JIO GGL6LJJ HMFNFKMLM
+HMNK O GH9GH9HFHGG6GOO6FLG6FGFGGO6OFLHMFNFKMLO
+HMNL O GH9GI9HFHG G6GKK6HOK6NFI GGK6KIF HMFNFKMMG
+HMNM O GH9GJ9HFHGG6FNJ6IFO6GKOGFN6JIGHMFNFKMMI
+HMNN O GH9GK9HFHG G6GKO6OMJ6IMI GGK6OOM HMFNFKMMK
+HMNO O GH9GL9HFHGG6FLI6LFK6MMIGFL6ILGHMFNFKMMM
+HMOF O GH9GM9HFHG G6FKJ6MFH6JIM GFK6JMF HMFNFKMMO
+HMOG O GH9GN9HFHGG6FLK6LKI6KNGGFL6KLKHMFNFKMNG
+HMOH O GH9GO9HFHG G6GJM6OOK6KGH GGJ6NFF HMFNFKMNI
+HMOI O GH9HF9HFHGG6GMJ6NKN6MNOGGM6JNLHMFNFKMNK
+HMOJ O GH9HG9HFHG G6FNF6OIM6GKK GFN6FOJ HMFNFKMNM
+HMOK O GH9HH9HFHGG6GLO6MKM6HGIGGL6OMLHMFNFKMNO
+HMOL O GH9HI9HFHG G6GGG6MFM6JGI GGG6GMG HMFNFKMOG
+HMOM O GH9HJ9HFHGG6FHI6LJO6HIHGFH6ILKHMFNFKMOI
+HMON O GH9HK9HFHG G6GMK6LII6KLL GGM6KLI HMFNFKMOK
+HMOO O GH9HL9HFHGG6GFF6MJF6LKFGGF6FMJHMFNFKMOM
+HNFF O GH9HM9HFHG G6GII6GHM6FMF GGI6IGI HMFNFKMOO
+HNFG O GH9HN9HFHGG6FNM6FHJ6GLKGFN6MFHHMFNFKNFG
+HNFH O GH9HO9HFHG G6GIJ6OOH6FIK GGI6JOO HMFNFKNFI
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 18 of 54
+
+
+--- PAGE 19 ---
+
+ 
+
+HNHN O GH9IF9HFHGOKF6LJO6NIMOK6FLK HMHGLHKJM
+HOLG O G9I9HFHH OOO6GOI6IGH OO6OGO HNHHOIJKK
+HOMK O G9J9HFHHG6FHF6GLG6LFLGFH6FGLIFKKIGFJM
+IFFM O G9K9HFHH NOI6GKN6IIL NO6IGL IFNNLOKJG
+IFIN O G9L9HFHHG6FMH6NHG6FJHGFM6HNHIGHHINHJM
+IFOF O G9N9HFHH G6GFN6FFM6GMN GGF6NFG IGOFIJNHO
+IGGG O G9O9HFHHG6GIF6MIM6HLKGGI6FMJIHHJJOKHO
+IGKF O G9GF9HFHH G6HKL6MNG6KNO GHK6LMN IHKNKNGGN
+IGNJ O G9GG9HFHHG6HIF6LOJ6HIKGHI6FLOIHOHMNNKL
+IHGM O G9GH9HFHH G6HOL6FJO6LGO GHO6LFK IIHMGLLOH
+IHKO O G9GI9HFHHG6IFK6JJH6FGOGIF6KJJIILGMOMLK
+IHOH O G9GJ9HFHH G6LMK6HGK6GFK GLM6KHH IIOKGKKJF
+IIKO O G9GL9HFHHG6MGF6KFG6KKMGMG6FKFIJLJOOFOL
+IIMK O G9GM9HFHH G6LLI6OLF6NFG GLL6IOL IKFFFIMJJ
+IJHI O G9GN9HFHHG6LFN6KGI6MFLGLF6NKGIKIKGFLGM
+IJJN O G9GO9HFHH G6KKK6LJO6HFI GKK6KLK IKMFGHLMO
+IJMK O G9HF9HFHHG6LNL6JJK6HHKGLN6LJKILFKGHKML
+IKHJ O G9HG9HFHH G6OGL6JLN6KNL GOG6LJM ILJFHJKLM
+IKKM O G9HH9HFHHG6OGJ6FOL6MFGGOG6JGFILMKHMLHM
+IKML O G9HI9HFHH G6OFN6KGI6JGK GOF6NKG IMFOOOHGM
+ILGI O G9HJ9HFHHH6HFH6NLH6FFKHHF6HNLIMJJLOFLM
+ILJH O G9HK9HFHH H6FGG6HOO6GKH HFG6GIF IMMOJIGFO
+ILMO O G9HL9HFHHH6FIO6FGN6FNOHFI6OFHINGJJFGIM
+IMFG O G9HM9HFHH H6GHG6IGO6MHN HGH6GIH INJOLLLMF
+IMIN O G9HN9HFHHG6OIF6KLF6FFFGOI6FKLINNKFJJHL
+IMML O G9HO9HFHH G6OFK6NNJ6HHG GOF6KNN IOHFKLMOI
+INFN O G9IF9HFHHG6OMN6KHF6MIFGOM6NKHIOKLIFOLO
+INJL O G9IG9HFHH G6OON6LJO6HNO GOO6NLK IOOHGNLJH
+INMO O H9G9HFHHG6OON6NHK6LIIGOO6NNIJFHNGIFHL
+IOGJ O H9H9HFHH G6OKI6JKN6MGH GOK6IJL JFLJINFHG
+IOIG O H9I9HFHHG6OII6LKM6HLJGOI6ILLJGFFMFOMJ
+IONF O H9J9HFHH G6OLM6OOM6MON GOL6NFF JGIMFFJNF
+JFGF O H9K9HFHHH6GHO6HHJ6MONHGH6OHHJGMIKOKHO
+JFJK O H9L9HFHH H6GKG6GLK6IHI HGK6GGM JHGFKGHHI
+JFMM O H9M9HFHHH6GKF6NGO6LHMHGK6FNHJHJMKGLHI
+JFOM O H9N9HFHH H6JFH6IKK6LGF HJF6HIL JHNJMKOMJ
+JGIG O H9O9HFHHH6IKN6MGM6NMGHIK6NMHJIHHGLLHH
+JGNG O H9GF9HFHH H6GHG6NOF6NMI HGH6GNO JIKOMHNGL
+JHGF O H9GG9HFHHH6GKH6MOF6OINHGK6HMOJIOMJLONI
+JHJM O H9GH9HFHH H6FNO6NKM6NLN HFN6ONL JJIKHJGIH
+JHLN O H9GI9HFHHH6GLN6MNL6FNLHGL6NMOJJMHONFLM
+JIFI O H9GJ9HFHH H6GJG6JFG6NFN HGJ6GJF JKGFMOKJK
+JIJM O H9GK9HFHHH6GOO6GFM6MFNHGO6OGGJKJNLHGFJ
+JILN O H9GL9HFHH H6FKI6MOJ6LFJ HFK6IMO JKNLLNFKM
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 19 of 54
+
+
+--- PAGE 20 ---
+
+ 
+
+JJFF O H9GM9HFHHH6IFI6NKO6JNLHIF6INLJLHJNIFKF
+JJJF O H9GN9HFHH H6GOG6OHO6HNM HGO6GOI JLLIFFFGG
+JJMF O H9GO9HFHHH6HLM6HOJ6KOHHHL6MHOJMFGFJOHG
+JKFI O H9HF9HFHH H6HKO6FIL6LKJ HHK6OFJ JMIOFOHGH
+JKJJ O H9HG9HFHHH6GMO6FMO6IOOHGM6OFNJMMMFGHHM
+JKMN O H9HH9HFHH G6OJJ6FGO6IMN GOJ6JFH JNGJOOOLO
+JLGG O H9HI9HFHHG6OOK6OMH6NHLGOO6KOMJNKHOIKMG
+JLJK O H9HJ9HFHH H6FLI6KHJ6LJF HFL6IKH JNOGGKOOJ
+JLLF O H9HK9HFHHH6GJF6FNG6GFIHGJ6FFNJOHOHFMKI
+JMFH O H9HL9HFHH H6GMM6GFN6LLH HGM6MGG JOLMOMMFJ
+JMIM O H9HM9HFHHH6HGK6ONG6KMIHHG6KONKFFLNLIKM
+JMMM O H9HN9HFHH H6FKF6GII6JIL HFK6FGI KFJKMHOKN
+JNFH O I9G9HFHHH6HGH6MKH6OKNHHG6HMKKFNJLMHFL
+JNJJ O I9H9HFHH H6HFL6NOO6IOM HHF6LOF KGHINLFLM
+JNLO O I9I9HFHHH6GKG6GNK6MIFHGK6GGOKGLIGKJMO
+JNON O I9J9HFHH H6GGO6LMI6MNF HGG6OLM KHFHJMNKG
+JOHL O I9K9HFHHH6FML6GMJ6MLGHFM6LGMKHJGNIOLM
+JOMJ O I9L9HFHH H6GIG6OHG6ONL HGI6GOH KHNGHHLKL
+JOOH O I9M9HFHHG6MLJ6IFN6NGJGML6JIGKIHFLNJJK
+KFHI O I9N9HFHH G6OLM6FFL6LNN GOL6MFG KILFGKMIK
+KFMJ O I9O9HFHHH6GHN6KOJ6MJFHGH6NKOKIOOMKKLO
+KFOO O I9GF9HFHH H6GFI6NNJ6IKM HGF6INN KJIOKJIKL
+KGII O I9GG9HFHHH6FGH6NHI6LLHHFG6HNHKJMOIOJFI
+KGKG O I9GH9HFHH H6FHL6IMN6MJF HFH6LIN KKGOHONKO
+KHFK O I9GI9HFHHH6FGG6III6FLJHFG6GIIKKKOHLGLN
+KHIN O I9GJ9HFHH G6OMF6FMO6IFN GOM6FFN KKOOHOKOL
+KHLG O I9GK9HFHHH6FLH6MNJ6HLMHFL6HMNKLIOIMFMM
+KHNK O I9GL9HFHH H6HLI6GJF6GIK HHL6IGJ KLMOKJIGI
+KIHJ O I9GM9HFHHH6IMJ6OHK6MFJHIM6JOIKMGONJLGN
+KILK O I9GN9HFHH G6ONN6FHG6LLL GON6NFH KMLFIHGOF
+KIOO O I9GO9HFHHH6HHG6MMG6LMLHHH6GMMKNFFNOIHI
+KJGM O I9HF9HFHH G6OHJ6JLG6LKG GOH6JJL KNJGMGJNG
+KJKN O I9HG9HFHHH6FOI6JNK6IOKHFO6IJOKNNHOJFGH
+KJOM O I9HH9HFHH H6FOJ6LFK6GKN HFO6JLG KOHKKGIGO
+KKGO O I9HI9HFHHH6GKN6JLN6OJNHGK6NJMKOLLNHOKI
+KKKL O I9HJ9HFHH H6IFM6JLM6MLG HIF6MJM LFFNHJNJN
+KKON O I9HK9HFHHH6IFJ6FNM6IMMHIF6JFOLFJONNNJJ
+KLIF O I9HL9HFHH H6GJI6HOG6NHL HGJ6IHO LFOGLNNFM
+KLKM O I9HM9HFHHH6IFN6HKM6IHLHIF6NHLLGIIKKNKG
+KLOO O I9HN9HFHH H6JHJ6NOK6HOL HJH6JOF LGMKLGKLL
+KMGO O I9HO9HFHHH6JIL6KHF6MIMHJI6LKHLHGMNKOHN
+KMLG O I9IF9HFHH H6JNG6HHN6LLM HJN6GHI LHLFHJGMJ
+KMOI O I9IG9HFHHH6JKM6HMG6MJNHJK6MHMLIFHMKKNH
+KNII O J9G9HFHH H6JFM6JKM6INF HJF6MJL LIJKJLMGG
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 20 of 54
+
+
+--- PAGE 21 ---
+
+ 
+
+KNKJ O J9H9HFHHH6JHL6GKH6FHKHJH6LGKLINNIHJGK
+KNOI O J9I9HFHH H6KIN6IKF6GMF HKI6NIK LJIGKFGNO
+KOHI O J9J9HFHHH6KMO6OIH6LLOHKM6OOILJMJNHOLK
+KOKG O J9K9HFHH H6LGI6HNM6KNO HLG6IHO LKGNHMKOF
+KOMM O J9L9HFHHH6JHH6MLG6IJIHJH6HMLLKLGNKGIG
+LFHH O J9M9HFHH H6KOI6OOM6HNI HKO6JFF LLFKJIHMF
+LFKN O J9N9HFHHH6LFI6MHM6MKLHLF6IMILLJOFNOHO
+LFNF O J9O9HFHH H6KFG6IJG6NHG HKF6GIJ LLOHNOIHL
+LGFN O J9GF9HFHHH6JOM6FKK6IFMHJO6MFLLMILMJILF
+LGIO O G9G9HFHH G6FFN6IFN6OKI GFF6NIG LMMNNNNOJ
+LGJF O G9H9HFHHOOG6FGH6LHMOO6GFG LMMNNNNOL
+LGJG O G9M9HFHH G6FNG6HNM6LKF GFN6GHO LMMNNNNON
+LGJH O G9GK9HFHHG6LLG6KGF6IKJGLL6GKGLMMNNNOFF
+LGKI O J9GG9HFHH H6JOL6OMO6KHI HJO6LON LMNFMHGON
+LGOJ O J9GH9HFHHH6JHF6MHJ6LIOHJH6FMHLNHJMJNIK
+LHFN O J9GI9HFHH H6IOM6JKI6IOH HIO6MJK LNLNNNOMM
+LHJK O J9GJ9HFHHH6ILG6MJF6MFMHIL6GMJLOGIHGGMH
+LHMO O J9GK9HFHH H6JGL6INH6LHK HJG6LIN LOKMLLNFF
+LIHF O J9GL9HFHHH6JGM6HLL6KMNHJG6MHMMFFHHJHFM
+LIKK O J9GM9HFHH H6IOO6KMI6GNN HIO6OKM MFJLOJOLN
+LIOF O J9GN9HFHHH6FIK6MFG6MIKHFI6KMFMFOGMLIIH
+LJGI O J9GO9HFHH H6GFH6LII6KNF HGF6HLI MGILLGIKL
+LJJH O J9HF9HFHHH6FNJ6NIK6OGHHFN6JNJMGNGLNLHO
+LJOJ O J9HG9HFHH H6GIK6FFK6OJH HGI6KFG MHIFMHOHJ
+LKGF O J9HH9HFHHH6GFK6KFN6JIKHGF6KKGMHMHINHOH
+LKJL O J9HI9HFHH H6GHG6MLM6KJF HGH6GMM MIGONGKMF
+LKLO O J9HJ9HFHHH6GGF6HGL6MHGHGG6FHHMILILFFGM
+LLFL O J9HK9HFHH H6GGM6GNM6JFN HGG6MGO MJFOJJMJF
+LLKI O J9HL9HFHHH6GKN6MJO6NMFHGK6NMKMJKKINHOO
+LLMM O J9HM9HFHH H6GJI6MKI6JHL HGJ6IMK MKFGJOMMM
+LMGG O J9HN9HFHHH6HMN6GOJ6HHOHHM6NGOMKJMLMONF
+LMKK O J9HO9HFHH H6GHK6JIK6MGO HGH6KJJ MKOJFKLKN
+LMOH O J9IF9HFHHG6NMN6OFM6GFMGNM6NOGMLJFJLFNO
+LNFM O K9G9HFHH G6NJF6IIK6IKH GNJ6FIJ MLNLMLLHN
+LNKG O K9H9HFHHG6OLH6LKF6JFGGOL6HLKMMIHNNJJL
+LNMM O K9I9HFHH G6OJH6LKN6IJJ GOJ6HLL MMMOIHMOK
+LOFL O K9J9HFHHG6ONN6NGL6NHKGON6NNHMNHLFJHNO
+LOKJ O K9K9HFHH H6FMI6MFI6JOH HFM6IMF MNMIFHOIG
+LONO O K9L9HFHHG6OLO6MOK6KIMGOL6ONFMOHFGNHGK
+MFGH O K9M9HFHH G6NHL6KGG6MMO GNH6LKG MOLMGJJOO
+MFKH O K9N9HFHHG6NIK6MMH6OGMGNI6KMMNFGJGLMFK
+MFMG O K9O9HFHH G6KOG6JFN6GGH GKO6GJG NFLFNLNGK
+MGHG O K9GF9HFHHG6NLF6GFF6GJGGNL6FGFNGFMIOOJH
+MGKF O K9GG9HFHH G6MOJ6FNO6LFK GMO6JFO NGKIOHILO
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 21 of 54
+
+
+--- PAGE 22 ---
+
+ 
+
+MGNF O K9GH9HFHHH6NLL6NNN6JIIHNL6LNONHFFGMION
+MHGN O K9GI9HFHH I6FLL6OJK6GHG IFL6LOK NHJKIJGKO
+MHKH O K9GJ9HFHHI6FHI6MFK6INFIFH6IMGNHOFMMNML
+MHNJ O K9GK9HFHH I6FKH6MNI6OFM IFK6HMN NIILOMJLF
+MIFK O K9GL9HFHHI6FIH6FKK6HJNIFI6HFLNINIMGIIN
+MIKG O K9GM9HFHH H6OFN6NOL6KIO HOF6NOF NJIFMKJNK
+MIML O K9GN9HFHHH6MNL6NLK6KGHHMN6LNMNJMNGMFKM
+MJGO O K9GO9HFHH H6MHI6MJK6OMH HMH6IMK NKHKNGJML
+MJKH O K9HF9HFHHH6NHN6FMN6LFNHNH6NFNNKMIKMKLL
+MJNK O K9HG9HFHH H6NMM6KOL6GHN HNM6MLF NLHGKKHLK
+MKFK O K9HH9HFHHH6NLF6HIH6OIJHNL6FHINLLOLONIH
+MKJM O K9HI9HFHH H6OHL6FFI6KIM HOH6LFF NMGNGJNOI
+MKLM O K9HJ9HFHHH6OKK6OFN6LOGHOK6KOGNMLLNNFMN
+MLGL O K9HK9HFHH H6OJO6MGJ6HHF HOJ6OMG NNGKMFIJM
+MLJH O K9HL9HFHHH6NMN6ION6NKFHNM6NJFNNLJMKGHF
+MLNH O K9HM9HFHH H6NGO6IMG6MNF HNG6OIM NOGINJNHM
+MMFI O K9HN9HFHHH6KNL6OJL6HHHHKN6LOKNOLHIJKJI
+MMJF O K9HO9HFHH H6LGI6FKJ6LOH HLG6IFK OFGGFFMJI
+MMLI O K9IF9HFHHH6LMO6LFL6GKMHLM6OLGOFLFJJGNK
+MMOH O K9IG9HFHH H6NJN6GJG6MGJ HNJ6NGJ OGGFMIKLG
+MNJL O L9G9HFHHH6NHF6OFI6JMKHNH6FOFOGLHINNNG
+MNMO O L9H9HFHH H6MMK6GHH6NKF HMM6KGH OHGJKHLNF
+MOFG O L9I9HFHHH6NKK6FKK6FIOHNK6KFLOHLLNHHOJ
+MOIG O L9J9HFHH H6NHG6HFI6HHK HNH6GHF OIGNGOIHN
+MOIL O L9K9HFHHH6NKJ6NJH6HIFHNK6JNJOILNKOJIN
+MOLM O L9L9HFHH H6NOL6MOG6OLF HNO6LMO OJGOHJNGN
+MOOM O L9M9HFHHH6NJM6NFG6IHNHNJ6MNFOJMFHJJNI
+NFJF O L9N9HFHH H6NLH6GIJ6JHJ HNL6HGI OKHGJLINJ
+NFMG O L9O9HFHHH6NHJ6MNO6MKJHNH6JMOOKMHOIJMK
+NGFI O L9GF9HFHH H6NNM6KIM6KHL HNN6MKJ OLHJLJIOL
+NGJH O L9GG9HFHHH6NNM6HNL6HOOHNN6MHOOLMLJKMKM
+NGMH O L9GI9HFHH H6MKF6MGF6GJN HMK6FMG OMMONLMKN
+NGOF O L9GJ9HFHHH6JJJ6FMN6JFLHJJ6JFNONIFOHJMO
+NHJG O L9GK9HFHH G6LKH6FIL6JGI GLK6HFJ ONNGOHHIK
+NHMK O L9GL9HFHHG6JOF6NGN6ILFGJO6FNHOOIHNOMGM
+NHOM O L9GM9HFHH G6GNN6KLJ6HJG GGN6NKL OONJFMOIO
+NIJG O L9GN9HFHHG6HFO6HMK6IGJGHF6OHNGFFIKIFFGF
+NIMI O L9GO9HFHH G6HLM6JNG6NLI GHL6MJN GFFNLILLJL
+NIOG O L9HF9HFHHG6JJF6LII6JNLGJJ6FLIGFGIMJNNKL
+NJIF O L9HG9HFHH G6LFM6FIJ6ILH GLF6MFI GFGNNOONML
+NJMH O L9HH9HFHHG6MHL6FGM6FJOGMH6LFHGFHJFOFKJO
+NKFL O L9HI9HFHH G6LMH6KHF6HIF GLM6HKH GFHOHNJMFI
+NKIM O L9HJ9HFHHG6LJL6HHH6FMNGLJ6LHHGFIJKFNIGL
+NKLJ O L9HK9HFHH G6OHO6FIM6MFN GOH6OFJ GFIOMMFJGH
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 22 of 54
+
+
+--- PAGE 23 ---
+
+ 
+
+NKOH O L9HL9HFHHG6NNF6MHJ6LKIGNN6FMHGFJKFKNFOK
+NLHH O L9HM9HFHH G6NNH6JJI6MMG GNN6HJJ GFKFILLFOL
+NLMG O L9HN9HFHHG6ONL6MFG6JJNGON6LMFGFKKLNJLNK
+NLNO O L9HO9HFHH G6OIF6FKL6MMK GOI6FFL GFLGFGJMJF
+NMIL O L9IF9HFHHG6MLG6GMI6NNFGML6GGMGFLLIJMFHJ
+NMLH O M9G9HFHH G6MJO6LGH6HKN GMJ6OLG GFMGLMGJMJ
+NMNM O M9H9HFHHG6MGI6JKM6NHFGMG6IJLGFMMFGKHLG
+NNHI O M9I9HFHH G6LGH6JJO6JMJ GLG6HJK GFNHIMIHGF
+NNLL O M9J9HFHHG6KGJ6IMF6GHIGKG6JIMGFNMMJKOOK
+NNOK O M9K9HFHH G6KFN6IGL6OIK GKF6NIH GFOIGJGOGH
+NOII O M9L9HFHHG6JJM6GHF6IGGGJJ6MGHGFONKLFHKO
+NOMF O M9M9HFHH G6JLJ6NOM6HLK GJL6JOF GGFIOOJLNI
+NONN O M9N9HFHHG6LGL6NLL6FGJGLG6LNMGGFOJKNLKN
+OFHN O M9O9HFHH G6LHL6IHK6JMO GLH6LII GGGJOJNJOL
+OFLO O M9GF9HFHHG6MHN6MMJ6OJHGMH6NMMGGHFJLKHJG
+OGFH O M9GG9HFHH G6LFN6HLL6MLK GLF6NHM GGHKOOGOOH
+OGIJ O M9GH9HFHHG6KMJ6OLF6JKLGKM6JOLGGIGKHIKHN
+OGLM O M9GJ9HFHH G6NMJ6GJJ6ONL GNM6JGJ GGJHLLLLKM
+OGNM O M9GL9HFHHG6LLO6LHJ6JIGGLL6OLHGGKIOIOKNL
+OHKK O M9HF9HFHH G6NML6MGH6KMI GNM6LMG GGMLOINGIH
+OHOI O M9HG9HFHHH6GFF6FOK6FINHGF6FGFGGNHMMIIOF
+OIII O M9HL9HFHH G6LGJ6GGL6NFH GLG6JGH GHGHGNJNII
+OILL O M9HN9HFHHG6LOF6NLF6OJNGLO6FNLGHHJFHJIML
+OINJ O N9G9HFHH H6FKF6JGF6GHF HFK6FJG GHJNGMOIGF
+OJGN O N9J9HFHHG6OGG6JHO6KLMGOG6GJIGHLLKFMLLO
+OJLF O N9N9HFHH H6GHG6GMH6OLH HGH6GGM GHOGIGNFLG
+OJOO O N9GM9HFHHH6JLM6GLJ6OOHHJL6MGLGIJNIJFIFJ
+OKHM O N9HF9HFHH H6GKN6NIH6LGN HGK6NNI GILMMHOMIK
+OKLI O N9HM9HFHHH6GOK6KOG6FINHGO6KKOGJGILKJMGK
+OLFF O N9HN9HFHH H6HFM6JNM6FHN HHF6MJO GJHFGOIKGI
+OLIH O N9HO9HFHHH6HJJ6NGN6NGFHHJ6JNHGJHLONNJOI
+OLLL O N9IF9HFHH H6GFH6OJG6HON HGF6HOJ GJIIKKKKOJ
+OLOO O N9IG9HFHHH6GHH6JGH6NIHHGH6HJGGJJFGKGOJH
+OMIH O O9G9HFHH H6GHM6MLF6NGO HGH6MML GJJLJNOHJM
+OMLK O O9H9HFHHH6GKM6FGH6MJHHGK6MFGGJKIKMIHGF
+OMON O O9I9HFHH H6GIM6KKJ6MFG HGI6MKK GJKONMFIKF
+ONIF O O9J9HFHHH6GJN6GJN6LKFHGJ6NGKGJLMIKJILH
+ONLJ O O9K9HFHH H6GIH6LJM6JJJ HGI6HLK GJMJFIJNNO
+ONOM O O9L9HFHHH6HLL6HOO6FMNHHL6LIFGJNFJLOJGH
+OOHM O O9M9HFHH H6IMG6OKK6LGN HIM6GOL GJNMJJJMHH
+OOLH O O9N9HFHHH6KLM6NGF6MOOHKL6MNGGJOJGKGFOK
+OOOK O O9O9HFHH H6LIL6FKI6KOJ HLI6LFK GKFFNNJMJL
+GFFHN O O9GF9HFHHH6MIG6MOO6ILJHMI6GNFGKFMLLNIOK
+GFFLF O O9GG9HFHH H6NHF6JIH6FNI HNH6FJI GKGJJLMNHH
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 23 of 54
+
+
+--- PAGE 24 ---
+
+ 
+
+GFFNN O O9GH9HFHHH6NLK6GOG6JJKHNL6KGOGKHGHOIOML
+GFGHM O O9GI9HFHH H6NLN6NNL6KMK HNL6NNO GKHNGHKNHI
+GFGLG O O9GJ9HFHHH6OHM6NOK6LLFHOH6MOFGKIJONHNMI
+GFGOI O O9GK9HFHH I6FFM6FHM6HLH IFF6MFI GKJGNGHFGI
+GFHHL O O9GL9HFHHH6OIJ6IIF6JOLHOI6JIIGKJNLJGJIH
+GFHKO O O9GM9HFHH H6NOL6LOM6JIO HNO6LMF GKKKKIKJFJ
+GFHOH O O9GN9HFHHH6OII6KKL6NNJHOI6IKLGKLHMGKOGK
+GFIHI O O9GO9HFHH I6FJH6FNK6NOG IFJ6HFO GKLOOIGFOG
+GFIKM O O9HF9HFHHI6GMH6KKG6JHLIGM6HKKGKMMGIONMG
+GFINM O O9HG9HFHH I6GIJ6KKN6MIO IGI6JKL GKNJIMLOHO
+GFJHK O O9HH9HFHHI6GOK6GIO6LHFIGO6KGJGKOGLHMHJO
+GFJKN O O9HI9HFHH I6IJO6JGL6MHH IIJ6OJH GKONNNKHJO
+GFJNH O O9HJ9HFHHI6JJI6MGM6IFJIJJ6IMHGLFLGMKJMF
+GFKHI O O9HK9HFHH I6JKK6KOH6OML IJK6KKO GLGIKHONJF
+GFKKM O O9HL9HFHHI6KGO6HHM6LFIIKG6OHIGLHFOIIJOI
+GFMMH O O9HM9HFHH I6LJJ6FOI6FGO ILJ6JFO GLHNIGLOJO
+GGFGN O O9HN9HFHHI6LIL6IMH6NMNILI6LIMGLIKMLNKHK
+GGHMJ O O9HO9HFHH I6OGF6NMK6IOJ IOG6FNN GLJIGONGFH
+GGLKH O O9IF9HFHHI6NLK6IJN6LFFINL6KIKGLKFLMJLMF
+GHFLM O GF9G9HFHH J6HII6LMM6MII JHI6ILN GLKNGMGLFO
+GHHKF O GF9H9HFHHJ6HHM6NLL6ILKJHH6MNMGLLKLONGJL
+GHLMJ O GF9I9HFHH J6FKH6JKN6KHI JFK6HJL GLMIHFOKJO
+GIGKN O GF9J9HFHHJ6HIG6KIO6LKMJHI6GKJGLNFMHININ
+GIHNJ O GF9K9HFHH J6JHH6GNO6HFN JJH6HGO GLNMOLIIKI
+GILJM O GF9L9HFHHJ6ILN6JIJ6MLLJIL6NJIGLOKNIGGGM
+GIOLK O GF9M9HFHH J6IIH6FON6IGL JII6HGF GMFIJFHOJH
+GJIOG O GF9N9HFHHJ6GIL6OOH6HKKJGI6LOOGMGFOMNGFG
+GJLIN O GF9O9HFHH J6HKM6JLO6HHJ JHK6MJM GMGNHKIGLG
+GJNLO O GF9GF9HFHHJ6HON6HHM6LLJJHO6NHIGMHLGNNOGN
+GKIOM O GF9GG9HFHH J6GNF6LOG6NGF JGN6FLO GMIINHJNIJ
+GKLGO O GF9GH9HFHHJ6JLL6OGG6FKJJJL6LOGGMJGJKOIKL
+GLGFK O GF9GI9HFHH J6HIO6MFM6LOL JHI6OMG GMJNNFKJIL
+GLJFM O GF9GJ9HFHHJ6KHG6HLL6HJMJKH6GHMGMKLMNJJIL
+GLLGG O GF9GK9HFHH J6GFF6MIG6OKF JGF6FMI GMLJJKMNHG
+GMFGO O GF9GL9HFHHJ6FMK6MMH6FJLJFM6KMMGMMHFKKFLJ
+GMJIG O GF9GM9HFHH J6GLK6LOI6HJK JGL6KLO GMMONLLMOM
+GMKGL O GF9GN9HFHHJ6KLM6KHN6LNIJKL6MKIGMNMKLIKHO
+GMOJH O GF9GO9HFHH J6HJJ6NML6GIO JHJ6JNN GMOKIMFNMI
+GNHMM O GF9HF9HFHHJ6HHN6JIL6KGKJHH6NJJGNFIGIGLGG
+GNLMN O GF9HG9HFHH J6HJJ6GLO6HOF JHJ6JGM GNGFNNLHHN
+GNOJL O GF9HH9HFHHJ6IFN6FLN6HNNJIF6NFMGNGNLMKGFF
+GOIJF O GF9HI9HFHH J6IGK6MKL6KNF JIG6KML GNHLKFNJKM
+GOMGH O GF9HJ9HFHHJ6IOH6OKL6FNLJIO6HOLGNIJIIHJLK
+HFFMN O GF9HK9HFHH J6ILF6JHO6MMH JIL6FJI GNJHGMHGHH
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 24 of 54
+
+
+--- PAGE 25 ---
+
+ 
+
+HFJFO O GF9HL9HFHHJ6KLK6OIM6OFHJKL6KOJGNKFFIOGFK
+HFNFO O GF9HM9HFHH J6OFJ6JNK6IMH JOF6JJO GNKMOLHNHO
+HGGOI O GF9HN9HFHHJ6MFK6LHI6MNNJMF6KLHGNLKNOLMGH
+HGKLI O GF9HO9HFHH J6JLK6KMH6NGF JJL6KKM GNMINLKGNM
+HGMLM O GF9IF9HFHHJ6LIJ6KLO6KGLJLI6JKMGNNGNNGMFL
+HHHFJ O GF9IG9HFHH J6KJG6GLO6KHJ JKJ6GGM GNNONOIKNN
+HHKIG O GG9G9HFHHJ6LKF6JJL6NLHJLK6FJKGNOMOGLKFH
+HIFFO O GG9H9HFHH I6OMM6MGK6NKO IOM6MMH GOFKOJOJMF
+HIIOG O GG9I9HFHHI6LMG6HIN6OLFILM6GHJGOGIOOGHGK
+HILKK O GG9J9HFHH I6KKH6JHJ6OOH IKK6HJH GOHGMFNNNH
+HIOOL O GG9K9HFHHI6JMO6MJL6FIHIJM6OMKGOIFGFKGOI
+HJIKO O GG9L9HFHH I6JMN6OML6FOI IJM6NON GOINHIOJGJ
+HJLOK O GG9M9HFHHI6NGJ6HIM6JOMING6JHJGOJLHGNLKO
+HKFNN O GG9N9HFHH I6OKJ6FGG6JGL IOK6JFG GOKIHLFLKL
+HKJHN O GG9O9HFHHI6KMM6JII6JNMIKM6MJIGOLFHJIJJM
+HKNHJ O GG9GF9HFHH I6HHO6KIL6LMO IHH6OKJ GOLLFMFJNL
+HLFLI O GG9GG9HFHHI6KJJ6NGN6HJNIKJ6JNHGOMGIFMLGL
+HLFOH O GG9GH9HFHH I6MHJ6OKK6JGM IMH6JOL GOMHKMOJGH
+
+ 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 25 of 54
+
+
+--- PAGE 26 ---
+
+##!*&>791,4;),6>0<66..9>8=<@.6>/4826,70/,
+,8/'*19;=30948<(&'',8/(&'
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 26 of 54
+
+
+--- PAGE 27 ---
+
+ 
+
+##!*,=,-,<0$>0;40<19;=303,;=91::08/4@
+
+
+
+
+K6NJH6GLH6IMI8GH
+
+
+
+J6KIO6KHJ6HFN8IH
+
+&&)/(.-
+
+K6NJH6GLH6IMI8GH 
+*).,!#((&*).,!#((#(!/./,-.,#(!
+
+J6KIO6KHJ6HFN8IH MNR
+).=*).,!#((&*).,!#((#(!/./,-.,#(!>
+
+G6IFH6LIN6GLJ8NF HHR
+  
+
+(#&&#)(-   
+   
+*).,!#((&*).,!#((#(!/./,-.,#(! CJ8KJ 
+).=*).,!#((&*).,!#((#(!/./,-.,#(!> CG8IF 
+=-#4?)#(-8**,)2< #,>*/&#8&(-
+
+
+)#(-)()#(<#S)#(-8#
+	
+)#(<#
+=G6JI6JJ6JK>
+
+ĂĐĐŽƵŶƚͺŝĚEKd/E;ϵ͕ϭϮϲϲϳϮϲ͕ϭϮϴϯϭϭϰ͕ϭϮϴϯϭϰϴ͕ϭϯϬϬϱϵϬ͕͙΀ƚƌƵŶĐĂƚĞĚ΁Ϳ
+=-#4?)#(-8**,)2< #,>-().#)(&*/&#8&(-
+
+
+)#(-)()#(<#S)#(-8#
+
+
+)/(.-)()/(.<#S)/(.-8#
+	
+)#(<#
+=G6JI6JJ6JK>
+
+=)/(.-8-*).<',!#(<(&S
+)/(.-8-*).<',!#(<&(#(!<(&S
+)/(.<#
+=
+
+=)/(.<#>*/&#8*)-#.#)(-
+	(.<-#45SF>>
+
+ĂĐĐŽƵŶƚͺŝĚEKd/E;ϵ͕ϭϮϲϲϳϮϲ͕ϭϮϴϯϭϭϰ͕ϭϮϴϯϭϰϴ͕ϭϯϬϬϱϵϬ͕͙΀ƚƌƵŶĐĂƚĞĚ΁Ϳ
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 27 of 54
+
+
+--- PAGE 28 ---
+
+ 
+
+
+##!*6,70/,,8/'*,..9>8=<
+&')/(.- #(#.#)( ,)';GFFK
+
+	
+
+
+   
+  
+O#( )A&';,-,"8)'/."F:KM NLKGNGFFL
+GHLLMHL #( )A&';,-,"8)'9-/ /."F:KM NLKGNGFFL
+GHNIGGJ#( )A&';,-,"8)'7 /. /.7/."F:KGMKIKMIJLFGGOH 
+GHNIGJN #( )A&';,-,"8)'7 /.9.-.  /.7/."F:KGMKIKMIJLFGGOH 
+GIFFKOF#( )A&';,-,"8)'9< ..<#)/."F:KM NLKGNGFFL
+GIILKHN #( )A&';,-,"8)'9< ..<)''/(#.3<#) /."F:KM NLKGNGFFL
+GIJLJHH#( )A&';,-,"8)'9.-.<-//."F:KM NLKGNGFFL
+GJFKIGF )..)(!,)0.,#(!A!'#&8)' /."F:KI HMOHGGFOHFIJN
+GJGMFMJ#( )A&';,-,"8)'9)  <',%.< ../."F:KM NLKGNGFFL
+GJGNGJK )..)(!,)0.,#(!A!'#&8)'9)  <',%.< .. /."F:KI HMOHGGFOHFIJN
+GKFKOLM#( )A&';,-,"8)'9&#+/#.#)(/."F:KM NLKGNGFFL
+GKLGMMN #( )A&';,-,"8)'9..&)3& /."F:KM NLKGNGFFL
+GLNGJMK#( )A&';,-,"8)'9<.<&.<(41 (3+2/."F:KM NLKGNGFFL
+GMLINKM #( )A&';,-,"8)'9;
+
+ /."F:KM NLKGNGFFL
+GNMNLJG#( )A&';,-,"8)'9"#!"&0,!/."F:KM NLKGNGFFL
+HFKLJMN #( )A&';,-,"8)'90)/", /."F:KM NLKGNGFFL
+HFLHHOH#( )A&';,-,"8)'9)'*.#.#)(/."F:KM NLKGNGFFL
+HGIMOJH #( )A&';,-,"8)'9	*#.&)'*.#.#)( /."F:KM NLKGNGFFL
+IHJJFJM-*).< -<*(& 
+IHNKIFL #( )A&';,-,"8)'9.,3 /."F:KM NLKGNGFFL
+IJJOMON#( )A&';,-,"8)'9"2,)<#(.,-./."F:KM NLKGNGFFL
+IMJOJMJ #( )A&';,-,"8)'91 /."F:KM NLKGNGFFL
+INLOFKH.)%(<!,)/*<)/(.,*,.3 
+INNFLHO 0(./,-A&';,-,"8)' /."F:K GLJFNNONFFGO MFL
+JIIMJGO#( )A&';,-,"8)'9;
+/."F:KM NLKGNGFFL
+JJIMMFH -,/'<'#(., 
+JOFGJLH'-,' 
+KHMOOLM #( )A&';,-,"8)'9
+(0-.'(.- /."F:KM NLKGNGFFL
+KKOJLMG#( )A&';,-,"8)'9)%/."F:KM NLKGNGFFL
+KMHNGIN 2*(--A*,)$.-,/'8)' /-,:2*(--A*,)$.-,/'8)'
+KOILONI#( )A&';,-,"8)'9.1*/."F:KM NLKGNGFFL
+LIJIFJK -.%#(!<*3,< 
+LIJIFLH-.%#(!<*3,< 
+LIJIFMO -.%#(!<*3,<<
+LIJIFOL-.%#(!<*3,<<
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 28 of 54
+
+
+--- PAGE 29 ---
+
+ 
+
+LIJIGGI -.%#(!<*3,< 
+LLFFJML#( )A&';,-,"8)'9<&<*,.<G/."F:KM NLKGNGFFL
+LLFFJOI #( )A&';,-,"8)'9<&<*,.<H /."F:KM NLKGNGFFL
+LLFFLGH#( )A&';,-,"8)'9<&<*,.<I/."F:KM NLKGNGFFL
+LMHILFM  .2A,3*.)&)./-8)' /-,: .2A,3*.)&)./-8)'
+LMJFLHJ#( )A&';,-,"8)'9/."F:KM NLKGNGFFL
+LNMONFI #( )A&';,-,"8)'9<&<*,.<J /."F:KM NLKGNGFFL
+LNNFJLL'*-</(&)%, 
+LNNJKOM -,'</(&)%, 
+LNNNLMM #</(&)%, 
+MFHFFKI 0(./,-A&';,-,"8)'9#(0-.'(.- /."F:K GLJFNNONFFGO MFL
+MGNJLON-.%#(!<*3,<
+ 
+MHMNJGO #( )A&';,-,"8)'9*,#0.G /."F:KM NLKGNGFFL
+MKHMLFK,0,.<&)%<,1,- 
+NIGGLGG #( )A&';,-,"8)'9.-. /."F:KM NLKGNGFFL
+NNKMFHH#( )A&';,-,"8)'9-*).< <)./."F:KM NLKGNGFFL
+GGGJOJHG #( )A&';,-,"8)'9<G<&.<"0&*!!*#- /."F:KM NLKGNGFFL
+GHNNOJHH
+#( )A&';
+,-,"8)'9<H<&.<*/ ! !//."F:KM NLKGNGFFL
+GHOOIKIF
+#( )A&';
+,-,"8)'9<I<&.<30/(3+4'1*1 /."F:KM NLKGNGFFL
+GIFHLMJN#( )A&';,-,"8)'9),,)1#(!<G/."F:KM NLKGNGFFL
+GIGIGILL -.%#(!<*3,< 
+GIHFIOMI
+#( )A&';
+,-,"8)'9<"&&)<&.<-"!*%/4!1#0&/."F:KM NLKGNGFFL
+GIHKHOII 2*(--A*,)$.-,/'8)'9-,'< ),< ..<-.%,- /-,:2*(--A*,)$.-,/'8)'
+GILJHNLH#( )A&';,-,"8)'9H&./."F:KM NLKGNGFFL
+GJKHKLHG '#</(&)%, 
+GJKNHKFI*3*& 
+GKFOMGJJ -.%#(!<*3,< 
+GMGOLOII#( )A&';,-,"8)'9&#(&#0,3/."F:KM NLKGNGFFL
+GMJOJMMI #( )A&';,-,"8)'9<&#(H<&.<*)&).) ", 0)/."F:KM NLKGNGFFL
+GMKLNJFF#( )A&';,-,"8)'9&#0,3/."F:KM NLKGNGFFL
+GMMMOHFF #( )A&';,-,"8)'9')<-/ /."F:KM NLKGNGFFL
+GMMOOIHN#( )A&';,-,"8)'9')<),,)1/."F:KM NLKGNGFFL
+GNGGMHMO #( )A&';,-,"8)'9HFHG<+G<&)-)/. /."F:KM NLKGNGFFL
+GNGHGKOM0<&(<)(0,-#)( 
+GNGIHJLF #( )A&';,-,"8)'9-*&;,#! /."F:KM NLKGNGFFL
+GNMFOMOM#( )A&';,-,"8)'9&#(I/."F:KM NLKGNGFFL
+GOFIIGNN #( )A&';,-,"8)'9&#(J /."F:KM NLKGNGFFL
+GOGKHNNK#( )A&';,-,"8)'9)23/."F:KM NLKGNGFFL
+HFGHNLKG #( )A&';,-,"8)'9,'* /."F:KM NLKGNGFFL
+HKILHJJG#( )A&';,-,"8)'9()(</-<)(0,./."F:KM NLKGNGFFL
+HKNMOIHL #( )A&';,-,"8)'9',<#) /."F:KM NLKGNGFFL
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 29 of 54
+
+
+--- PAGE 30 ---
+
+ 
+
+HLFHFGFI#( )A&';,-,"8)'9).<*),.&< -/."F:KM NLKGNGFFL
+HLFOOHHG #( )A&';,-,"8)'9(1<-/ /."F:KM NLKGNGFFL
+HLKGJIJJ)..)(!,)0.,#(!A!'#&8)'9*3."<*)-#./."F:KI HMOHGGFOHFIJN
+HLLOMGLH #( )A&';,-,"8)'9	
+ /."F:KM NLKGNGFFL
+HLOOMLNN#( )A&';,-,"8)'9(!</."F:KM NLKGNGFFL
+HOJNFMKO #( )A&';,-,"8)'9&'<*3."<*,-& /."F:KM NLKGNGFFL
+IFFMKGLJ#( )A&';,-,"8)'9-/(<)(0,-#)(/."F:KM NLKGNGFFL
+IGFHOMJN #( )A&';,-,"8)'9-&,-<#) /."F:KM NLKGNGFFL
+IGLOJLKH#( )A&';,-,"8)'9#(0-.'(./."F:KM NLKGNGFFL
+IJGJKMHO #( )A&';,-,"8)'9/&#<13 /."F:KM NLKGNGFFL
+IKGMIGKN#( )A&';,-,"8)'9-)&&.H/."F:KM NLKGNGFFL
+IKGMIHFO #( )A&';,-,"8)'9-)&&.I /."F:KM NLKGNGFFL
+IKGMMMIG#( )A&';,-,"8)'9-)&&.J/."F:KM NLKGNGFFL
+IKGMMMJN #( )A&';,-,"8)'9-)&&.K /."F:KM NLKGNGFFL
+IKGMMMLK#( )A&';,-,"8)'9-)&&.L/."F:KM NLKGNGFFL
+IKGMMMOO #( )A&';,-,"8)'9-)&&.M /."F:KM NLKGNGFFL
+IKGMMNLM#( )A&';,-,"8)'9GFK<-)&&.N/."F:KM NLKGNGFFL
+IKGMMNNJ #( )A&';,-,"8)'9GFJ<-)&&.O /."F:KM NLKGNGFFL
+IMHOOLNN#( )A&';,-,"8)'9(1<)#(/."F:KM NLKGNGFFL
+IMNFHHHK #( )A&';,-,"8)'9.&-<#) /."F:KM NLKGNGFFL
+JGKOFOLJ**,<#, 
+JIKNIOHK #( )A&';,-,"8)'9-,/'GI /."F:KM NLKGNGFFL
+JIKNJFHM#( )A&';,-,"8)'9#,)* ),/."F:KM NLKGNGFFL
+JIKNJFOK #( )A&';,-,"8)'9-,/'GK /."F:KM NLKGNGFFL
+JMNKOHMH#( )A&';,-,"8)'9<%#(!/."F:KM NLKGNGFFL
+JMNKOOIK #( )A&';,-,"8)'9< #( #(.3 /."F:KM NLKGNGFFL
+JMNLGJGJ#( )A&';,-,"8)'9<#($/."F:KM NLKGNGFFL
+JNHKJILO #( )A&';,-,"8)'9(<1"#,& /."F:KM NLKGNGFFL
+JOKJMMHO#( )A&';,-,"8)'91./."F:KM NLKGNGFFL
+JOMIKNLN #( )A&';,-,"8)'9,--#!( /."F:KM NLKGNGFFL
+KKONMOHJ'! 
+KLJGLJHL 2*(--A*,)$.-,/'8)'9#  /-,:2*(--A*,)$.-,/'8)'
+KNJFLJHO#( )A&';,-,"8)'9G/."F:KM NLKGNGFFL
+KNJFLJOM #( )A&';,-,"8)'9H /."F:KM NLKGNGFFL
+KNJFLMNL#( )A&';,-,"8)'9I/."F:KM NLKGNGFFL
+KNKHNJKK 2*(--A*,)$.-,/'8)'9)-,/'<!,(.- /-,:2*(--A*,)$.-,/'8)'
+LHGFLMFF2*(--A*,)$.-,/'8)'9# <#(0-.'(.-/-,:2*(--A*,)$.-,/'8)'
+LHJIIFGK #( )A&';,-,"8)'9)% /."F:KM NLKGNGFFL
+LIJJLJNM#( )A&';,-,"8)'9.'*/."F:KM NLKGNGFFL
+LJMKNKIF #( )A&';,-,"8)'9-..&'(. /."F:KM NLKGNGFFL
+LLJKFMLG#( )A&';,-,"8)'9#((< <)/(./."F:KM NLKGNGFFL
+LMLGNMGH #( )A&';,-,"8)'9,*,!#(/ /."F:KM NLKGNGFFL
+MHLLOILG#( )A&';,-,"8)'9-)&<&)(/."F:KM NLKGNGFFL
+MHLLOKIG -)&<&)( 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 30 of 54
+
+
+--- PAGE 31 ---
+
+ 
+
+MIHNGOIO**,#,A .28)' /-,:**,#,A .28)'
+MLJHKHIO #( )A&';,-,"8)'9,(, /."F:KM NLKGNGFFL
+MMIGOMLH
+#( )A&';
+,-,"8)'9<)<().<,/-<&.<#"2.)2")*/."F:KM NLKGNGFFL
+MOJJHNKN #( )A&';,-,"8)'9*-3<#) /."F:KM NLKGNGFFL
+MOOJMLOF#( )A&';,-,"8)'9HGO/."F:KM NLKGNGFFL
+NGHOFFMN #( )A&';,-,"8)'9-.." /."F:KM NLKGNGFFL
+NGHOKFOI#( )A&';,-,"8)'9-.."H/."F:KM NLKGNGFFL
+NGOHIMFH
+#( )A&';
+,-,"8)'9<G(.)(<&.<-/, +**1,$ /."F:KM NLKGNGFFL
+NGOLOLMF#( )A&';,-,"8)'9HFH/."F:KM NLKGNGFFL
+NGOMGMLG #( )A&';,-,"8)'9HGG /."F:KM NLKGNGFFL
+NIFJGNMM#( )A&';,-,"8)'9HMJ/."F:KM NLKGNGFFL
+NIFLJLOG #( )A&';,-,"8)'9OI /."F:KM NLKGNGFFL
+NIGHIJMM#( )A&';,-,"8)'9<G<&.<%% 0*&()00/."F:KM NLKGNGFFL
+NIHKLJIJ #( )A&';,-,"8)'9*,)').#)( /."F:KM NLKGNGFFL
+NJFOJMMH#( )A&';,-,"8)'9&#44)&&.,&/."F:KM NLKGNGFFL
+NJMFIMGH #( )A&';,-,"8)'9.-.<FG /."F:KM NLKGNGFFL
+NLLIMMGM#( )A&';,-,"8)'9HGK/."F:KM NLKGNGFFL
+NMJJOJII #( )A&';,-,"8)'9HFI /."F:KM NLKGNGFFL
+NMKJGMMM#( )A&';,-,"8)'9/."F:KM NLKGNGFFL
+OGLMNFLJ #( )A&';,-,"8)'9HFN /."F:KM NLKGNGFFL
+OIHOMLNN
+#( )A&';
+,-,"8)'9<GFL<&.<"2++0(4%!/."F:KM NLKGNGFFL
+OKGOOJOK #( )A&';,-,"8)'9',.1* /."F:KM NLKGNGFFL
+OLHLMOMO2*(--A*,)$.-,/'8)'9# <#(0-.),<#-/,-'(.-/-,:2*(--A*,)$.-,/'8)'
+OLMJIIII #( )A&';,-,"8)'9HGI /."F:KM NLKGNGFFL
+OLNJMMIF#( )A&';,-,"8)'9HHF/."F:KM NLKGNGFFL
+OLNKNJHI #( )A&';,-,"8)'9 <,1,<*3'(.- /."F:KM NLKGNGFFL
+OMHIJOHH#( )A&';,-,"8)'9#(#<#)<.#%.<*3)/./."F:KM NLKGNGFFL
+OMJFLJIK #( )A&';,-,"8)'9
+(# /."F:KM NLKGNGFFL
+ONFKKFMF#( )A&';,-,"8)'93#./."F:KM NLKGNGFFL
+ONMOLGLN #( )A&';,-,"8)'9-*&& /."F:KM NLKGNGFFL
+OOHJJGGN#( )A&';,-,"8)'9/."F:KM NLKGNGFFL
+OOKNKFKI #( )A&';,-,"8)'9G /."F:KM NLKGNGFFL
+OOKNKFMF#( )A&';,-,"8)'9H/."F:KM NLKGNGFFL
+OOKNKFNM #( )A&';,-,"8)'9I /."F:KM NLKGNGFFL
+OOKNKGFJ#( )A&';,-,"8)'9J/."F:KM NLKGNGFFL
+OONFILKL #( )A&';,-,"8)'9H2<#) /."F:KM NLKGNGFFL
+GFGIHGOFO#( )A&';,-,"8)'9-.,!./."F:KM NLKGNGFFL
+GFGKNJOGL #( )A&';,-,"8)'9HII /."F:KM NLKGNGFFL
+GFGMNLFOJ#( )A&';,-,"8)'9-#&0,!./."F:KM NLKGNGFFL
+GFGNGOHGF #( )A&';,-,"8)'9,*3'(. /."F:KM NLKGNGFFL
+GFGNMLHOL#( )A&';,-,"8)'9HFG/."F:KM NLKGNGFFL
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 31 of 54
+
+
+--- PAGE 32 ---
+
+ 
+
+GFHMJKMGF #( )A&';,-,"8)'9-)&- /."F:KM NLKGNGFFL
+GFHMJKMOK#( )A&';,-,"8)'9&)10(./,-/."F:KM NLKGNGFFL
+GFHOKNJNH #( )A&';,-,"8)'9HIG /."F:KM NLKGNGFFL
+GFHOKONKO#( )A&';,-,"8)'9HIH/."F:KM NLKGNGFFL
+GFIHMGKIM #( )A&';,-,"8)'9G()( /."F:KM NLKGNGFFL
+GFIHMIIOF#( )A&';,-,"8)'9H()(/."F:KM NLKGNGFFL
+GFINIHHNH #( )A&';,-,"8)'9$*(<&#+/#.#( /."F:KM NLKGNGFFL
+GFJINOKOI#( )A&';,-,"8)'9*)&3!)(.1*/."F:KM NLKGNGFFL
+GFOGIGGOO #( )A&';,-,"8)'9HHK /."F:KM NLKGNGFFL
+GGJJLNNOI#( )A&';,-,"8)'9/&&.&-/."F:KM NLKGNGFFL
+GGJMKKNNM #( )A&';,-,"8)'9HHN /."F:KM NLKGNGFFL
+GGJMONIKI#( )A&';,-,"8)'9./,%3/."F:KM NLKGNGFFL
+GGKINLHON #( )A&';,-,"8)'9HFM /."F:KM NLKGNGFFL
+GGKKINLNL#( )A&';,-,"8)'9%(<&#+/#.#)(-/."F:KM NLKGNGFFL
+GGLFMLKIH #( )A&';,-,"8)'9HIL /."F:KM NLKGNGFFL
+GGLHJIIGO#( )A&';,-,"8)'9HIM/."F:KM NLKGNGFFL
+GGMIFNJFI #( )A&';,-,"8)'9HHL /."F:KM NLKGNGFFL
+GGMNFOKLI#( )A&';,-,"8)'9<J<&.<" *12.0,1#!/."F:KM NLKGNGFFL
+GGOOMGMML #( )A&';,-,"8)'9HNH /."F:KM NLKGNGFFL
+GGOOMGNGF#( )A&';,-,"8)'9HNN/."F:KM NLKGNGFFL
+GGOOMOHMI #( )A&';,-,"8)'9HOI /."F:KM NLKGNGFFL
+GGOOMOIMK#( )A&';,-,"8)'9HNL/."F:KM NLKGNGFFL
+GHFILJMIG #( )A&';,-,"8)'9HGF /."F:KM NLKGNGFFL
+GHFLOHGIJ#( )A&';,-,"8)'9HOF/."F:KM NLKGNGFFL
+GHFMOFJLH #( )A&';,-,"8)'9HIF /."F:KM NLKGNGFFL
+GHGKLKOLN#( )A&';,-,"8)'9/."F:KM NLKGNGFFL
+GHIFFLIJJ
+#( )A&';
+,-,"8)'9<.#)<&.<%,$%)$ /** /."F:KM NLKGNGFFL
+GHLJGJOHO#( )A&';,-,"8)'9HJF/."F:KM NLKGNGFFL
+GHLOKGOOI #( )A&';,-,"8)'9HIN /."F:KM NLKGNGFFL
+GHLOKHIKF
+#( )A&';
+,-,"8)'9<HIN<H<&.<3('-)$4-/."F:KM NLKGNGFFL
+GHMFNFHFM
+#( )A&';
+,-,"8)'9<HIN<I<&.<,+)+ 21) /."F:KM NLKGNGFFL
+GHMGFFMOJ
+#( )A&';
+,-,"8)'9<HIN<J<&.<!+2$!',2#/&/."F:KM NLKGNGFFL
+GHMGFFOON
+#( )A&';
+,-,"8)'9<HIN<K<&.<(!/$//! ( /."F:KM NLKGNGFFL
+GHMGFGGLN
+#( )A&';
+,-,"8)'9<HIN<L<&.<&'"&1'#-*! (/."F:KM NLKGNGFFL
+GHMGINLGO #( )A&';,-,"8)'9'# /."F:KM NLKGNGFFL
+GHMIIHKHG
+#( )A&';
+,-,"8)'9<GFN<&.<#1411%-1-,,/."F:KM NLKGNGFFL
+GHMKNKOFL
+#( )A&';
+,-,"8)'9<.-.<FH<&.<0$*'* , 4-/ /."F:KM NLKGNGFFL
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 32 of 54
+
+
+--- PAGE 33 ---
+
+ 
+
+GHMMMHMKI#( )A&';,-,"8)'9HLG/."F:KM NLKGNGFFL
+GHMMMLMLK #( )A&';,-,"8)'9HLH /."F:KM NLKGNGFFL
+GHMNMFJNL#( )A&';,-,"8)'9GFN</."F:KM NLKGNGFFL
+GHMNMFLMI #( )A&';,-,"8)'95>? /."F:KM NLKGNGFFL
+GHNKIJFGI#( )A&';,-,"8)'9HLM/."F:KM NLKGNGFFL
+GHNLGFIMM #( )A&';,-,"8)'9HOM /."F:KM NLKGNGFFL
+GHNLGIKOF#( )A&';,-,"8)'9HGM/."F:KM NLKGNGFFL
+GHNOGIOLI #( )A&';,-,"8)'9HHM /."F:KM NLKGNGFFL
+GHOFHHNOO#( )A&';,-,"8)'9HKK<-)&(H/."F:KM NLKGNGFFL
+GHOFHJHHK #( )A&';,-,"8)'9HKL /."F:KM NLKGNGFFL
+GHOFHJJOM#( )A&';,-,"8)'9HKM/."F:KM NLKGNGFFL
+GHOGNOFMJ #( )A&';,-,"8)'9HKO /."F:KM NLKGNGFFL
+GHOGOLMOH#( )A&';,-,"8)'9HHH/."F:KM NLKGNGFFL
+GHOGOMKMJ #( )A&';,-,"8)'9HJO /."F:KM NLKGNGFFL
+GHOHHHFNN#( )A&';,-,"8)'9HGJ/."F:KM NLKGNGFFL
+GHOHHMMLL #( )A&';,-,"8)'9OJ /."F:KM NLKGNGFFL
+GHOHIGJKK#( )A&';,-,"8)'9<GHG<&.<(04-#*&-4//."F:KM NLKGNGFFL
+GHOHKNOHM #( )A&';,-,"8)'9HFJ /."F:KM NLKGNGFFL
+GHOHMKLIN#( )A&';,-,"8)'9HLO/."F:KM NLKGNGFFL
+GHOJINLFF #( )A&';,-,"8)'9HIO /."F:KM NLKGNGFFL
+GHOJKLMIO#( )A&';,-,"8)'9HKN/."F:KM NLKGNGFFL
+GHOJLMHGG #( )A&';,-,"8)'9HLK /."F:KM NLKGNGFFL
+GHOJMJOJL#( )A&';,-,"8)'9HLJ/."F:KM NLKGNGFFL
+GHOJMMGMI #( )A&';,-,"8)'9HLL /."F:KM NLKGNGFFL
+GHOJNJHMO#( )A&';,-,"8)'9HLN/."F:KM NLKGNGFFL
+GHOJNKOHN #( )A&';,-,"8)'9HMI /."F:KM NLKGNGFFL
+GHOKFHKIM#( )A&';,-,"8)'9HML/."F:KM NLKGNGFFL
+GHOKFJOFF #( )A&';,-,"8)'9HMM /."F:KM NLKGNGFFL
+GHOKFONON#( )A&';,-,"8)'9HMO/."F:KM NLKGNGFFL
+GHOLFKNNF
+#( )A&';
+,-,"8)'9<HIN<M<&.<$,/""-"&,% /."F:KM NLKGNGFFL
+GHOLFKOGJ
+#( )A&';
+,-,"8)'9<HIN<N<&.<-(*(!!-"/."F:KM NLKGNGFFL
+GHOLFLOLN
+#( )A&';
+,-,"8)'9<HIN<O<&.<+&0.0#")4./ /."F:KM NLKGNGFFL
+GHOLJLKJJ#( )A&';,-,"8)'9HIN<G/."F:KM NLKGNGFFL
+GHONIKHLG #( )A&';,-,"8)'9HJK /."F:KM NLKGNGFFL
+GHONIKIOM#( )A&';,-,"8)'9HOG/."F:KM NLKGNGFFL
+GHONIKJNH #( )A&';,-,"8)'9HOK /."F:KM NLKGNGFFL
+GHOOKGHFG#( )A&';,-,"8)'9G/."F:KM NLKGNGFFL
+GIFMFMOKL
+#( )A&';
+,-,"8)'9<GHH<&.<2'1(/)" $2& /."F:KM NLKGNGFFL
+GIFOHKNHN#( )A&';,-,"8)'9-,/',,#*./."F:KM NLKGNGFFL
+GIGJFLMKN #( )A&';,-,"8)'9HNI /."F:KM NLKGNGFFL
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 33 of 54
+
+
+--- PAGE 34 ---
+
+ 
+
+GIGJGFHOJ#( )A&';,-,"8)'9HNG/."F:KM NLKGNGFFL
+GIGJGMLKK #( )A&';,-,"8)'9HLI /."F:KM NLKGNGFFL
+GIGLGKIIG#( )A&';,-,"8)'9'.".)%(/."F:KM NLKGNGFFL
+GIGMFLOLG #( )A&';,-,"8)'9!-..&'(. /."F:KM NLKGNGFFL
+GIINONFHI#( )A&';,-,"8)'9HKI/."F:KM NLKGNGFFL
+GJFIHFNLG #( )A&';,-,"8)'9GFG<GFH<
+I /."F:KM NLKGNGFFL
+GJFJKKFHK#( )A&';,-,"8)'9'.'-%<&(/*/."F:KM NLKGNGFFL
+GJFKIJJNI #( )A&';,-,"8)'9MK /."F:KM NLKGNGFFL
+GJGFINMKJ#( )A&';,-,"8)'9J/."F:KM NLKGNGFFL
+GJGHJKIHG #( )A&';,-,"8)'9<)/(.,*,.#- /."F:KM NLKGNGFFL
+GJMJKGFFG#( )A&';,-,"8)'9<IGG<&.<(3,3$3$'3/."F:KM NLKGNGFFL
+GJMKNFLLF #( )A&';,-,"8)'9HNJ /."F:KM NLKGNGFFL
+GJMKNFLOJ#( )A&';,-,"8)'9HNM/."F:KM NLKGNGFFL
+GJNIMNGJM #( )A&';,-,"8)'9HKF /."F:KM NLKGNGFFL
+GJOLNFNMJ#( )A&';,-,"8)'9HGL/."F:KM NLKGNGFFL
+GKFGIJFOJ #( )A&';,-,"8)'9IGH /."F:KM NLKGNGFFL
+GKFLHLILI#( )A&';,-,"8)'9HLF/."F:KM NLKGNGFFL
+GKFLHLINF #( )A&';,-,"8)'9HOL /."F:KM NLKGNGFFL
+GKFLHLOFM#( )A&';,-,"8)'9IGK/."F:KM NLKGNGFFL
+GKFLHMHGI #( )A&';,-,"8)'9HJJ /."F:KM NLKGNGFFL
+GKFLHMLMH#( )A&';,-,"8)'9IGF/."F:KM NLKGNGFFL
+GKFLHNFNF #( )A&';,-,"8)'9HKG /."F:KM NLKGNGFFL
+GKFLHNHGL#( )A&';,-,"8)'9HON/."F:KM NLKGNGFFL
+GKFLHNNLH #( )A&';,-,"8)'9HJL /."F:KM NLKGNGFFL
+GKGKFILOO#( )A&';,-,"8)'9ON/."F:KM NLKGNGFFL
+GKHNJJJMH #( )A&';,-,"8)'9'(/&<&* /."F:KM NLKGNGFFL
+GKIIGGKNG#( )A&';,-,"8)'9IFM/."F:KM NLKGNGFFL
+GKIJMLHHL #( )A&';,-,"8)'9IOO /."F:KM NLKGNGFFL
+GKINJOMGL#( )A&';,-,"8)'9HFL/."F:KM NLKGNGFFL
+GKJJGIONF #( )A&';,-,"8)'90)3!,<)&&. /."F:KM NLKGNGFFL
+GKJKOJLMI#( )A&';,-,"8)'9-)&<-.%#(!/."F:KM NLKGNGFFL
+GKJMFMINI #( )A&';,-,"8)'9."<IKF;IKJ /."F:KM NLKGNGFFL
+GKJMFOGGM
+#( )A&';,-,"8)'9<."<IKK;
+IKN<&.<3$0,!  1"%3 /."F:KM NLKGNGFFL
+GKJMFOKFN #( )A&';,-,"8)'9."<IKO;ILH /."F:KM NLKGNGFFL
+GKJMHGKHM#( )A&';,-,"8)'9IKM/."F:KM NLKGNGFFL
+GKJMIFHGJ #( )A&';,-,"8)'9IKN /."F:KM NLKGNGFFL
+GKJMIFLFK#( )A&';,-,"8)'9IKN<G/."F:KM NLKGNGFFL
+GKJMIFNOJ #( )A&';,-,"8)'9IKJ /."F:KM NLKGNGFFL
+GKJMIGGIH#( )A&';,-,"8)'9IKI/."F:KM NLKGNGFFL
+GKJMILHGK #( )A&';,-,"8)'9ILG /."F:KM NLKGNGFFL
+GKJOJFGIF#( )A&';,-,"8)'9'(/&<&*<H/."F:KM NLKGNGFFL
+GKKGHFFJG #( )A&';,-,"8)'9IGJ /."F:KM NLKGNGFFL
+GKLNJKIMG#( )A&';,-,"8)'9IFN/."F:KM NLKGNGFFL
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 34 of 54
+
+
+--- PAGE 35 ---
+
+ 
+
+GKMKLMKJN #( )A&';,-,"8)'9I()(=3#.<> /."F:KM NLKGNGFFL
+GKMKLMMKH#( )A&';,-,"8)'9J()(=3#.<>/."F:KM NLKGNGFFL
+GKMNGHNMK #( )A&';,-,"8)'9).GI<&*<*.3 /."F:KM NLKGNGFFL
+GKMNOKMGL#( )A&';,-,"8)'9'(!)<-..&'(./."F:KM NLKGNGFFL
+GKNJJMIIH #( )A&';,-,"8)'9K()(=3#.<> /."F:KM NLKGNGFFL
+GKNMJNJFH#( )A&';,-,"8)'9()(-)&GG/."F:KM NLKGNGFFL
+GKNMJNJGO #( )A&';,-,"8)'9()(-)&GI /."F:KM NLKGNGFFL
+GKOMHOFGI#( )A&';,-,"8)'9&'=>/."F:KM NLKGNGFFL
+GKONLNGOH #( )A&';,-,"8)'9()(/<FG /."F:KM NLKGNGFFL
+GKONOHGMO#( )A&';,-,"8)'9*.,/."F:KM NLKGNGFFL
+GLFOIGJMJ #( )A&';,-,"8)'9)&<,HF<,--<--#!(/."F:KM NLKGNGFFL
+GLGHJLLIM#( )A&';,-,"8)'93."<-//."F:KM NLKGNGFFL
+GLGKGKLHN #( )A&';,-,"8)'9#(((#($ /."F:KM NLKGNGFFL
+GLGKGNIIG#( )A&';,-,"8)'9#((1"#,&/."F:KM NLKGNGFFL
+GLGKGNOMM #( )A&';,-,"8)'9&)<-/ /."F:KM NLKGNGFFL
+GLGKKGGMK#( )A&';,-,"8)'9-.&<-//."F:KM NLKGNGFFL
+GLGKKGHOJ #( )A&';,-,"8)'9-.&<-/<-#! /."F:KM NLKGNGFFL
+GLGLKINKK#( )A&';,-,"8)'9-)&<-.%#(!FH/."F:KM NLKGNGFFL
+GLGLLLGOM #( )A&';,-,"8)'9()(<FI /."F:KM NLKGNGFFL
+
+)/(.-
+?*/&#8)/(.-	/-,<#
+
+
+ 
+GHLIJHN	<,'*.#)(
+GHLIJGG <,'*.#)(
+GHLIJMO	<,'*.#)(
+GHLIKIF 	<,'*.#)(
+GHLIIMM		<,'*.#)(
+GJOIOJN 	
+GHLIJJK<,'*.#)(
+GHLIKJM <,'*.#)(
+GHLIIOJ	<,'*.#)(
+GHLIKGI <,'*.#)(
+GHLIIHL	<,'*.#)(
+GHLIIJI <,'*.#)(
+GHLIIFO<,'*.#)(
+GHLIJLH <,'*.#)(
+GHLIILF	<,'*.#)(
+GHLIJOL <,'*.#)(
+GHLNFGN	<,'*.#)(
+GHLNGHF 	<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 35 of 54
+
+
+--- PAGE 36 ---
+
+ 
+
+GHLNGKJ<,'*.#)(
+GHLMONJ <,'*.#)(
+GHLNFKH<,'*.#)(
+GHLNFNL <,'*.#)(
+GHLHOLOG
+GHLHOFG I
+K	G
+GHLHNKF I
+GHLHOGNG
+GHLHNLM G
+GI
+J 	I
+GHLHOIKI
+H G
+GHMJJMN
+GHLNFIK 
+L	I
+GHLHOKH I
+GHLHNNJI
+GHLNFLO 
+GHLHONLI
+I I
+GHLNGIM
+GHLNFFG 	
+GHLNGFI	
+GHLMOLM 
+;GF /(#(!<*3'(.-< #2<HFGOFKIF
+GHMJKGH 	
+GHMJKHO	<,'*.#)(
+GHMJJOK <,'*.#)(
+GHMJKLI<,'*.#)(
+GHMJKJL 
+GHMNGGL	
+GHMNGNJ 	
+GHMNGLM		<,'*.#)(
+GHMNGKF 		
+GHMNGII	<,'*.#)(
+GHMNHFG 	<,'*.#)(
+GHMOJJH	
+GHMOJKO 	<,'*.#)(
+GHMOJFN
+GHMOJML 
+GHMOJOI<,'*.#)(
+GHMOJHK <,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 36 of 54
+
+
+--- PAGE 37 ---
+
+ 
+
+GHNIIGN	<,'*.#)(
+GHNIHLM 
+GHNIIFG	
+GHNIIIK 
+GHNIHNJ<,'*.#)(
+GHNIIKH <,'*.#)(
+GHNNHJN	
+GHNNHLK 	<,'*.#)(
+GHNNHNH
+GHNNHGJ 
+GHNNHIG<,'*.#)(
+GHNNHOO <,'*.#)(
+GHOHGMK
+GHOHHFO 	
+GHOHHHL	<,'*.#)(
+GHOHGOH <,'*.#)(
+GHOHHJI
+GHOHHLF <,'*.#)(
+GIHNKIN
+
+GIHNKFJ 
+	
+GIHNJNM
+<,'*.#)(
+GIHNJMF 
+
+GIHNKHG
+	<,'*.#)(
+GIHNKKK 
+<,'*.#)(
+GIKLFJJ	
+
+GIKLFMN 	
+	
+GIKLGGH	
+
+GIKLGHO 	
+<,'*.#)(
+GIKLFOK	
+	<,'*.#)(
+GIKLFLG 	
+<,'*.#)(
+GJGGGFM ..</(&)%,
+GJGGGHJ  ..<)&
+GJHMHMJ/-.HFGOFMIG
+GJKOKJF 	
+GJLHIGG	
+GJLHIHN 	<,'*.#)(
+GJLHIJK
+GJLHILH <,'*.#)(
+GJLHHOJ<,'*.#)(
+GJLHHMM 
+GJKOKOG		<,'*.#)(
+GJKOKMJ 		
+GJKOLFN	
+GJKOKKM 	<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 37 of 54
+
+
+--- PAGE 38 ---
+
+ 
+
+GJKOLHK	<,'*.#)(
+GJMJLKI 	
+GJMGIHG2.,<,&#4<*(&
+GJMGJKM )/&<)/(.<"#!"<&0< -
+GJOIOLK	<,'*.#)(
+GJOIONH 
+GJOJFGL
+GJOIOOO <,'*.#)(
+GJOJFII<,'*.#)(
+GJOJFKF 
+GJMJKNK	
+GJMJLGO 		
+GJMJLIL		<,'*.#)(
+GJMJLFH 	<,'*.#)(
+GJMJLNM
+GJMJMHG 	
+GJMJMIN	<,'*.#)(
+GJMJMKK 
+GJMJMFJ<,'*.#)(
+GJMJMMH <,'*.#)(
+GJMJLMF	<,'*.#)(
+GJOJFLM <,'*.#)(
+GJOJFNJ
+GJOJGFG <,'*.#)(
+GJOJGGN
+GJOJGLO <,'*.#)(
+GJOJGNL
+GJOJGIK <,'*.#)(
+GJOJGKH
+GJOJHFI <,'*.#)(
+GJOJHIM<,'*.#)(
+GJOJHMG 
+<,'*.#)(
+GJOJHHF
+GJOJHNN 
+
+GJOJHKJ
+
+GJOJIHH 	
+
+GJOJIFK
+<,'*.#)(
+GJOJIIO 	
+<,'*.#)(
+GJOJIKL	
+
+GJOJIMI 	
+<,'*.#)(
+GJOJJFM	<,'*.#)(
+GJOJIOF 	
+GJOJJHJ	
+GJOJJJG 	<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 38 of 54
+
+
+--- PAGE 39 ---
+
+ 
+
+GJOJJKN
+GJOJJOH 
+GJOJJMK<,'*.#)(
+GJOJKFO <,'*.#)(
+GJOJKHL	
+GJOJKJI 	<,'*.#)(
+GJOJKLF	
+GJOJKMM 	<,'*.#)(
+GJOJKOJ
+GJOJLGG <,'*.#)(
+GJOJLHN
+GJOJLJK <,'*.#)(
+GJOIIMF
+GJOIINM <,'*.#)(
+GJOIJFJ
+GJOIJIN 	
+GJOIJHG<,'*.#)(
+GJOIJKK 	<,'*.#)(
+GJOIJMH	
+GJOIJNO 	<,'*.#)(
+GJOIKFL
+GJOIKJF 
+GJOIKHI<,'*.#)(
+GJOIKOG <,'*.#)(
+GJOIKMJ
+GJOIKKM <,'*.#)(
+GJOILFN
+GJOILHK <,'*.#)(
+GJOILJH
+GJOILML 
+GJOILKO<,'*.#)(
+GJOILOI <,'*.#)(
+GJOIMGF
+GJOIMJJ 
+GJOIMLG<,'*.#)(
+GJOIMHM <,'*.#)(
+GJOINHO<,'*.#)(
+GJOIMMN 
+GJOINJL
+GJOIMOK <,'*.#)(
+GJOINGH
+GJOINLI <,'*.#)(
+GJOINNF
+GJOINOM <,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 39 of 54
+
+
+--- PAGE 40 ---
+
+ 
+
+GJOIOGJ	
+GJOIOIG 	<,'*.#)(
+GLGINJO
+
+GLIKGGL 
+GLIKGII<,'*.#)(
+GLIKGKF 
+GLIKGNJ	
+GLIKHFG 	<,'*.#)(
+GLIKHGN
+GLIKHIK <,'*.#)(
+GLIKHKH
+GLIKHLO <,'*.#)(
+GLIKGLM<,'*.#)(
+GLGINNI 
+
+GLGIOGM
+	
+GLGIOIJ 
+	<,'*.#)(
+GLGIOKG
+
+GLGIONK 
+
+GLGINLL
+<,'*.#)(
+GLGJFFH 
+<,'*.#)(
+GLGIOFF
+<,'*.#)(
+GLGIOLN 
+<,'*.#)(
+GLINLGN
+<,'*.#)(
+GLINLLO 
+	
+GLINLNL
+	<,'*.#)(
+GLINLFG 
+
+GLINLIK
+
+GLINMHF 
+<,'*.#)(
+GLINMFI
+
+GLINMIM 
+
+GLINMKJ
+<,'*.#)(
+GLINLKH 
+<,'*.#)(
+GLJHLIF
+GLJKLKL 
+GLJKLMI<,'*.#)(
+GLJKMHJ 	
+GLJKMJG	<,'*.#)(
+GLJKLOF 
+GLJKMKN
+GLJKMFM <,'*.#)(
+GLJKNFO<,'*.#)(
+GLJKMOH 
+GLJKMMK<,'*.#)(
+GLJHLLJ 
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 40 of 54
+
+
+--- PAGE 41 ---
+
+ 
+
+GLJHLJM<,'*.#)(
+GLJHLNG <,'*.#)(
+GLJHLON	
+GLJHMGK 	<,'*.#)(
+GLJHMIH
+GLJHMJO <,'*.#)(
+GLJHMLL
+GLJHMNI <,'*.#)(
+GLLGKLN
+GLKHMMO '#--#(!<-*).< -
+GLKGIIJ,'*.#)(-<HFGOGFHL
+GLLGLFH 
+GLLGLIL	
+GLLGLMF 
+GLLGLNM<,'*.#)(
+GLLGKNK <,'*.#)(
+GLLGLGO<,'*.#)(
+GLLGLKI 	<,'*.#)(
+GLLGMFJ
+GLLGMHG <,'*.#)(
+GMKFHOG
+GMKFIJH <,'*.#)(
+GMKFIFN<,'*.#)(
+GMKFIHK 
+GMKFIKO	
+GMKFIML 	<,'*.#)(
+GMKFIOI
+GMKFJHM 
+GMKFJJJ<,'*.#)(
+GMKFJGF <,'*.#)(
+GMHOFFM
+GMHOFJG 
+GMHOFHJ<,'*.#)(
+GMHOFMK 	
+GMHOFOH	<,'*.#)(
+GMHOGFO 
+GMHOGLF<,'*.#)(
+GMHOGJI 
+GMHOFKN<,'*.#)(
+GMHOGHL <,'*.#)(
+GMOIKMI
+GMOILFM 
+GMOIMFO
+GMOILJG 	
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 41 of 54
+
+
+--- PAGE 42 ---
+
+ 
+
+GMOILKN	<,'*.#)(
+GMOILMK 
+GMOIKOF<,'*.#)(
+GMOIMHL <,'*.#)(
+GMOILHJ<,'*.#)(
+GMOILOH <,'*.#)(
+GNGHJLF/!HFGOGFHK
+GNJOKIM 
+GNJOKMG	
+GNJOLFK 
+GNJOKKJ<,'*.#)(
+GNJOKNN 	<,'*.#)(
+GNJOLHH<,'*.#)(
+GOKMNGF 
+GOOIHFJ*H<&.
+GOKMNOK <,'*.#)(
+GOKMNMN
+GOKMNHM <,'*.#)(
+GOKMNLG	<,'*.#)(
+GOKMNJJ 	
+HHKFMIM
+<,'*.#)(
+HHKFMKJ 
+	
+HHKFMMG
+	<,'*.#)(
+HHKFMHF 
+
+HHKFNFK
+<,'*.#)(
+HHKFMNN 
+
+HJNHKJO
+HJNHKNI 	
+HJNHLFF	<,'*.#)(
+HJNHLGM 
+HJNHKLL<,'*.#)(
+HJNHLIJ <,'*.#)(
+HKLMOHII
+HKLMOJF I<,'*.#)(
+HKLMOKMI
+HKLMOMJ I<,'*.#)(
+HKLMOOG	I
+HKLNFFN 	I<,'*.#)(
+HKLNFHK	I
+HKLNFJH 	I<,'*.#)(
+HKLNFKOI
+HKLNFML I<,'*.#)(
+HKLNFOII
+HKLNGGF I<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 42 of 54
+
+
+--- PAGE 43 ---
+
+ 
+
+HNLFFLN	
+HNLFFNK 	<,'*.#)(
+HNLFGFH		
+HNLFGGO 		<,'*.#)(
+HNLFGIL	
+HNLFGKI 	<,'*.#)(
+HNLFGMF	
+HNLFHFJ 	
+HNLFHHG	<,'*.#)(
+HNLFHIN 	
+HNLFHKK	<,'*.#)(
+HNLFHMH 	
+HNLFHNO	<,'*.#)(
+HNLFIFL 	
+HNLFIHI	<,'*.#)(
+HNLFIJF 		
+HNLFIKM		<,'*.#)(
+HNLFIMJ 	
+HNLFIOG	<,'*.#)(
+HNLFJFN 	
+HNLFJHK	<,'*.#)(
+HNLFJJH 	
+HNLFJKO	<,'*.#)(
+HNLFJML 	
+HNLFJOI	<,'*.#)(
+HNLFKGF 
+	
+HNLFKHM
+	<,'*.#)(
+HNLFKJJ 		
+
+HNLFKLG		
+<,'*.#)(
+HNLFKMN 		
+HNLFKOK		<,'*.#)(
+HNLFLGH 	
+HNLFLHO	<,'*.#)(
+HNLFLJL 		
+HNLFLLI		<,'*.#)(
+HNLFLNF 	
+HNLFLOM	<,'*.#)(
+HNLFMGJ 
+	
+HNLFMIG
+	<,'*.#)(
+HNLFMJN 	
+HNLFMLK	<,'*.#)(
+HNLFMNH 
+	
+HNLFMOO
+	<,'*.#)(
+HNLFNGL 	
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 43 of 54
+
+
+--- PAGE 44 ---
+
+ 
+
+HNLFNII	<,'*.#)(
+HNLFNKF 	
+HNLFNLM	<,'*.#)(
+HNLFOFG 	<,'*.#)(
+HNLFOGN	
+HNLFOIK 	<,'*.#)(
+HNLFOKH	
+HNLFOLO 	<,'*.#)(
+HNLFONL	
+HNLGFFI 	<,'*.#)(
+HNLGFHF	
+HNLGFIM 	<,'*.#)(
+HNLGFKJ	
+HNLGFMG 	<,'*.#)(
+HNLGFNN
+	
+HNLGGFK 
+	<,'*.#)(
+HNLGGHH	
+HNLGGIO 	<,'*.#)(
+HOGNFIN
+
+HOGNFFJ 
+HOGNFKK
+<,'*.#)(
+HOGNFHG <,'*.#)(
+HNLFNNJ	
+HNLFGNM 	<,'*.#)(
+IHFKIKK. <*(#(!</,(-
+IHGJOFO 	
+IHGJOHL	<,'*.#)(
+IHGJOJI 		
+IHGJOLF		<,'*.#)(
+IHGJOMM 	
+IHGJOOJ	<,'*.#)(
+IHGKFGG 		
+IHGKFHN		<,'*.#)(
+IHJJFJM -*).< -<*(&
+IIJLKJF
+IIJLKKM <,'*.#)(
+IIJLKMJ	
+IIJLKOG 	<,'*.#)(
+IIJLLHK<,'*.#)(
+IIJLLJH 	
+IIJLLKO	<,'*.#)(
+IIJLLFN 
+IJGLHOG
+
+IJGLIFN 
+<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 44 of 54
+
+
+--- PAGE 45 ---
+
+ 
+
+IJGLIHK
+	
+IJGLIJH 
+	<,'*.#)(
+IJGLIKO
+
+IJGLIML 
+<,'*.#)(
+IJGLIOI
+	
+IJGLJGF 
+	<,'*.#)(
+IJHLLLG
+IJHLLMN <,'*.#)(
+IJHLLOK	
+IJHLMGH 	<,'*.#)(
+IJHLMHO
+IJHLMJL <,'*.#)(
+IJHLMLI	
+IJHLMNF 	<,'*.#)(
+IJHLMOM
+IJHLNGJ <,'*.#)(
+IJHLNIG	
+IJHLNJN 	<,'*.#)(
+IJHLNLK
+IJHLNNH <,'*.#)(
+IJHLNOO	
+IJHLOGL 	<,'*.#)(
+IKOMOGO
+IKOMOIL <,'*.#)(
+IKOMOKI	
+IKOMOMF 	<,'*.#)(
+IKOMONM
+IKONFFJ <,'*.#)(
+IKONFHG	
+IKONFIN 	<,'*.#)(
+ILKFMHG
+ILKFMIN <,'*.#)(
+ILKFMKK	
+ILKFMMH 	<,'*.#)(
+ILKFMNO
+ILKFNFL <,'*.#)(
+ILKFNHI	
+ILKFNJF 	<,'*.#)(
+ILOJIMM<,'*.#)(
+ILOJIOJ 	
+ILOJJGG	<,'*.#)(
+ILOJJHN 
+ILOJJJK<,'*.#)(
+ILOJJLH 	
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 45 of 54
+
+
+--- PAGE 46 ---
+
+ 
+
+ILOJJMO	<,'*.#)(
+ILOJILF 
+IMINOLN
+IMINONK <,'*.#)(
+IMIOFFH	
+IMIOFGO 	<,'*.#)(
+IMIOFIL
+IMIOFKI <,'*.#)(
+IMIOFMF	
+IMIOFNM 	<,'*.#)(
+IMMMFIG
+IMMMFJN <,'*.#)(
+IMMMFLK	
+IMMMFNH 	<,'*.#)(
+IMMMFOO
+IMMMGGL <,'*.#)(
+IMMMGII	
+IMMMGKF 	<,'*.#)(
+INLOFKH.)%(<!,)/*<)/(.,*,.3
+JJIMMFH -,/'<'#(.,
+JMFJGJI
+
+JMFJGLF 
+<,'*.#)(
+JMFJGMM
+	
+JMFJGOJ 
+	<,'*.#)(
+JMFJHGG
+
+JMFJHHN 
+<,'*.#)(
+JMFJHJK
+	
+JMFJHLH 
+	<,'*.#)(
+JNLMNGO-*&<.)%(<")&,
+JOFGJLH '-,'
+JONHNMK	
+
+JONHNOH 	
+<,'*.#)(
+JONHOFO	
+	
+JONHOHL 	
+	<,'*.#)(
+JONHOJI	
+
+JONHOLF 	
+<,'*.#)(
+JONHOMM	
+	
+JONHOOJ 	
+	<,'*.#)(
+LIJIFJK-.%#(!<*3,<
+LIJIFLH -.%#(!<*3,<
+LIJIFMO-.%#(!<*3,<<
+LIJIFOL -.%#(!<*3,<<
+LIJIGGI-.%#(!<*3,<
+LJGGHNI ),*),.<.#)(-
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 46 of 54
+
+
+--- PAGE 47 ---
+
+ 
+
+LKIFFMO-.%#(!<*3,<
+LLJGMKH 
+LLJGMLO<,'*.#)(
+LLJGMNL 
+LLJGNFI<,'*.#)(
+LNNFJLL '*-</(&)%,
+LNNFKFF)23</(&)%,
+LNNJKOM -,'</(&)%,
+LNNNLMM #</(&)%,
+LONIKKJ -,'<)&
+MGLNFNO
+MGLNGFL <,'*.#)(
+MGLNGHI
+MGLNGJF <,'*.#)(
+MGNJLON-.%#(!<*3,<
+
+MKHMLFK ,0,.<&)%<,1,-
+NHNGKKK<,'*.#)(
+NHNGKMH 
+NHNGKNO<,'*.#)(
+NHNGKIN 
+OGNFMIL#,&<"
+OGNFMKI #,&<,&3<,#.<"<)/(.
+OGNFMMF#,&< <,.<)/(.
+GGFIKKNO #)< ..</,(
+GGIMNKON#,&<"<1#.",1&-
+GIGIGILL -.%#(!<*3,<
+GJIJMGNO-1#*
+GJKHKLFJ *3."</(&)%,
+GJKHKLHG'#</(&)%,
+GJKNHKFI *3*&
+GKFOMGJJ-.%#(!<*3,<
+GKLGIKMF /(-.%<,+/-.-
+GKOOJFJM,4<,&<)(0,-#)(
+GLOFNMNI 1/-.</-.<)(0,-#)(
+GMGIOOGK.<)&
+GMGIOOLL ."<)&
+GMKNNMIH
+GMKNNMJO <,'*.#)(
+GMKNNMLL
+GMKNNMNI <,'*.#)(
+GMKNNNFF
+
+GMKNNNGM 
+<,'*.#)(
+GMKNNNIJ
+
+GMKNNNKG 
+<,'*.#)(
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 47 of 54
+
+
+--- PAGE 48 ---
+
+ 
+
+GMKNNNLN
+GMKNNNNK <,'*.#)(
+GMKNNOFH
+GMKNNOGO <,'*.#)(
+GNFJHIHL1&&.<.,(- ,-
+GNGHGKOM 0<&(<)(0,-#)(
+HFGJJHJF-<)#(<)(0,-#)(
+HGKFOHFJ  .2*3
+HGMGLFMMHFHG
+HGMGLFFO HFHG
+HGMGLFHLHFHG<,'*.#)(
+HGMGLFJI 
+HFHG
+HGMGLFLF
+HFHG<,'*.#)(
+HGMGLFOJ HFHG<,'*.#)(
+HOKGLNII#,&<*)-#.<0,# #.#)(
+IHGKNLNJ 
+IHGKNMFG<,'*.#)(
+IHGKNMGN 
+IHGKNMIK<,'*.#)(
+IHJKKKHG 
+IHJKKKIN<,'*.#)(
+IHJKKKKK 
+IHJKKKMH<,'*.#)(
+IHNHGIJJ (0<)(0,-#)(
+IIMILINL"))<)(0,-#)(
+ILKNMIIM (/0#
+IMOIHLGK .2*3<,)..#(!<,---
+JFMIOKFH ( .<&#-.#(!< -
+JGKOFOGI&#+/#.#)(-HFHGFOFM
+JGKOFOLJ **,<#,
+JMKJGMJL( .<,)3&.#-
+JMKJGMLI &)<#(.,-.
+KIINMLNO( .<'#(.#(!< -
+KKONMOHJ '!
+LGHKFKJL)<#,,)*
+MHLLOKIG -)&<&)(
+NGJNLOFJ)</(&)%,
+OOLINFOI $*<()(1"#.&#-.<)&
+OOLINGJJ$*<1"#.&#-.<)&
+GGFFILOKO ")&#(!< ,)4(< /(-< ),<1),&-"GA*,).)('#&8)'
+GGLGIFFJN .27'#(:*H*<-,)1
+GGLGIFFLK -.)%-<'<)/(.
+GHIIFIJKI-.,#*
+GHIONFKLI -.,#*<'
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 48 of 54
+
+
+--- PAGE 49 ---
+
+ 
+
+GHJFJLMHM.,,<#,,)*
+GHLHGGHNL '4(<)(0,-#)(
+GJLLJKMLH-.,#*<
+GJHMMLOMF -.)%<),<.)%(<-*&#.<)(0,-#)(
+GKIOKOLHG
+GKIOKOLIN <,'*.#)(
+GKIOKOLKK
+GKIOKOLMH <,'*.#)(
+GKLJJKKJN
+GKLJJKKLK <,'*.#)(
+GKLJJKKNH
+GKLJJKKOO <,'*.#)(
+GKLJJKLGL
+GKLJJKLII <,'*.#)(
+GKLJJKLLM<,'*.#)(
+GKLJJKLKF 
+GKMNNOKOL).GI<#(-/,(< /(<,#0<."(<,')0<&(-
+GKNIJGNON -.)%-<,0(/<)/(.
+GKNIJGOGK-.&)#(<,'*.#)(
+GKNJMGOJN *,)').#)(&<*3)/.<)/(.
+GKNMIGIFF,1,-<*3,
+GKOJOFKMG )<,'*.#)(<2*(--
+
+
+)/(.-
+ 
+GJOGKNHOJ#( )A&';,-,"8)'9 .2< #.<)&
+
+ 
+GNKLIFI #.A .28)'
+GIHIFHNMO  #.A .28)'9(%<)/(.<GLL
+GIHIFJGHF #.A .28)'9(%<)/(.<LL
+GIHIFJGIM  #.A .28)'9(%<)/(.<MK
+GIHIFJGKJ #.A .28)'9(%<)/(.<MJ
+GIHIFJGMG  #.A .28)'9(%<)/(.<MI
+GIHIFJGNN #.A .28)'9(%<)/(.<LI
+GIHIFJHFK  #.A .28)'9(%<)/(.<ML
+GIHIFJHHH #.A .28)'9(%<)/(.<NI
+GIHIFJHIO  #.A .28)'9(%<)/(.<NH
+GIHIFJHKL #.A .28)'9(%<)/(.<NG
+GIHIFJHMI  #.A .28)'9(%<)/(.<GIK
+GIHIFJHOF #.A .28)'9(%<)/(.<GII
+GIHIFJIFM  #.A .28)'9(%<)/(.<NM
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 49 of 54
+
+
+--- PAGE 50 ---
+
+ 
+
+GIHIFJIHJ #.A .28)'9(%<)/(.<NL
+GIHIFJIJG  #.A .28)'9(%<)/(.<NK
+GIHIFJIKN #.A .28)'9(%<)/(.<NJ
+GIHIFJIMK  #.A .28)'9(%<)/(.<GIM
+GIHIFJIOH #.A .28)'9(%<)/(.<GIL
+GIHIFJJFO  #.A .28)'9(%<)/(.<GIJ
+GIHIFJJHL #.A .28)'9(%<)/(.<GIO
+GIHIFJJJI  #.A .28)'9(%<)/(.<GIN
+GIHIFJJLF #.A .28)'9(%<)/(.<GJF
+GIHIFJJMM  #.A .28)'9(%<)/(.<GJH
+GIHIFJJOJ #.A .28)'9(%<)/(.<LG
+GIHIFJLIF  #.A .28)'9(%<)/(.<GKJ
+GIHIFJLLJ #.A .28)'9(%<)/(.<GKL
+GIHIFJLON  #.A .28)'9(%<)/(.<GLI
+GIHIFJKGG #.A .28)'9(%<)/(.<GJL
+GIHIFJKHN  #.A .28)'9(%<)/(.<KL
+GIHIFJKJK #.A .28)'9(%<)/(.<MM
+GIHIFJKLH  #.A .28)'9(%<)/(.<MO
+GIHIFJLJM #.A .28)'9(%<)/(.<GKK
+GIHIFJLNG  #.A .28)'9(%<)/(.<GMH
+GIHIFJMGK #.A .28)'9(%<)/(.<GLJ
+GIHIFJMIH  #.A .28)'9(%<)/(.<GLK
+GIHIFJMJO #.A .28)'9(%<)/(.<GMG
+GIHIFJMLL  #.A .28)'9(%<)/(.<GMK
+GIHIFJKMO #.A .28)'9(%<)/(.<GJG
+GIHIFJKOL  #.A .28)'9(%<)/(.<GJM
+GIHIFJLGI #.A .28)'9(%<)/(.<GJN
+GIHIFJOIL  #.A .28)'9(%<)/(.<GOF
+GIHIFJOMF #.A .28)'9(%<)/(.<GOH
+GIHIFJONM  #.A .28)'9(%<)/(.<GOI
+GIHIFKFFJ #.A .28)'9(%<)/(.<GOJ
+GIHIFKFHG  #.A .28)'9(%<)/(.<GOK
+GIHIFKFIN #.A .28)'9(%<)/(.<GOL
+GIHIFKFKK  #.A .28)'9(%<)/(.<GOM
+GIHIFJMNI #.A .28)'9(%<)/(.<GML
+GIHIFJNFF  #.A .28)'9(%<)/(.<GNH
+GIHIFJNGM #.A .28)'9(%<)/(.<GNI
+GIHIFJNIJ  #.A .28)'9(%<)/(.<GNJ
+GIHIFJNKG #.A .28)'9(%<)/(.<GNK
+GIHIFJNLN  #.A .28)'9(%<)/(.<GNL
+GIHIFJNNK #.A .28)'9(%<)/(.<GNM
+GIHIFJOFH  #.A .28)'9(%<)/(.<GNN
+GIHIFJOGO #.A .28)'9(%<)/(.<GNO
+GIHIFJOKI  #.A .28)'9(%<)/(.<GOG
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 50 of 54
+
+
+--- PAGE 51 ---
+
+ 
+
+GIHIFKFMH #.A .28)'9(%<)/(.<GON
+GIHIFKFNO  #.A .28)'9(%<)/(.<GOO
+GIHIFKGFL #.A .28)'9(%<)/(.<HFF
+GIHIFKGHI  #.A .28)'9(%<)/(.<HFI
+GIHIFKGJF #.A .28)'9(%<)/(.<HFG
+GIHIFKGKM  #.A .28)'9(%<)/(.<HFH
+GIHIFKGMJ #.A .28)'9(%<)/(.<HFJ
+GIHIFKGOG  #.A .28)'9(%<)/(.<HHI
+GIHIFKHFN #.A .28)'9(%<)/(.<HFL
+GIHIFKHHK  #.A .28)'9(%<)/(.<HFM
+GIHIFKHJH #.A .28)'9(%<)/(.<HFN
+GIHIFKHKO  #.A .28)'9(%<)/(.<HFO
+GIHIFKHML #.A .28)'9(%<)/(.<HGF
+GIHIFKHOI  #.A .28)'9(%<)/(.<HGG
+GIHIFKIGF #.A .28)'9(%<)/(.<GMI
+GIHIFKIHM  #.A .28)'9(%<)/(.<HGN
+GIHIFKIJJ #.A .28)'9(%<)/(.<HHF
+GIHIFKILG  #.A .28)'9(%<)/(.<HHG
+GIHIFKIMN #.A .28)'9(%<)/(.<HHH
+GIHIFKIOK  #.A .28)'9(%<)/(.<HHJ
+GIHIFKJGH #.A .28)'9(%<)/(.<HHK
+GIHIFKJHO  #.A .28)'9(%<)/(.<HHL
+GIHIFKJLI #.A .28)'9(%<)/(.<HHM
+GIHIFKJNF  #.A .28)'9(%<)/(.<HHN
+GIHIFKJOM #.A .28)'9(%<)/(.<HHO
+GIHIFKKGJ  #.A .28)'9(%<)/(.<HIF
+GIHIFKKIG #.A .28)'9(%<)/(.<HIG
+GIHIFKKJN  #.A .28)'9(%<)/(.<HIH
+GIHIFKKLK #.A .28)'9(%<)/(.<HII
+GIHIFKKNH  #.A .28)'9(%<)/(.<HIJ
+GIHIFKKOO #.A .28)'9(%<)/(.<HIK
+GIHIFKLGL  #.A .28)'9(%<)/(.<HIL
+GIHIFKLII #.A .28)'9(%<)/(.<HIM
+GIHIFKLKF  #.A .28)'9(%<)/(.<HIN
+GIHIFKLLM #.A .28)'9(%<)/(.<HJG
+GIHIFKLNJ  #.A .28)'9(%<)/(.<HJH
+GIHIFKMFG #.A .28)'9(%<)/(.<HJI
+GIHIFKMGN  #.A .28)'9(%<)/(.<HJJ
+GIHIFKMIK #.A .28)'9(%<)/(.<HLI
+GIHIFKMKH  #.A .28)'9(%<)/(.<GMJ
+GIHIFKMLO #.A .28)'9(%<)/(.<HLH
+GIHIFKMNL  #.A .28)'9(%<)/(.<HLJ
+GIHIFKNFI #.A .28)'9(%<)/(.<HLM
+GIHIFKNHF  #.A .28)'9(%<)/(.<HLN
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 51 of 54
+
+
+--- PAGE 52 ---
+
+ 
+
+GIHIFKNIM #.A .28)'9(%<)/(.<HLO
+GIHIFKNKJ  #.A .28)'9(%<)/(.<HMG
+GIHIFKNMG #.A .28)'9(%<)/(.<HMH
+GIHIFKNNN  #.A .28)'9(%<)/(.<HMI
+GIHIFKOFK #.A .28)'9(%<)/(.<HMJ
+GIHIFKOHH  #.A .28)'9(%<)/(.<HMK
+GIHIFKOIO #.A .28)'9(%<)/(.<HML
+GIHIFKOKL  #.A .28)'9(%<)/(.<HMM
+GIHIFKOMI #.A .28)'9(%<)/(.<HMN
+GIHIFKOOF  #.A .28)'9(%<)/(.<HMO
+GIHIFLFFM #.A .28)'9(%<)/(.<HNF
+GIHIFLFHJ  #.A .28)'9(%<)/(.<HNG
+GIHIFLFJG #.A .28)'9(%<)/(.<HJF
+GIHIFLFKN  #.A .28)'9(%<)/(.<HIO
+GIHIFLFMK #.A .28)'9(%<)/(.<HGO
+GIHIFLFOH  #.A .28)'9(%<)/(.<HOO
+GIHIFLGFO #.A .28)'9(%<)/(.<IFF
+GIHIFLGHL  #.A .28)'9(%<)/(.<IFG
+GIHIFLGJI #.A .28)'9(%<)/(.<IFH
+GIHIFLGLF  #.A .28)'9(%<)/(.<HGI
+GIHLGIJIK #.A .28)'9(%<)/(.<ILN
+GIHLGIJKH  #.A .28)'9(%<)/(.<HGJ
+GIHLGIJGN #.A .28)'9(%<)/(.<ILK
+GIHLGIJLO  #.A .28)'9(%<)/(.<HON
+GIHLGIKHF #.A .28)'9(%<)/(.<GKN
+GIHLGIKMG  #.A .28)'9(%<)/(.<GLF
+GIHLGIKNN #.A .28)'9(%<)/(.<ILO
+GIHLGILFK  #.A .28)'9(%<)/(.<ILL
+GIHLGILKL #.A .28)'9(%<)/(.<ILM
+GIMGKIMGF  #.A .28)'9(%<)/(.<ILJ
+GJLLNGKON #.A .28)'9/(--#!(< #.<1#.",1&< -
+GJGLJIHMJ  #.A .28)'9(%<)/(.<IIG
+GJGLJIIHK #.A .28)'9(%<)/(.<IIJ
+GJGLJIJOK  #.A .28)'9(%<)/(.<IIH
+GJGLJILLK #.A .28)'9(%<)/(.<IFI
+GJGLJJIHN  #.A .28)'9(%<)/(.<III
+GJOJJHJNI #.A .28)'9/(#(#.#&#4<(%<)/(.<)/(.
+GJOJJJHIJ  #.A .28)'9(%<)/(.<GMM
+GKGGJJFON #.A .28)'9(%<)/(.< -<GMM
+GKGIIFOMO  #.A .28)'9(%<)/(.< -<GKN
+GKNIJNMNI #.A .28)'9(%<)/(.<GLG
+
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 52 of 54
+
+
+--- PAGE 53 ---
+
+##!*&>791,4;),6>0<66..9>8=<
+@.6>/4826,70/,,8/'*19;66948<
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 53 of 54
+
+
+--- PAGE 54 ---
+
+ 
+
+##!*,=,-,<0$>0;40<19;=303,;=91::08/4@
+
+
+
+
+N6OJI6LMK6GLG8KI
+
+
+
+
+L6OGF6LGK6IGM8JN
+
+&&)/(.-
+
+N6OJI6LMK6GLG8KI
+*).,!#((&*).,!#((#(!/./,-.,#(!
+
+L6OGF6LGK6IGM8JN MMR
+).=*).,!#((&*).,!#((#(!/./,-.,#(!>
+
+H6FII6FKO6NJJ8FK HIR
+  
+
+(#&&#)(-   
+   
+*).,!#((&*).,!#((#(!/./,-.,#(! CL8OG 
+).=*).,!#((&*).,!#((#(!/./,-.,#(!> CH8FI 
+ 
+=-#4?)#(-8**,)2< #,>-().#)(&*/&#8&(-
+
+
+)#(-)()#(<#S)#(-8#
+
+
+)/(.-)()/(.<#S)/(.-8#
+	
+ĂĐĐŽƵŶƚͺŝĚEKd/E;ϵ͕ϭϮϲϲϳϮϲ͕ϭϮϴϯϭϭϰ͕ϭϮϴϯϭϰϴ͕ϭϯϬϬϱϵϬ͕͙΀ƚƌƵŶĐĂƚĞĚ΁Ϳ
+=-#4?)#(-8**,)2< #,>-().#)(&*/&#8&(-
+
+
+)#(-)()#(<#S)#(-8#
+
+
+)/(.-)()/(.<#S)/(.-8#
+	
+=)/(.-8-*).<',!#(<(&S
+)/(.-8-*).<',!#(<&(#(!<(&S
+)/(.<#
+=
+
+=)/(.<#>*/&#8*)-#.#)(-
+	(.<-#45SF>>
+
+ĂĐĐŽƵŶƚͺŝĚEKd/E;ϵ͕ϭϮϲϲϳϮϲ͕ϭϮϴϯϭϭϰ͕ϭϮϴϯϭϰϴ͕ϭϯϬϬϱϵϬ͕͙΀ƚƌƵŶĐĂƚĞĚ΁Ϳ
+Case 1:22-cr-00673-LAK   Document 328-1   Filed 10/23/23   Page 54 of 54

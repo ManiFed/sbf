@@ -1,0 +1,261 @@
+
+
+--- PAGE 1 ---
+
+[Type text] 
+ 
+e 
+ 
+ 
+										
+  October 13, 2023 
+ 
+ 
+By ECF 
+ 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+500 Pearl Street 
+New York, New York 10007  
+ 
+  R e :  United States v. Samuel Bankman-Fried, S6 22 Cr. 673 (LAK) 
+ 
+Dear Judge Kaplan:  
+ 
+The Government respectfully su bmits this letter in oppositio n to the defendant’s October 
+12, 2023 motion in limine , Dkt. No. 321. The defendant’s motion should be denied. First, the 
+defendant makes a number of incorrect argume nts about the law regard ing the Government’s 
+theories of wire fraud alleged in the Indict ment, and the defendant’s attempts to seek 
+reconsideration of the Court’s prior rulings on these issues should be rejected. Second, to the extent 
+that the defendant seeks to cros s-examine witnesses about their understanding of representations 
+made by the defendant and his agents, including re presentations in the FTX Terms of Service, at 
+least where the witness saw those representation s and there is therefor e some foundation for 
+relevant testimony, the Government  does not generally obje ct to this topic of cross-examination, 
+although it may object to the form or foundation for certain questions. Third, the Government 
+should be permitted to offer testimony from w itnesses regarding thei r understanding of and 
+reaction to representations ma de by the defendant and his agents, which is not lay opinion 
+testimony.  
+ 
+I. The Defendant’s Arguments About the Applicable Law for the Counts Alleging 
+Wire Fraud on Customers Are Incorrect 
+ 
+As an initial matter, the defendant is simp ly wrong that Counts One and Three of the 
+Indictment rest solely on a misappropriation theory.  As the Government has explained, repeatedly, 
+the evidence establishes that the defendant committed fraud against FTX customers and investors 
+through both misappropriating their funds and by making material misrepresentations and 
+omissions. Dkt. No. 302 at 2, 3 (citing Spira v. Nick , 876 F. Supp. 553, 558 (S.D.N.Y. 1995)).
+1 
+There is thus no basis to preclude or limit an y evidence about FTX’s customers’ reasonable 
+ 
+1 Indeed, the evidence has already establis hed such material misrepresentations. E.g. GXs 863, 
+866; Tr. 87:15–89:25 (defendant’s false statemen ts on Twitter about FTX’s assets convinced 
+former FTX customer Marc-Antoine Julliard not to withdraw funds on November 6 or 7, 2022).  
+ 
+ 
+The Silvio J. Mollo Building 
+              O n e  S a i n t  A n d r e w ’ s  P l a z a  
+              New York, New York 10007  
+U.S. Department of Justice 
+ 
+United States Attorney 
+Southern District o
+f New York 
+
+
+--- PAGE 2 ---
+
+  Pa ge 2 
+ 
+ 
+interpretations of statements made by the defend ant and his agents, insofar as that evidence is 
+relevant to show that the statements had a “natur al tendency to influence, or [were] capable of 
+influencing,” the customers’ decisions with respect to their FTX deposits. Neder v. United States, 
+527 U.S. 1, 16 (1999); see also United States v. Gramins, 939 F.3d 429, 444-45 (2d Cir. 2019).   
+ 
+With respect to the Government’s theory that the defendant a nd his co-conspirators 
+misappropriated FTX’s customers’ funds, the defendant suggests that to establish 
+misappropriation, the Government must establish a “violation of the terms of a contract,” here the 
+FTX Terms of Service.  Dkt. No. 321 at 3. That is incorrect: misappropriation occurs when a party 
+breaches a “fiduciary duty or similar relationship of trust and confidence,” which includes not just 
+a “trustee and trust beneficiary,” but also several other relationships such as when a beneficiary 
+“entrust[s] the fiduciary w ith custody over property.” United States v. Chestman , 947 F.2d 551, 
+569 (2d Cir. 1991).  
+ 
+Such relationships are not defined so lely through a “written contract.” E.g. Carpenter v. 
+United States, 484 U.S. 19, 27 (1987) (“even in the absence of a written contract, an employee has 
+a fiduciary obligation to protect confidential information obtained duri ng the course of his 
+employment.” (citations omitted)); United States v. Mahaffy, 693 F.3d 113, 127 (2d Cir. 2012) (in 
+a case alleging misappropriation of company inform ation, considerations include whether a firm 
+regarded “information … as confidential and treated it as such”). The Government’s evidence has 
+already shown that the defendant authorized statements, beyond the Terms of Service, that indicate 
+his own acknowledgement that FTX had such a relationship of trust with its customers. E.g. GX 
+900 (ad featuring Tom Brady and Gisele Bundchen e nding with a slide that FTX was “The most 
+trusted way to buy & sell” various digital assets); GX 850 (defendant’s Tweet that “backstopping 
+customer assets” was “primary”). There will be additional evidence of such statements introduced 
+over the course of the trial. That means that customers relying on such statements were in no way 
+doing so “unilaterally.” Chestman, 947 F.2d at 567. Additionally, testimony from the defendant’s 
+own employees regarding what they understood about the company’s tr eatment of customer 
+deposits is highly relevant to the nature of the relationship between FTX and its customers.  
+ 
+There is thus no basis to exclude evidence  or provide any limit ing instruction about 
+evidence of customers’ beliefs regarding thei r understanding and interpretation of how their 
+deposits would be handled by FTX, in the context of the statements which the defendant authorized 
+about how FTX would treat their assets. Nor is there any basis to treat the Terms of Service as the 
+only relevant evidence of the nature of the rela tionship of trust between FTX and its customers. 
+Indeed, the Second Circuit recently reversed a district court’s granting of a Rule 29 motion in a 
+wire fraud case where the defendants had argued that their misappropriation of funds received 
+pursuant to a contract was not crim inal if they had fulfilled the li teral terms of their “contractual 
+bargain.” 
+United States v. Jabar, 19 F.4th 66, 79 (2d Cir. 2021). The Second Circuit held that the 
+district court should not have ove rturned the jury’s verdict, wh ich took into account the overall 
+pattern of the “defendants’ fraudulent acts with respect to the rest of the bargain.” Id.  
+ 
+Certainly, a defendant is entitled to present a defense, but only if it has a foundation in the 
+evidence, see United States v. Kwong, 69 F.3d 663, 667-68 (2d Cir. 1995), and as long as it does 
+not fail as a matter of law, see United States v. Bakhtiari , 913 F.2d 1053, 1057 (2d Cir. 1990).  
+While the Government does not object to the de fendant’s offering disclaimers in the Terms of 
+
+
+--- PAGE 3 ---
+
+  Pa ge 3 
+ 
+ 
+Service in an effort to argue that a relationshi p of trust between FTX and its customers did not 
+exist, the defense should not be permitted to suggest or argue that such disclaimers defeat the 
+Government’s misappropr iation theory as a matter of law or  render the defendant’s false and 
+misleading statements about how FTX woul d treat customer assets immaterial.  United States v. 
+Weaver, 860 F.3d 90, 95 (2d Cir. 2017) (“a disclaimer of reliance on certain representations” does 
+not “mean that the oral representations were immaterial or without tendency to influence”).2 
+ 
+Furthermore, as the Court previously held, there is no basis to allow the testimony of 
+Lawrence Akka. Dkt. No. 287 at 2 (Akka’s proposed “testimony plainly is inadmissible under Rule 
+702 as it invades the province of the Court to instruct the jury on the law”). Nothing in the 
+defendant’s letter disturbs the Court’s conclusion: issues of law, including foreign law, are for the 
+Court, not for the jury. Fed. R. Crim. P. 26.1.  
+ 
+Finally, as the Court held in its prior Order,  the defendant’s request  for a proposed jury 
+charge on foreign law
+3 is not ripe, and if the defendant seeks such a charge the Government 
+requests the opportunity to respond.  The evidence at trial does not  currently warrant any such 
+instruction, as the Government’s misappropriation theory alleges fraud on the basis of the overall 
+“relationship of trust and confidence” between the defendant and FTX customers, Chestman, 947 
+F.2d at 569, and the Terms of Service, which have not even been introduced into evidence yet, are 
+expected to be just one of many pieces of evidence regarding that relationship.  
+ 
+II. The Government Does Not Object to Cross-Examination Regarding How Witnesses 
+Understood Their Relationship With FTX 
+ 
+The defendant argues that he has not been gr anted sufficient latitude to cross-examine 
+witnesses about their understanding of how their deposits would be  treated. Dkt. No. 321 at 1-2. 
+But the Government has not objected to his effo rts at cross-examination on these topics. The 
+defense has asked, without objection, numerous questions to “flesh[] out” its theories. Consistent 
+with the law, the Government has objected to the defense’s frequent questions that simply reiterate 
+testimony from direct examination or that “go beyond the subject matter of the direct examination 
+and matters affecting the witness’s credibility.” Fed. R. Evid. 611(b); United States v. James, 712 
+F.3d 79, 103 (2d Cir. 2013) (“A dist rict court should afford wide latitude to a defendant in a 
+criminal case to cross-examine government witnesse s, but it does not follow,  of course, that the 
+Confrontation Clause prevents a trial judge from imposing any limits on defense counsel’s inquiry 
+in cross-examining a prosecution witness.” (citation omitted)).  
+ 
+The defendant next asserts th at he “should be permitted to  question the Government’s 
+witnesses as to [FTX’s] Terms of Service.” Dk t. No. 321 at 3. Again, the Government has no 
+objection to cross-examination of witnesses about whether they reviewed FTX’s Terms of Service, 
+and has not objected when such questions have been addressed to witne sses who can provide 
+relevant testimony. E.g. Tr. 96:18-24 (cross-examination of Marc-Antoine Julliard on whether he 
+ 
+2  The Government has proposed an appropriate inst ruction to the jury regarding the limits of the 
+relevance of such evidence. See Dkt. No. 214 at 35. 
+3 Notably, the defendant cited no foreign law sour ces in his proposed request to charge.  Dkt. 
+No. 215. 
+
+
+--- PAGE 4 ---
+
+  Pa ge 4 
+ 
+ 
+had reviewed the Terms of Service), Tr. 1230 (c ross-examination of Zac Prince about whether 
+BlockFi had reviewed the Terms of Service). And if Government witnesses refer to the Terms of 
+Service as a factor in  their decision-making, cross-examin ation on the specifics of what the 
+witnesses relied on is of course permissible.  
+ 
+Finally, the defendant “anticipates asking witnesses who were customers and investors of 
+FTX and lenders to Alameda questions designed  to elicit testimony a bout the factors they 
+considered material.” Dkt. No. 321 at 4. Again, the Government does not generally object to cross-
+examination of customers about their decision to deposit funds on FTX, or cross-examination of 
+investors regarding the factors that  contributed to their decision to  invest in FTX. However, the 
+Government may of course object to the form of certain questions, including questions that seek 
+to embed legal conclusions by using the word “material.” See Tr. 292-96 (cross-examination of 
+investor witness Matt Huang on decision to invest, largely without objection by the Government). 
+As discussed in more detail below, direct and cross-examination on how investors understood the 
+defendant’s representations is proper. What would be improper would be questions meant to 
+suggest that investors were negligent or that  they should have done more diligence before 
+investing.  
+ 
+III. Investor Testimony Regarding Their Understanding of the Defendant’s 
+Representations Is Proper 
+ 
+The defendant asserts that portions of w itness Matt Huang’s test imony was inadmissible 
+without him having been noticed and qualified as an expert, which he wa s not, and requests that 
+the Government be precluding from eliciting s imilar testimony.  But Mr. Huang did not provide 
+expert testimony; instead, he offered his understanding of the defendant’s representation that FTX 
+was “the custodian for customer deposits,” Tr. 273:9-16, and how that representation was a factor 
+in his decision to invest in FTX. Tr. 274:18-21, 282:18-22. That is testimony as to his expectations 
+and understandings, which, as the Government argued in its September 30 letter, is admissible and 
+is not expert testimony. The Second Circuit’s decision in Gramins is instructive.  There, the Second 
+Circuit affirmed the admissibility of testimony about the “expectations of broker-dealer employees 
+purporting to act in a ‘broker’ capacity.”  939 F.3d at 450. There was no suggestion that these 
+witnesses, who testified about their expectations using “industry jargon,” id. at 449, could only do 
+so if qualified as experts.  
+ 
+As the Court stated during trial on October 13, testimony about witness expectations based 
+on widely used terms in the relevant industry is not “the subject of scientific or technical” expertise. 
+Tr. 1183:1-2. Indeed, testimony from market participan ts is essential for the jury to understand 
+“whether a misrepresentation has been made,” wh ich “depends on the ‘ove rall message’ and the 
+‘common understanding’ of the information conveyed.” CFTC v. McDonnell, 332 F. Supp. 3d 641, 
+717-18 (E.D.N.Y. 2018). On cross-examination the defense has itself elicited testimony about the 
+“understanding” of market par ticipants of certain terms. 
+E.g. Tr. 1244:16-17 (stating during the 
+cross-examination of Zac Prince, “I’m not holding you to a technical definition. I want to get your 
+understanding.”). 
+ 
+The defendant cites United States v. Litvak, 889 F.3d 56, 69 (2d Cir. 2018), which held that 
+testimony from a market participant with an  “indisputably idiosyncratic and unreasonable 
+
+
+--- PAGE 5 ---
+
+  Pa ge 5 
+ 
+ 
+viewpoint” was inadmissible. But the Second Circuit also  recognized that, in  the typical case, 
+evidence of the “individual views of a counterparty trader may usually be relevant to the nature of 
+the market involved and to the belie fs of a reasonable investor.” Id. That is exactly the nature of 
+the testimony on these topics that  will be offered by th e Government, and the defense is free to 
+cross-examine investor witnesses in an atte mpt to show that their views were somehow 
+idiosyncratic or were not those of a reasonable investor. But the Court should deny the defendant’s 
+motion seeking to preclude any testimony on these subj ects, and allow upcoming Government 
+witnesses to testify about their interpretation of  his representations, bo th on direct and cross-
+examination.  
+ 
+ 
+Respectfully submitted, 
+ 
+ 
+DAMIAN WILLIAMS 
+United States Attorney for the 
+Southern District of New York 
+ 
+ 
+ By:  /s Thane Rehn      
+  Danielle R. Sassoon 
+Nicolas Roos 
+Danielle Kudla 
+Samuel Raymond 
+Thane Rehn 
+Assistant United States Attorneys 
+(212) 637-2354 
+ 
+Cc: Counsel of Record (via ECF) 

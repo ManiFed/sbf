@@ -1,0 +1,274 @@
+
+
+--- PAGE 1 ---
+
+  
+ 
+ 
+Mark S. Cohen 
++1 (212) 957-7600 
+mcohen@cohengresser.com 
+ 
+ 
+Christian R. Everdell 
++1 (212) 957-7600 
+ceverdell@cohengresser.com 
+ 
+ 
+October 12, 2023 
+VIA ECF 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+United States Courthouse 
+500 Pearl Street 
+New York, New York 10007 
+ 
+Re:  United States v. Samuel Bankman-Fried, S6 22 Cr. 673 (LAK)  
+Dear Judge Kaplan: 
+On behalf of our client, Samuel Bankman-Fried, we respectfully submit this letter motion 
+in limine to address certain evidentiary issues that have emerged in the trial to date and are 
+expected to recur with witnesses who will be testifying after Ms. Ellison, including lenders, 
+investors, customers, and former employees.  In particular, we would seek to elicit testimony 
+from witnesses regarding (1) facts relevant to the nature of the relationship between FTX and its 
+customers, and (2) the materiality of alleged misrepresentations or omissions.  In addition, we 
+respectfully submit that the Government should not be permitted to offer expert opinion from lay 
+witnesses.  In terms of timing, the defense does not seek a ruling until Ms. Elison has completed 
+her testimony. 
+As a preliminary matter, we respectfully submit that, in cross-examining Government 
+witnesses, the defense should not be limited to questions relevant to the Government’s theory of 
+the case, and instead should be permitted to ask questions relevant to the defense’s theories.  The 
+Government has objected to the defense’s effort to ask questions of Government witnesses that 
+strayed from the Government’s conception, but the defense should not be precluded from 
+“fleshing out” its theories through cross-examination.  Alvarez v. Ercole, 763 F.3d 223, 231-32 
+(2d Cir. 2014); see also Olden v. Kentucky, 488 U.S. 227, 230, 109 S.Ct. 480, 482 (1988) (per 
+curiam) (holding that lower court erred by precluding defendant from cross examining 
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 1 of 6
+
+
+--- PAGE 2 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 12, 2023 
+Page 2 
+ 
+  
+prosecution witness regarding facts relevant to “[p]etitioner’s theory of the case”).1  In short, the 
+Court should permit the defense to “present the defendant’s version of the facts as well as the 
+prosecution’s to the jury so it may decide where the truth lies.”  Washington v. Texas, 388 U.S. 
+14, 19, 87 S.Ct. 1920, 1923 (1967). 
+1. The Defense Should Be Permitted to Cross-Examine Government Witnesses and 
+Offer Evidence to Rebut the Misappropriation Theory of Fraud the Government Is 
+Seeking to Prove. 
+The Government has made clear that it is pressing a “misappropriation theory” of wire 
+fraud on FTX customers – that is, of theft of customer money.  See ECF No. 301 at 3; Trial Tr. 
+29:9-10; id. at 952:11-12.  A key element of the defense is that no theft occurred.  Theft requires 
+the wrongful taking of property.  The Government has elicited testimony that fiat funds were 
+deposited directly into bank accounts controlled by Alameda.  The theft is alleged to have 
+occurred not when customers sent money into Alameda bank accounts, but when Alameda 
+subsequently used those funds for investments and other purposes.  See Trial Tr. at 954:13-16.  
+The Government appears to claim that those fiat deposits should either have remained untouched 
+as cash in Alameda’s bank accounts or converted to stablecoins and transferred to FTX.   
+The Government must therefore prove beyond a reasonable doubt, as an essential element 
+of the charged offense, that Alameda’s use of funds sent by customers to its bank accounts was 
+improper and deprived FTX customers of a property interest.  The alleged property interest had 
+two potential sources:  the property interest was defined by the FTX Terms of Service, which 
+governed the relationship between FTX and its customers; or the property interest somehow 
+arose in some other manner which the Government has implied may have been a result of the 
+implicit creation of a fiduciary or other relationship.  The existence of the property interest and 
+contours of such a relationship, if they exist at all, must be found in the governing law.  The 
+governing law in this case is English law as provided by the Terms of Service as well as the fact 
+that FTX is subject to UK law.   
+We understand that the Court has permitted the Government to elicit testimony in support 
+of its theory of theft.  However, we submit that the defense should be able to offer evidence and 
+argument to rebut this theory and to support its own theory, including in its cross-examination of 
+Government witnesses.  The defense’s position is as follows. 
+First, it is undisputed that the relationship between FTX and its customers was governed 
+by the FTX Terms of Service.  When customers sent fiat deposits to Alameda, they did so within 
+the framework of the FTX customer relationship governed by the Terms of Service.  The Terms 
+of Service, in turn, were governed by foreign law, and the Terms of Service that have been the 
+ 
+1 Except as otherwise noted, internal quotation marks, alterations, and citations have been omitted from 
+the citations to authorities in this letter.  
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 2 of 6
+
+
+
+--- PAGE 3 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 12, 2023 
+Page 3 
+ 
+  
+focus of the case so far were governed by English law.  Accordingly, the question of whether 
+Alameda’s use of customer fiat deposits was permissible within the scope of that relationship – 
+and, thus, whether a theft of property occurred – is governed by foreign law.   
+To date, the Government has indicated that it will seek to prove its misappropriation 
+theory by eliciting testimony from customers regarding their “understanding and expectation” of 
+the nature of their relationship with FTX and their how their deposits would be treated.  ECF No. 
+301 at 3; see Trial Tr. 81:4-6.  The Government asserts that such testimony is proof that 
+customers had a “fiduciary or similar relationship to FTX for purposes of the misappropriation 
+theory.”  ECF No. 301 at 3.  The Government also elicited testimony from an investor regarding 
+customer expectations relating to their relationships with an exchange, Trial Tr. 274:13-274:24, 
+and from former FTX employees about their beliefs regarding whether it was proper for 
+Alameda to use customer fiat deposits held in its bank accounts.  E.g., Trial Tr. 160:24-161:2; id. 
+at 162:25-163:2; id. at 438:3-13.   
+However, it is the defense’s position that the rights and obligations of parties to a 
+commercial relationship are not established by their expectations and understandings for 
+purposes of the misappropriation theory of the federal fraud statutes.  See, e.g., United States v. 
+Chestman, 947 F.2d 551, 567 (2d Cir. 1991) (“a fiduciary duty cannot be imposed unilaterally by 
+entrusting a person with confidential information”).  Indeed, courts have recognized that, where 
+allegations of fraud are predicated on violation of the terms of a contract, compliance with those 
+terms is a defense to the charged offense.  See, e.g., United States v. Race, 632 F.2d 1114 (4th 
+Cir. 1980) (reversing conviction of defendants for violating 18 U.S.C. § 1001 in government 
+contracting case where, contrary to allegations in the indictment, the defendants’ billing practices 
+were permitted by the relevant contract).   
+Accordingly, the defense should be permitted to question the Government’s witnesses as 
+to the Terms of Service and presenting evidence regarding the relevant provisions.   
+By seeking to prove misappropriation through testimony from customers and others 
+regarding their beliefs and expectations, the Government is trying to sidestep its burden to prove 
+an essential element of its embezzlement theory beyond a reasonable doubt.  Indeed, evidence of 
+customers’ belief regarding their legal relationship with FTX would only serve to distract and 
+confuse jurors in considering the facts in light of the meaning of the Terms of Service.  Fed. R. 
+Evid. 403; see also United States v. Litvak, 889 F.3d 56, 69 (2d Cir. 2018) (explaining that a 
+counterparty’s indisputably erroneous claim of an agency relationship with the defendant is not 
+relevant to prove materiality).  We respectfully submit that any further evidence in this regard 
+should be excluded or accompanied by a limiting instruction to the jury.  The same is true for 
+testimony of former FTX employees regarding their beliefs and expectations regarding the use of 
+customer fiat deposits.  See, e.g., Trial Tr. 160:24-161:2; id. at 162:25-163:2; id. at 438:3-13. 
+Second
+, the Government has represented that it will offer into evidence one portion of the 
+FTX Terms of Service, which relates to crypto assets in customer accounts, ECF No. 204 at 40, 
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 3 of 6
+
+
+--- PAGE 4 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 12, 2023 
+Page 4 
+ 
+  
+and moved to exclude other portions, such as disclaimers of liability and damages.  The Court 
+denied that motion without prejudice.  ECF No. 289 at 12 ¶ 17.  The defense should be permitted 
+to introduce other portions of the Terms of Service, including those relating to funding accounts 
+through fiat deposits and specifying that FTX has no fiduciary relationship and does not act as a 
+broker, agent, or advisor to its customers.  See Porter v. United States, No. 13 CIV. 7332 NRB, 
+2015 WL 1004953, at *1 (S.D.N.Y. Mar. 3, 2015) (noting that a contract is “a form of verbal act 
+to which the law attaches duties and liabilities and therefore is not hearsay”); McCormick on 
+Evidence § 249 n.4 (8th ed.). 
+Third, the Government may seek to argue that the deposit of customer fiat to Alameda 
+was not governed by the Terms of Service, and thus by English law, but rather that there was 
+some form of constructive trust or other fiduciary of similar relationship between FTX customers 
+and Alameda.  The defense should be permitted to rebut any such argument and evidence offered 
+to support it.  The defense would also request the opportunity to submit a proposed jury charge 
+on the relevant law and its application to the evidence in this case.   
+Finally, the defense previously offered expert testimony of Lawrence Akka KC to 
+provide background and applicable English legal principles to assist the jury in evaluating the 
+lawfulness of alleged actions implicated by the Terms of Service.  ECF No. 275 at 37-42; ECF 
+No. 276-9.  In excluding Mr. Akka’s proposed testimony, the Court stated that questions of 
+foreign law are to be determined by the Court and that it would entertain a proposed jury charge 
+on the “legal relationship between FTX and its customers.”  ECF No. 287 at 2 ¶ 3 & n.6.  Since 
+that ruling, the contours Government’s misappropriation or embezzlement theory of fraud have 
+become clear, as has the central importance of English law to this theory.  Respectfully, we ask 
+the Court to permit the defense at the appropriate time to submit a revised and narrower Rule 16 
+disclosure for Mr. Akka for the Court to consider.   
+2. The Defense Should Be Permitted to Offer Evidence and Argument Regarding the 
+Materiality of Alleged Misrepresentations or Omissions. 
+The defense anticipates asking witnesses who were customers and investors of FTX and 
+lenders to Alameda questions designed to elicit testimony about the factors they considered 
+material in entering the arrangements and transactions at issue in this trial.   
+The Court’s Memorandum and Order on the Government’s In Limine Motions granted 
+the Government’s motion in limine to exclude evidence that FTX’s customers and investors or 
+Alameda’s lenders were “negligent, gullible, or insufficiently vigilant.”  ECF No. 289 at 7-8 ¶ 9.  
+The Court noted that “reliance is not an element of criminal fraud.”  Id.  However, there is no 
+dispute that materiality – as distinct from reliance – is an essential element of such a charge.  See 
+ECF No. 246 at 32 (citing cases).  As we understand it, the Court’s ruling on this issue does not 
+preclude evidence regarding the materiality of various factors that were considered in customer, 
+investor, and lender decisions.   
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 4 of 6
+
+
+--- PAGE 5 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 12, 2023 
+Page 5 
+ 
+  
+Indeed, the Government asked Marc-Antoine Julliard (a former FTX customer) about 
+information that he considered to be “important.”  Trial Tr. 68:16-69:7.  Likewise, Mr. Huang 
+(an FTX investor) testified on direct regarding factors and statements that Paradigm considered 
+in its investment decision.  See, e.g., Trial Tr. 269:12-270:3, 277:14-278:12, 279:23-279:25, 
+280:24-281:11, 287:11-288:6.2  In essence, the Government was positioning Mr. Huang as a 
+sophisticated investor – the opposite of the gullible investor that would implicate the Court’s 
+prior ruling.   
+The Government’s witness list includes several other investors as well as Alameda 
+lenders and FTX customers.  Respectfully, we submit that the defense should be entitled to ask 
+appropriately focused questions that relate to the materiality of certain factors these witnesses 
+considered or decided not to consider in entering transactions with FTX or Alameda to the same 
+extent the Government has done so.  The goal will be to establish what factors these witnesses – 
+including sophisticated investors and lenders conducting appropriate due diligence and making 
+informed decisions – considered to be material.   
+3. The Government Should Not Be Permitted to Offer Expert Opinions from Lay 
+Witnesses. 
+We respectfully ask the Court to preclude the Government from eliciting expert 
+testimony from lay fact witnesses.  Fed. R. Evid. 701, 702; Fed. R. Crim. P. 16(a)(1)(G)(i).  A 
+lay witness is permitted to testify in the form of an opinion only if the opinion is “rationally 
+based on the witness’s perception” and “not based on scientific, technical, or other specialized 
+knowledge within the scope of Rule 702.”  Fed. R. Evid. 701(a); see id., Advisory Committee’s 
+notes, 2000 Amendments (“[L]ay testimony results from a process of reasoning familiar in 
+everyday life.”).  In his direct examination, Mr. Huang provided opinions about, among other 
+things, the “general expectation by customers in the crypto industry” and how crypto exchanges 
+operate.  E.g., Trial Tr. 274:18-21; id. at 282:18-22.  Because this testimony was purportedly 
+based on Mr. Huang’s “knowledge and experience of digital assets in the companies in the 
+cryptocurrency ecosystem,” Trial Tr. 266:22-24; see also id. at 275:3-5, 282:18-19, and not on 
+Mr. Huang’s own perception or everyday lay experience, it was expert opinion.   
+Going forward, the Government should be precluded from eliciting similar expert 
+testimony from lay witnesses.  The only experts for which the Government provided Rule 16 
+disclosures are Prof. Peter Easton and Dr. Andria van der Merwe, and only those witnesses 
+should be permitted to offer opinions that do not conform to Rule 701.  To the extent the Court 
+permits non-expert witnesses to offer opinions pursuant to either Rule 701 or Rule 702, we 
+ 
+2 Similarly, FTX customer Marc-Antoine Julliard testified about various factors, other than alleged 
+misrepresentations by Mr. Bankman-Fried, that influenced his decision to open an FTX account.  See, 
+e.g., Trial Tr. 68:16-22 (FTX’s size and number of customers); id. at 69:11-20 (that major venture capital 
+firms had invested in FTX).   
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 5 of 6
+
+
+
+--- PAGE 6 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 12, 2023 
+Page 6 
+ 
+  
+respectfully submit that the defense should be permitted to cross-examine the witness to discern 
+the basis for the opinion and, in the event of expert opinion, to explore the supporting facts and 
+the reliability of the expert’s methodology.  See Fed. R. Evid. 702. 
+Respectfully submitted,  
+  
+    /s/ Mark S. Cohen          . 
+Mark S. Cohen 
+Christian R. Everdell 
+S. Gale Dick 
+Sharon L. Barbour 
+COHEN & GRESSER LLP 
+800 Third Avenue, 21st Floor 
+New York, New York  10022 
+(212) 957-7600 
+mcohen@cohengresser.com 
+ceverdell@cohengresser.com 
+sgdick@cohengresser.com 
+sbarbour@cohengresser.com 
+cc: All counsel of record (via ECF) 
+ 
+Case 1:22-cr-00673-LAK   Document 321   Filed 10/12/23   Page 6 of 6

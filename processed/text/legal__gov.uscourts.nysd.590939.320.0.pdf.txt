@@ -1,0 +1,92 @@
+
+
+--- PAGE 1 ---
+
+Case 1:22-cr-00673-LAK Document 306 Filed 10/02/23 Page 1 of 5 
+GG COHEN & GRESSER LLP 
+Mark S. Co hen 
++ 1 (212) 957-7600 
+mcohen@cohengresser.com 
+MEMO ENDORSED 
+Christian R. Everdell 
++ 1 (212) 957-7600 
+ceverdell@cohengresser.com 
+VIAECF 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+United States Courthouse 
+500 Pearl Street 
+New York, New York 10007 
+October 2, 2023 
+Re: United States v. Samuel Bankman-Fried, S5 22 Cr. 673 (LAK) 
+Dear Judge Kaplan: 
+800 Third Avenue 
+New York. NY 10022 
++ 1 212 957 7 600 phone 
+www.cohengresser.com 
+On behalf of our client, Samuel Bankman-Fried, we write to respectfully request 
+clarification and reconsideration regarding certain portions of the Court's ruling on the parties' 
+motions in limine, ECF No. 289. In particular , as discussed further below, we seek clarification 
+as to (1) the Court's grant of the Government 's request to preclude argument concerning whether 
+FTX was regulated within the United States and FTX.US's compliance with applicable rules, 
+ECF No. 289 at ,r 15; (2) the Court's grant of the Government's request to preclude Mr. 
+Bankman-Fried from offering evidence concerning recovery of assets in the FTX bankruptcy 
+proceeding, id. ,r 16; (3) the Court's grant of the Government ' s request to preclude evidence 
+concerning Mr. Bankman-Fried 's prior good acts, including charitable giving and philanthropy , 
+to disprove his guilt of the crimes charged , id. ,r 11; and ( 4) the Court's grant of the 
+Government 's request to admit evidence concerning the alleged illegal campaign finance 
+scheme, id. ,r 2. 
+1. Ruling as to Argument Concerning Whether FTXwas Regulated in the United States and 
+FTX US 's Compliance with Applicable Rules 
+The Court granted the Government 's request to preclude Mr. Bankman-Fried from 
+arguing that "he is not guilty because FTX was not regulated in the United States and he 
+followed the rules with respect to FTX US," on the basis that the "Defendant has not opposed 
+this request[.]" ECF No. 289 at ,r 15. However, we respectfully note that Mr. Bankman-Fried 
+opposed the Government's request in his Memorandum of Law in Opposition to the 
+Government 's Motions in Limine ("Opposition Brief '), ECF No. 246, at 23-24. 
+Specifically, Mr. Bankman-Fried argued: 
+
+
+--- PAGE 2 ---
+
+Memorandum Endorsement United States v. Bankman-Fried, 22-cr-0673 (LAK) 
+Defendant moves for clarification and reconsideration (Dkt 306) regarding portions of the 
+Court's ruling on the parties' motions in limine. The motion is disposed of as follows, the numbered 
+sections of this endorsement corresponding to those of the defendant's motion. 
+1. Reconsideration is granted. On reconsideration, the Court adheres to its ruling on 
+the prior motion (Dkt 289, 1 15) substantially for the reasons argued by the government in opposition to 
+the defendant's present motion (Dkt 312, 1 I). Among other things , the fact, assuming it to be so, that 
+cryptocurrency exchanges or the cryptocurrency industry in particular are, in a general sense, unregulated 
+in the United States, at least in the same ways as some other financial services industries such as securities 
+exchanges , commodities exchanges, investment advisors , and so on, is irrelevant. Defendant is being 
+prosecuted here for alleged violations of U.S. statutes of general application to all persons and entities the 
+conduct of which comes within the reach of U.S. law, including, for example, wire fraud and conspiracy 
+to violate other applicable statutes. Among other things, he allegedly misappropriated for his own use 
+money that was "entrusted to [his] care by another. " United States v. Altman, 48 F .3d 96, IO 1 (2d Cir. 
+1995). Even were the evidence that defendant seeks to offer of some relevance, evidence of the lack of 
+the sort of regulation to which defendant refers would be of minimal probative value and would be 
+outweighed substantially by the likelihood of jury confusion , waste of time, and unfair prejudice to the 
+even-handed application of laws of general application to the defendant 's alleged conduct. 
+2. Reconsideration is denied. First, the defendant's reliance on footnote 7 of his 
+opposition to the government's memorandum on the motion in limine is misplaced . Arguments raised only 
+in footnotes (let alone arguments omitted from footnotes) are not properly raised and need not be addressed 
+by the Court. See Fairfield Sentry Ltd. v. Citibank, N.A. 630 F. Supp.3d 463, 496 n.34 (S.D.N.Y . 2022) 
+(citing cases). Second, as the Court already has held, " it is immaterial as a matter of law whether the 
+defendant intended to repay [ or could have repaid] the misappropriated funds because the offense [ wa ]s 
+complete where , as alleged here, there is an immediate intent to misapply and defraud." 
+3. Reconsideration is granted but, on reconsideration, the Court adheres to its original 
+ruling with this clarification: The government does not object to the defendant ' s proffer of admissible 
+evidence regarding charitable or philanthropic efforts provided the evidence is presented for a proper 
+purpose, as opposed to attempting to prove lack of a propensity to commit crime or good. Should 
+controversy arise over particular questions , the Court then will rule as appropriate. 
+4. Reconsideration is granted but, on reconsideration, the Court adheres to its original 
+ruling. Moreover , and with respect, the defendant has misconstrued the Court's rulings . Properly 
+construed , there is no inconsistency . 
+In the event of a conviction , the Court reserves the right to expand upon its reasoning with 
+respect to these rulings. 
+Dated : 
+SO ORDERED. 
+October 11 , 2023 
+Lewis A. Kaplan 
+United States District Judge 

@@ -1,0 +1,106 @@
+
+
+--- PAGE 1 ---
+
+COHEN & GRESSER LLP 
+MukS.Cohen 
++1 (212) 9S7-7600 
+mcoheu@cohengtessei:.com 
+Chcistiao R. Evetdell 
++1 (212) 9S7-7600 
+cevudell@cohengtesser.com. 
+VIAECF 
+The Honorable Lewis A Kaplan 
+United States District Court 
+Southern District of New York 
+United States Cowihouse 
+500 Pearl Street 
+New York, New York 1000 7 
+October 9, 2023 
+Re: United States v. Samuel Ba.nkman-Fried, S6 22 Cr. 673 (LAK) 
+Dear Judge Kaplan: 
+Mt:"t• · .·.,:, •• '-• • • • 0022 
++· :(ll\l.'u' ,r;,;,; r,t-,f'."-r,e. 
+On behalf of ow· client , Samuel Bankman-Fried , we respectfully submit this letter 
+pursuant to the Cowt 's order dated October 1, 2023 (ECF No. 305). In its order, the Court 
+precluded the defense from eliciting evidence conceming the presence or involvement of 
+attomeys absent prior notice to the Court and the Govemment outside of the presence of the jwy. 
+Id. at 9-10. We write to seek the Court' s permission to elicit on cross-examination of Gary 
+Wang evidence concerning the involvement of counsel in stmctw-ing the loans issued to Mr. 
+Wang by Alameda Research. 
+On direct examination , the Govemment questioned Mr. Wang about a sei-ies of pei-sonal 
+loans worth approximately $200-$300 million that he received from Alameda to fund venture 
+investments by FTX and to fund his purchase of a house in the Balllllllas. Tr. at 324:25-326:17. 
+h1 the course of that examination , the Govemment and Mr. Wang engaged in the following 
+colloquy: 
+Q: And who presented those loans to you? 
+A: Either Sam or a row1d oflawyei-s at the company. 
+Q: What did you do whei1 you were presented with the loans? 
+A: I signed the paperwork. 
+Q: Why did you sign them? 
+A: I was told to. 
+
+
+--- PAGE 2 ---
+
+The Honorable Lewis A Kaplan 
+October 9, 2023 
+Page2 
+Q: What did you believe the expectation was when you were presented with one of 
+these loans? 
+A: That I would sign it. 
+Tr. 325: 17-25. 
+The Govemment 's direct examination of Mr. Wang has already elicited that FTX 
+attomeys were present and involved in structuring and executing the loans, and that Mr. 
+Bankman-Fried was aware of their involvement. Accordingly , the defense seeks to cross-
+examine Mr. Wang further about his knowledge of the lawyers ' involvement , including on the 
+following topics: 
+• Which attorneys were involved in the loans? 
+• What was the nature of their involvement? 
+• What documents did they prepare? 
+• What were the tem1S of the loan and Mr. Wang ' s obligations under the loan? 
+• Whether Mr. Wang had any concerns about the loans at the time he signed them. 
+The defense may also seek to introduce the promissory notes memorializing the loans to 
+Mr. Wang. Further, Mr. Wang previously described his interactions with the lawyers concerning 
+the loans in his proffer sessions with the Government. FBI 302 reports provided to the defense 
+in discoveiy indicate that Mr. Wang told the Government that he relied on the lawyei-s and 
+"didn 't think the loans were designed to hide the fact that money was coming from Alameda 
+[and] didn 't think the lawyei-s would tell him to sign something that was illegal." 3585-028 at 
+4. I 
+Mr. Wang 's undei-standing of the lawyers ' involvement in the loans is directly relevant to 
+Mr. Bankman-Fried' s good faith and lack of criminal intent. The Govemment has alleged as part 
+of its theory of the money laundering conspiracy charged in Count Seven that Mr. Bankman -
+Fried "took steps to conceal that [] investments and expenditures were funded by transfers 
+originating with Alameda , and thei·efore funded with FTX customer funds." S6 h1dictment ,r 8. 
+The hldictment further alleges that Mr. Banknlan-Fried accomplished this by bon-owing over $1 
+billion from Alameda and overseeing "similar bon-owing by other FTX executives. " Id. 
+Mr. Wang 's undei-standing that tl1ese were actual loans - structured by lawyers and 
+memorialized in formal promissory notes that imposed real interest payment obligations - is 
+1 Should the Court require , we can provide a copy of the 302 tomon-ow. 
+
+
+
+--- PAGE 3 ---
+
+The Honorable Lewis A Kaplan 
+October 9, 2023 
+Page 3 
+relevant to rebut the inference that these were simply sham loans directed by Mr. Bankman -Fried 
+to conceal the source of the funds. 
+Further, as set forth in the FBI 302, the fact that Mr. Wang had no reason to believe, 
+based on the involvement of the lawyers, that the loans were illegal or were designed to conceal 
+that Alameda was the source of the funds Ulldercuts the Government 's money laundering theo1y 
+and corroborates Mr. Bankman -Fried 's own w1derstanding that the loans were not improper. 
+For these reasons , we respectfully request that the Court allow the defense to elicit the 
+above-referenced evidence in its cross-examination of Mr. Wang. 
+cc: All collllSel of record (via ECF) 
+Respectfully submitted , 
+Isl Christian R. Everdell 
+Mark S. Cohen 
+Christian R. Everdell 
+COHEN & GRE SSER LLP 
+800 Third Avenue, 21st Floor 
+New York, New York 10022 
+(212) 957-7600 
+mcohen@cohengresser.com 
+ceverdell@cohengresser.com 

@@ -1,0 +1,561 @@
+
+
+--- PAGE 1 ---
+
+[Type text] 
+ 
+e 
+ 
+ 
+										
+  October 24, 2023 
+ 
+ 
+By ECF 
+ 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+500 Pearl Street 
+New York, New York 10007  
+ 
+  R e :  United States v. Samuel Bankman-Fried, S6 22 Cr. 673 (LAK) 
+ 
+Dear Judge Kaplan:  
+ 
+The Government respectfully submits this lett er in response to th e defendant’s revised 
+requests to charge (Dkt. 327 and 327-1), which contain numerous proposed instructions that are 
+inconsistent with the law, would be likely to co nfuse the jury, and should not be included in the 
+Court’s charge. More generally, the Government submits that wherever there is a difference 
+between the Government’s reque st and the defense request, th e Government’s proposal more 
+accurately captures the applicable law than the defendant’s proposal. Because the Government has 
+submitted its own proposed jury charges and understands that the Court will hold a charge 
+conference, the Government does not offer a line-by-line response or objection to the defendant’s 
+requests, but instead seeks to draw the Court’s attention to principal substantive areas of the 
+defendant’s revised requests that the Government believes are either contrary to or materially 
+misstate applicable law, or are particularly likely to mislead or confuse the jury. 
+ 
+Defense Request No. 2: The Defendant’s Proposed Added Language Is Confusing 
+ 
+In his proposed Defense Request No. 2, “Crime s Defined by Statute Only,” the defendant 
+now includes the sentence “A witness’s stated feeling or belief as to what the law should or should 
+not have prohibited is not sufficient to convi ct anyone of any charge.” (Dkt. 327-1 (“Deft. 
+Redline”) at 7). That sentence is not found in Judge Oetken’s charge in United States v. Danilovich, 
+12 Cr. 171, which is the only precedent that the defendant cites. Moreover, there has not been any 
+trial testimony in which a witness has expressed a belief about what the law “should or should not 
+have prohibited.” Thus, the defendant’s proposed instruction does not appear to serve any purpose 
+other than to improperly suggest that the jury should disregard testimony in which the defendant’s 
+victims and employees have e xplained their understanding of  how the defendant’s business 
+operated and treated customer funds. That testimony did not involve witness beliefs about the law, 
+but witness beliefs about the facts, which were based on the defendant’s own representations and 
+course of conduct.  
+ 
+ 
+ 
+The Silvio J. Mollo Building 
+              O n e  S a i n t  A n d r e w ’ s  P l a z a  
+              New York, New York 10007  
+U.S. Department of Justice 
+ 
+United States Attorney 
+Southern District o
+f New York 
+
+
+--- PAGE 2 ---
+
+  Pa ge 2 
+ 
+ 
+In addition to the flaws in the defendant’s pr oposed revision to this instruction, the entire 
+instruction that crimes are defined by statute only is unnecessary. The same idea is fully captured 
+in the Government’s request to charge, which makes clear that the jury must find that the 
+Government has proven each of the elements of each charged crime in order to convict. But if the 
+Court were to give the defendant’s  requested instruction modeled on Danilovich, it should not 
+include the extraneous and potentially confusing language about witness beliefs that is proposed 
+in the defendant’s revised request to charge. 
+ 
+Defense Request No. 5: The Defendant’s Revised Proposed Jury Instruction on Misappropriation  
+Is Legally Erroneous and Confusing 
+ 
+Prior to trial, both parties submitted a request to charge the jury that contained a definition 
+of “misappropriation” drawn from applicable case law. The Government proposed a definition of 
+“misappropriation” as “the fraudul ent appropriation to one’s own use of mone y or property that 
+was entrusted to one’s care by someone else.”  (Dkt. 214 at 8). The defendant proposed a 
+substantively identical definiti on. (Dkt. 215 at 11 (defining misap propriation as “the fraudulent 
+appropriation to one’s own use of the money or goods entrusted to one’s care by another”)). Both 
+parties’ proposed definitions were drawn from the definition gi ven by the Supreme Court in 
+Carpenter v. United States , 484 U.S. 19, 27 (1987). The Government’s proposed instruction 
+provided further explanation to the jury of this concept, m odeled closely on this Court’s 
+instructions in United States v. Gatto, No. 17 Cr. 686 (LAK) (S.D.N.Y. Oct. 1, 2018) and United 
+States v. Blaszczak, No. 17 Cr. 357 (LAK) (S.D.N.Y. Apr. 2 7, 2018), and other precedent in this 
+District. (See Dkt. 214 at 8-10). 
+ 
+In his revised request to  charge, the defendant has deleted the language from Carpenter 
+that he previously proposed as a definition of misappropriation, and has instead proposed an 
+instruction that is unprecedented, legally wrong, and likely to confuse and mislead the jury about 
+the applicable law. (Deft. Red line at 13-15). In particular, the defendant proposes to improperly 
+focus the jury’s attention on the FTX terms of se rvice to the exclusion of  other evidence in the 
+case, and erroneously suggests that the defendan t is guilty of the misa ppropriation of customer 
+deposits only if the jury finds a violation of the terms of service. That is simply wrong as a matter 
+of law. As the Government has pr eviously briefed, a wire fraud charge does not require a breach 
+of contract; indeed, the Supreme Court in Carpenter expressly upheld application of a wire fraud 
+misappropriation theory “even in the absence of a written contract.” 484 U.S. at 27. (See also Dkt. 
+322 (Government letter containing additional author ity on this issue)). Nor would some form of 
+warning or waiver contained in a contract provide a defe nse to otherwise material 
+misrepresentations. United States v. Weaver, 860 F.3d 90, 97 (2d Cir. 2017). Thus, the defendant’s 
+attempt to reduce the evidence in this case to the FTX terms of service should be rejected. The jury 
+may consider all the representati ons, omissions, and actions of th e defendant and his agents to 
+determine whether he breached a “fiduciary duty or  similar relationship of trust and confidence,” 
+which includes a relationship in which another person “entrust[s] the fiduciary with custody over 
+property.” United States v. Chestman, 947 F.2d 551, 569 (2d Cir. 1991). 
+ 
+Tellingly, the defendant does not cite any precedent for his newly discovered argument that 
+the jury must find a violation of the terms of se rvice to convict on the wire fraud counts. Instead, 
+he cites Carpenter and Chestman, but as noted, both of those ca ses held that a contractual 
+
+
+--- PAGE 3 ---
+
+  Pa ge 3 
+ 
+ 
+relationship is not required to find a defendant guilty on a misappropriation theory. He also cites a 
+civil case dealing with the enforceability of an arbi tration clause in a website’s terms of service, 
+which simply has nothing to do with  the legal standard applicable  to the crime of wire fraud 
+charged here. ( See Deft. Redline at 11 (citing Carpenter, Chestman, and Meyer v. Uber Techs. , 
+868 F.3d 66, 75 (2d Cir. 2017))).  
+ 
+To be clear, the Government does not disagree that the terms of service are a relevant piece 
+of evidence for the jury to consider, along with the other evidence in th e case, in determining 
+whether the defendant committed fraud. But, as noted above, the law is clear that it is the 
+defendant’s overall course of conduct with respect to his customers that the jury should consider, 
+and that he can be convicted of  fraud on his customers even if there were disclaimers or other 
+language in the terms of service that purportedly covered his conduct.
+1 See Weaver, 860 F.3d at 
+97  (noting that “although the contractual disclaimers were relevant to the jury’s determination of 
+Weaver’s guilt, they did not render extra-contract misrepresentations immaterial as a matter of 
+law”). Accordingly, the Government has proposed an instruction regarding contractual disclaimers 
+that accords with the Second Circuit’s holding in Weaver. (Dkt. 326 at 3). 
+ 
+The defendant’s revised proposed instruction is additionally wrong a nd confusing in its 
+characterization of the property inte rest at issue in this case. ( See Deft. Redline at 15 (proposing 
+to instruct the jury that “the Government must have proven beyond a reasonable doubt that under 
+English law the Terms of Service created a property interest”)). The Indictment alleges, and the 
+facts at trial have proven, that FTX customers entrusted the defendant with their deposits and that 
+he misappropriated those deposits. (Dkt. 202 ¶ 17). This theory is fully in line with Carpenter, 
+Chestman, and other misappropriation cases, as explained in the Government’s request to charge. 
+(Dkt. 214 at 8-9). Indeed, the defendant’s prop osal appears to confus e the property element—
+unquestionably satisfied by the mone y and cryptocurrency that was th e object of the defendant’s 
+scheme—with the scheme to defra ud element, as to which the question is whether the defendant 
+misappropriated that money or property or obtained it through misrepresentations. The customers 
+had a property interest in the money and cryptocurrency they deposited with FTX, and there is no 
+additional need to ground their prop erty interest in a contractual right found in the FTX terms of 
+service, as the defendant’s new proposed instruction seeks to do. 
+ 
+The defendant’s proposed instruction goes even  further astray in inviting the jury to 
+speculate about the application of English law to these questions, without even providing an 
+instruction as to what English law says about them. As the Government has repeatedly explained, 
+it would be improper to instruct the jury regarding English law, as this case is governed by the 
+federal wire fraud statute and is not a case allegi ng breach of contract. But even if the defendant 
+wanted such an instruction, he has not proposed one. Instead, he proposes an instruction that refers 
+to English law without even attempting to identi fy what the applicable English legal standard 
+ 
+1 The evidence introduced at  trial also rebuts the defendant’s factual claims about the terms of 
+service, as multiple witnesses have testified that the provisions cite d in the defense opening 
+statement did not explain the defendant’s use of customer funds. (See, e.g., Tr. 1468 (Nishad Singh 
+testimony that the missing customer money was not explained by FTX’s spot margin system); Tr. 
+1962 (Can Sun testimony that the “theoretical argument” that th e margin system explained the 
+missing funds was “not supported by the facts”)). 
+
+
+--- PAGE 4 ---
+
+  Pa ge 4 
+ 
+ 
+would be. That would leave the ju ry with no guidance whatsoever as to how to resolve this case, 
+which suggests that the defendant’s real goal is to confuse the jury. The Court should reject the 
+defendant’s proposed instruction an d provide the standard legal inst ructions used in the past by 
+this Court and others in misappropriation cases, as proposed in the Government’s request to 
+charge. 
+ 
+Defense Request No. 6: The Defendant’s Revi sed Proposed Jury Instruction on Lender Fraud 
+Misstates the Facts Alleged in the Indictment 
+ 
+The defendant has also added new language to his proposed request on Count Three of the 
+Indictment that misstates the nature of the alleged fraud on lenders and attempts to reduce the 
+alleged lender fraud to being derivative of the alleged customer fraud. Specifically, the defendant’s 
+new instruction inaccurately states that “the cl aim of lender fraud is base d on failure to disclose 
+the improper borrowing by Alamed a,” and that the jury “must acquit” if it finds that the 
+Government has not proven that Alameda’s bo rrowing from FTX was “improper.” That is 
+incorrect. Count Three charges the defendant with “providing false and misleading information to 
+those lenders regarding Alameda’s financia l condition.” (Dkt. 202 ¶ 22). If the defendant 
+concealed Alameda’s borrowing from FTX from lenders, that would be false and misleading, and 
+would give lenders an inaccurate view of Alameda’s financial condition, regardless of whether the 
+borrowing from FTX was “improper.” Nor are the a llegations in the Indict ment limited to that 
+particular provision of false and misleading information regarding Alameda’s financial condition; 
+rather, as the evidence at trial has shown, there were multiple additional ways in which the 
+defendant conspired to mislead lenders, includi ng by providing them with financial information 
+that inaccurately characterized sh ort-term liabilities as long-ter m liabilities, that understated 
+Alameda’s overall liabilities, a nd that omitted Alameda’s large lo ans to the defendant and other 
+insiders. The jury could convict based on those misrepresentations and omissions without even 
+considering the concealment and misrepresentation of Alameda’s borrowing from FTX. Thus, the 
+defendant’s attempt to conflate Count Three with Count One is incorrect, and the Court should not 
+include the defendant’s newly requested language.  
+ 
+Next, the defendant’s proposed instruction in jects additional confus ion by proposing to 
+instruct the jury that it “must acquit” the defendan t if it finds that he “believed that the financial 
+statements provided to the lenders was consistent with the balance sheet required by the lenders.” 
+(Deft. Redline at 20). That is wrong for three reasons. First, the defendant’s proposed instruction 
+is ambiguous at best, and mislead ing at worst. For instance, if  Alameda’s lenders requested a 
+balance sheet that showed that Alameda was financially healthy, and the defendant provided them 
+with a balance sheet that falsely indicated Alamed a’s financial health, this would be “consistent” 
+with what the lenders required, but obviously fra udulent. That would be a basis to convict, not 
+acquit. Second, only one lender witne ss testified at this trial, a nd the defense has generally not 
+adduced evidence about what balance sheet Alamed a’s lenders “required.”  Third, to the extent 
+that the defense is simply requesting a good faith instruction about what the defendant believed, 
+the Government submits that the Court should provide a general in struction that good faith is a 
+defense, rather than an instruct ion that attempts to characterize the facts of this case one way or 
+another. The Government’s request to charge includes such a good faith instruction. (Dkt. 214 at 
+13). 
+ 
+
+
+--- PAGE 5 ---
+
+  Pa ge 5 
+ 
+ 
+Defense Request No. 9: The Defendant’s Proposed Addition to His Instruction on Securities Fraud 
+Is Unsupported by the Record 
+ 
+The defendant’s revised request to charge proposes a new sentence to the instruction on 
+securities fraud, which states that the materiality  of a misrepresentation should not be evaluated 
+by reference to the “idiosyncratic views of an indi vidual investor.” (Deft. Redline at 29-30). The 
+defendant draws this language from United States v. Litvak , 889 F.3d 56, 69 (2d Cir. 2018), but 
+there is nothing in the re cord in this case that would support the inclusion of such an instruction 
+here. There has been no evidence presented to sugge st that the views of the investors who have 
+testified were “idiosyncratic,” and presenting such an instruction without evidentiary support risks 
+jury confusion. The Government’s request to ch arge accurately informs the jury that it must 
+evaluate materiality from the point of view of a reasonable investor, and nothing further is required. 
+(Dkt. 214 at 35). 
+ 
+Defense Request No. 10: The Defendant’s Revi sed Proposed Jury Instruction on Commodities 
+Fraud Is Legally Erroneous and Confusing 
+ 
+The defendant has taken his initial proposed instruction for the conspiracy to commit 
+commodities fraud offense in violation of the Commodities Exchange Act (“CEA”) and its 
+implementing regulation Rule 180.1, which included irrelevant and confusing language about the 
+“in connection with” element of that crime, and revised the instruction to include legally erroneous 
+and confusing statements about both the “in connection with” element and the territorial 
+applicability of the offense.  The Court should reject his instruction entirely.  
+ 
+A. “In Connection With” Instruction 
+ 
+The defendant’s request to charge asks for an instruction that: 
+ 
+the phrase “in connection with” is not limitless and does not convert 
+every instance of alleged fraudulent conduct that happens to involve 
+commodities into a violation of the federal commodities fraud laws. 
+For purposes of Count Six, the Government must prove beyond a 
+reasonable doubt a fraud that is  “integral”—and not merely 
+incidental—to a purchase or sale of  a commodity, or integral to a 
+swap. (Deft. Redline at 36).  
+ 
+While the Government agrees that the jury should be instructed on the “in connection with” 
+requirement, the defendant’s pr oposed instruction would impr operly constrain the jury’s 
+understanding of this language. The defendant’s propos al is not found in the statute itself or its 
+implementing regulation. 7 U.S.C. § 9(1); 17 C.F.R. § 180.1, but rather seeks to elaborate on dicta 
+in the Supreme Court’s decision in S.E.C. v. Zandford , 535 U.S. 813 (2002), and the  Second 
+Circuit’s decision in Dabit v. Merrill Lynch, Pierce, Fenner & Smith, Inc. , 395 F.3d 25 (2d Cir. 
+2005), vacated, 547 U.S. 71 (2006), in a way that undermine the Supreme Court’s holding. Indeed, 
+the Supreme Court has held that Section 10(b) of the parallel Securities Exchange Act “should be 
+construed not technically and restrictively, but fl exibly to effectuate its remedial purposes.” 
+Zandford, 535 U.S. at 819. Notably, the defendant cites no jury charge that instructed the jury with 
+
+
+--- PAGE 6 ---
+
+  Pa ge 6 
+ 
+ 
+the additional language sought by the defendant. The Government’s proposal (Dkt. 214 at 46) 
+provides a more accurate de scription of the law, and is consiste nt with precedent in this District, 
+see United States v. Milton, No. 21 Cr. 478 (ER) (S.D.N.Y. Sept. 12, 2022); Blaszczak, No. 17 Cr. 
+357 (LAK) (S.D.N.Y. Apr. 27, 2018); United States v. Tuzman, No. 15 Cr. 536 (PGG) (S.D.N.Y 
+Dec. 22, 2017).2 
+ 
+On top of this, the defendant’s proposed in struction goes on to include inaccurate or 
+confusing statements of the law. First, he proposes to instruct th e jury that “the ‘in connection 
+with’ requirement would not be satisfied if the alleged misappropriation was complete before any 
+actual or contemplated commodities transaction took place.” (Deft. Redline 36). Next, he requests 
+that the Court charge the jury that the “in connection with” element is not met if he merely 
+“embezzle[d] assets, including commodities, from a client’s account, even if that client account is 
+used to trade commodities,” and that the “in co nnection requirement” woul d not be satisfied by 
+evidence that a defendant misappropriated a customer’s funds and used them to trade commodities. 
+(Deft. Redline at 36-37).   
+ 
+Those proposed instructions fa il to account for the fact that the Indictment charges the 
+defendant with defrauding cu stomers who were “trading or intending to trade  cryptocurrencies, 
+futures, options, swaps, and derivatives.” (Dkt. 202 ¶ 32 (emphasis added)). The defendant can in 
+fact be properly convicted for making false statements to induce customers to send money to FTX 
+to try to purchase cryptocurrency, even if he misappropriated or embezzled their funds before the 
+contemplated purchases took place. Jing v. Sun , No. 21 Civ. 2350 (GRB) (AYS), 2022 WL 
+1505950, at *19 (E.D.N.Y. Jan. 4, 2022) (holding “in connection with” element met when 
+defendant’s statements “were made to entice Plaintiffs to send money . . . for the intended purchase 
+of Bitcoin”).  
+ 
+In fact, multiple cases have recognized that it is commoditi es fraud to embezzle funds 
+which were intended to be used to purchase commodities.  See, e.g., In re J.P. Jeanneret Assocs., 
+Inc., 769 F. Supp. 2d 340, 363 (S.D.N.Y. 2011) (“in connection with” requirement “can be satisfied 
+. . . where the plaintiffs part with money intending that it be invested in securities, only to have the 
+person to whom that money is entrusted steal it”); CFTC v. McDonnell, 332 F. Supp. 3d 641, 719 
+(E.D.N.Y. 2018) (“Misappropriation of customer funds constitutes fraud that violates Section 
+6(c)(1) of the Act and Regulation 180.1(a).”). That is particularly true where, as here, the evidence 
+demonstrates that some of the funds the defendant misappropriated were themselves commodities. 
+CFTC v. Reynolds, No. 19 Civ. 05631 (MKV), 2021 WL 796683, at  *2 (S.D.N.Y. Mar. 2, 2021) 
+(entering default judgment where inter alia defendants were charged w ith “misappropriating the 
+Bitcoin that was entrusted to them”); ( see also, e.g., Tr. 1715:12-13 (Peter Easton testimony that 
+“Alameda Research used custom er crypto funds to pay for the expenditures”)). Similarly, the 
+defendant’s assertion that the “in connection” element is not met by misappropriating customer’s 
+funds and using them to tr ade commodities is wrong.  Zandford, 535 U.S. at 822 (element met 
+when “scheme to defraud and the sale of securities coincide”); S.E.C. v. Dorozhko, 574 F.3d 42, 
+ 
+2  Indeed, in Tuzman, Judge Gardephe’s instruction made precisely the opposite point of that made 
+in the defendant’s request: “Fraudulent conduct may be ‘in connection with’ the purchase or sale 
+of securities if you find that th e alleged conduct ‘touched upon’ a s ecurities transaction.” No. 15 
+Cr. 536 (PGG), Dkt. 706 at Tr. 7206.  
+
+
+--- PAGE 7 ---
+
+  Pa ge 7 
+ 
+ 
+46 (2d Cir. 2009) (“close temporal  proximity” of d eception to trading of securities and 
+“cohesiveness of the scheme” suggest that the deception “was part  of a single scheme to commit 
+securities fraud.”); (see also Tr. 654, 652 (Caroline Ellison test imony that the defendant told her 
+“that FTX [customer funds] would be a good source of capital” for Alameda Research “[i]n order 
+to do more trades or just have the ability to do whatever valuable things came up”)).  
+ 
+B. Extraterritoriality Instruction 
+ 
+Though the Government did not initially provide an instruction regard ing this issue, the 
+Government has no objection to an instruction as follows:  
+ 
+Additionally, as to Count Six, the Government must also prove a 
+sufficient relationship between the offense and the United States.  
+The Government may satisfy this burden in two ways. 
+ 
+One way the Government may prove a sufficient connection to the 
+United States is by showing that some conduct relevant to the 
+offense charged in Count Six occurred in the United States.  It is not 
+necessary that all or most of the conduct rele vant to those crimes 
+happened in the United States, a lthough the conduct in the United 
+States must be more than incidental to the scheme.  The Government 
+also does not have to prove that the defendant was ever in the United 
+States, just that conduct relevant to the offenses occurred in the 
+country. 
+ 
+A second way the Government may prove a sufficient connection to 
+the United States is by showing that some conduct relating to swaps 
+had a direct and significant effect on, or connection with, commerce 
+in the United States. Here, there is no need for any conduct to have 
+occurred in the United States. All the Government needs to prove is 
+that the offense involved conduc t that had an effect on, or 
+connection with, commerce in the United States, and that the effect 
+or connection was direct and significant. In assessing this issue, you 
+may also consider whether conduct  in furtherance of the crime 
+charged in Count Six caused trading, money transfers, and 
+communications to occur in the United States, or otherwise affected 
+commerce in the country. In proving  the existence of a connection 
+to the United States, it is not necessary to prove both conduct in, and 
+an effect on, the United States.  Either will be sufficient to satisfy 
+the Government’s burden. 
+ 
+This instruction is consistent with 7 U.S.C. § 2(i), the statutory pr ovision pertaining to 
+swaps, and Rule 180.1, the CFTC’s rule pertaining to commodities. As the Court held in denying 
+the defendant’s motion to dismiss, the “focus of the CEA is rooting out manipulation and ensuring 
+market integrity.” United States v. Bankman-Fried, No. 22 Cr. 673 (LAK), 2023 WL 4194773, at 
+*11 (S.D.N.Y. June 27, 2023) (citations omitted). The Court properly held there that the Indictment 
+
+
+--- PAGE 8 ---
+
+  Pa ge 8 
+ 
+ 
+adequately alleged a domestic application of th e statute because the fraud was committed “in the 
+United States,” was “directed at U.S. customers,” and was committed through “a U.S.-based social 
+media platform.” Id.; see also In re Platinum & Palladium Antitrust Litig. , 61 F.4th 242, 267 (2d 
+Cir. 2023) (proper domestic applic ation of the statute where “pla intiffs also allege domestic 
+conduct by the defendants that violated the CEA”).  
+ 
+  Indeed, the Government’s evidence has shown an abundance of domestic conduct by the 
+defendant in connection with the sale of cryptocurrencies. Among other things, the defendant made 
+false statements to induce customers to use FT X while in the United States and through Twitter 
+(Tr. 1682), he did so to induce customers including those in the United States like BlockFi to trade 
+cryptocurrencies on FTX (Tr. 1223-24), he diverted customer cryptocurrency to repay U.S.-based 
+lenders including BlockFi (Tr. 1770), he diverted customer fiat currency which had been intended 
+to purchase cryptocurrency from U.S.-based bank accounts (Tr. 657), and he used some of that 
+misappropriated money to pay for stock in a U.S. company (Tr. 1740).  
+ 
+By contrast, the defendant’s proposed instruc tion misstates the applicable legal standard. 
+His instruction erroneously focuses on whet her fraudulent or manipulative conduct was 
+“predominantly foreign,” ignoring the Second Ci rcuit’s holding that “substantial domestic 
+contacts” suffice for a domestic applicati on of the parallel Secu rities Exchange Act. Giunta v. 
+Dingman, 893 F.3d 73, 82-83 (2d Cir. 2018). The defendant also improperly seeks to instruct the 
+jury that the Government must m eet the standard described in 7 U.S.C. § 2(i) “beyond a shadow 
+of a doubt.” That is not the Government’s burden. E.g. Thornburg v. Mullin, 422 F.3d 1113, 1130 
+(10th Cir. 2005) (prosecutor’s “state[ment] [to the jury] that ‘beyond a reasonable  doubt’ does not 
+mean beyond ‘a shadow of a doubt or all doubt’ was not a constitutional violation” because it was 
+not misleading); United States v. Balogun , 463 F. App’x 476, 481 (6th  Cir. 2012) (affirming 
+conviction where court instructed jury that “[p]roof beyond a reasonable doubt does not mean . . . 
+beyond a shadow of a doubt, which is not a phrase that we use in court”).  
+ 
+Defense Request No. 15: The Defendant’s Pro posed Jury Instruction on Cooperating Witness 
+Testimony Omits Important Legal Context 
+ 
+The Government objects to the defendan t’s proposed instruction regarding  
+“cooperating witness testimony” in that it omits a key section from United States v. Amanat, No. 
+15 Cr. 536 (PGG) (S.D.N.Y. Dec. 22, 2017), the case the defendant cites for support.  Specifically, 
+the defendant’s proposed instruction omits the following instruction from Amanat: 
+ 
+You should be aware that it is not unusual for the government to rely 
+on the testimony of witnesses who admit to participating in criminal 
+activity. The government must take its witnesses as it finds them, 
+and frequently the government must use such testimony in criminal 
+prosecutions because otherwise it would be difficult or impossible 
+to detect and prosecute wrongdoers. For this reason, the law allows 
+the use of cooperating witness testimony, and you may consider the 
+testimony of these witnesses in determining whether the government 
+has met its burden of proving [t he defendant’s] guilt beyond a 
+reasonable doubt. 
+
+
+--- PAGE 9 ---
+
+  Pa ge 9 
+ 
+ 
+ 
+Without this language, the instruction would be unbalanced  and improperly advance defense 
+advocacy. By contrast, the Government’s proposed  cooperating witness instruction, Request No. 
+53, while advising caution in evaluating cooperator testimony, also appropriately protects against 
+the potential of unfair and imprope r inferences being drawn by the fact of the Government’s use 
+of the testimony of cooperating witnesses.   
+ 
+Defense Request No. 17: The Defendant’s Proposed Jury Instruction on Other Acts Evidence Is 
+Inaccurate 
+ 
+The Government objects to the defendant’s pr oposed inclusion of “on earlier occasions” 
+when describing the time period of the “other acts.” Such a reference is vague and unsupported by 
+the record, which establishes that  misconduct applicable to this instruction, namely bribery and 
+conspiring to make unlawful campaign contributions, occurred during the time period of the 
+Indictment from at least in or about 2019, up to and including in or abou t November 2022. (Tr. 
+832-833 (describing timing of bribe payments  to unfreeze Alameda trading accounts as 
+“November 2021”), Tr. 1421-1422 (describing th e timing of political donations funded by 
+Alameda and routed through Nishad Singh as occurring into th e fall of 2022).) The Government 
+also objects to the defendant’s proposed referen ce to “evidence of prior incarceration” because 
+there is no evidence in the record to support such statement.   
+ 
+Although the parties’ requests are otherwise substantially similar (compare Gov’t Request 
+No. 51 (Dkt. 214 at 76) with Deft. Redline Request No. 17 (Dkt. 327-1 at 51)), the Government’s 
+proposed jury instruction appropriately iden tifies the specific mis conduct that should be 
+considered as “Other Acts” evidence and identif ies the specific purpose for which such evidence 
+may be considered. These narrowly tailored instructions are warranted to minimize any risk of 
+confusion regarding the “Other Acts” evidence that is applicable and the purpose for which it can 
+be considered. Based on the Court’s prior ruli ngs and the evidence introduced at trial, the 
+Government proposes the following additions to insert in the blank spaces in Request No. 51: 
+ 
+Now, you also heard evidence th at the defendant engaged in 
+misconduct that is not charged in this Indictment, including bribery 
+and conspiring to make unlawful campaign contributions. He is not 
+on trial for committing those acts. Accordingly, you may not 
+consider the evidence of other uncharged bad acts as a substitute for 
+proof that he committed the crimes  with which he is charged here. 
+Nor may you consider that evidence as proof that he has a criminal 
+personality or bad character. The evidence was admitted for limited 
+purposes, and you may consider it for those purposes alone. 
+ 
+More specifically, you may consider the evidence you have heard 
+regarding bribery for its relevance to the defendant’s relationship of 
+trust and confidence between the defendant and Ms. Ellison, as well 
+as its relevance to his motive fo r committing the charged crimes.  
+You may consider the evidence you have heard regarding conspiring 
+to make unlawful campaign contributions as relevant to the 
+
+
+--- PAGE 10 ---
+
+  Pa ge 10 
+ 
+ 
+defendant’s relationship of trus t with Nishad Singh and Ryan 
+Salame. You may also consider the evidence of campaign 
+contributions as direct evidence of  the charged wire fraud scheme 
+on FTX customers, as it pertains  to allegations about how the 
+defendant spent allegedly misapprop riated customer funds, and as 
+direct evidence of the charged money laundering conspiracy, as it 
+pertains to the allegation that the defendant engaged in financial 
+transactions that were allegedl y designed to conceal the nature, 
+location, source, ownership, or control of criminal proceeds.   
+ 
+Defense Request No. 23: The Defe ndant’s Proposed Jury Instru ction on Missing Witnesses Is 
+Unsupported by the Trial Record 
+ 
+A missing witness charge permitting the jury to  infer that the test imony of an unproduced 
+witness would have favored one party is appropr iate only “if production of the witness is 
+‘peculiarly within [the] power’ of the other party.” United States v. Rabbani, 382 F. App’x 31, 41 
+(2d Cir. 2010) (quoting United States v. Nichols, 912 F.2d 598, 601 (2d Cir.1990)).  Here, there is 
+no basis in the record to support the defendant’s  proposed “Missing Witne ss” instruction. (Deft. 
+Redline at 64). The Government’s proposed in struction, Request No . 59 (Dkt. 214 at 86), 
+appropriately addresses uncalled witnesses that were equally available to both sides.   
+ 
+Defense Request No. 24: The Defendant’s Propos ed Jury Instruction on the Involvement of 
+Counsel Creates a Risk of Jury Confusion 
+ 
+The Government objects to the defendant’s proposed request regarding the involvement of 
+counsel. The proposed instruction im properly instructs the jury that  it may consider “whether a 
+lawyer’s presence, involvement, or advice known to Mr. Bankman-F ried gave him comfort that 
+he was acting properly” when determining whether the defendant “acted in good faith.”  
+ 
+First, even if there were a factual basis to draw an inference about the defendant’s reaction 
+to the presence or involvement of  counsel, such an inst ruction would still be nothing more than 
+defense argument, and unsurprisingl y was not  given in the two jury charges that the defendant 
+cites in support.  See United States v. Milton , No. 21 Cr. 478 (ER) (S.D.N.Y. Sept. 12, 2022); 
+United States v. Shea, No. 20 Cr. 412 (AT) (S.D.N.Y. May 23, 2022 and October 24, 2022).  
+ 
+Second, there is insufficient evidence in the record for an instruction regarding a lawyer’s 
+advice, because the evidence is insufficient to support that the defendant  “‘honestly and in good 
+faith sought the advice of counsel,’  ‘fully and honestly laid all th e facts before his counsel,’ and 
+‘in good faith and honestly followed counsel’s advice.’” United States v. Scully, 877 F.3d 464, 476 
+(2d Cir. 2017). To the contrary, FTX’s general counsel, Can Sun, testified that at the time he 
+approved the loan structure for cer tain founder loans, he “had no idea that customer funds were 
+being used.” (Tr. 1948). Moreover,  Sun testified that when he fi rst learned of the FTX customer 
+deposit shortfall in November 2022, he advised the defendant that “there was no legal justification 
+for the funds being missing and taken by Alameda. ” (Tr. 1960).  And Sun provided limited to no 
+testimony regarding legal advice  concerning FTX auto-deletion policies. (Tr. 1991-93). As a 
+result, the defendant’s reliance on United States v. Tagliaferri¸  No. 13 Cr. 115 (RA) (S.D.N.Y. 
+
+
+--- PAGE 11 ---
+
+Page 11 
+June 24, 2014), Trial Tr. at 84-85, for such an instruction is misplaced, and the instructions should 
+not be given. 
+Respectfully submitted, 
+DAMIAN WILLIAMS 
+United States Attorney for the 
+Southern District of New York 
+B y :  
+  Danielle R. Sassoon 
+Nicolas Roos 
+Danielle Kudla 
+Samuel Raymond 
+Thane Rehn 
+Assistant United States Attorneys 
+(212) 637-2354
+Cc: Counsel of Record (via ECF) 
+/s Thane Rehn

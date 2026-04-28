@@ -1,0 +1,1597 @@
+
+
+--- PAGE 1 ---
+
+ 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+ -------------------------------------------------------------------  x  
+UNITED STATES OF AMERICA 
+ 
+  v. 
+ 
+SAMUEL BANKMAN-FRIED, 
+ 
+   
+ Defendant. 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+ S6 22 Cr. 673 (LAK) 
+  
+  
+ -------------------------------------------------------------------  x  
+ 
+ 
+ 
+ 
+DEFENDANT SAMUEL BANKMAN-FRIED’S 
+AMENDED PROPOSED REQUESTS TO CHARGE 
+ 
+ 
+ 
+ 
+ 
+ 
+Mark S. Cohen 
+Christian R. Everdell 
+David Lisner 
+Sri K. Kuehnlenz 
+COHEN & GRESSER LLP 
+800 Third Avenue, 21
+st Floor 
+New York, New York 10022 
+Phone:  (212) 957-7600 
+mcohen@cohengresser.com 
+ceverdell@cohengresser.com 
+dlisner@cohengresser.com 
+skuehnlenz@cohengresser.com 
+Attorneys for Samuel Bankman-Fried 
+ 
+  
+
+
+--- PAGE 2 ---
+
+ 
+ 2 
+TABLE OF CONTENTS 
+ 
+INTRODUCTION .......................................................................................................................... 4 
+DEFENSE REQUEST NO. 1 General Requests ............................................................................ 5 
+DEFENSE REQUEST NO. 2 Crimes Defined by Statute Only ..................................................... 6 
+DEFENSE REQUEST NO. 3 The Indictment ................................................................................ 7 
+DEFENSE REQUEST NO. 4 Summary of Indictment .................................................................. 8 
+DEFENSE REQUEST NO. 5 Count One: Wire Fraud on FTX Customers ................................. 10 
+DEFENSE REQUEST NO. 6 Count Three: Wire Fraud on Lenders of Alameda Research ....... 16 
+DEFENSE REQUEST NO. 7 Count Two: Conspiracy to Commit Wire Fraud on FTX 
+Customers ......................................................................................................................... 19 
+DEFENSE REQUEST NO. 8 Count Four: Conspiracy to Commit Wire Fraud on Lenders 
+of Alameda Research ........................................................................................................ 23 
+DEFENSE REQUEST NO. 9 Count Five: Conspiracy to Commit Securities Fraud on 
+Investors in FTX ............................................................................................................... 25 
+DEFENSE REQUEST NO. 10 Count Six: Conspiracy to Commit Commodities Fraud on 
+FTX Customers ................................................................................................................. 30 
+DEFENSE REQUEST NO. 11 Count Seven: Conspiracy to Commit Money Laundering ......... 35 
+DEFENSE REQUEST NO. 12 Venue .......................................................................................... 44 
+DEFENSE REQUEST NO. 13 Law Enforcement Witnesses ...................................................... 45 
+DEFENSE REQUEST NO. 14 Non-Prosecution Agreements ..................................................... 46 
+DEFENSE REQUEST NO. 15 Cooperating Witness Testimony ................................................ 47 
+DEFENSE REQUEST NO. 16 Immunized Witnesses ................................................................. 50 
+DEFENSE REQUEST NO. 17 Other Acts Evidence ................................................................... 51 
+DEFENSE REQUEST NO. 18 Coconspirator Statements ........................................................... 52 
+DEFENSE REQUEST NO. 19 Expert Witness[es] ...................................................................... 53 
+DEFENSE REQUEST NO. 20 Use of Charts and Summaries .................................................... 54 
+
+
+
+--- PAGE 3 ---
+
+ 
+ 3 
+DEFENSE REQUEST NO. 21 Defendant’s Right Not To Testify [If Applicable] ..................... 55 
+DEFENSE REQUEST NO. 22 Defendant’s Testimony [If Applicable] ...................................... 56 
+DEFENSE REQUEST NO. 23 Missing Witness Charge [If Applicable] .................................... 57 
+DEFENSE REQUEST NO. 24 Involvement of Counsel.............................................................. 58 
+DEFENSE REQUEST NO. 25 Defense Theory of the Case........................................................ 59 
+CONCLUSION ............................................................................................................................. 60 
+ 
+ 
+ 
+  
+
+
+
+--- PAGE 4 ---
+
+ 
+ 4 
+INTRODUCTION 
+Pursuant to Rule 30 of the Federal Rules of Criminal Procedure, Mr. Samuel Bankman-
+Fried through his undersigned attorneys respectfully requests that the Court include the following 
+in its charge to the jury.   
+The proposed instructions are principally based on and adapted from those contained in 
+the Modern Federal Jury Instructions and those given in the following cases:  United States v. 
+LaGuardia, No. 19 Cr. 893 (LAK), ECF No. 93 (S.D.N.Y. Dec. 16, 2020); United States v. 
+Blaszczak, No. 17 Cr. 357 (LAK), ECF No. 331 (S.D.N.Y. May 16, 2018); United States v. 
+Adelekan, No. 19 CR. 291 (LAP), ECF No. 397 (S.D.N.Y. Oct. 26, 2021).  Additional citations 
+for certain specific instructions are provided in the footnotes. 
+The defense respectfully reserves the right to supplement or amend these requests to 
+charge in response to the Government’s amended requests, any proposed charges by the Court, 
+and further evidence presented at trial. 
+  
+
+
+--- PAGE 5 ---
+
+ 
+ 5 
+DEFENSE REQUEST NO. 1 
+General Requests 
+Mr. Bankman-Fried respectfully requests this Court’s standard instructions on: 
+1. Role of the Court 
+2. Role of the Jury 
+3. Statements of Court and Counsel are Not Evidence. 
+4. Duty of Impartiality 
+5. Presumption of Innocence and Burden of Proof 
+6. Reasonable Doubt 
+7. Improper Considerations 
+8. Sympathy 
+9. Direct and Circumstantial Evidence 
+10. Witness Credibility 
+11. Selection of Foreperson 
+12. Right to See Exhibits and Hear Testimony and Communications with the Court; and 
+13. Verdict, Need for Unanimity, and Duty to Consult 
+  
+
+
+--- PAGE 6 ---
+
+ 
+ 6 
+DEFENSE REQUEST NO. 2 
+Crimes Defined by Statute Only1 
+In our system, we only have crimes that are defined by statute.  The fact that you may 
+think something is morally wrong or unfair, is truly of no interest whatsoever.  It is also not 
+relevant whether you believe certain conduct should have been regulated even though it was not 
+regulated at the time.  Statutes define our crimes, and from time to time I will talk to you about 
+the individual statutes and how they break down into elements so that you can consider the 
+elements that the government must prove.  Some vague feeling or belief that something wrong 
+has been done, or that some law should have prevented it, is insufficient to convict anyone of any 
+charge whatsoever.  A witness’s stated feeling or belief as to what the law should or should not 
+have prohibited is not sufficient to convict anyone of any charge.  You are to break it down to the 
+elements, assess whether there is proof beyond a reasonable doubt as to each of those elements, 
+and then, with that determination made, you can render a unanimous verdict. 
+  
+ 
+1 Adapted from the charge of the Honorable J. Paul Oetken in United States v. Danilovich, 12-
+CR-171 (S.D.N.Y. Nov. 13, 2013). 
+
+
+
+--- PAGE 7 ---
+
+ 
+ 7 
+DEFENSE REQUEST NO. 3 
+The Indictment2 
+The defendant in this matter, Samuel Bankman-Fried, has been formally charged in what 
+is called an Indictment.  An Indictment is simply an accusation.  It is no more than the means by 
+which a criminal case is started.  It is not evidence.  It is not proof of the defendant’s guilt.  It 
+creates no presumption, and it permits no inference that the defendant is guilty.  You are to give 
+no weight to the fact that an Indictment has been returned against the defendant. 
+Before you begin your deliberations, you will be provided with a copy of the Indictment. 
+I will not read the entire Indictment to you at this time.  Rather, I will first summarize the 
+offenses charged in the Indictment and then explain in detail the elements of the charged 
+offenses. 
+  
+ 
+2 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. Blaszczak, No. 
+17 Cr. 357 (S.D.N.Y. May 16, 2018); and the charge of the Honorable Lewis A. Kaplan in 
+United States v. LaGuardia, No. 19 Cr. 893 (S.D.N.Y. Dec. 16, 2020). 
+
+
+
+--- PAGE 8 ---
+
+ 
+ 8 
+DEFENSE REQUEST NO. 4 
+Summary of Indictment3 
+The Indictment contains seven counts or “charges.” 
+Count One of the Indictment charges that, from at least in or about 2019, up to and 
+including in or about November 2022, the defendant committed wire fraud on customers of FTX. 
+Count Two of the Indictment charges that, from at least in or about 2019 up to and 
+including in or about November 2022, the defendant participated in a conspiracy to commit wire 
+fraud on customers of FTX. 
+Count Three of the Indictment charges that, from at least in or about June 2022, up to and 
+including in or about November 2022, the defendant committed wire fraud on lenders to 
+Alameda Research. 
+Count Four of the Indictment charges that, from at least in or about June 2022, up to and 
+including in or about November 2022, the defendant participated in a conspiracy to commit wire 
+fraud on lenders to Alameda Research. 
+Count Five of the Indictment charges that, from at least in or about 2019, up to and 
+including in or about November 2022, the defendant participated in a conspiracy to commit 
+securities fraud on investors in FTX. 
+Count Six of the Indictment charges that, from at least in or about 2019, up to and 
+including in or about November 2022, the defendant participated in a conspiracy to commit 
+ 
+3 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. Blaszczak, No. 
+17 Cr. 357 (S.D.N.Y. May 16, 2018); and the charge of the Honorable Lewis A. Kaplan in 
+United States v. LaGuardia, No. 19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); and the charge of the 
+Honorable Loretta A. Preska in United States v. Adelekan, No. 19 CR. 291 (S.D.N.Y. Oct. 26, 
+2021). 
+
+
+
+--- PAGE 9 ---
+
+ 
+ 9 
+commodities fraud on customers of FTX in Connection with Purchases and Sales of 
+Cryptocurrency and Swaps. 
+Count Seven of the Indictment charges that, from at least in or about 2020, up to and 
+including in or about November 2022, the defendant participated in a conspiracy to commit 
+money laundering. 
+That is a brief summary of the counts in the Indictment.  By pleading not guilty to these 
+counts, Mr. Bankman-Fried has denied that he committed the charged offenses.  The government 
+must show beyond a reasonable doubt that Mr. Bankman-Fried is guilty with respect to each 
+count.  You must consider each count separately, and you must return a separate verdict of guilty 
+or not guilty on each count.  Whether you find the defendant guilty or not guilty as to one offense 
+should not affect your verdict as to any other offense charged. 
+  
+
+
+--- PAGE 10 ---
+
+ 
+ 10 
+DEFENSE REQUEST NO. 5 
+Count One: Wire Fraud on FTX Customers4  
+A. Summary of the Indictment 
+Count One charges Mr. Bankman-Fried with wire fraud on customers of FTX in violation 
+of Title 18, United States Code, Section 1343 and 2.  Specifically, Count One charges that from 
+in or about 2019, up to and including in or about November 2022, Mr. Bankman-Fried engaged 
+in a scheme to defraud customers of FTX by misappropriating those customers’ deposits to pay 
+expenses and debts of Alameda, to make investments, and for other purposes. 
+B. Elements of Wire Fraud 
+Before Mr. Bankman-Fried can be convicted of wire fraud, the Government must prove 
+each of the following elements beyond a reasonable doubt: 
+First, that there was a scheme or artifice to defraud or to obtain money or property by 
+means of materially false and fraudulent pretenses, representations, or promises; 
+ 
+4 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. LaGuardia, No. 
+19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); and the charge of the Honorable Loretta A. Preska in 
+United States v. Adelekan, No. 19 CR. 291 (S.D.N.Y. October 26, 2021). 
+Materiality.  See United States v. Calderon, 944 F.3d 72, 85 (2d Cir. 2019). 
+Scheme to Defraud – Property.  See Ciminelli v. United States, 598 U.S. ---, 143 S. Ct. 1121 
+(2023).  
+Scheme to Defraud – Effect of contract on legal relationship.  See Carpenter v. United States, 
+484 U.S. 19, 27, 108 S. Ct. 316, 321 (1987) (definition of misappropriation); United States v. 
+Chestman, 947 F.2d 551, 567 (1991) (misappropriation theory requires a fiduciary or similar 
+relationship of trust and confidence, which cannot be imposed unilaterally by entrusting someone 
+with confidences); Meyer v. Uber Techs., Inc., 868 F.3d 66, 75 (2d Cir. 2017) (“Courts routinely 
+uphold clickwrap agreements for the principal reason that the user has affirmatively assented to 
+the terms of agreement by clicking ‘I agree.’”) (citation omitted). 
+Intent – G
+ood Faith.  See United States v. Ferguson, 676 F.3d 260, 280 (2d Cir. 2011) ; see also 
+United States v. Bilzerian, 926 F.2d 1285, 1292 (2d Cir. 1991); United States v. Tagliaferri, No. 
+13 Cr. 115 (RA) (S.D.N.Y. 2014), Trial Tr. at 83-85. 
+
+
+
+--- PAGE 11 ---
+
+ 
+ 11 
+Second, that Mr. Bankman-Fried knowingly participated in the scheme or artifice to 
+defraud with knowledge of its fraudulent nature and with specific intent to defraud; 
+Third, t hat in executing the scheme, Mr. Bankman-Fried used or caused the use of 
+interstate or international wires.  
+1. F irst Element – Scheme or Artifice to Defraud  
+The first element that the Government must prove beyond a reasonable doubt is the 
+existence of a scheme or artifice to defraud FTX customers of money or property by means of 
+false or fraudulent pretenses, representations, or promises.   
+A “scheme to defraud” is any plan, device, or course of action to obtain money or 
+property by means of false or fraudulent pretenses, representations, or promises. 
+“Fraud” is a term that includes all possible means by which a person seeks to gain an 
+unfair advantage over a victim by intentional misrepresentation or false pretenses. 
+A representation is “false” if it was untrue when made and was known to be untrue at the 
+time by the person making it or causing it to be made.  A representation is “fraudulent” if it is 
+made with an intent to deceive. 
+The false or fraudulent representation must relate to a “material” fact.  A material fact is 
+one that would reasonably be expected to be of concern to a reasonable and prudent person in 
+relying upon the representation or statement in making a decision.  That means that if you find a 
+particular representation to have been false or misleading, you must determine whether it was 
+material by asking whether the misrepresentation would actually have mattered in a meaningful 
+way to a rational decisionmaker to whom the statement was addressed.  Materiality of the 
+information is judged as of the time the information was disclosed. 
+The purpose of the scheme to defraud must be to obtain money or property.  Hence, you 
+must determine what property, if any, the scheme was allegedly designed to obtain from FTX 
+
+
+--- PAGE 12 ---
+
+ 
+ 12 
+customers.   The term “property” includes traditional property interests.  Property does not 
+include intangible interests such as the right to control the use of one’s assets, nor does it include 
+potentially valuable economic information that a person might consider valuable in deciding how 
+to use his or her assets.   
+A “scheme to defraud” also includes a scheme to fraudulently misappropriate or 
+embezzle property belonging to another.  Before you can find a scheme to fraudulently 
+misappropriate or embezzle property you must find that there has been an improper taking of a 
+property interest.  Count One alleges that Mr. Bankman-Fried engaged in a scheme to defraud 
+FTX customers by misappropriating or embezzling FTX customer deposits for Alameda’s use in 
+investments and for other purposes  You have heard evidence that customers funded their FTX 
+accounts by making currency, or “fiat,” deposits to Alameda banks accounts or by depositing 
+cryptocurrency and similar assets to FTX,  You have also heard evidence about various ways in 
+which these customer deposits were used by Alameda for investments and other purposes.   
+To obtain a conviction for wire fraud in the form of misappropriation as charged in Count 
+One, the Government must prove beyond a reasonable doubt that the customers of FTX were 
+improperly deprived of a property interest by virtue of the use by Alameda or FTX of the 
+customer deposits.  If you find that the Government has not proven beyond a reasonable doubt 
+that there has been a deprivation of a property interest, you must acquit the Defendant regardless 
+of whether the Defendant or others thought or believed they were depriving the customers of a 
+property interest. If you find that the Government has proven the deprivation of a property 
+interest, in order to convict, you must further find beyond a reasonable doubt that the 
+Government has proven that Mr. Bankman Fried acted knowingly, willfully, and with a specific 
+
+
+--- PAGE 13 ---
+
+ 
+ 13 
+intent to deprive the customers of a property interest by causing Alameda to violate its legal 
+obligation not to  use of the funds in such a manner.   
+That obligation cannot be based solely on the subjective expectations of FTX customers. 
+Rather there must be the objective deprivation of a property interest.  You heard testimony that 
+in order to open an account on FTX, customers were required to accept the Terms of Service by 
+clicking a box on the FTX app or website.  The Terms of Service could provide proof of a 
+property interest if the Government has so proven that the Terms of Service created a property 
+interest and has further proven that the property interest created has been deprived of by the 
+Defendant. In determining whether the Terms of Service have created a property interest and that 
+the property interest has been taken, you should take into account that.  The Terms of Service 
+constituted a contract between FTX and its customers, and you must consider what that contract 
+said and didn’t say regarding the legal relationship between FTX and its customers.   
+The Terms of Service specify that they are to be governed by and construed in 
+accordance with English law and, therefore, the Government must have proven beyond a 
+reasonable doubt that under English law the Terms of Service created a property interest and the 
+property interest was taken by the Defendant.  
+In all events, Government must prove beyond a reasonable doubt the nature of the 
+property interest created and how it was taken by the Defendant and that the Defendant intended 
+to take such property interest. 
+2. Second Element – Intent 
+The second element that the Government must prove beyond a reasonable doubt is that 
+Mr. Bankman-Fried participated in the scheme to defraud knowingly and willfully, and with 
+specific intent to defraud. 
+
+
+--- PAGE 14 ---
+
+ 
+ 14 
+To act “knowingly” means to act voluntarily and deliberately, and not because of 
+ignorance, mistake, accident, or carelessness. 
+To act “willfully” means to act with knowledge that one’s conduct is unlawful, and with 
+the intent to do something the law forbids; that is to say, with bad purpose either to disobey or to 
+disregard the law.   
+To act with “specific intent to defraud” goes further and means that the defendant acted 
+with the specific intent to deceive FTX customers for the purpose of depriving them of a 
+property interest which is something of value.  While the Government need not prove that FTX 
+customers were actually harmed, it must prove beyond a reasonable doubt that when Mr. 
+Bankman-Fried participated in the alleged wire fraud, he did so for the purpose of causing 
+financial loss to those customers.   
+Because the Government must prove beyond a reasonable doubt that Mr. Bankman-Fried 
+had the specific intent to defraud FTX customers, it follows that good faith on part of 
+Mr. Bankman-Fried is a complete defense to that charge.  In fact, good faith is a complete 
+defense to all of the counts in the Indictment, so you should consider this instruction about good 
+faith in determining whether the Government has proven each of the other counts of the 
+indictment beyond a reasonable doubt. 
+Good faith is an honest belief by the defendant that his conduct was not unlawful.  If Mr. 
+Bankman-Fried believed in good faith that he was acting properly, even if he was mistaken in 
+that belief and even if others were ultimately harmed, he cannot be found guilty.  An honest 
+mistake in judgment or an honest error in management or even carelessness or recklessness do 
+not rise to the level of criminal intent.  The burden is on the Government to prove fraudulent 
+
+
+--- PAGE 15 ---
+
+ 
+ 15 
+intent and bad faith beyond a reasonable doubt.  Mr. Bankman-Fried has no burden to prove his 
+good faith or lack of fraudulent intent.  
+In evaluating whether Mr. Bankman-Fried acted in good faith, you may consider whether 
+Mr. Bankman-Fried had any discussions with counsel, or understood that counsel had been 
+consulted, concerning the propriety or legality of conduct that the Government claims was part 
+of the scheme to defraud. 
+3. Third Element – Use of Interstate or International Wires  
+The third element that the Government must prove beyond a reasonable doubt is that the 
+defendant used or caused to be used an interstate wire communication in furtherance of the 
+scheme to defraud.  Wire communications include phone calls, emails, and text messages, as 
+well as wire transfers of funds.  The wire communication must pass between two or more states, 
+or it must pass between the United States and a foreign country.  A wire communication need not 
+itself contain a false or fraudulent representation in order to satisfy this element.  It must, 
+however, further or assist in carrying out the scheme to defraud. 
+With respect to the use of the wires, the Government must establish beyond a reasonable 
+doubt the particular use charged in the Indictment – i.e., phone calls, emails, text messages, or 
+wire transfers – and you must agree that the particular use furthered the scheme to defraud.  
+However, the Government does not have to prove that the wires were used on the exact date 
+charged in the indictment.  It is sufficient if the evidence establishes beyond a reasonable doubt 
+that the wires were used on a date substantially similar to the dates charged in the indictment. 
+  
+
+
+--- PAGE 16 ---
+
+ 
+ 16 
+DEFENSE REQUEST NO. 6 
+Count Three: Wire Fraud on Lenders of Alameda Research5 
+A. Summary of the Indictment 
+I will skip over Count Two for the moment and discuss Count Three.  Count Three 
+charges Mr. Bankman-Fried with wire fraud on lenders of Alameda Research in violation of 
+Title 18, United States Code, Sections 1343 and 2.  Specifically, Count Three charges that from 
+in or about June 2022, up to and including November 2022, Mr. Bankman-Fried engaged in a 
+scheme to defraud lenders of Alameda Research by providing false and misleading information 
+to those lenders regarding Alameda’s financial condition so that the lenders would not recall 
+loans and would extend new loans. 
+B. Elements of Wire Fraud 
+Like Count One, Count Three charges wire fraud.  The elements of Count Three are the 
+same as Count One, which I just described to you.  You should consider and apply those same 
+instructions here. 
+Whereas Count One alleges a scheme to defraud customers of FTX, Count Three alleges 
+a scheme to defraud lenders of Alameda Research. 
+All of the instructions I previously gave you as to the required proof of the existence of a 
+property interest which property interest was improperly taken, applies here as well. If the 
+ 
+5 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. LaGuardia, No. 
+19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); and the charge of the Honorable Loretta A. Preska in 
+United States v. Adelekan, No. 19 CR. 291 (S.D.N.Y. Oct. 26, 2021). 
+Materiality.  See United States v. Calderon, 944 F.3d 72, 85 (2d Cir. 2019). 
+Scheme to Defraud – Property.  See Ciminelli v. United States, 598 U.S. ---, 143 S. Ct. 1121 
+(2023).  
+Intent – G ood Faith.  United States v. Ferguson, 676 F.3d 260, 280 (2d Cir. 2011). 
+
+
+
+--- PAGE 17 ---
+
+ 
+ 17 
+Government has not proven beyond a reasonable doubt that there was an improper taking by Mr. 
+Bankman-Fried of a property interest, you must acquit Mr. Bankman-Fried of the claim that he 
+improperly misled lenders as the claim of lender fraud is based on failure to disclose the 
+improper borrowing by Alameda. Further, if Mr. Bankman-Fried believed that the financial 
+statements provided to the lenders was consistent with the balance sheet required by the lenders, 
+then you must acquit the Defendant of this charge.  As I previously instructed you, the false or 
+fraudulent representation must relate to a “material” fact.  A material fact is one that would 
+reasonably be expected to be of concern to a reasonable and prudent person in relying upon the 
+representation or statement in making a decision.  Hence, a misrepresentation would be material 
+if the Alameda lenders took action or failed to take action based on it. 
+Count Three alleges that Alameda’s lenders were given false or misleading information 
+so that they would not recall loans and would extend new loans.  As I previously instructed you, 
+property does not include intangible interests such as the right to control the use of one’s assets, 
+nor does it include potentially valuable economic information that a person might consider 
+valuable in deciding how to use his or her assets.  If you find that Alameda’s lenders were 
+deprived only of the right to control their assets or access to potentially valuable economic 
+information, that is insufficient to convict on Count Three. 
+Finally, as I previously instructed you, good faith on the part of Mr. Bankman-Fried is a 
+complete defense to this charge.  If the Government has not proven beyond a reasonable doubt 
+that Mr. Bankman-Fried did not believe in good faith that he was acting properly at the time of 
+the events alleged in the Indictment, even if he was mistaken in that belief and even if others 
+were injured by his conduct, he cannot be found guilty.   
+ 
+ 
+
+
+--- PAGE 18 ---
+
+ 
+ 18 
+  
+
+
+--- PAGE 19 ---
+
+ 
+ 19 
+DEFENSE REQUEST NO. 7 
+Count Two: Conspiracy to Commit Wire Fraud on FTX Customers6 
+A. Summary of the Indictment 
+Now let me jump back to Count Two.  Count Two charges Mr. Bankman-Fried with 
+conspiracy to commit wire fraud on FTX customers in violation of Title 18, United States Code, 
+Section 1349.  Specifically, Count Two charges that from in or about 2019, up to and including 
+in or about November 2022, Mr. Bankman-Fried willfully and knowingly agreed with others to 
+defraud customers of FTX by misappropriating those customers’ deposits and using those 
+deposits to pay expenses and debts of Alameda, and to make investments, and for other purposes. 
+B. The Elements of Conspiracy to Commit Wire Fraud on FTX Customers 
+Whereas Count One alleges a substantive wire fraud offense against FTX customers, 
+Count Two alleges a conspiracy to commit wire fraud against FTX customers.  Let me explain 
+what a conspiracy is. 
+A conspiracy is a combination or agreement of two or more persons to join together to 
+accomplish some unlawful purpose.  The unlawful purpose is sometimes called the “object” of 
+the conspiracy.  The crime of conspiracy to violate a federal law is an independent offense.  It is 
+separate and distinct from the violation of any specific federal laws, which the law refers to as 
+“substantive crimes.” 
+ 
+6 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. LaGuardia, No. 
+19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); the charge of the Honorable Loretta A. Preska in United 
+States v. Adelekan, No. 19 CR. 291 (S.D.N.Y. Oct. 26, 2021); and the charge of the Honorable 
+Lewis A. Kaplan in United States v. Blaszczak, No. 17 Cr. 357 (S.D.N.Y. May 16, 2018); see 
+also Sand, Modern Federal Jury Instructions, Instr. 19-6. 
+Existence of Conspiracy – “Essential Nature”.  See United States v. Ulbricht, 31 F.Supp.3d 540, 
+551 (S.D.N.Y. 2014) (citing cases); United States v. Rosenblatt, 554 F.2d 36, 38 (2d Cir. 1977) 
+(same). 
+
+
+
+--- PAGE 20 ---
+
+ 
+ 20 
+Before Mr. Bankman-Fried can be convicted of conspiracy to commit wire fraud as 
+alleged in Count Two, the Government must prove each of the following elements beyond a 
+reasonable doubt: 
+First, that a conspiracy existed between two or more people to commit wire fraud on FTX 
+customers; and 
+Second, that Mr. Bankman-F ried knowingly and willfully joined and participated in the 
+alleged conspiracy at some point during its existence. 
+1. F irst Element – Existence of Conspiracy 
+Starting with the first element, the Government must prove beyond a reasonable doubt 
+the existence of the charged conspiracy.  As I just mentioned, a conspiracy is an agreement, or an 
+understanding, by two or more persons to accomplish an unlawful objective by working together. 
+It is not necessary for you to find that the agreement was ever expressed orally or in 
+writing, but the Government does have to prove that there was a mutual understanding between 
+at least two people to violate the law. 
+A meeting of the minds is required for there to be an agreement.  The Government must 
+therefore prove that the co-conspirators agreed to the same object, or unlawful purpose, of the 
+conspiracy.  In other words, you must find that the defendant and his co-conspirators agreed to 
+commit the same offense.  While the co-conspirators need not agree to every detail, they must 
+agree to the “essential nature” of the plan. 
+The Indictment alleges that the conspiracy in Count Two lasted from in or about 2019 
+through up to and including in or about November 2022.  It is not necessary for the Government 
+to prove that the conspiracy lasted throughout the entire period alleged, but only that it existed 
+for some period within that time frame. 
+
+
+--- PAGE 21 ---
+
+ 
+ 21 
+Count Two alleges that the object of the conspiracy was to commit wire fraud on 
+customers of FTX.  As I previously instructed you, the crime of wire fraud has three elements: 
+First, that there was a scheme or artifice to defraud or to obtain money or property by 
+means of materially false and fraudulent pretenses, representations, or promises; 
+Second, that Mr. Bankman-Fried knowingly participated in the scheme or artifice to 
+defraud with knowledge of its fraudulent nature and with specific intent to defraud; 
+Third, t hat in executing the scheme, Mr. Bankman-Fried used or caused the use of 
+interstate or international wires.  
+The same instructions I gave you with respect to the law and the elements of wire fraud 
+apply to Count Two as well and you should follow those instructions here.  
+If the Government proves beyond a reasonable doubt that a conspiracy to commit wire 
+fraud on FTX customers existed, the first element of the conspiracy has been proven.  If, 
+however, the Government has not proven beyond a reasonable doubt that such a conspiracy 
+existed, the defendant may not be convicted on Count Two. 
+2. Second Element – Intent 
+Moving to the second element, the Government must prove beyond a reasonable doubt 
+that Mr. Bankman-Fried knowingly and willfully joined and participated in the conspiracy with 
+knowledge of its unlawful purpose and in furtherance of its unlawful objective.  I have already 
+instructed you about what “knowingly” and “willfully” mean.  But to reiterate, to act 
+“knowingly” means to act consciously and voluntarily, rather than by mistake or accident.  To 
+act “willfully” means to act deliberately and with purpose to do something that the law forbids.    
+In deciding whether Mr. Bankman-Fried was a member of the conspiracy, you should 
+ask: Did he participate in the conspiracy with knowledge of its unlawful fraudulent purpose and 
+with the specific intention of furthering the objective of wire fraud?  You may not conclude that 
+
+
+--- PAGE 22 ---
+
+ 
+ 22 
+Mr. Bankman-Fried acted willfully to join the conspiracy unless you conclude that he acted with 
+the knowledge and specific intent to defraud, as is required to establish a violation of the wire 
+fraud law, along with his agreement to the commission of acts by himself or by his 
+coconspirators that would violate the wire fraud law. 
+It is not necessary that Mr. Bankman-Fried be fully informed of all the details of the 
+conspiracy, or all of its participants.  However, I caution you that mere association between 
+Mr. Bankman-Fried and a conspirator does not make Mr. Bankman-Fried a member of the 
+conspiracy, even if he knows that the conspiracy exists.  In other words, knowledge and 
+association are not enough; Mr. Bankman-Fried must have intentionally participated in the 
+conspiracy with the purpose of helping to achieve its unlawful object. 
+It is important to note that Mr. Bankman-Fried’s participation in the conspiracy must be 
+established by independent evidence of his own acts or statements, as well as those of the other 
+alleged co-conspirators, and the reasonable inferences which may be drawn from them.  
+As I previously instructed you, good faith is a complete defense to this charge.  The 
+instructions I previously gave you with respect to good faith apply to this count as well.  If you 
+find that Mr. Bankman-Fried acted in good faith, he cannot be convicted on Count Two. 
+  
+
+
+--- PAGE 23 ---
+
+ 
+ 23 
+DEFENSE REQUEST NO. 8 
+Count Four: Conspiracy to Commit Wire Fraud on Lenders of Alameda Research7 
+A. Summary of the Indictment 
+Count Four charges Mr. Bankman-Fried with conspiracy to commit wire fraud on 
+Alameda’s lenders in violation of Title 18, United States Code, Section 1349.  Specifically, 
+Count Four charges that from in or about June 2022, up to and including in or about November 
+2022, Mr. Bankman-Fried willfully and knowingly agreed with others to defraud lenders to 
+Alameda by providing false and misleading information to those lenders regarding Alameda’s 
+financial condition so that lenders would not recall loans and would extend new loans. 
+B. Elements of Conspiracy to Commit Wire Fraud on Alameda’s Lenders 
+Before Mr. Bankman-Fried can be convicted of conspiracy to commit wire fraud as 
+charged in Count Four, the Government must prove each of the following elements beyond a 
+reasonable doubt: 
+First, that a conspiracy existed between two or more people to commit wire fraud on 
+Alameda’s lenders; and 
+Second, that Mr. Bankman-F ried knowingly and willfully joined and participated in the 
+alleged conspiracy at some point during its existence. 
+The instructions I just gave you about the law of conspiracy with respect to Count Two 
+apply equally to Count Four.  Similarly, the instructions I gave you about wire fraud with respect 
+to Count One apply equally to Count Four.  In determining whether the government has met its 
+burden with respect to each element of Count Four, you should follow these instructions, 
+ 
+7 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. LaGuardia, No. 
+19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); the charge of the Honorable Loretta A. Preska in United 
+States v. Adelekan, No. 19 CR. 291 (S.D.N.Y. Oct. 26, 2021); and the charge of the Honorable 
+Lewis A. Kaplan in United States v. Blaszczak, No. 17 Cr. 357 (S.D.N.Y. May 16, 2018). 
+
+
+
+--- PAGE 24 ---
+
+ 
+ 24 
+including the instructions on the complete defense of good faith.  If you find that Mr. Bankman-
+Fried acted in good faith, he cannot be convicted on Count Four. 
+  
+
+
+--- PAGE 25 ---
+
+ 
+ 25 
+DEFENSE REQUEST NO. 9 
+Count Five: Conspiracy to Commit Securities Fraud on Investors in FTX8 
+A. Summary of the Indictment 
+Count Five charges Mr. Bankman-Fried with conspiracy to commit securities fraud in 
+violation of Title 18, United States Code, Section 371.  Specifically, Count Five charges that 
+from in or about 2019, up to and including in or about November 2022, Mr. Bankman-Fried 
+willfully and knowingly agreed to engage in a scheme to defraud investors in FTX by providing 
+false and misleading information to those investors regarding FTX’s financial condition and the 
+relationship between FTX and Alameda.  Count Five further charges that in furtherance of that 
+conspiracy, Mr. Bankman-Fried communicated with FTX investors in a manner that contained 
+materially false information about FTX’s financial condition. 
+B. Elements of Conspiracy to Commit Securities Fraud 
+Like Counts Two and Four, which I just discussed, Count Five alleges a conspiracy – in 
+this case, conspiracy to commit securities fraud on investors in FTX.  The elements of this 
+conspiracy are similar the wire fraud conspiracies alleged in Counts Two and Four, except the 
+securities fraud conspiracy alleged in Count Five adds an additional element – an overt act 
+requirement – which I will discuss in a moment. 
+ 
+8 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. LaGuardia, No. 
+19 Cr. 893 (S.D.N.Y. Dec. 16, 2020); and the charge of the Honorable Lewis A. Kaplan in 
+United States v. Blaszczak, No. 17 Cr. 357 (S.D.N.Y. May 16, 2018). 
+Materiality.  See United States v. Litvak, 889 F.3d 56, 69 (2d Cir. 2018). 
+Intent – Willfully.  United States v. Peltz, 433 F.2d 48, 55 (2d Cir. 1970). 
+
+
+
+--- PAGE 26 ---
+
+ 
+ 26 
+Accordingly, before Mr. Bankman-Fried can be convicted of conspiracy to commit 
+securities fraud as charged in Count Five, the Government must prove each of the following 
+three elements beyond a reasonable doubt: 
+First, that a conspiracy existed between two or more people to commit securities fraud on 
+investors in FTX;  
+Second, t hat Mr. Bankman-Fried knowingly and willfully joined and participated in the 
+alleged conspiracy at some point during its existence; and 
+Third, t hat Mr. Bankman -Fried or one of his co-conspirators committed an overt act in 
+furtherance of the conspiracy.  
+1. F irst Element – Existence of Conspiracy 
+Starting with the first element, the Government must prove beyond a reasonable doubt 
+the existence of the charged conspiracy.  As I previously instructed you, a conspiracy is an 
+agreement, or an understanding, by two or more persons to accomplish an unlawful objective by 
+working together. 
+Count Five alleges that the object of the conspiracy was to commit securities fraud on 
+investors in FTX.  The crime of securities fraud has three elements: 
+First, that in connection with the purchase or sale of a security, a defendant did any one 
+of the following: 
+(1) employed a device, scheme or artifice to defraud, or 
+(2) made an untrue or misleading statement of material fact; or 
+(3) engaged in an act, practice or course of business that operated, or would 
+operate, as a fraud or deceit upon a purchaser or seller; 
+Second, that in so doing the defendant acted willfully, knowingly, and with the intent to 
+defraud; and 
+
+
+--- PAGE 27 ---
+
+ 
+ 27 
+Third, that the defendant knowingly used, or caused to be used, any means or instruments 
+of interstate transportation or interstate communication in interstate commerce or the use of the 
+mails in furtherance of the fraudulent conduct. 
+We will consider these three elements in turn. 
+i. First Element of Securities Fraud – Fraudulent Act 
+With respect to the first element of securities fraud, the Government does not have to 
+prove that the co-conspirators agreed to do all three types of unlawful conduct in connection with 
+the purchase or sale of securities.  Proof of any one will suffice.  However, you must be 
+unanimous as to which of the three types of unlawful conduct, if any, was proven.  
+I have already instructed you on what constitutes “a scheme or artifice to defraud” and an 
+“untrue or misleading statement” in my instructions on the wire fraud offense charged in Count 
+One.  You should consider and apply those same instructions here as well. 
+The Government must also prove beyond a reasonable doubt that the defendant’s alleged 
+fraudulent conduct was “in connection with the purchase or sale” of a security.  This requirement 
+is satisfied if you find that there was some nexus or relationship between the allegedly fraudulent 
+conduct and the sale or purchase of securities.  On the other hand, if you find the alleged 
+fraudulent conduct was not in connection with the purchase or sale of a security, you cannot 
+convict the defendant on Count Five. 
+The Government must also prove beyond a reasonable doubt that the information 
+disclosed to the investors was “material.”  The “materiality” standard is an objective one that 
+centers on the views of a hypothetical, reasonable investor in the marketplace at issue, and not 
+the idiosyncratic views of an individual investor.  If the information would be important to a 
+reasonable investor in deciding whether to buy or sell the stock at issue, it is “material” 
+information.  Put another way, there must be a substantial likelihood that the fact would have 
+
+
+--- PAGE 28 ---
+
+ 
+ 28 
+been viewed by the reasonable investor as having significantly altered the total mix of 
+information then available.  Materiality of the information is judged as of the time the 
+information was disclosed.  For the information to be material, it must have been conveyed to the 
+investors before the investment decisions were being considered. 
+ii. Second Element of Securities Fraud – Intent 
+The second element of securities fraud that the Government must prove beyond a 
+reasonable doubt is that the defendant acted willfully, knowingly, and with the intent to defraud.  
+I have already instructed you on the meaning of the terms “knowingly” and “intent to defraud” in 
+my instructions on the wire fraud offense charged in Count One.  “Willfully” means knowingly 
+acting in violation of the securities laws.  You should consider and apply those same instructions 
+here as well, including the complete defense of good faith. 
+iii. Third Element of Securities Fraud – Means of Interstate Commerce 
+There is a third and final element of securities fraud that the Government must prove 
+beyond a reasonable doubt; namely, that the defendant knowingly used or caused to be used the 
+mails or the means or instrumentalities of interstate commerce in furtherance of the scheme to 
+defraud or fraudulent conduct.  If you find that the scope of the scheme to defraud did not 
+include the use of the mails or the means or instrumentalities of interstate commerce, this 
+element has not been satisfied. 
+The use of the term “mails” is self-explanatory.  It includes the U.S. Mail, Federal 
+Express, and other commercial mail couriers.  The term “instrumentality of interstate commerce” 
+means instruments, devices, and means of conducting trade, commerce, transportation, or 
+communication between any two states or between the United States and another country. 
+Telephone calls made by a caller in one state to somebody in another state, or from the United 
+States to a foreign country, or vice-versa, are examples of using an instrumentality of interstate 
+
+
+--- PAGE 29 ---
+
+ 
+ 29 
+commerce.  Other examples include, but are not limited to, emails, text messages, and wire 
+transfers. 
+That covers the elements of the object of the conspiracy alleged in Count Five; namely 
+securities fraud on investors in FTX.  If the Government proves beyond a reasonable doubt that 
+such a conspiracy existed, the first element of the conspiracy has been proven. 
+2. Second Element – Intent 
+The second element of the securities fraud conspiracy, which the Government must prove 
+beyond a reasonable doubt, is that Mr. Bankman-Fried knowingly and willfully joined and 
+participated in the alleged conspiracy at some point during its existence.  I have already 
+instructed you on these elements in my instructions on the wire fraud conspiracy charged in 
+Count Two.  You should consider and apply those same instructions here as well. 
+3. Third Element – Overt Act 
+The third and final element of the securities fraud conspiracy, which the Government 
+must prove beyond a reasonable doubt, is that Mr. Bankman-Fried or some other member of the 
+same conspiracy knowingly committed at least one overt act in furtherance of the conspiracy.  In 
+other words, there must have been something more than an agreement, some overt step or action 
+must have been taken by at least one of the conspirators in furtherance of the conspiracy.  The 
+overt act element, to put it another way, is a requirement that any agreement in relation to Count 
+Five went beyond the mere talking stage, the mere agreement stage. 
+An overt act is any act intended to help achieve the object of the conspiracy.  While an 
+overt act, itself, need not be a criminal act, it must contribute to the goals of the conspiracy. 
+  
+
+
+--- PAGE 30 ---
+
+ 
+ 30 
+DEFENSE REQUEST NO. 10 
+Count Six: Conspiracy to Commit Commodities Fraud on FTX Customers9 
+A. Summary of the Indictment 
+Count Six charges Mr. Bankman-Fried with conspiracy to commit commodities fraud in 
+violation of Title 18, United States Code, Section 371.  Specifically, Count Six charges that from 
+in or about 2019, up to and including in or about November 2022, Mr. Bankman-Fried willfully 
+and knowingly agreed with others to commit commodities fraud, in violation of Title 7, United 
+States Code, Sections 9(1) and 13(a)(5), and Title 17, Code of Federal Regulations, Section 
+180.1, by agreeing with others to defraud customers of FTX trading cryptocurrencies, futures, 
+options, swaps, and derivatives by misappropriating those customers’ deposits and using those 
+deposits to pay expenses and debts of Alameda, and to make investments, and for other purposes.  
+Count Six further charges that in furtherance of that conspiracy, Mr. Bankman-Fried and others 
+misappropriated FTX customer deposits in order to satisfy loan obligations owed by Alameda.  
+B. Elements of Conspiracy to Commit Commodities Fraud 
+ 
+9 Adapted from the charge of the Honorable Jeffrey A. Meyer in United States v. Flotron, No. 17 
+Cr. 220 (D. Ct. May 8, 2018). 
+“In Connection With.”  See Sec. and Exch. Comm’n v. Zandford, 535 U.S. 813, 824-25, 122 S. 
+Ct. 1899, 1905-06 (2002); United States v. O’Hagan, 521 U.S. 642, 656-57, 117 S. Ct. 2199, 
+2209-10 (1997); Dabit v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 395 F.3d 25, 37 (2d Cir. 
+2005) vacated on other grounds 547 U.S. 71, 126 S. Ct. 1503 (2006); CFTC Commentary, 17 
+C.F.R. § 180.1, at 41405-06.   
+Extraterritorial Application of the Commodities Exchange Act.  Prime Int’l Trading, Ltd. v. BP 
+P.L.C., 937 F.3d 94, 107-08 (2d Cir. 2019); Laydon v. Cooperative Rabobank U.A., 55 F.4th 86, 
+97 (2d Cir. 2022); 7 U.S.C. § 2(i). 
+Depending on the Government’s proof at trial, the defense reserves the right to request 
+instructions on the legal definition of “swap,” “commodity,” “registered entity,” or any other 
+relevant terms or phrases defined in the Commodities Exchange Act and associated regulations. 
+
+
+
+--- PAGE 31 ---
+
+ 
+ 31 
+Before Mr. Bankman-Fried can be convicted of conspiracy to commit commodities fraud 
+as charged in Count Six, the Government must prove each of the following elements beyond a 
+reasonable doubt: 
+First, that a conspiracy existed between two or more people to commit commodities fraud 
+on customers of FTX;  
+Second,  that Mr. Bankman-Fried knowingly and willfully joined and participated in the 
+alleged conspiracy at some point during its existence; and 
+Third, t hat Mr. Bankman -Fried or one of his co-conspirators committed an overt act in 
+furtherance of the conspiracy.  
+1. F irst Element – Existence of Conspiracy 
+Starting with the first element, the Government must prove beyond a reasonable doubt 
+the existence of the charged conspiracy.  Count Six charges that there was an agreement or 
+understanding between two or more people to commit commodities fraud on customers of FTX.  
+The crime of commodities fraud has two elements: 
+First, that in connection with a swap, or a contract of sale of a commodity in interstate 
+commerce, or a contract for future delivery on or subject to the rules of a registered entity, as 
+those concepts are defined in the Commodities Exchange Act, a defendant did any one of the 
+following: 
+(1) used or employed a manipulative device, scheme or artifice to defraud, or 
+(2) made an untrue or misleading statement of material fact; or 
+(3) engaged in an act, practice or course of business that operated, or would 
+operate, as a fraud or deceit upon a person; 
+Second, that in so doing the defendant acted willfully, knowingly, and with the intent to 
+defraud. 
+
+
+--- PAGE 32 ---
+
+ 
+ 32 
+In my instructions on the wire fraud offense charged in Count One, I already instructed 
+you on what constitutes “a scheme or artifice to defraud” and an “untrue or misleading 
+statement” and a “material fact,” as well as the meaning of the terms “knowingly,” “willfully,” 
+and “intent to defraud.”  You should consider and apply those same instructions here as well, 
+including the complete defense of good faith. 
+Let me now discuss the “in connection with” requirement for Count Six.  The phrase “in 
+connection with” is not limitless and does not convert every instance of alleged fraudulent 
+conduct that happens to involve commodities into a violation of the federal commodities fraud 
+laws.  For purposes of Count Six, the Government must prove beyond a reasonable doubt a fraud 
+that is “integral”—and not merely incidental —to a purchase or sale of a commodity, or integral 
+to a swap.  Here, the Indictment alleges that the defendant defrauded FTX customers who were 
+“trading or intending to trade cryptocurrencies, futures, options, swaps, and derivatives” by 
+misappropriating their customer deposits.  I instruct you that the “in connection with” 
+requirement would not be satisfied if the alleged misappropriation was complete before any 
+actual or contemplated commodities transaction took place.  This requirement also would not be 
+satisfied solely by evidence that a defendant embezzles assets, including commodities, from a 
+client’s account, even if that client account is used to trade commodities.  Finally, the “in 
+connection requirement” would not be satisfied by evidence that a defendant misappropriated a 
+customer’s funds and used them to trade commodities.   
+The Government must prove one additional factor beyond a reasonable doubt with 
+respect to the object of the conspiracy charged in Count Six.  As a matter of law, the 
+Commodities Exchange Act does not apply to conduct that is extraterritorial.  There is one 
+exception, which I will come back to in a moment.  Outside of that exception, the Government 
+
+
+--- PAGE 33 ---
+
+ 
+ 33 
+must prove that the allegedly deceptive or manipulative conduct in connection with a 
+commodities transaction took place inside the United States.  If the Government does not prove 
+this beyond a reasonable doubt, the statute does not apply and Mr. Bankman-Fried cannot be 
+found guilty of a conspiracy to violate it.  This must be the result even if you find that some 
+fraudulent or manipulative conduct took pace inside the United States, as long as the conduct 
+relating to this object of the conspiracy was predominantly foreign. 
+As I said, there is a partial exception to the general rule that the Commodities Exchange 
+Act does not apply to extraterritorial conduct.  The exception relates to a type of commodity 
+called a swap.  The prohibition in the Commodities Exchange Act on commodities fraud does 
+apply to fraudulent or manipulative activities outside the United States if those activities have a 
+direct and significant connection with activities in, or effect on, commerce of the United States.  
+Accordingly, you may not find Mr. Bankman-Fried guilty under this provision of the 
+Commodities Exchange Act unless the Government proves beyond a shadow of a doubt that an 
+object of the alleged conspiracy was to commit commodities fraud relating to swaps through 
+conduct which took place outside of the United States but which had a direct and significant 
+connection or effect on commerce of the United States.   
+That covers the elements of the object of the conspiracy alleged in Count Six; namely 
+commodities fraud on customers of FTX.  If the Government proves beyond a reasonable doubt 
+that such a conspiracy existed, the first element of the conspiracy has been proven. 
+2. Second Element – Intent 
+The second element of the commodities fraud conspiracy, which the Government must 
+prove beyond a reasonable doubt, is that Mr. Bankman-Fried knowingly and willfully joined and 
+participated in the alleged conspiracy at some point during its existence.  I have already 
+
+
+--- PAGE 34 ---
+
+ 
+ 34 
+instructed you on these elements in my instructions on the wire fraud conspiracy charged in 
+Count Two.  You should consider and apply those same instructions here as well. 
+3. Third Element – Overt Act 
+The third and final element of the commodities fraud conspiracy, which the Government 
+must prove beyond a reasonable doubt, is that Mr. Bankman-Fried or some other member of the 
+same conspiracy knowingly committed at least one overt act in furtherance of the conspiracy.  I 
+have already instructed you on the overt act element in my instructions on the securities fraud 
+conspiracy charged in Count Five.  You should consider and apply those same instructions here 
+as well.  
+
+
+--- PAGE 35 ---
+
+ 
+ 35 
+DEFENSE REQUEST NO. 11 
+Count Seven: Conspiracy to Commit Money Laundering10 
+A. Summary of the Indictment 
+Count Seven charges Mr. Bankman-Fried with conspiracy to commit money laundering 
+in violation of Title 18 of the United States Code, Section 1956(h).  Specifically, Count Seven 
+charges that from in or about 2020, up to and including in or about November 2022, Mr. 
+Bankman-Fried willfully and knowingly agreed with others to commit money laundering in two 
+ways: 
+First, by conducting financial transactions involving the proceeds of the wire fraud 
+offense charged in Count One knowing that the transactions were designed in 
+whole or in part to disguise the nature, location, source, ownership, or control of 
+the proceeds of the unlawful activity in violation of Title 18, United States Code, 
+Section 1956(a)(1)(B)(i). 
+Second, by e
+ ngaging in monetary transactions in an amount greater than $10,000 
+representing the proceeds of wire fraud offense charged in Count One, in violation 
+of Title 18, United States Code, Section 1957.   
+B. E
+lements of Conspiracy to Commit Money Laundering 
+Before Mr. Bankman-Fried can be convicted of conspiracy to commit money laundering 
+as charged in Count Seven, the Government must prove each of the following elements beyond a 
+reasonable doubt: 
+First, that a conspiracy existed between two or more people to commit money laundering; 
+and 
+Second,  that Mr. Bankman-Fried knowingly and willfully joined and participated in the 
+alleged conspiracy at some point during its existence. 
+ 
+10 Adapted from the charge of the Honorable Loretta A. Preska in United States v. Adelekan, No. 
+19 CR. 291 (S.D.N.Y. Oct. 26, 2021); see also Sand, Modern Federal Jury Instructions, Instr. 
+50A-10. 
+
+
+
+--- PAGE 36 ---
+
+ 
+ 36 
+1. First Element – Existence of Conspiracy 
+Starting with the first element, the Government must prove beyond a reasonable doubt 
+the existence of the charged conspiracy.  As I mentioned before, Count Seven charges that there 
+was an agreement or understanding between two or more people to commit money laundering in 
+two different ways, which I will call “concealment money laundering” and “illegal monetary 
+transactions.”  These are the two objects of the conspiracy charged in Count Seven. 
+The Government does not need to prove that Mr. Bankman-Fried agreed to accomplish 
+both types of money laundering; an agreement to accomplish either one of the objects is 
+sufficient.  You must, however, be unanimous that the Government has proven beyond a 
+reasonable doubt at least one of the two alleged objectives of the conspiracy.  You must also be 
+unanimous as to which of the two types has been proven. 
+Concealment Money Laundering 
+The crime of concealment money laundering has four elements: 
+First, that the defendant conducted, or attempted to conduct, a financial transaction, 
+which must in some way or degree have affected interstate or foreign commerce; 
+Second, t hat the financial transaction at issue involved the proceeds of specified unlawful 
+activity, which here is alleged to have been a wire fraud offense charged in Count One; 
+Third, t hat the defendant knew that the financial transaction involved the proceeds of 
+some form of unlawful activity; and 
+Fourth, that the defendant knew that the transaction was designed, in whole or in part, 
+either to disguise the nature, location, source, ownership, or control of the proceeds of the 
+unlawful activity. 
+We will consider these four elements in turn. 
+i. First Element of Concealment Money Laundering – Financial Transaction 
+
+
+--- PAGE 37 ---
+
+ 
+ 37 
+The first element of concealment money laundering that the Government must prove 
+beyond a reasonable doubt is that the defendant conducted a financial transaction that affected 
+interstate or foreign commerce. 
+The term “conducts” includes the action of initiating, concluding, or participating in 
+initiating or concluding a transaction. 
+The term “financial transaction” means (1) a transaction involving a financial institution 
+which is engaged in, or the activities of which affect, interstate or foreign commerce in any way 
+or degree, or (2) a transaction which in any way or degree affects interstate or foreign commerce 
+and involves the movement of funds by wire or other means, or involves one or more monetary 
+instruments. 
+A “transaction involving a financial institution” includes a deposit, withdrawal, transfer 
+between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, 
+bond, certificate of deposit, or other monetary instrument, use of a safe deposit box, or any other 
+payment, transfer, or delivery by, through, or to a financial institution by whatever means.  The 
+term “funds” includes any currency, money, or other medium of exchange that can be used to 
+pay for goods and services. 
+Interstate commerce includes any transmission, transfer, or transportation of goods or 
+services, both tangible and intangible, communications, and/or persons, between persons, places, 
+or entities located in one state, including the District of Columbia, regardless of whether done for 
+a business purpose or otherwise. 
+Foreign commerce means the same thing except it is between a person, place, or entity in 
+the United States, any person, place, or entity in a foreign country. 
+
+
+--- PAGE 38 ---
+
+ 
+ 38 
+In determining whether a person or institution is engaged in or whether a transaction 
+affects interstate or foreign commerce, the involvement in interstate or foreign commerce can be 
+minimal.  Any involvement at all will satisfy this element. 
+ii. Second Element of Concealment Money Laundering – Proceeds of 
+Specified Unlawful Activity 
+The second element of concealment money laundering is that the financial transactions 
+must involve the proceeds of specified unlawful activity.  The term “proceeds” means any 
+property derived from or obtained or retained, directly or indirectly, through some form of 
+unlawful activity. 
+The term “specified unlawful activity” means any one of a variety of offenses described 
+in the statute.  In this case the Government has alleged that the financial transactions at issue 
+involved the proceeds of the wire fraud offense charged in Count One of the Indictment.  I 
+instruct you, as a matter of law, that the charge in Count One, if proven beyond a reasonable 
+doubt, meets the definition of specified unlawful activity.  However, you must determine 
+whether the funds involved in the financial transactions were the proceeds of that unlawful 
+activity.  And if you find that the Government has not proven Count One, then you cannot 
+convict on Count Seven. 
+Relatedly, I instruct you that funds can only be laundered after the underlying crime is 
+complete; otherwise, the funds cannot be considered the “proceeds” of the specified unlawful 
+activity.  In other words, the money laundering transaction – that is, the transaction designed to 
+conceal the proceeds – must be separate and distinct from the wire fraud scheme that generated 
+the proceeds. 
+  
+
+
+--- PAGE 39 ---
+
+ 
+ 39 
+iii. Third Element of Concealment Money Laundering – Knowledge that 
+Transactions Involved Unlawful Proceeds 
+The third element of concealment money laundering is that the defendant knew that the 
+financial transactions at issue involved the proceeds of some form, though not necessarily which 
+form, of unlawful activity. 
+It is not necessary for the defendant to know that the proceeds came from the wire fraud 
+offense alleged in Count One or that the defendant personally participated in the wire fraud 
+offense.  It is sufficient that the defendant knew that the proceeds came from some form of 
+unlawful activity. 
+iv. Fourth Element of Concealment Money Laundering – Knowledge that 
+Transactions Were Designed to Conceal 
+The fourth and final element of concealment money laundering concerns the purpose of 
+the transaction.  Specifically, the Government must prove beyond a reasonable doubt that the 
+defendant conducted financial transactions with the knowledge that the transactions were 
+designed, in whole or in part, to conceal or disguise the nature, location, source, ownership, or 
+control of the proceeds of the specified unlawful activity – namely, the wire fraud offense 
+alleged in Count One.  The terms I have just used have their everyday ordinary meanings. 
+If you find that the evidence establishes beyond a reasonable doubt that the defendant 
+knew the purpose of a particular transaction in issue and that he knew at the time of the 
+transaction that the transaction was designed to conceal or disguise the true origin of the 
+proceeds of the wire fraud against FTX customers, then this element is satisfied. 
+However, if you find that the defendant knew of the transaction at issue, but did not know 
+that it was designed to conceal or disguise the true origin of the proceeds of the wire fraud 
+against FTX customers, and instead thought that the transaction was intended to further a 
+
+
+--- PAGE 40 ---
+
+ 
+ 40 
+legitimate transaction, you must find that this element has not been satisfied and find the 
+defendant not guilty. 
+Relatedly, I instruct you that the money laundering statute prohibits money laundering, 
+not money spending.  Thus, a design to conceal or disguise the source or nature of the proceeds 
+is necessary.  If there is no evidence that the defendant intended to conceal or disguise the 
+proceeds of an unlawful activity, he may not be convicted for concealment money laundering. 
+That covers the elements of the first object of the money laundering conspiracy alleged in 
+Count Seven; namely concealment money laundering.  We now turn to the elements of the 
+second object of the money laundering conspiracy – illegal monetary transactions. 
+Illegal Monetary Transactions 
+The crime of conducting illegal monetary transactions has five elements: 
+First, that the defendant engaged in a monetary transaction in or affecting interstate or 
+foreign commerce; 
+Second, t hat the monetary transaction involved criminally-derived property of a value 
+greater than $10,000; 
+Third, t hat the property was actually derived from specified unlawful activity; 
+Fourth, that the defendant acted knowingly, that is, with knowledge that the transaction 
+involved proceeds of a criminal offense; 
+Fifth, t hat the transaction took place in the United States. 
+We will consider each of these five elements in turn. 
+  
+
+
+--- PAGE 41 ---
+
+ 
+ 41 
+i. First Element of Illegal Monetary Transactions – Financial Transaction 
+The first element that the Government must prove beyond a reasonable doubt is that the 
+defendant conducted a financial transaction that affected interstate or foreign commerce. 
+I already instructed you on the meaning of the terms “financial transaction” and 
+“interstate or foreign commerce.”  You should consider and apply those same instructions here 
+as well. 
+ii. Second Element of Illegal Monetary Transactions – Criminally Derived 
+Property Worth Over $10,000 
+The second element that the Government must prove beyond a reasonable doubt is that 
+the monetary transactions involved criminally derived property having a value in excess of 
+$10,000. 
+The term “criminally-derived property” means any property constituting, or derived from, 
+proceeds obtained from a criminal offense.  I already instructed you on the meaning of the terms 
+“proceeds” and you should apply those same instructions here.  I instruct you, as a matter of law, 
+that wire fraud is a criminal offense for purposes of this statute. 
+The Government is not required to prove that all of the property involved in the 
+transaction was criminally-derived property.  However, the government must prove that more 
+than $10,000 of the property involved was criminally-derived property.
+11 
+  
+ 
+11 In light of the Second Circuit’s decision in United States v. Silver, 864 F.3d 102 (2d Cir. 
+2017), we will not request an instruction on tracing the criminally-derived property.  See United 
+States v. Rutgard, 116 F.3d 1270, 1292-93 (9th Cir. 1997).  However, we disagree with this 
+decision and preserve this issue for appeal. 
+
+
+
+--- PAGE 42 ---
+
+ 
+ 42 
+iii. Third Element of Illegal Monetary Transactions – Property Derived from 
+Specified Unlawful Activity 
+iv. Fourth Element of Illegal Monetary Transactions – Knowledge 
+The third and fourth elements that the Government must prove beyond a reasonable 
+doubt is that the property was derived from specified unlawful activity and that the defendant 
+acted knowingly, that is, with knowledge that the transaction involved proceeds of a criminal 
+offense. 
+I already instructed you on the meaning of the terms “specified unlawful activity” and 
+“knowingly” and you should apply those same instructions here.   
+I instruct you that the Government is not required to prove that the defendant knew the 
+particular offense from which the criminally-derived property was derived.  However, the 
+Government must prove beyond a reasonable doubt that the defendant knew that the transaction 
+involved criminally-derived property which, I remind you, means any property constituting or 
+derived from proceeds obtained from a criminal offense. 
+v. Fifth Element of Illegal Monetary Transactions – Transaction in the 
+United States 
+The fifth and final element that the Government must prove beyond a reasonable doubt is 
+that the agreed upon transaction took place in the United States. 
+That covers the elements of the second object of the money laundering conspiracy 
+alleged in Count Seven; namely illegal monetary transactions.  If the Government proves beyond 
+a reasonable doubt that such a conspiracy existed, the first element of the conspiracy has been 
+proven.  If, however, the Government has not proven beyond a reasonable doubt that such a 
+conspiracy existed, the defendant may not be convicted on Count Seven. 
+  
+
+
+--- PAGE 43 ---
+
+ 
+ 43 
+2. Second Element – Intent 
+The second element of the money laundering conspiracy, which the Government must 
+prove beyond a reasonable doubt, is that Mr. Bankman-Fried knowingly and willfully joined and 
+participated in the alleged conspiracy at some point during its existence.  I have already 
+instructed you on these elements in my instructions on the wire fraud conspiracy charged in 
+Count Two.  You should consider and apply those same instructions here as well, including the 
+complete defense of good faith. 
+  
+
+
+--- PAGE 44 ---
+
+ 
+ 44 
+DEFENSE REQUEST NO. 12 
+Venue12 
+With respect to any given count you are considering, the Government, in addition to 
+proving the essential elements of that charge, must also prove that at least one act in furtherance 
+of the charge occurred in the Southern District of New York.  This is called establishing venue. 
+The Southern District of New York includes all of Manhattan and the Bronx, as well as 
+Westchester, Rockland, Putnam, Dutchess, Orange and Sullivan Counties. 
+The Government does not have to prove that a completed crime was committed within 
+the Southern District of New York, or that Mr. Bankman-Fried was ever in the Southern District 
+of New York.  It is sufficient to satisfy the venue requirement if any act in furtherance of the 
+crime charged occurred in this District.  The act itself may not be a criminal act.  It could 
+include, for example, processing or executing a securities trade within this District.  And the act 
+need not have been taken by Mr. Bankman-Fried, so long as the act was part of the crime that 
+you find was committed by Mr. Bankman-Fried. 
+Unlike the elements of the offenses which must be proven beyond a reasonable doubt, the 
+Government is only required to prove venue by a preponderance of the evidence.  A 
+preponderance of the evidence means that it is more probable than not that some act in 
+furtherance of the crime you are considering occurred in this District. 
+  
+ 
+12 Adapted from the charge of the Honorable Laura Taylor Swain in United States v. Stewart, 
+No. 15 Cr. 287 (S.D.N.Y. Aug. 9, 2016). 
+
+
+
+--- PAGE 45 ---
+
+ 
+ 45 
+DEFENSE REQUEST NO. 13 
+Law Enforcement Witnesses13 
+You have heard the testimony of law enforcement witnesses and other Government 
+employees.  The fact that a witness may be employed by the federal Government as a law 
+enforcement agent or employee does not mean that his or her testimony is deserving of more or 
+less consideration or greater or lesser weight than that of an ordinary witness.  As with all other 
+witnesses, it is up to you to decide, after reviewing all the evidence, what weight to give the 
+testimony of law enforcement witnesses. 
+  
+ 
+13 Adapted from the charge of the Honorable Jesse M. Furman in United States v. Avenatti, No. 
+19 Cr. 374 (S.D.N.Y. Feb. 1, 2022); and the Honorable J. Paul Oetken in United States v. 
+Matthews, 18 Cr. 124 (S.D.N.Y. Sept. 24, 2018). 
+
+
+
+--- PAGE 46 ---
+
+ 
+ 46 
+DEFENSE REQUEST NO. 14 
+Non-Prosecution Agreements14 
+You have heard testimony from at least one witness who entered into a non-prosecution 
+agreement with the Government arising out of facts that are at issue in this case.  You are 
+instructed that you are to draw no conclusions or inferences of any kind about the guilt of the 
+defendant from the fact that a witness entered into such an agreement, even involving similar 
+conduct.  The decision of that witness to enter into that agreement and of the Government to 
+enter into that agreement was a personal decision on the part of the Government and an exercise 
+of the Government’s lawful discretion in the case of the Government.  The testimony of a 
+witness who has entered into a non-prosecution agreement with the Government should be 
+examined with great care.  You should scrutinize such testimony closely to determine whether or 
+not it is colored in such a way as to place guilt upon the defendant in order to further the 
+witness’s own interests.  If you believe the testimony to be true, you may give it any weight you 
+believe it deserves. 
+  
+ 
+14 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. Dumitru, 18 
+Cr. 243 (S.D.N.Y. Nov. 6, 2018); and the charge of the Honorable J. Paul Oetken in United 
+States v. Danilovich, 12 Cr. 171 (S.D.N.Y. Nov. 13, 2013). 
+
+
+
+--- PAGE 47 ---
+
+ 
+ 47 
+DEFENSE REQUEST NO. 15 
+Cooperating Witness Testimony15 
+You have heard testimony from witnesses who have pleaded guilty and entered into 
+cooperation agreements with the Government. These witnesses testified that they hope that, as a 
+result of their cooperation with the Government—including their testimony at this trial—that 
+they will receive a lesser sentence. 
+You are not to draw any conclusions or inferences of any kind about the guilt of Mr. 
+Bankman-Fried merely from the fact that certain witnesses at this trial entered into cooperation 
+agreements with the Government and pleaded guilty to crimes that may be similar or related to 
+the crimes with which Mr. Bankman-Fried is charged.  The witnesses who decided to plead 
+guilty and cooperate with the Government did so based on their evaluation of what was in their 
+best interest.  Their decision to plead guilty and to cooperate with the Government is not 
+evidence that Mr. Bankman-Fried committed a crime.  A defendant may not be found guilty 
+merely because he associated with individuals who decided to plead guilty and enter into 
+cooperation agreements with the Government. 
+The testimony of cooperating witnesses must be scrutinized with special care and 
+caution.  The fact that a witness has pleaded guilty to crimes and has entered into a cooperation 
+agreement with the Government may be considered by you as bearing on the witness’s 
+credibility.  It does not follow, of course, that simply because a person has admitted to 
+committing crimes, and has entered into a cooperation agreement with the Government, that he is 
+incapable of giving a truthful account of what happened.  Moreover, it is no concern of yours 
+ 
+15 Adapted from the charge of the Honorable Paul G. Gardephe in United States v. Amanat, 15-
+CR-536 (S.D.N.Y. Dec. 22, 2017). 
+
+
+
+--- PAGE 48 ---
+
+ 
+ 48 
+why the Government made an agreement with a witness.  Your sole concern is whether a witness 
+has given truthful testimony. 
+The testimony of cooperating witnesses should be given such weight as it deserves in 
+light of all the facts and circumstances before you, taking into account the witness’s candor, the 
+strength and accuracy of his recollection, his background, his demeanor, and the extent to which 
+his testimony is or is not corroborated by other evidence in the case.  As with other witnesses, 
+you may consider whether a cooperating witness has an interest in the outcome of this case and, 
+if so, whether that interest has affected his or her testimony. 
+In this regard, you should bear in mind that a witness who has pleaded guilty and entered 
+into a cooperation agreement with the Government has an interest and motives different from 
+those of other witnesses.  In evaluating the testimony of such a witness, you should ask yourself 
+whether the witness would benefit more by lying, or by telling the truth.  Was the witness’s 
+testimony influenced in any way by a belief or hope that he would receive favorable treatment by 
+testifying falsely, or did he believe that his interests would be best served by testifying 
+truthfully?  If you believe that a witness was motivated by hopes of avoiding a term of 
+imprisonment, was that motivation one that would cause him to lie, or was it one that would 
+cause him to tell the truth? 
+In sum, you should consider all of the evidence in deciding what weight, if any, to give to 
+the testimony of a cooperating witness.  If you find that the testimony of a cooperating witness 
+was false, you should reject it.  However, if—after a cautious and careful examination of the 
+cooperating witness’s testimony in light of all the evidence—you conclude that the cooperating 
+witness told the truth, you should accept the testimony as credible and act upon it accordingly. 
+
+
+--- PAGE 49 ---
+
+ 
+ 49 
+As with any witness, the issue of credibility need not be decided on an all-or-nothing 
+basis.  Even if you find that a witness testified falsely in one part, you may still accept his or her 
+testimony in other parts, or you may disregard all of that witness’s testimony.  That is a 
+determination entirely for you to make. 
+  
+
+
+--- PAGE 50 ---
+
+ 
+ 50 
+DEFENSE REQUEST NO. 16 
+Immunized Witnesses16 
+You have heard the testimony of witnesses who have testified under a grant of immunity 
+from this Court, called formal immunity. The testimony of such a witness may not be used 
+against such witnesses in any criminal case except in a prosecution for perjury, giving a false 
+statement, or otherwise failing to comply with the immunity order of this Court. You are 
+instructed that the Government is entitled to call as a witness a person who has been granted 
+immunity by order of this Court.  
+However, the testimony of a witness who has been granted immunity by the Court should 
+be examined with great care.  You should scrutinize such testimony closely to determine whether 
+or not it is colored in such a way as to place guilt upon the defendant in order to further the 
+witness’s own interests. If you believe the testimony to be true, you may give it any weight you 
+believe it deserves. 
+  
+ 
+16 Adapted from the charge of the Honorable J. Paul Oetken in United States v. Danilovich, 12 
+Cr. 171 (S.D.N.Y. Nov. 13, 2013). 
+
+
+
+--- PAGE 51 ---
+
+ 
+ 51 
+ 
+DEFENSE REQUEST NO. 17 
+Other Acts Evidence17 
+You have also heard evidence that the defendant, on earlier occasions, engaged in a 
+variety of crimes or other misconduct that are not charged in this indictment. The defendant is 
+not on trial for committing those other acts.  Accordingly, you may not consider the evidence 
+about other uncharged bad acts or evidence of prior incarceration or crimes as a substitute for 
+proof that the defendant committed the crimes with which he is charged in this case. Nor may 
+you consider this evidence as proof that the defendant has a criminal propensity or bad character. 
+This evidence was admitted for far more limited purposes, and you may consider it for those 
+purposes only. And I've instructed you previously about those purposes. 
+  
+ 
+17 Adapted from the charge of the Honorable Lewis A. Kaplan in United States v. Jones, 17 Cr. 
+791 (S.D.N.Y. Dec. 16, 2019). 
+
+
+
+--- PAGE 52 ---
+
+ 
+ 52 
+DEFENSE REQUEST NO. 18 
+Coconspirator Statements18 
+Certain evidence was admitted during trial concerning acts and statements of others because 
+such acts were committed and such statements were made by a person who, the Government claims, 
+was also a co-conspirator of the defendant. A conspiracy is often referred to as a partnership in crime. 
+Thus, as in other types of partnerships, when people enter into a conspiracy to accomplish an 
+unlawful end, each and every member becomes an agent of the other conspirators in carrying out the 
+conspiracy. In determining the factual issues before you, you may consider against the defendant any 
+acts or statements made by any of the people that you find, under the standards I have already 
+described, to have been co-conspirators, even though such acts or statements were not made in his 
+presence, or were made without his knowledge.  
+  
+ 
+18 Adapted from the charges of the Honorable Lewis A. Kaplan in United States v. Gatto, 17 Cr. 
+686 (S.D.N.Y. Oct. 22, 2018). 
+
+
+
+--- PAGE 53 ---
+
+ 
+ 53 
+ 
+ 
+DEFENSE REQUEST NO. 19 
+Expert Witness[es]19 
+You have heard testimony from [a witness / certain witnesses] who [was/were] proffered 
+as [an] expert[s] in [different areas] [a particular area].  An expert is allowed to express his or her 
+opinion on those matters about which he or she has special knowledge and training.  Expert 
+testimony is presented to you on the theory that someone who is experienced in the field can 
+assist you in understanding the evidence or in reaching an independent decision on the facts. 
+In weighing an expert’s testimony, you may consider the expert’s qualifications, 
+opinions, reasons for testifying, as well as all of the other considerations that ordinarily apply 
+when you are deciding whether or not to believe a witness’s testimony.  You may give the expert 
+testimony whatever weight, if any, you find it deserves in light of all the evidence in this case. 
+You should not, however, accept a witness’s testimony merely because he or she is an expert. 
+Nor should you substitute it for your own reason, judgment, and common sense.  The 
+determination of the facts in this case rests solely with you.  
+ 
+19 Adapted from Sand, Modern Federal Jury Instructions, Instr. 7-21, and from the charge of the 
+Honorable J. Paul Oetken in United Sates v. Middendorf, No. 18 Cr. 36 (S.D.N.Y. Feb. 1, 2022). 
+
+
+
+--- PAGE 54 ---
+
+ 
+ 54 
+DEFENSE REQUEST NO. 20 
+Use of Charts and Summaries20 
+There is evidence before you in the form of charts and summaries.  Those exhibits 
+purport to summarize the underlying evidence that was used to prepare them.  I admitted these 
+charts and summaries into evidence in place of or in addition to the underlying documents that 
+they represent in order to save time and avoid unnecessary inconvenience.  They are no better 
+than the documents upon which they are based.  Therefore, you are to give no greater 
+consideration to these charts or summaries than you would give to the evidence upohn which 
+they are based.  It is for you to decide whether they correctly present the information contained 
+in the testimony and in the exhibits on which they were based. 
+  
+ 
+20 Adapted from the charges of the Honorable Lewis A. Kaplan in United States v. Dumitru, 18 
+Cr. 243 (S.D.N.Y. Nov. 6, 2018); and the Honorable Jesse M. Furman in United States v. 
+Avenatti, No. 19 Cr. 374 (S.D.N.Y. Feb. 1, 2022).   
+
+
+
+--- PAGE 55 ---
+
+ 
+ 55 
+DEFENSE REQUEST NO. 21 
+Defendant’s Right Not To Testify [If Applicable]21 
+Mr. Bankman-Fried did not testify in this case.  Under our Constitution, a defendant has 
+no obligation to testify or to present any evidence, because it is the Government’s burden to 
+prove a defendant guilty beyond a reasonable doubt.  That burden remains with the Government 
+throughout the trial and never shifts to the defendant.  A defendant is never required to prove that 
+he or she is innocent. 
+You must not attach any significance to the fact that Mr. Bankman-Fried did not testify. 
+You may not draw any inference against Mr. Bankman-Fried because he did not take the witness 
+stand.  You may not speculate as to why he did not testify, and you may not consider this against 
+him in any way in your deliberations. 
+  
+ 
+21 Adapted from Sand, Modern Federal Jury Instructions, Instr. 5-21. 
+
+
+
+--- PAGE 56 ---
+
+ 
+ 56 
+DEFENSE REQUEST NO. 22 
+Defendant’s Testimony [If Applicable]22 
+In a criminal case, the defendant never has a duty to testify or come forward with any 
+evidence.  The reason is that, as I have told you, the defendant is presumed innocent and the 
+government at all times has the burden of proof beyond a reasonable doubt.  But, if he chooses, 
+the defendant also has the right to testify and to take the witness stand on his own behalf. In this 
+case, Mr. Bankman-Fried decided to testify, like any other witness, and he was subject to cross-
+examination, like any other witness.  You should examine and evaluate the testimony of Mr. 
+Bankman-Fried just as you would the testimony of any witness. 
+Finally, bear in mind that Mr. Bankman-Fried has been required to be present throughout 
+the trial.  His presence in the courtroom during the testimony of other witnesses should not affect 
+your examination or evaluation of his testimony in any way.  
+  
+ 
+22 See United States v. Solano, 966 F.3d 184, 192-94 (2d Cir. 2020); United States v. Gaines, 457 
+F.3d 238, 249 n.9 (2d Cir. 2008). 
+
+
+
+--- PAGE 57 ---
+
+ 
+ 57 
+DEFENSE REQUEST NO. 23 
+Missing Witness Charge [If Applicable]23 
+You have heard evidence about a witness who has not been called to testify.  The defense 
+has argued that the witness could have given material testimony in this case and that the 
+government was in the best position to produce this witness.   
+ 
+If you find that this uncalled witness could have bene called by the government and 
+would have given important new testimony, and that the  government was in the best position to 
+call him, but failed to do so, you are permitted, but you are not required, to infer that the 
+testimony of the uncalled witness would have been unfavorable to the government. 
+  
+ 
+23 Adapted from Sand, Modern Federal Jury Instructions, Instr. 6-5. 
+
+
+
+--- PAGE 58 ---
+
+ 
+ 58 
+DEFENSE REQUEST NO. 24 
+Involvement of Counsel24 
+You have heard evidence that FTX and Alameda Research had lawyers.  You have also 
+heard evidence that Mr. Bankman-Fried was aware that FTX and Alameda Research’s lawyers 
+were involved in certain actions and decisions.  A lawyer’s involvement with an individual or 
+entity does not itself constitute a defense to any charge in this case.  The defense has not claimed, 
+and cannot claim, that the defendant’s conduct was lawful because he acted in good faith on the 
+advice of a lawyer.  
+However, in considering whether or not Mr. Bankman-Fried acted in good faith, you may 
+consider whether a lawyer’s presence, involvement, or advice known to Mr. Bankman-Fried 
+gave him comfort that he was acting properly. 
+  
+ 
+24 Adapted from the charge of the Honorable Edgardo Ramos in United States v. Milton, No. 21 
+Cr. 478 (S.D.N.Y. Sept. 12, 2022); and the Honorable Analisa Torres in United States v. Shea, 
+No. 20 Cr. 412 (S.D.N.Y. May 23, 2022); see also United States v. Bilzerian, 926 F.2d 1285, 
+1292 (2d Cir. 1991); United States v. Tagliaferri, No. 13 Cr. 115 (RA) (S.D.N.Y. 2014), Trial Tr. 
+at 83-85. 
+
+
+
+--- PAGE 59 ---
+
+ 
+ 59 
+ 
+DEFENSE REQUEST NO. 25 
+Defense Theory of the Case25 
+[Mr. Bankman-Fried respectfully requests that the jury be charged with the defense 
+theory of the case, to be supplied following the close of trial, prior to the charging conference.] 
+  
+ 
+25 United States v. GAF Corp., 928 F.2d 1253, 1262 (2d Cir 1991) (“This Court has repeatedly 
+recognized a criminal defendant’s right to a jury charge which reflects the defense theory”). 
+
+
+
+--- PAGE 60 ---
+
+ 
+ 60 
+CONCLUSION 
+Mr. Bankman-Fried respectfully requests that the Court include the foregoing in its 
+instructions to the jury. Mr. Bankman-Fried also reserves the right to supplement or amend these 
+requests to charge in response to the Government’s amended requests and the evidence presented 
+at trial. 
+Dated: October 19, 2023 
+New York, New York 
+Respectfully submitted, 
+ 
+ 
+/s/ Mark S. Cohen  
+Mark S. Cohen 
+Christian R. Everdell 
+David Lisner 
+Sri K. Kuehnlenz 
+COHEN & GRESSER LLP 
+800 Third Avenue, 21
+st Floor 
+New York, New York 10022 
+Phone:  (212) 957-7600 
+mcohen@cohengresser.com 
+ceverdell@cohengresser.com 
+dlisner@cohengresser.com 
+skuehnlenz@cohengresser.com 
+Attorneys for Samuel Bankman-Fried 
+ 

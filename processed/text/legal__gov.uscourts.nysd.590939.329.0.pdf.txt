@@ -1,0 +1,283 @@
+
+
+--- PAGE 1 ---
+
+  
+ 
+ 
+Mark S. Cohen 
++1 (212) 957-7600 
+mcohen@cohengresser.com 
+ 
+ 
+Christian R. Everdell 
++1 (212) 957-7600 
+ceverdell@cohengresser.com 
+ 
+October 24, 2023 
+VIA ECF 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+United States Courthouse 
+500 Pearl Street 
+New York, New York 10007 
+ 
+Re:  United States v. Samuel Bankman-Fried, S6 22 Cr. 673 (LAK)  
+Dear Judge Kaplan: 
+On behalf of our client, Samuel Bankman-Fried, we respectfully write to object to certain 
+of the Government’s proposed jury instructions, ECF No. 214, and in to respond to the 
+objections and additional instructions set forth in the Government’s letter of October 19, 2023 
+(the “October 19 Letter”).  ECF No. 326.   
+1. Instructions on “Intent” for Wire Fraud on Customers Charge  
+The Government’s October 19 Letter raises several issues relating to the proposed 
+instructions for the intent element of the charge of wire fraud on customers.  In addition, the 
+defense objects to certain aspects of the Government’s proposed instructions on this issue. 
+“No Ultimate Harm” and Good Faith.  The Government seeks a “no ultimate harm” 
+instruction on the ground that an “intent to repay” customers is not a defense.  ECF No. 326 at 
+102.  Such an instruction is proper only where the defendant contemplates “some immediate loss 
+to the victim,” but not where the defendant believed in good faith that victims would “never” be 
+harmed.  United States v. Rossomando, 144 F.3d 198, 201 (2d Cir. 1998) (emphasis in original).  
+It is the defense’s contention that Mr. Bankman-Fried believed that customers would not be 
+harmed at all because the use of customer deposits was permissible and consistent with the rights 
+and obligations comprising the FTX-customer relationship.
+1  Thus, instructing the jury that an 
+“intent to repay” would not negate the requisite mens rea would be a non-sequitur, because it 
+presupposes an intent to steal from customers, which Mr. Bankman-Fried did not possess.  Such 
+ 
+1 For the sake of clarity, we note that the Government’s original proposed instructions already include 
+essentially the same instruction proposed in their October 19 Letter.  ECF No. 214 at 13-14.   
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 1 of 6
+
+
+
+--- PAGE 2 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 24, 2023 
+Page 2 
+ 
+  
+an unwarranted and improper instruction would also effectively thwart a key theory of the 
+defense.   
+In its ruling on the Government’s motion in limine to preclude evidence and argument 
+regarding Mr. Bankman-Fried’s “intent to repay,” ECF No. 204 at 41, the Court ruled to exclude 
+evidence that the defendant “intended to steal funds and give them back,” but denied the 
+Government’s motion without prejudice as to “evidence and argument probative of [the 
+Defendant’s] alleged good-faith belief that FTX and Alameda’s handling of customer assets was 
+permitted by law and under the Terms of Service.”  ECF No. 289 at 11-12.  Accordingly, the 
+Government’s objection to the defense’s proposed instruction regarding Mr. Bankman-Fried’s 
+“good faith with respect to the use of customer funds” is misplaced.  ECF No. 326 at 5; ECF No. 
+215 at 12.  Mr. Bankman-Fried is entitled to have the jury consider whether he acted in good 
+faith on this core question, and the Government’s effort to foreclose that defense through the jury 
+charge is improper.   
+The Government’s original proposed jury instruction on the intent element of the wire 
+fraud counts also included the following:  “even if the defendant believed that the victims would 
+ultimately lose money, or that they would ultimately not suffer financial loss, that is no defense if 
+the defendant intended immediate or temporary financial or property loss to another.”  ECF No. 
+214 at 12.  This instruction would be improper for the same reason as the more fulsome “no 
+ultimate harm” instruction.   
+At a minimum, if the Court decides to include a “no ultimate harm” charge, the defense 
+respectfully requests that the Court add the following language, which the Second Circuit has 
+approved to ensure the jury clearly understands that they cannot “convict [defendant] unless he 
+intended to cause loss to someone.”  United States v. Berkovich, 168 F.3d 64, 67 (2d Cir. 1999) 
+As a practical matter, then, in order to sustain the charges against the defendant, 
+the government must establish beyond a reasonable doubt that he knew that his 
+conduct as a participant in the scheme was calculated to deceive and, nonetheless, 
+he associated himself with the alleged fraudulent scheme for the purpose of 
+causing some loss to another. 
+Id.  See also United States v. Finazzo, 682 F. App’x 6, 9 (2d Cir. 2017) (holding “no ultimate 
+harm instruction” was proper “where the district court clarified immediately thereafter that the 
+Government was still required to establish that [the defendant] engaged in the alleged fraudulent 
+scheme for the purpose of causing some loss to another”).  
+Further, if the Court decides to include part or all of the Government’s proposed 
+instruction for the intent element of wire fraud on customers, the defense objects to including the 
+following phrase in the description of good faith:  “[If] the defendant in good faith believed that 
+he was entitled to take the money or property from the victim, even though that belief was 
+mistaken . . .”  We respectfully submit that the phrase “entitled to take” in this instruction 
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 2 of 6
+
+
+--- PAGE 3 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 24, 2023 
+Page 3 
+ 
+  
+presupposes that money or property was “taken,” and could steer the jury toward a finding of 
+fraudulent intent even if Mr. Bankman-Fried believed in good faith that customer assets and 
+property were not being embezzled or misappropriated.   
+The defense respectfully submits that its proposed instruction regarding good faith is 
+more consistent with precedent, less likely to confuse or prejudice the jury, and more instructive 
+under the circumstances of this case.   
+“Willfully.”  The Government objects to the defense’s proposed instruction on the mens 
+rea requirement for the wire fraud charges.  ECF No. 326 at 5.  Specifically, the Government 
+argues that the term “willfully” does not belong in the charge, at least insofar as it is defined to 
+include terms such as “purposely violated an obligation that prohibited use” or “acted with 
+knowledge that [his] conduct was unlawful, and with intent to do something the law forbids.”  Id.  
+In the context of the wire fraud charges, the defense continues its proposed instruction and 
+particularly objects to an instruction that defines willfulness (which appears throughout the 
+Government’s proposed wire fraud instruction, ECF No. 214 at 12-14)) as “to act voluntarily and 
+with a wrongful purpose,” but does not specify purpose was to deprive customers of some 
+financial or property right.  See United States v. Carlo, 507 F.3d 799, 801 (2d Cir. 2007) (a wire 
+fraud conviction requires proof of a “specific intent to obtain money or property by means of a 
+fraudulent scheme that contemplated harm to the property interests of the victim”).   
+2. The Government’s Proposed Instruction Regarding Mr. Bankman-Fried’s “Moral 
+or Political Beliefs” 
+Citing “certain public statements” by Mr. Bankman-Fried, the Government asks the 
+Court to instruct the jury that it is not a defense “that the defendant was motivated by his 
+personal philosophical or moral outlook.”  ECF No. 326 at 2-3.  The defense does not intend to 
+offer evidence of Mr. Bankman-Fried’s morals or political beliefs as an indication that he acted 
+out of “good motive,” so such an instruction is unnecessary.   
+3. The Government’s Proposed Instructions Regarding Disclaimers  
+In connection with the materiality element in the charge of conspiracy to commit 
+securities fraud, the Government’s original proposed charge included an instruction “that a 
+clause in an investment contract or a disclaimer cannot render any misrepresentation  . . 
+immaterial as a matter of law.”  ECF No. 214 at 35.  The Government’s October 19 Letter argues 
+that this instruction is “particularly warranted” now in light of testimony and statements in the 
+defense’s opening regarding language in the Terms of Service governing margin trading and 
+margin loans. 
+Respectfully, we submit that the Court should reject the proposed instruction and the 
+Government’s arguments.  The proposed instruction is unnecessary for its stated purpose.  The 
+Government asserts that the instruction is “particularly warranted” in light of references in the 
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 3 of 6
+
+
+--- PAGE 4 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 24, 2023 
+Page 4 
+ 
+  
+defense opening to portions of the Terms of Service relevant to margin trading and margin loans 
+in its opening.  Id. (citing Trial Tr. 44:8-11).  But the opening merely noted that portions of 
+section 16 of the Terms of Service, which address margin trading and margin loans, could impact 
+“whether the customer taking the margin loan had sufficient security or collateral.”  Trial Tr. 12-
+14.  Nothing in the defense’s opening creates a need to clarify for the jury that “disclaimers” in 
+the Terms of Service do not render misrepresentations immaterial. 
+The Government notes that Can Sun testified on section 16 of the Terms of Service), 
+which he characterized as being drafted “mostly for disclaimer purposes.  Id. 1984.  Although 
+section 16 does include risk disclosures, it also includes substantive terms relating to margin 
+maintenance requirements and the obligation to repay debt incurred to other customers through 
+margin trading.  GX 558 at 16-19.  These requirements cannot plausibly be characterized as 
+disclaimers, and an instruction that substantive provisions do not “render any misrepresentation 
+. . . immaterial” would serve only to confuse the jury.    
+The authority cited by the Government, United States v. Weaver, 860 F.3d 90, 96 (2d Cir. 
+2017), is also inapposite.  Weaver held that contractual “disclaimers of reliance” would not 
+render immaterial prior misrepresentations by the defendant.  The reasoning of that decision does 
+not support an instruction to jurors regarding substantive provisions in the Terms of Service.   
+4. The Government’s Proposed Instruction Regarding the Object Element of the 
+Commodities Fraud Conspiracy Charge 
+An essential element of commodities fraud is that the fraud was conducted “in connection 
+with” a commodities transaction.  17 C.F.R. § 180.1(a)l 7 U.S.C. § 9(1).  In the Government’s 
+proposed charge, the jury could find the requisite connection solely from evidence of a “some 
+nexus or relation between” the allegedly fraudulent conduct and a swap or contract of sale of a 
+commodity, or evidence that the fraudulent conduct “touched upon” a commodities transaction.  
+ECF NO. 214 at 46.  The law requires more.  The alleged fraud must be “integral to” a 
+commodities transaction, rather than merely “incidental.”  Sec. and Exch. Comm’n v. Zandford, 
+535 U.S. 813, 820, 122 S.Ct. 1899, 1903 (2002).  The Government’s proposed instruction – that 
+the requisite connection exists where this is “some nexus or relation” between the fraud and a 
+commodities transaction, or if the conduct merely “touched upon” such a transaction – is clearly 
+insufficient.   
+Indeed, the Supreme Court has specifically cautioned that the “in connection with” 
+requirement not be “stretched beyond reason” when applied to “the fraudulent use of money,” 
+United States v. O’Hagan, 521 U.S. 642, 657, 117 S.Ct. 2199, 2210 (1997), and that the 
+requirement would not be satisfied by evidence supporting the Government’s theory here, 
+namely, “theft of cash or securities in an investment account,” Zandford, 535 U.S. at 820, 122 
+S.Ct. at 1903, or the “embezzle[ment] [of] cash” from a customer.  O’Hagan, 421 U.S. at 656, 
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 4 of 6
+
+
+--- PAGE 5 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 24, 2023 
+Page 5 
+ 
+  
+117 S.Ct. at 2209.  See Omnibus Reply Brief in Support of Defendant’s Pretrial Motions, ECF 
+No. 158 at 28-32.   
+The defense also objects to the Government’s proposed charge because it makes no 
+mention of the Commodities Exchange Act’s (“CEA”) territoriality requirement.  As a general 
+matter, the CEA does not apply to a fraudulent or manipulative scheme that is “predominantly 
+foreign.”  Prime Int’l Trading v. BP P.L.C., 937 F.3d 94, 107 (2d Cir. 2019).  The statute reaches 
+extraterritorial conduct relating to swaps specifically, but only where the fraud has a “direct and 
+significant connection” with U.S. commerce.  7 U.S.C. § 2(i).   
+Because the Government’s proposed instruction regarding the object elements of the 
+Commodities Fraud charge misstates the “in connection with requirement” and is silent on the 
+territoriality requirement, the defense respectfully suggests that the Court should give Mr. 
+Bankman-Fried’s Amended Proposed Instruction on these issues.  ECF No. 327 at 30-34.   
+5. The Government’s Additional Arguments 
+a. Right to Control 
+The Government’s October 19 Letter objects to the defense’s proposed instruction that 
+property “does not include intangible interests such as the right to control the use of one’s assets 
+… or potentially valuable economic information.”  ECF No. 326 at 4.  The Government argues 
+that the instruction is unnecessary because of the Court’s ruling declining to dismiss the 
+substantive and conspiracy wire fraud charges.  The Court’s pretrial ruling was based on 
+allegations in the S5 Indictment that the objectives of the charged frauds were, among other 
+things, to take “money” deposited by customers and retain “hundreds of millions of dollars in 
+loans.”  ECF No. 167 at 26, 27.  Respectfully, the defense submits that the requested instruction 
+is still relevant and necessary to ensure the jury is able to properly assess whether the proof at 
+trial establishes that the alleged fraud on customers and lenders relates to a property interest that 
+is cognizable under the federal fraud statutes.   
+b. Involvement of Counsel 
+The Government’s October 19 Letter opposes a “generalized” involvement of counsel 
+instruction on unspecified grounds.  ECF No. 215 at 13.  Instead, the Government asks the Court 
+to give its own, equally generalized charge.  ECF No. 214 at 71.   
+The defense retains, for record purposes, its objection to instructing the jury regarding the 
+involvement of counsel on a standalone basis as rather than within the instructions regarding any 
+particular count, but will not address that issue here.  However, the Government’s proposed 
+instruction is deficient.  It states only that the involvement of lawyers “does not constitute a 
+defense to any charge in this case.”  Id.  But the involvement of counsel can be relevant to a 
+defendant’s intent even without a formal advice of counsel defense.  ECF No. 246 at 29-31.  The 
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 5 of 6
+
+
+--- PAGE 6 ---
+
+ 
+The Honorable Lewis A. Kaplan 
+October 24, 2023 
+Page 6 
+ 
+  
+Court has noted that “lawyer presence, involvement, or advice known to the defendant at the 
+time of his alleged misconduct might have a real bearing on whether he acted with or without 
+fraudulent intent.”  ECF No. 303 at 9.   
+The record includes testimony regarding involvement of lawyers in structuring loans 
+from Alameda to FTX executives, drafting the Terms of Service, and other issues.  See, e.g., 
+Trial Tr. 324:24-325:18, 577:10-15, 1460:1-6, (founder loans); 1908:16-21 (Terms of Service); 
+1975:3-8 (efforts to obtain licenses because “FTX was unregulated at the time”).  Consistent 
+with the Court’s order and prior briefing, we respectfully submit that the defense’s proposed 
+instruction regarding the involvement of counsel is appropriate.   
+c. Witness Bias 
+Finally, the Government proposes that, if Mr. Bankman-Fried testifies, the defense’s 
+proposed “witness bias” instruction be given “in a way that does not suggest that the defendant 
+has a motive to false testify based solely on hits interest in the outcome of the case.”  ECF No. 
+326 at 5.  The defense removed the standalone witness bias instruction from its Amended 
+Proposed Requests to Charge.  See ECF No. 327-1 at 50.  To the extent the Government’s 
+concern is implicated by other instructions regarding witnesses, the defense has no objection to 
+its request.   
+ 
+    /s/ Mark S. Cohen          . 
+Mark S. Cohen 
+Christian R. Everdell 
+S. Gale Dick 
+Sharon L. Barbour 
+COHEN & GRESSER LLP 
+800 Third Avenue, 21st Floor 
+New York, New York  10022 
+(212) 957-7600 
+mcohen@cohengresser.com 
+ceverdell@cohengresser.com 
+sgdick@cohengresser.com 
+sbarbour@cohengresser.com 
+cc: All counsel of record (via ECF)
+ 
+Case 1:22-cr-00673-LAK   Document 329   Filed 10/24/23   Page 6 of 6

@@ -1,0 +1,305 @@
+
+
+--- PAGE 1 ---
+
+[Type text] 
+ 
+e 
+ 
+ 
+										
+  October 19, 2023 
+ 
+ 
+By ECF 
+ 
+The Honorable Lewis A. Kaplan 
+United States District Court 
+Southern District of New York 
+500 Pearl Street 
+New York, New York 10007  
+ 
+  R e :  United States v. Samuel Bankman-Fried, S6 22 Cr. 673 (LAK) 
+ 
+Dear Judge Kaplan:  
+ 
+The Government respectfully submits this letter regarding potential jury instructions in this 
+case. First, the Government requests an instruction that a defendant’s intent to repay 
+misappropriated or fraudulently obt ained funds is not a defense. Second, to the extent that the 
+defendant seeks to introduce any evidence or argument regarding his moral or political beliefs, the 
+Government may request an instruction that it is not a defense if a defendant, acting with intent to 
+defraud, was motivated in his conduct by his be liefs. Third, the Government notes that its 
+previously filed request to charge contained a proposed instruction regarding disclaimers in 
+contracts, which is now even more appropriate following the testimony of Can Sun. (Dkt. 214, at 
+35). The Government respectfully su bmits that the evidence at trial supports the inclusion of this 
+instruction, which is in accordance with the law in this Circuit.  
+ 
+In addition to the above, the G overnment respectfully submits that certain instructions in 
+the defendant’s request to charge (Dkt. 215) are legally erroneous, likely to confuse the jury, or 
+both. The Government also notes that it may seek additional instructions to address any new issues 
+or arguments raised in the defense case. 
+ 
+A. The Government Requests an Instruction That Intent to Repay Is Not a Defense 
+ 
+Over the course of the trial, the defense has attempted to introduce evidence and argument 
+to suggest that the defendant’s misappropriation of FTX customer funds was not criminal because 
+he believed that he would ultimately be able to repay customers, either by growing FTX’s business, 
+by making successful investments, or by some  other means designed to cover customer 
+withdrawals. (E.g., Tr. 49:9-16 (defense opening arguing th at defendant believed that the money 
+would be paid back); Tr. 54:7-10 (arguing that defendant did not intend to do harm because he 
+wanted to “repay customers”)). As this Court noted previously, “it is immaterial as a matter of law 
+whether the defendant intended to repay the mi sappropriated funds because the offense is 
+‘complete’ where, as alleged here, there is an ‘immediate intent to misapply and defraud.’” United 
+ 
+ 
+The Silvio J. Mollo Building 
+              O n e  S a i n t  A n d r e w ’ s  P l a z a  
+              New York, New York 10007  
+U.S. Department of Justice 
+ 
+United States Attorney 
+Southern District o
+f New York 
+
+
+--- PAGE 2 ---
+
+  Pa ge 2 
+ 
+ 
+States v. Bankman-Fried , No. 22 Cr. 673 (LAK), 2023 WL 4194773, at *9 (S.D.N.Y. June 27, 
+2023). Accordingly, there is a factual predicate for a “no ultimate harm” instruction along the lines 
+that the Second Circuit ha s repeatedly affirmed. See United States v. Lange , 834 F.3d 58, 79 (2d 
+Cir. 2016) (“A ‘no ultimate harm’ instruction given by the district court is proper where (1) there 
+was sufficient factual predicate to necessitate the instruction, (2) the instruction required the jury 
+to find intent to defraud to convict, and (3) th ere was no evidence that the instruction caused 
+confusion.”). The Government’s prior request to charge includes a clear and detailed instruction 
+to the jury that it must find intent to defraud to convict. (Dkt. 214 at 12-14). Thus, the Government 
+requests the addition of a “no ultimate harm” instruction, as warranted by the arguments made in 
+the defense opening and the facts that the defens e has repeatedly sought to elicit through cross-
+examination of witnesses. 
+ 
+The Government requests that the Court provide the following instruction, which is adapted 
+from the instructions affirmed in Lange, as well as in United States v. Koh, 199 F.3d 632, 641 (2d 
+Cir. 1999), and United States v. Berkovich, 168 F.3d 64, 67 (2d Cir. 1999): 
+ 
+You are instructed that a belief by the defendant, if such belief existed, that 
+ultimately everything would work out so that no one would lose any money or 
+property does not warrant a finding by you th at the defendant acted in good faith. 
+No amount of honest belief on the part of  the defendant that the scheme would 
+ultimately make a profit for customers or  lenders would excuse fraudulent actions 
+or false representations by him to obtain money or property. 
+ 
+B. The Government Requests an Instruction That It Is Not a Defense if a Defendant Was 
+Motivated by his Moral or Political Beliefs to Break the Law 
+ 
+The defendant has in certain public statements emphasized his philosophy of so-called 
+“effective altruism” to argue that his business decisions were motivated by a desire to do good in 
+the world. Any such arguments are not a defense to fraud or other criminal charges, as courts have 
+repeatedly recognized. Similarly, any argument that the defendant lacked wrongful intent because 
+he subscribed to an idiosyncratic philosophy about  the morality of lying and stealing, and placed 
+a greater premium on his subjective conception of the long-term good, would be irrelevant to the 
+mens rea for wire fraud. See, e.g. , United States v. Edwards , 101 F.3d 17, 19 (2d Cir. 1996) 
+(affirming the following jury instruction given by district court: “There was talk here of motive by 
+the defendant. The motive that defendant had or claimed to ha ve had for committing a crime 
+charged is irrelevant to his gui lt or non-guilt. Whether this defe ndant committed acts in order to 
+further a political goal or for a si milar reason, for his personal gain  or for the gain of somebody 
+else, doesn’t excuse his acts if he committed them and violated the law.”); see also United States 
+v. Gatto, 986 F.3d 104, 133 (2d Cir. 2021) (Lynch, J., concurring in part) (“Such a ‘Robin Hood’ 
+defense – that the defendants were essentially robbing the rich to help the poor – is of course also 
+not a legal defense.”); United States v. Spano, 421 F.3d 599, 603 (7th Cir. 2005) (“A  participant 
+in a scheme to defraud is guilty ev en if he is an altruist and all the benefits of the fraud accrue to 
+other participants.”). To the extent that the defense case attempts to argue that the defendant was 
+motivated by his moral and political beliefs, or  that he did not believe he was engaged in 
+wrongdoing because he was using customer funds fo r altruistic purposes, or any other similar 
+
+
+--- PAGE 3 ---
+
+  Pa ge 3 
+ 
+ 
+suggestion, the Government will request that the Court provide the jury with the following 
+instruction: 
+ 
+Proof of bad motive is not required to  convict. And good motive alone is not a 
+defense. You have heard evidence that the defendant was motivated by his personal 
+philosophical or moral outlook. If you find that the defendant intended to defraud 
+others in order to achieve those aims, his asserted philosophical or other motive for 
+those actions does not excuse his acts and is not a defense to the crimes charged in 
+the Indictment. 
+ 
+C. The Government’s Requested Instruction Regarding Disclaimers Is Warranted by 
+the Facts 
+ 
+In its request to charge, th e Government proposed the fo llowing instruction concerning 
+disclaimers: 
+ 
+In considering whether a statement or omission was materi al, let me caution you 
+that a clause in an investment cont ract or a disclaimer cannot render any 
+misrepresentation, including any oral misrepresentation, immaterial as a matter of 
+law. 
+ 
+(Dkt. 214, at 35). 
+ 
+The Government notes that this instruction is  particularly warranted  i n  l i g h t  o f  c e r t a i n  
+arguments made by the defense and by the evidence introduced in the case to date. Specifically, in 
+its opening statement, th e defense highlighted certain langua ge from the FTX terms of service 
+relating to margin trading and marg in loans, in an apparent atte mpt to suggest th at these terms 
+authorized the defendant’s actions. (Tr. 44:8-11) . The defense then attempted to cross-examine 
+former FTX general counsel Can Sun on this same provision during trial today. While being cross-
+examined by the defense, Mr. Sun indicated that this provision was “drafted mostly for disclaimer 
+purposes” and that there were more detailed policies and representations regarding margin trading, 
+liquidation, and margin loans that were made by FTX and the defendant elsewhere. (Tr. 1984).  
+ 
+Accordingly, this instruction is fully warrant ed by the facts and to prevent any confusion 
+by the jury that it should evaluate the defendant’s conduct solely in terms of whether it constituted 
+a violation of the FTX terms of service. While the terms of service are certainly part of the overall 
+body of actions, representations, and omissions made by the defendant and his co-conspirators, the 
+jury will not be asked to evalua te whether there was a violation of the terms of service or to 
+interpret the effect of particular pr ovisions of the terms of service. See United States v. Weaver , 
+860 F.3d 90, 96 (2d Cir. 2017) (distinguishing criminal  cases under mail and wire fraud statutes 
+from civil fraud actions and noting that “fraudsters may not escape criminal liability for lies told 
+to induce gullible victims to make worthless i nvestments by inducing them to sign a contract 
+containing disclaimers of reliance”). In light of the fact that the discussion of disclaimers came up 
+in the context of FTX’s terms of service, th e Government would not object to a disclaimer 
+instruction narrowed to “a clause in the terms of service or a disclaimer.”  
+ 
+
+
+--- PAGE 4 ---
+
+  Pa ge 4 
+ 
+ 
+D. The Government Objects to the Following Legally Incorrect Statements of Law in the 
+Defendant’s Proposed Jury Instructions 
+ 
+In the defendant’s August 21, 2023, proposed jury instructions (see Dkt. 215), he proposed 
+several statements of law that are not legally co rrect or are otherwise u nnecessary, confusing, or 
+particularly in comparison with the instructions proposed by th e Government.  Accordingly, the 
+Government objects to the following parts of the defendant’s proposed instruction:  
+ 
+First, on pages 10 and 14 of th e defendant’s requests he proposes instructing the jury that 
+“[p]roperty does not include intangible interests such as the right to control the use of one’s assets, 
+nor does it include potentially va luable economic information that a person might consider 
+valuable in deciding how to use his or her assets.” (Dkt. 215 at 10, 14).  It is unnecessary to instruct 
+the jury that property does not include “intangible interests such as the right to control” because 
+as the Court previously held, th e fraud charges in this case ar e not based on a right-to-control 
+theory, see United States v. Bankman-Fried , No. 22 Cr. 673 (LAK), 2023 WL 4194773, at *9 
+(S.D.N.Y. June 27, 2023), and the Government does not  intend to argue that victim customers or 
+lenders were deprived of the right to control th e use of their assets.  Rather, the Government’s 
+allegation, as the trial has made clear, is that the defendant took victims’ money and property. The 
+Government’s proposed instructions would explicitly focus the jury on the “money or property” 
+object, and do not use a “right to control” theory, and therefore are appropriate based on the facts 
+of the case. Compare United States v. Barbera , No. 21 Cr. 154 (JGK), 2023 WL 6066249, at *1 
+(S.D.N.Y. Sept. 18, 2023) (rejecting the defendant’s challenge to wire fraud jury instructions based 
+on Ciminelli where the instruction “did not use a right to control theory” and “limited the object 
+of the fraud to the traditional property concept of money or property”), with  United States v. Hild, 
+No. 19 Cr. 602 (RA), 2023 WL 5928350, at *13 (S.D.N .Y. Sept. 12, 2023) (d escribing right to 
+control language in jury char ge but finding its in clusion harmless). In addition to being 
+unnecessary, such an in struction would undoubtedly confuse th e jury, which, not being charged 
+with knowing developments in the law of wire  fraud generally, would have no understanding of 
+the irrelevant concept of the right to control.  
+ 
+Second, the next sentence in the defendant’s proposed charge is factually and legally 
+baseless.  Specifically, the defendant proposes on pages 10 and 11 to instruct the jury that: “If you 
+find that FTX customers, after depositing funds with FTX, received a credit to transact on the FTX 
+exchange and therefore received the right to withdr aw an equivalent amount  of funds at a later 
+time upon request, that is insufficient to establish that they were deprived of property.” (Dkt. 215 
+at 10-11). As a threshold matter, that proposal is untethered to the facts of the case. There has been 
+no testimony or evidence during the trial that after depositing funds, customers “received a credit 
+to transact” or that their property right was limited to a “right to withdraw an equivalent amount.” 
+Where there is no basis in evidence for a theory, the defendant is “not as a matter of law entitled 
+to an instruction specifically apprising the jury of that theory.” United States v. Evangelista
+, 122 
+F.3d 112, 117-18 (2d Cir. 1997). Moreover, that instru ction is legally incorrect. The requirement 
+that a defendant devise a scheme  to obtain money or property is  satisfied “where a defendant 
+fraudulently obtains the use of another person’s money or property for a period of time, using it 
+for his own personal profit, and depriving the owner of the ability to do so,” regardless of “whether 
+temporarily … or permanently.” United States v. Males , 459 F.3d 154, 158-59 (2d Cir. 2006) 
+(emphasis in original). Thus, it is incorrect as a matter of law—and common sense—that as long 
+
+
+--- PAGE 5 ---
+
+  Pa ge 5 
+ 
+ 
+as a victim receives a credit and a right to withdraw, he or she has not been deprived of money or 
+property.  Indeed, a credit to obtain funds at a later date, if such  funds are ultimately available, is 
+clearly not the same, or as valuable, as the money or property itself, as is illustrated by the result 
+when FTX’s customers, not knowing that their m oney had been spent, so ught to withdraw their 
+deposits.
+1 
+ 
+Third, parts of the defendant’s proposed instructions on wire fraud misstate the applicable 
+mens rea  requirements. The applicable mens rea  for wire fraud is “specific intent to harm or 
+defraud the victims of the scheme.”  United States v. Rybicki , 354 F.3d 124, 150 (2d Cir. 2003). 
+The word “willfully” appears nowhere in the text of the wire fraud statute. See United States v. 
+Gole, 21 F. Supp. 2d 161, 167-68 (E.D.N.Y. 1997) (“‘Willfully’ appears nowhere in the mail fraud 
+statute, and the Second Circuit has expressly held that the only scienter requirement for a violation 
+of § 1341 is that the acts proscrib ed be carried out ‘knowingly.’”); United States v. Blagojevich , 
+794 F.3d 729, 739 (7th Cir. 2015) (“The wire-fraud statute requires a specific intent to defraud but 
+not willfulness or any other proxy for knowledge of the law.”); United States v. Dockray, 943 F.2d 
+152, 156 (1st Cir. 1991) (holding that “willfulness” is “not synonymous with the intent to defraud 
+requirement in the mail and wire fraud statutes”); United States v. DiRoberto, 686 F. App’x 458, 
+461 (9th Cir. 2017) (“The mail and wire fraud statutes do not require proof of willfulness.”).  As a 
+result, several aspects of the proposed defense instruction on page 11 and 12 of their requests are 
+wrong or may confuse the jury, including that the defendant is not guilty unless he “purposefully 
+violated an obligation that pr ohibited use” or acted “with know ledge that [his] conduct [was] 
+unlawful, and with intent to do  something the law forbids.” (D kt. 215 at 11-12). If the Court is 
+inclined to instruct the jury on willfulness, the Government requests the willfulness instruction set 
+forth on pages 14 and 15 of its requests to charge. (See Dkt. 214 at 14-15).  
+ 
+Fourth, the Government opposes the specific example of good faith cited in the defendant’s 
+requests at page 12, that if th e defendant “acted in good faith w ith respect to the use of FTX 
+customer funds and with the belief that as a bu siness matter, FTX would be able to cover all 
+customer withdrawal requests, he did not act with specific intent to defraud.” This would be likely 
+to confuse the jury about whether a belief that customers could be repaid  after their property is 
+wrongfully taken is a defense (it is not).      
+ 
+Fifth, as set forth in the Government’s prior briefing, the Government opposes a 
+generalized presence of counsel instruction such as the one offered by the defendant at page 13 of 
+his requests. The Government respectfully submits  that the Court should give the Government’s 
+requested charge on this issue. (See Dkt. 214 at 71).  
+ 
+Finally, the defendant proposed an instruction on bias of witnesses, including relating to 
+an interest in the outcome of the case. In the event the defendant testifies, the Government submits 
+that the instruction should be given in a way that does not suggest that the defendant has a motive 
+to falsely testify based solely on his interest in the outcome of the case. United States v. Solano , 
+ 
+1 A popular movie from the 1990s illustrates the point: a briefcase, once filled with money, 
+is not the same as a briefcase later filled with IOUs.  See DUMB & DUMBER (1994), available at 
+https://www.youtube.com/watch?v=7GSXbgfKFWg (rejecting sugge stion by actor Jim Carrey’s 
+character that “IOUs” are “as good as money”).   
+
+
+--- PAGE 6 ---
+
+  Pa ge 6 
+ 
+ 
+966 F.3d 184, 197 (2d Cir. 2020) (holding that it was error for the dist rict court to instruct that 
+“any” witness with an interest in the outco me of the case, which included the defendant, 
+necessarily has a “motive to testify falsely”). 
+  
+ 
+Respectfully submitted, 
+ 
+ 
+DAMIAN WILLIAMS 
+United States Attorney for the 
+Southern District of New York 
+ 
+ 
+ By:  /s Thane Rehn      
+  Danielle R. Sassoon 
+Nicolas Roos 
+Danielle Kudla 
+Samuel Raymond 
+Thane Rehn 
+Assistant United States Attorneys 
+(212) 637-2354 
+ 
+Cc: Counsel of Record (via ECF) 

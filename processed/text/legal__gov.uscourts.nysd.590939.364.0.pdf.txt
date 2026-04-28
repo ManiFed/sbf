@@ -1,0 +1,6104 @@
+
+
+--- PAGE 1 ---
+
+1170 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x  
+ 
+UNITED STATES OF AMERICA,                
+ 
+           v.                           22 CR 673 (LAK) 
+ 
+SAMUEL BANKMAN-FRIED, 
+                            
+               Defendant.               Trial 
+------------------------------x 
+ 
+                                        New York, N.Y. 
+                                        October 13, 2023 
+                                        9:26 a.m. 
+ 
+Before:  
+ 
+HON. LEWIS A. KAPLAN, 
+ 
+                                        District Judge         
+ 
+APPEARANCES 
+ 
+DAMIAN WILLIAMS 
+     United States Attorney for the 
+     Southern District of New York  
+BY:  DANIELLE R. SASSOON  
+     NICOLAS ROOS  
+     DANIELLE KUDLA  
+     SAMUEL RAYMOND 
+     THANE REHN 
+     Assistant United States Attorneys 
+ 
+COHEN & GRESSER, LLP 
+     Attorneys for Defendant  
+BY:  MARK S. COHEN 
+     CHRISTIAN R. EVERDELL 
+     SRI K. KUEHNLENZ 
+     DAVID F. LISNER 
+ 
+Also Present:  
+Luke Booth, FBI  
+Kristin Allain, FBI 
+Arjun Ahuja, USAO Paralegal Specialist 
+Grant Bianco, USAO Paralegal Specialist 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 1 of 105
+
+
+--- PAGE 2 ---
+
+1171 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                 
+(In the robing room) 
+THE COURT:  Okay.  I wanted to raise with you, 
+Mr. Cohen, whether the Marshals are in fact getting your client 
+over here early in the morning as I ordered them to do, and 
+whether you're availing yourself of that or not, or whether 
+it's too much or too little. 
+MR. COHEN:  We are, your Honor.  We saw him this 
+morning.  I think we've seen him every day that he was 
+available because he's not available after weekends because we 
+have the opportunity to see him in the MDC, which we've also 
+been doing. 
+Now I know this isn't fully within your Honor's 
+control, but we've had serious issues continuing with his 
+medication.  He has ADHD.  He has other conditions as well, 
+which I haven't burdened the Court with.  He really cannot 
+focus without his medication.  They give him one dose at 4 in 
+the morning when they wake him up to come to court.  It wears 
+off in about three hours.  So by the time we see him in the 
+cell block or we see him before your Honor, it's already worn 
+off.  They refuse to give him another dose at lunchtime.  So he 
+spends the entire court day without medication that is 
+specifically designed to help him focus.  And he gets his next 
+dose when he gets back, and last night he got back at 9:00 at 
+night.
+THE COURT:  He surely does not look unfocused to me in 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 2 of 105
+
+
+--- PAGE 3 ---
+
+1172 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                 
+the courtroom.  But obviously I'm not professionally qualified.
+MR. COHEN:  I'm not either, your Honor.  I can only go 
+by what my client tells me, and obviously not knowing before 
+this, so—— 
+THE COURT:  Have you been in touch with Mr. Bork at
+the Bureau of Prisons as I asked? 
+MR. COHEN:  Every day.
+THE COURT:  So what's the story about giving him the 
+dose?  I mean—— 
+MR. COHEN:  As I understand it, we even offered that 
+we would bring it and give it to him at lunchtime, if the 
+Marshals would permit us.  One of the——well, two things.  As I 
+understand it, the Bureau of Prisons is not willing to do it at 
+lunchtime because the dose is considered a narcotic substance 
+and they don't want one of the Marshals transporting it 
+or——that's what I understand.  But I'm not purporting to speak 
+for the Bureau of Prisons.  I know they have their rules, but 
+that's what we've heard from them.  So it puts us and our 
+client in just a very difficult position.  So your Honor is 
+asking, so that's why I'm—— 
+THE COURT:  I'm sorry.  I couldn't hear.
+MR. COHEN:  Your Honor is asking, so that's why I'm—— 
+THE COURT:  Well, yes, and I will either speak 
+directly to Bork or have someone do it and see whether that 
+condition can be changed, if indeed that's a condition. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 3 of 105
+
+
+--- PAGE 4 ---
+
+1173 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                 
+What does the government have? 
+MR. ROOS:  So, your Honor, we're aware of the issue. 
+One of our colleagues, Danielle Kudla, has been dealing with 
+the MDC directly.  Our understanding——my understanding in 
+speaking with her this morning——I'll also suggest I just go get 
+her in a moment——is that the MDC is going to put him on an 
+extended tablet or dose of ADHD, one of those sort of—— 
+THE COURT:  ADHD is the malady, not the drug.
+MR. ROOS:  Adderall.  Sorry.  One of those extended
+release, but if it's okay with your Honor, I'll go get her,
+since she's the one speaking with the MDC.
+THE COURT:  Sure. 
+MR. COHEN:  And I should say, your Honor, we are not 
+faulting the efforts of the prosecution team.  We know they've 
+been trying also.  It's just not happening. 
+THE COURT:  Look, I know that both sides have been 
+doing their level best about everything in this matter, and I 
+have no doubts about that. 
+(Pause) 
+THE COURT:  Good morning, Ms. Kudla.
+MS. KUDLA:  Good morning, your Honor.
+THE COURT:  What's going on with the Bureau of Prisons 
+in relation to the Adderall?
+MS. KUDLA:  Yeah.  So I spoke with——I've been in 
+communication with the BOP frequently to try and find a 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 4 of 105
+
+
+--- PAGE 5 ---
+
+1174 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                 
+solution that allows Mr. Bankman-Fried to get his Adderall 
+added dose during the day.  I spoke to Sophie Papapetru at the 
+BOP this morning at 8 a.m.  She said that the BOP has worked it 
+all the way up the chain.  They have approved an extended dose 
+release.  They've ensured—— 
+THE COURT:  Extended-release dose.
+MS. KUDLA:  Extended-release dose.  They've modified 
+the schedule of a BOP employee to ensure that they can 
+administer this dose at 6 a.m. before he arrives at court and 
+that the dose will be administered to him and the extended 
+release would go for approximately 12 hours, which would then 
+provide the Adderall up until about 6 p.m., and that they have 
+ordered this and they're hoping to have it for him for the 
+first dose available on Monday.  That is the easiest way for 
+the BOP to comply with how they administer controlled 
+substances, and their regulations on that, and allow 
+Mr. Bankman-Fried to ensure that he has his medication during 
+the trial.
+THE COURT:  Okay.  Please report to me on Monday 
+whether it's happened.
+MS. KUDLA:  I will.  I'm going to keep in touch with 
+her.
+(Continued) 
+(Pages 1175-1176 SEALED by order of the Court) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 5 of 105
+
+
+--- PAGE 6 ---
+
+1177 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                
+MS. KUDLA:  Your Honor, one point on the Adderall that 
+I think would be important for the record.  I asked BOP, they 
+confirmed that they spoke with Mr. Bankman-Fried about the 
+extended-release dose, and he's the one who consented to it. 
+They said that they go through the defendant, not the 
+attorneys, because it's related to medical procedures.  So I 
+wanted the Court just to be aware of that.
+THE COURT:  That last part is not part of the sealed 
+transcript.
+MR. COHEN:  And I don't know whether this has to be on 
+the record.  It's just a logistical question, your Honor. 
+Judge Garaufis has asked me to come to chambers by 1:30 today,
+so would it be possible for us to break at 12:30 or 12—— 
+THE COURT:  Yes, yes. 
+Okay.  Thank you. 
+(Continued on next page) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 6 of 105
+
+
+--- PAGE 7 ---
+
+1178 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+(In open court; jury present) 
+THE COURT:  The jurors and the defendant are present, 
+as they have been throughout. 
+Mr. Prince, you're still under oath. 
+Mr. Roos, you may proceed.
+MR. ROOS:  Thank you, your Honor. 
+ ZAC PRINCE, resumed. 
+DIRECT EXAMINATION CONTINUED 
+BY MR. ROOS:  
+Q. Mr. Prince, when we left off yesterday, you were describing 
+the lending aspects of BlockFi's business, and I wanted to ask 
+you, just picking up there, in the course of your work running 
+a lending——crypto lender, did you ever deal with cryptocurrency 
+exchanges?
+A. Yes, we did.
+Q. How would you deal with cryptocurrency exchanges?
+A. I would say in two primary ways.  So we had some 
+cryptocurrency exchanges that were borrowers that would, you 
+know, borrow assets from BlockFi, and we also used 
+cryptocurrency exchanges to place trades, effectively trades 
+that were on behalf of our clients because we had a trading 
+product that was available to our clients and then we needed to 
+reproduce those trades on an exchange on behalf of our clients. 
+So lending to exchanges and also trading on them.
+Q. Can you explain what that trading product was that BlockFi 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 7 of 105
+
+
+--- PAGE 8 ---
+
+1179 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+had. 
+A. Sure.  So essentially on our retail platform, users could 
+buy and sell cryptocurrencies.  BlockFi was not an exchange, 
+though, we——which basically meant that we weren't matching 
+buyers and sellers.  We were more like a——a broker or an 
+intermediary, so we would add a little bit of a spread to the 
+price of the cryptocurrency that someone was looking to buy or 
+sell.  After the user placed the trade in our app, that trade 
+was done, and then on the back end of that, we would place a 
+similar trade offsetting the user's trade on a cryptocurrency 
+exchange.
+Q. And so just to be clear, what's the difference between 
+BlockFi as a lender and a cryptocurrency exchange?
+A. Well, I think there's a few things.  So certainly the, you 
+know, the key function that crypto lenders played in the market 
+was very different than what exchanges played in the market.
+So crypto lenders were, you know, primarily providing a lending 
+function, providing debt capital to different market 
+participants, providing yield to, you know, other market 
+participants who wanted to earn yield, whereas an exchange, 
+their primary purpose is to match buyers and sellers and, you 
+know, find accurate clearing prices for the——for the different 
+currencies that were being traded.  There was also a very 
+important distinction in terms of how assets that were 
+deposited with either a cryptocurrency lending platform or an 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 8 of 105
+
+
+--- PAGE 9 ---
+
+1180 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+exchange were understood to be treated, based on—— 
+MR. COHEN:  Objection.  Move to strike. 
+THE COURT:  Why? 
+MR. COHEN:  Your Honor, this is the subject of our 
+letter to the Court yesterday.  Might we be heard at the 
+sidebar? 
+THE COURT:  Yes. 
+(Continued on next page) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 9 of 105
+
+
+--- PAGE 10 ---
+
+1181 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+(At the sidebar) 
+MR. COHEN:  Your Honor, I believe where this answer is 
+going and where the rest of this is going is an effort to get 
+an opinion from the witness, who's here as a fact witness, 
+about how he believes crypto exchanges should operate.  He just 
+said that BlockFi was not a crypto exchange.  I don't have a 
+problem with them asking about BlockFi's practices as to its 
+own business, which counsel did ask, but now we're getting into 
+an effort to, to use a legal word, shimmy, to expert—— 
+THE COURT:  I'm sorry? 
+MR. COHEN:  Shimmy. 
+THE COURT:  Shimmy? 
+MR. COHEN:  Yeah, shimmy over to expert testimony, 
+where he's not been offered as an expert, no pretrial 
+disclosures have been made.  This was the subject of our letter 
+yesterday.  I didn't think this would be dealt with until the 
+Court had ruled on it, but here we are.  So we would object to 
+Mr. Prince giving testimony about how he thinks a crypto 
+exchange should or should not have operated with regard to 
+customer assets, or otherwise. 
+MR. ROOS:  So if I understand the objection correctly, 
+it's a 701 objection, which is a lay opinion objection, and 
+there are several reasons—— 
+MR. COHEN:  Before you——it's also a relevance and 403 
+objection. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 10 of 105
+
+
+--- PAGE 11 ---
+
+1182 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+MR. ROOS:  Yeah.  So I'll take each of them in turn. 
+The witness, before giving this answer, testified that he runs 
+a cryptocurrency lender and that as a cryptocurrency lender, 
+they dealt with numerous—— 
+THE COURT:  Keep your voice down, please.
+MR. ROOS:  Sorry.  They dealt with numerous 
+cryptocurrency exchanges, including as a customer on those 
+exchanges, and as a——including as a lender on those exchanges. 
+He testified yesterday that they deposited similar assets on 
+the FTX, so he is the equivalent of a customer.  And the 
+question is, is he allowed, based on that foundation, to 
+testify about what his understanding was of how assets were 
+going to be treated.  And I think there's two for our purposes 
+here.  One is the obvious one, which is that in a trial about 
+fraud, defrauding customers, lenders, those witnesses should be 
+permitted to testify about what their understandings were.  It 
+goes to the issues of misappropriation, it goes to the issues 
+of misrepresentation.  Second, it's relevant, helpful for the 
+jury to understand what the difference is between a
+cryptocurrency lender, which is a business of lending out 
+assets, versus cryptocurrency exchange, which may not.  They of 
+course can cross-examine on those topics.
+Taking up the 701 objection, the rule for 701 is not 
+that any type of opinion is impermissible.  It's that it has to 
+be grounded in their perceptions.  This is something he 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 11 of 105
+
+
+--- PAGE 12 ---
+
+1183 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+certainly observed because he dealt with it directly.  It's not 
+the subject of scientific or technical testimony.  That's in 
+fact one of the arguments we made in excluding experts is that 
+you do not need expert testimony on these questions. 
+And I don't see the 403 reason here.  It's totally 
+permissible.  There's nothing prejudicial about that. 
+MR. COHEN:  Taking up the 403 point, having this 
+witness speculate about how he thinks an exchange he didn't run 
+in a field where he didn't run an exchange should or should not 
+have worked is substantially prejudicial, given the other 
+witnesses that the government has already called on this topic.
+THE COURT:  Why is it different from asking an 
+automobile mechanic, what's the difference between a car and a 
+truck? 
+MR. COHEN:  Because that's not really——your Honor, 
+with respect, that's not really what he's doing.  He's asking 
+an automobile mechanic, how should General Motors be run? 
+THE COURT:  But that wasn't the question.  The 
+question was:  What's the distinction between an exchange and a 
+lender? 
+MR. COHEN:  Right.  And he started to answer that and 
+I didn't say anything, and then he moved on to where they're 
+going, which is this back-door expert testimony about how 
+crypto exchanges should or should not be run. 
+THE COURT:  It seems to me that's the subject of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 12 of 105
+
+
+--- PAGE 13 ---
+
+1184 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+cross. 
+MR. COHEN:  Well, your Honor, we would object to it
+being introduced in the first place.
+THE COURT:  I understand.  But you are entitled on 
+cross to find out what the basis of his testimony was and to 
+challenge whether he's in a position to make a general 
+statement like that. 
+MR. COHEN:  Well, your Honor has our position, and I 
+don't want to belabor it.
+THE COURT:  Yes, I understand.  Okay.  Let's go. 
+(Continued on next page) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 13 of 105
+
+
+--- PAGE 14 ---
+
+1185 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+(In open court) 
+THE COURT:  The testimony stands, and Mr. Prince, if 
+you remember where you were, you can complete your answer.  And 
+if not, Mr. Roos will take care of it. 
+A. I remember where I was.  I was starting to talk about the 
+second important distinction between cryptocurrency lenders and 
+cryptocurrency exchanges, which was in how the market and 
+customers understood what would happen with assets that they 
+placed on those platforms.
+THE COURT:  Well, let's start with how you understood. 
+THE WITNESS:  Sure. 
+A. So on crypto lending platforms, generally there was a 
+interest rate that was being earned when you held assets there,
+and there was an understanding that the reason you were earning 
+that interest rate was because the lending platform was going 
+to take those funds and further lend them on.  And there were 
+generally words that describe this; in BlockFi's terms of 
+service there were words that very clearly described this; in 
+our marketing materials there were words that very clearly 
+described this.  We will lend, relend, pledge, rehypothecate, 
+which is a fancy legal word that means relend assets that 
+you're given.  Contrast that to cryptocurrency exchanges,
+where—— 
+THE COURT:  Let's focus on contrast it to 
+cryptocurrency exchanges with which you dealt. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 14 of 105
+
+
+--- PAGE 15 ---
+
+1186 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+THE WITNESS:  Sure. 
+A. Contrast that with cryptocurrency exchanges with which I 
+dealt personally or BlockFi dealt with.  The expectation—— 
+MR. COHEN:  With which he dealt personally, your 
+Honor. 
+MR. ROOS:  Well, he is the CEO of BlockFi, so I think 
+it's appropriate.
+MR. COHEN:  There's no foundation.
+THE COURT:  I think another question and you might be 
+there, Mr. Roos, okay? 
+BY MR. ROOS:  
+Q. So before you answer what your understanding of how 
+cryptocurrency exchanges with which you dealt treated assets, 
+let me just ask you:  As the CEO of BlockFi, were you involved 
+in decisions about lending and where to deposit assets?
+A. Yes, absolutely.
+Q. And did you oversee aspects of BlockFi depositing assets 
+with cryptocurrency exchanges?
+A. Yes, I was heavily involved in those decisions.
+Q. So then based on all of that work at BlockFi, what was your 
+understanding of how cryptocurrency exchanges dealt with 
+customer assets?  And I'm referring to the exchanges to which 
+you dealt with directly, not generally the overall market. 
+A. Sure.  To put it simply, the assets stayed within the 
+exchange environment.  They weren't re-lent on or taken off of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 15 of 105
+
+
+--- PAGE 16 ---
+
+1187 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+the exchange to be used by some——by some third party.  They 
+stayed within the——whatever the custodial setup was of the 
+exchange.
+Q. What do you mean——I just want to ask about a few terms. 
+You said the term "custodial setup."  What is that?
+A. It's, you know, whatever——whatever technical or, you know, 
+security infrastructure the exchange had to hold the assets 
+that the users had deposited and keep them safe.
+Q. And you used the word a few moments ago "rehypothecate,"
+which I think you said was a fancy legal term.  What does 
+rehypothecate mean?
+A. Rehypothecation effectively means you're taking collateral 
+from one party and then using that collateral to make a loan to 
+another party.  And I was using the term to describe, you know, 
+crypto lending platforms.  So crypto lending platforms, BlockFi 
+was very clearly doing rehypothecation and disclosing that we 
+were doing rehypothecation.
+Q. Now when it came to making loans, what was BlockFi's 
+process in deciding whether to lend to a particular borrower?
+A. Sure.  So we had a couple of, you know——going back to what 
+I was talking about yesterday, a couple different kind of loan 
+products.  We had our retail-facing loan products and our 
+institutional-facing loan products.  In both cases there were, 
+you know, steps that borrowers had to go through before they 
+could take a loan with us.  On the retail side, the steps were 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 16 of 105
+
+
+--- PAGE 17 ---
+
+1188 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+basically that they had to go through what was called our 
+KYC——which stands for "know your customer"——checks; they had to 
+sign the loan agreement; and they had to transfer the 
+collateral that they were posting for the loan on to the 
+BlockFi platform.  And on the retail side of our platform, all 
+borrowers accessed loans at effectively the exact same terms.
+On the institutional side of our platform, there was a bit more 
+customization available to the borrowers, and there was a——an 
+even more thorough underwriting and diligence process that went 
+into how we evaluated counterparties that we would essentially 
+work with as borrowers on the institutional side.  So there was 
+"know your customer"——KYC——checks, those are generally more 
+thorough for businesses, because you have to look at the 
+identities of anyone who's an owner of the company greater than 
+a certain percentage, but we also did diligence around what 
+type of business, you know, the potential institutional 
+borrower was, what the financial health of that business was, 
+and we would, you know, try to underwrite any and all financial 
+documents that we could get our hands on from the institutional 
+clients.  We also would at times, depending on the nature of 
+their business, do some security or technology underwriting of 
+their business.  And then our risk management team developed 
+very robust policies and procedures that, based on our 
+underwriting, would categorize institutional, potential 
+institutional clients into different risk tier buckets, and 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 17 of 105
+
+
+--- PAGE 18 ---
+
+1189 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+then those risk tier buckets kind of dictated under what terms 
+we would be able to lend to that institutional borrower if they 
+were approved onto the platform; so at what collateral levels, 
+at what interest rates, etc. 
+Q. Let me just ask you a few follow-ups. 
+You mentioned the word "diligence."  What did you mean 
+by that?
+A. "Due diligence" is a common term used to describe——I mean, 
+it's effectively kind of like research to——to make an informed 
+decision about, you know, whether you should do something, and 
+sometimes you might use the word "due diligence" to describe 
+the work you're doing to decide if an investment is one you 
+should make.  In our case, the due diligence we were doing was 
+to try and make an informed decision around whether we should 
+be lending to a certain counterparty or not and under what 
+terms we would be comfortable lending to them.
+Q. Now did BlockFi ever do due diligence and then decide not 
+to borrow or not to lend to a customer?
+A. Yes, absolutely.
+Q. When you were doing due diligence——and I think you 
+mentioned financial due diligence——of an institutional 
+customer, what kinds of financial research were you doing?
+A. So we, you know, we had——we would ask for effectively any 
+and all financial information that the potential borrower was 
+willing to share with us.  In some cases the information that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 18 of 105
+
+
+--- PAGE 19 ---
+
+1190 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+they were comfortable sharing would be relatively limited, so,
+for example, a net asset value statement that would just 
+describe for, you know, for a fund, for example, how many 
+assets were in the fund.  In other cases we received audited 
+financials, which could be income statements and balance 
+sheets, and then everything, you know, kind of in between, so 
+unaudited financials would be in between those two things, but 
+you know, financial——financial reporting, financial——financial 
+documents that showed the health of the business.
+Q. And just on those terms, when you said like a NAV
+statement, what were you referring to?
+A. NAV stands for net asset value.  And it's a common——it's a 
+common document that's produced by asset managers or funds, 
+where they're saying, you know, here's how many assets we have 
+in our fund vehicle.
+Q. And you also mentioned audited financials.  What were you 
+referring to there?
+A. So, you know, audited financials refers to financials that 
+are produced and verified by a third-party accounting firm.
+Q. In 2022, how many employees did BlockFi have doing this 
+type of research and due diligence?
+A. I mean, across our, you know, risk management, compliance,
+and security teams, depending on, you know, what point in time 
+in 2022, probably between a hundred and 200 people, and these 
+were, you know, generally folks that they came from
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 19 of 105
+
+
+--- PAGE 20 ---
+
+1191 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+sophisticated financial industry backgrounds, so, you know, 
+think folks who worked at large banks doing similar roles or 
+large asset management companies doing similar roles before 
+they joined BlockFi.
+Q. Did BlockFi ever approve loans without doing any due 
+diligence?
+A. No.
+Q. Now in terms of lending, what involvement did you have in 
+making lending decisions?
+A. So our lending decision-making process, especially for 
+institutional loans, became relatively, you know, robust and 
+sophisticated over time.  So there were, you know, risk 
+management policies and procedures that, you know, that were 
+governed at the board level.  We had a board——we had a board 
+audit and risk committee that I was, you know, that I was a 
+part of, as CEO.  Beneath that we had an executive investment 
+and lending committee that I was also a part of, and then we 
+had, you know, teams of people underneath the executive part of 
+the org who had certain levels of permissions to, you know, 
+make new loans that fit within the frameworks that had already 
+been approved.  But I was heavily involved across, you know, 
+kind of every layer of that matrix of decision-making for 
+lending.
+Q. And in terms of the types of loans that BlockFi made, did 
+BlockFi make different types of loans to institutional 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 20 of 105
+
+
+--- PAGE 21 ---
+
+1192 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+customers?
+A. Sure.  I mean, different types of loans, certainly versus 
+the retail side of the platform I mentioned yesterday, on the 
+institutional side of the platform we also would make loans 
+denominated in cryptocurrency, so you could have a loan that 
+was denominated in Bitcoin or denominated in Ethereum. 
+Additionally, we had a, you know, variety of structures in 
+which we would lend to institutional clients based on our view 
+of their counterparty risk or creditworthiness.  So to give a 
+simple example, let's take, you know, the best potential 
+financial firm that we could potentially face.  Maybe that's 
+BlackRock or something.  And we would potentially lend them a 
+certain amount of money without them needing to post collateral 
+back to us.  Contrast that with, you know, a counterparty where 
+we weren't——they weren't in as strong of a financial position.
+We might require them to post collateral.  And we would charge 
+different interest rates, we would have different, you know, 
+terms in the agreement around how fast margin calls needed to 
+be met or how fast loans could be called back.  So there were a 
+number of different variables that——that were managed on 
+individual loans and at the counterparty level.
+Q. So a few follow-ups.  What's collateral, as you're using 
+it?
+A. Collateral is——it's something that a borrower would post 
+as, you know, security for a loan.  So like a simple example of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 21 of 105
+
+
+--- PAGE 22 ---
+
+1193 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+collateral would be when you get a mortgage on a house, the 
+house is, you know, acting as collateral for the loan and 
+protection for the bank.  In a scenario where you don't pay the 
+loan, the bank can take the house. 
+So in cryptocurrency land, we were taking collateral 
+in the form of cryptocurrency.  So someone could, you know, 
+give us one Bitcoin worth, just to use small numbers, $10,000. 
+We make them a $5,000 loan.  If they don't pay off the $5,000 
+loan, we had the ability to sell their Bitcoin to make sure we 
+got paid back.
+Q. You also used the word, or the phrase "margin call."  What 
+were you referring to there?
+A. So let's stick with that same example.  You've got one 
+Bitcoin, Bitcoin is worth $10,000.  We made a $5,000 loan, with 
+that one Bitcoin as collateral.  There would be in the loan 
+agreement preset margin call levels.  So if that Bitcoin that 
+was worth $10,000 when we started the loan declined in value 
+and was worth, just for illustrative purposes, let's say 
+$7,000, that might be the trigger level at which in the loan 
+agreement we would issue a margin call.  And what the margin 
+call does is it says to the borrower, you need to either post 
+additional collateral, pay down some of your loan, or run the 
+risk of us needing to liquidate some of your collateral in 
+order to pay off the loan because that——that is us managing our 
+risk.  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 22 of 105
+
+
+--- PAGE 23 ---
+
+1194 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+And this term "margin call" folks might be familiar
+with from just like a traditional stock brokerage account.  You 
+know, if you——if you buy stocks and then you use margin from 
+the broker, they have a similar type of function, where if the 
+value of the stocks that you purchase goes down, you could get 
+a margin call and potentially have your securities liquidated 
+if you don't take action.
+Q. Now I think you mentioned terms.  Did BlockFi have——why 
+don't you describe what sort of terms existed for institutional 
+customer borrowers. 
+A. Sure.  I mean, just as a baseline, these were, you know, 
+very robust loan agreements.  I don't know off the top of my 
+head how many pages our loan agreements were in 2022, but it 
+was, you know, probably more than 30 or 40 pages.  I mean, 
+these were, you know, robust legal documents. 
+Q. Let me——I'm sorry.  I think my question wasn't clear.  In 
+terms of the length of the loan or—— 
+A. Oh, okay.
+Q. Did BlockFi have open-term or closed-term loans?
+A. Yeah, sorry about that.  Understood.  The majority of the 
+loans that we made on the institutional side of our platform 
+were what we referred to as open term, which meant that either 
+the lender——BlockFi——or the borrower could elect to end the 
+loan with relatively short notice——generally, you know, two to 
+five business days' notice.  We did also make some loans that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 23 of 105
+
+
+--- PAGE 24 ---
+
+1195 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+went out to——on the institutional side.  The longest I think we 
+ever did was a two-year term, which would mean, you know, the 
+borrower is able to keep the loan out for a full two years 
+before the lender would have the ability to ask for repayment.
+But the vast majority of the loans that we did were on an 
+open-term structure, which meant that either side could end the 
+loan with just a few days' notice.
+Q. Now did BlockFi have any offices in New York?
+A. We did.
+Q. Where?
+A. We——we had three different offices in New York.  The first 
+was at 86 Chambers Street in Tribeca; and then subsequently we 
+had two different offices in the Financial District at 115 
+Broadway and 150 Broadway.
+Q. Where did you work, principally?
+A. Principally out of those offices.
+Q. So switching topics, I want to talk about Alameda Research. 
+Did BlockFi lend money to Alameda Research?
+A. Yes, we did.
+Q. Do you know when BlockFi started lending to Alameda?
+A. I don't know the exact date, but it was either towards the 
+end of 2020 or first half of 2021.
+Q. And during that time period how much money was BlockFi 
+lending out across the company, not just to Alameda?
+A. High single-digit billions.  You know, if we're talking 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 24 of 105
+
+
+--- PAGE 25 ---
+
+1196 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+early 2021, I think the, you know——depending on the day, the 
+principal outstanding of the overall lending that BlockFi was 
+doing was probably between 5 and $10 billion.
+Q. So to give us a sense, that being the total lending, how 
+much of that was Alameda getting when it first started out with 
+BlockFi?
+A. When it first started, you know, like a lot of our 
+institutional borrowers, they were relatively small
+relative——they were small relative to that overall amount of 
+lending that we were doing.  So, you know, initially probably 
+10 to 15 million——10 to $50 million for the first, you know, 
+three or six months of the relationship.
+Q. Did there ever come a time when Alameda reached out to 
+BlockFi about increasing its lending?
+A. Yes.
+Q. Do you remember approximately when that was?
+A. Approximately, you know, Q2 or Q3 of 2021.
+Q. How did the request first come in?
+THE COURT:  Excuse me.  I think everybody knows, but 
+please, Mr. Prince, tell the jury what you mean by Q2 and Q3. 
+THE WITNESS:  Oh, sure.  Sorry.  The second quarter or 
+third quarter.  So second quarter would be like April, May, 
+June; third quarter would be July, August, September.
+Q. Thank you. 
+How did the request from Alameda for more borrowing
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 25 of 105
+
+
+--- PAGE 26 ---
+
+1197 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+first come in?
+A. Yes.  So, you know, initially the relationship was started,
+and the request for more borrowing was coming in through our 
+APAC team, which stands for the Asia-Pacific region.  So we had 
+a team in Singapore, and our MD there was the individual on our 
+team responsible for managing the Alameda relationship at the
+time.
+THE COURT:  And I'm reasonably confident MD doesn't
+stand for medical doctor.  Could you tell the jury what it 
+stands for.
+THE WITNESS:  Yeah.  MD stands for managing director. 
+So he was——you know, the managing director was basically like 
+the head of our Asia-Pacific office and the lead person 
+responsible for managing relationships with the institutional 
+clients that we had in that region. 
+BY MR. ROOS:  
+Q. So focusing on the period that you mentioned for us 
+earlier, the second or third quarter of 2021, was there ever a 
+time when you spoke to Sam Bankman-Fried?
+A. Yes.  So the, you know, the request had come in for them to 
+borrow more, and there was a suggestion made at some point 
+that, you know, it would be a good idea for the CEOs of each of 
+the respective companies, myself and Sam, to have a call 
+together, which we——which we set up.
+Q. What do you remember of the conversation?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 26 of 105
+
+
+--- PAGE 27 ---
+
+1198 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+A. My memory of the conversation is that it was, you know, 
+very similar to a lot of calls that I had done like this 
+before.  So, you know, Sam and I each did five- to ten-minute 
+introductions of our, you know, respective companies, there was 
+a, you know, discussion around Alameda's desire to borrow more, 
+and a discussion around, you know, whether there were any other 
+ideas of things that our——that our firms could potentially do 
+together.
+Q. After——sometime after that conversation did BlockFi ever 
+start lending more money to Alameda?
+A. We did.  So in the, you know, back half of 2021 and first 
+half of 2022, our lending to Alameda increased significantly.
+Q. Now did Alameda ever provide audited financials to BlockFi?
+A. No.
+Q. In terms of the financial information you got, what kind of 
+financial information did Alameda provide to BlockFi, if any?
+A. I think the——the primary thing that they provided that, you 
+know, our team reviewed regularly was unaudited balance sheet 
+statements, which we received on I think a regular quarterly 
+basis, roughly, you know, once a quarter.  They also provided 
+information at one point around cryptocurrency wallets.  There 
+was an exercise our risk management team did to verify, you 
+know, cryptocurrency wallet information that they had given us. 
+And then there were numerous conversations that were had 
+between our risk management team and representatives of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 27 of 105
+
+
+--- PAGE 28 ---
+
+1199 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+Alameda.
+Q. As part of these loans, to what extent did BlockFi get 
+collateral?
+A. I think for——for every loan, if not almost every loan that 
+BlockFi made to Alameda, that we had collateralization 
+requirements, so there would be some——some form of collateral 
+posted.  The most common and largest type of collateral that 
+they posted was FTT, but they also at times posted other 
+cryptocurrencies as collateral.
+Q. Can you describe how, if at all, the amount of lending 
+BlockFi was doing to Alameda changed from, say, May 2021 to May 
+2022.
+A. Yeah.  It increased substantially by a factor of, you know, 
+roughly 10X or a little more.  So in May of '21, we were 
+probably lending them, like I said earlier, around 50 million;
+maybe a little more or less than 50 million.  By May of 2022, 
+the lending had increased to, you know, a principal outstanding 
+balance of a little over a billion.  I think it was around 
+1.1 billion.
+Q. What, if anything, did Alameda do to make BlockFi feel 
+confident lending a billion dollars?
+A. Well, the, you know, the information that they provided to 
+our team, financial statements and other information that we 
+relied on in evaluating their risk as a counterparty; they also 
+posted significant amounts of collateral and, you know, 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 28 of 105
+
+
+--- PAGE 29 ---
+
+1200 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+throughout that time period, adhered to all the terms in the 
+lending agreements like, you know, like we would expect a good 
+borrower to do.  They made their interest payments on time; if 
+there were ever margin calls, they met them.
+Q. Now moving ahead to May 2022, were there any changes to the 
+strength of the cryptocurrency market during that period?
+A. Yeah.  In May and——May and June of 2022, the cryptocurrency 
+market was experiencing downward volatility.  The prices of 
+major cryptocurrencies were declining.  There were, you know, a 
+few notable failures or blowups of cryptocurrency firms. 
+Initially there was a——a firm called——or a cryptocurrency 
+called Luna.  The Terra Luna ecosystem blew up.  Subsequently a 
+hedge fund—— 
+THE COURT:  What do you mean by Terra Luna ecosystem, 
+please? 
+THE WITNESS:  Yeah.  So Luna was a——was a 
+cryptocurrency.  And think of like Bitcoin or Ethereum.  Call 
+it a competitor to Bitcoin or Ethereum.  Terra was a——it was 
+like a——what we call a stablecoin in cryptocurrency land.  It's 
+another cryptocurrency trying to mimic the value of a dollar. 
+And each of these had their own kind of blockchain protocols 
+and they were connected to each other.  One of the mechanisms 
+that was used to try and keep the coin that was supposed to 
+mimic a dollar at a value of a dollar was the other
+cryptocurrency Luna.  And this——that whole concept came 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 29 of 105
+
+
+--- PAGE 30 ---
+
+1201 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+crashing down.  The dollar coin became not worth a dollar, the 
+Luna coin, you know, declined in price dramatically as well. 
+BY MR. ROOS:  
+Q. And what effect, if any, did these changes to the
+cryptocurrency market in May 2022 have on BlockFi?
+A. So Three——Three Arrows Capital was a——a kind of trading 
+firm or hedge fund that was also a borrower at BlockFi.  They 
+defaulted on loans that they had with us in late May or early 
+June of 2022.  So we had a very large collateral liquidation 
+process with them and ultimately, at the end of that process, 
+were sitting on——were sitting on some losses. 
+I'm not sure if I'm supposed to go into June of 2022.
+Q. Let me stop you there.  I'll ask another question. 
+So after that, were there any additional changes in
+the cryptocurrency market that affected BlockFi's lending?
+A. Sure.  Well, the——the, you know, bigger than Three Arrows, 
+what had a big impact on us at that time is that two of the 
+other top cryptocurrency lending platforms, Voyager and 
+Celsius, paused their platforms, and ultimately both of them 
+filed for bankruptcy.  But they, you know, they paused the 
+ability of consumers to be able to withdraw money from——from 
+their platform.  So you can imagine what, you know, what effect 
+that had on——on BlockFi if you have a couple of crypto lending 
+platforms shutting——shutting their doors.  You know, we were 
+experiencing the highest level of withdrawals that we had——that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 30 of 105
+
+
+--- PAGE 31 ---
+
+1202 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+we had ever experienced in our——in our history as a company. 
+So consumer confidence in cryptocurrency lending platforms and, 
+you know, the broader cryptocurrency market was not in a great 
+spot at that time.
+Q. So in light of those withdrawals on BlockFi, how, if at 
+all, did that affect the lending BlockFi was doing?
+A. We——so, you know, if you think about our model, when folks 
+are holding funds on our platform to earn interest, we're then 
+lending that out to borrowers over here.  If the folks that 
+were holding the funds go to withdraw their assets, we have to 
+close out the loans with the——with the firms that were 
+borrowing.  And so, you know, in June of 2022, I believe we 
+called back, you know, essentially every single open-term loan 
+that we had on our——on our platforms.  This was, you know, 
+billions of dollars in withdrawals from consumers and then 
+loans that were called back so that we could meet those 
+withdrawals.
+Q. Did that include loans to Alameda?
+A. It did.
+Q. And when did you start calling back loans from Alameda?
+A. I don't know the exact date, but it would have been last 
+week of May or first two weeks of June of 2022.
+Q. And how was it that BlockFi was able to call these loans 
+back on such a short basis?
+A. Because the structure of the loans was that they were, you 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 31 of 105
+
+
+--- PAGE 32 ---
+
+1203 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+know, open-term loans, so we had the right as the lender to 
+terminate the loan with, you know, a few days' notice.
+Q. Did Alameda repay the loans?
+A. Yes, in full.
+Q. Now around this time did BlockFi enter into an agreement to 
+potentially sell itself to FTX?
+A. Yes.  In the——in the back half of June—— 
+MR. COHEN:  Objection.  Could we have clarity by which 
+FTX entity we're talking about. 
+THE COURT:  Sure. 
+MR. ROOS:  Sure.
+Q. Which FTX entity are we talking about?
+A. It was the FTX.US entity, which I'm not a hundred percent 
+certain about this, but I think it——I think the FTX.US entity 
+had a corporate name of like WRS.  I could have that wrong. 
+But it was——FTX.US was the, you know, counterparty that we did 
+that transaction with.
+Q. I think you were in the middle of giving an answer about 
+this agreement to sell.  So I'll pick back up there. 
+How did it come about that you were potentially going 
+to sell to one of the FTX entities?
+A. Sure.  So, you know, we——given the market volatility and 
+the action——the activity that we were seeing on our platform 
+and a, you know, hyperawareness that for a business like ours, 
+consumer sentiment and confidence was——was, you know, really 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 32 of 105
+
+
+--- PAGE 33 ---
+
+1204 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+important for the health of our platform, we decided that if we 
+could bring additional capital into the business to help with 
+that consumer confidence, that would be a valuable thing.  And 
+so we ran a, you know, a process talking to potential 
+investors, and ultimately a deal that was presented to us by 
+FTX was, you know, the deal that BlockFi determined was best to 
+proceed with.  And the deal that we did had two parts.  There 
+was a $400 million credit facility that was junior to BlockFi 
+client funds in the capital stack and then an option for—— 
+THE COURT:  Would you explain what you meant by that. 
+THE WITNESS:  Sure.  So junior in the capital stack
+would mean they get paid back after.  So in a scenario where 
+something, you know, bad happened to BlockFi and it had to file 
+for bankruptcy, if BlockFi owes $10 to people but there's only 
+$5 there, and the clients had $5 but then we had this $5 loan, 
+the $5 would go to the clients, not to the loan.  That's what 
+being junior means.  It's the order of repayment within a 
+capital structure.
+THE COURT:  So the $400 million credit facility, in
+simple terms, was a proposed loan from some FTX entity to 
+BlockFi, which would be subordinate to BlockFi customer funds, 
+yes? 
+THE WITNESS:  Yes.
+THE COURT:  Okay. 
+MR. ROOS:  Thank you.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 33 of 105
+
+
+--- PAGE 34 ---
+
+1205 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+BY MR. ROOS:  
+Q. And then what was the other aspect?
+A. The other aspect of the transaction was a option to acquire 
+BlockFi for a price of between 15 to $240 million, based on 
+certain performance targets, and the way that part of the 
+agreement was structured was FTX had the ability to fully 
+acquire BlockFi starting, you know——the first time they could 
+fully acquire BlockFi was one year after we entered into the 
+transaction.  So the transaction was finalized in early July 
+and FTX had the option to acquire BlockFi for the first time in 
+July of 2023.  And the orientation that, you know, BlockFi had,
+based on our understanding of the deal, is that, you know, that 
+was going to be exercised at the, you know, at the first 
+window.
+Q. So just to be clear about a few things, was the option ever 
+exercised?
+A. No.
+Q. So did FTX end up ever acquiring BlockFi?
+A. No.
+Q. Okay.  Now during the period we're talking about, the 
+summer of 2022, you had, however, reached this agreement with 
+FTX, right?
+A. Yes.
+Q. Okay.  So did that agreement with FTX influence the lending 
+decisions BlockFi was making with respect to Alameda?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 34 of 105
+
+
+--- PAGE 35 ---
+
+1206 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+A. I wouldn't say that there was a——I wouldn't say that there 
+was like a quantitative, you know, direct association between 
+the two things, but it was another qualitative data point that, 
+you know, our team had around the, you know, capital and 
+actions of the FTX enterprise as a——as a market participant. 
+So—— 
+Q. Let me just ask you a follow-up question about that. 
+To be clear, were you extending loans to Alameda you 
+otherwise wouldn't have because of the sale, because of the 
+deal with FTX?
+A. No.
+MR. COHEN:  Objection.  Leading. 
+THE COURT:  Sustained. 
+Q. What, if at all, did the potential deal with FTX do with 
+respect to your decision to extend loans to Alameda you might 
+not otherwise?
+MR. COHEN:  Same objection. 
+THE COURT:  Overruled. 
+A. There weren't——there wasn't anything that we, you know, 
+changed fundamentally in terms of our risk management policies 
+and procedures or the way that we were classifying Alameda as a 
+borrower and the types of loans that we would make to them post 
+that transaction versus before. 
+Q. Okay.  Did there come a time in 2022 when BlockFi began 
+making new loans to Alameda?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 35 of 105
+
+
+--- PAGE 36 ---
+
+1207 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+A. Yes.  So, you know, after this transaction completed and 
+our platform kind of stabilized and the withdrawals, you know, 
+returned to kind of normal levels, we did start lending, we did 
+start making new loans to Alameda.
+Q. And what new loans——in what months were new loans made in 
+2022?
+A. I believe it started maybe at the end of August——or 
+sorry——maybe at the end of July but more likely probably in the 
+August or September time frame is when we started making the 
+new loans to Alameda.
+Q. And to what extent did loans continue into 2022?
+A. They continued, you know, up through early November of 
+2022.
+Q. How much in new loans did BlockFi lend Alameda during this 
+period of approximately July to November 2022?
+A. Roughly 800——between roughly 800 or 850 million worth of 
+new loans.
+Q. With the changes to the cryptocurrency market, did BlockFi 
+get any new financial information from Alameda?
+A. Yes, we received, you know, updated quarterly balance 
+sheets.
+Q. And from your review of those updated quarterly balance 
+sheets, how did Alameda's financial position appear?
+A. It appeared strong.  I mean, in the balance sheets that we 
+had, they, you know, they had assets that were greater than 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 36 of 105
+
+
+--- PAGE 37 ---
+
+1208 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+liabilities of many billions of——of dollars.
+Q. Let's take a look at a balance sheet. 
+MR. ROOS:  Can we please——well, this is in evidence so 
+we show everyone, Government Exhibit 419. 
+Q. And do you recognize this, Mr. Prince? 
+A. Yes, this is the Q2 balance sheet that Alameda provided to 
+BlockFi.
+Q. And when you say Q2, what period does that refer to?
+A. Yes.  So Q2 refers to April, May, June, and generally we 
+would receive quarterly statements from counterparties, you 
+know, a few weeks after the end of the quarter, so we would get 
+the Q2 balance sheet from a counterparty, you know, sometime in 
+early July, for example.
+Q. Okay.  So generally speaking——let's start with the asset 
+portion of this balance sheet.  Generally speaking, what does 
+BlockFi look for when it examines a potential borrower's 
+assets?
+A. Looking at the size and composition of the——of the asset 
+base.
+Q. So when you say composition, what are you referring to?
+A. What are the——what are the actual, you know, assets, is it 
+cash, is it cryptocurrency, is it other things.
+Q. Are you familiar with the term "liquid asset"?
+A. Yes.
+Q. And are you familiar with the term "illiquid asset"?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 37 of 105
+
+
+--- PAGE 38 ---
+
+1209 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+A. Yes.
+Q. What's the difference?
+A. A liquid asset is one that you can, you know——there's an 
+active market for that you can sell, and an illiquid asset 
+would be something that there's not an active market for and 
+it's——and it's harder to sell.
+Q. And how, if at all, does the makeup of liquid and illiquid 
+assets matter to BlockFi?
+A. I would say it's definitely something that——that our team 
+would take into account in its evaluation of——of the assets 
+that a counterparty had.
+Q. Why is that?
+A. To——to help understand, you know, to——to have as fulsome of 
+an understanding as——as we could have about how liquid a 
+portfolio was and therefore a counterparty's ability to either 
+post collateral or pay down a loan.  These types of things were 
+informed by how many assets they had and what those assets
+were.
+Q. Now let's look at the bottom of the balance sheet.  Where 
+it says Liabilities, what did you understand that to refer to?
+A. So liabilities are——are generally things that companies, 
+you know, are going to need to pay for, so loans are 
+liabilities, tax bills are liabilities, so liabilities are 
+generally things that a business, you know, needs to——needs to 
+pay.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 38 of 105
+
+
+--- PAGE 39 ---
+
+1210 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+Q. And then do you see the bolded words Retained Earnings?
+A. Yes.
+Q. What did you understand that to relate to?
+A. This is, you know, kind of like a——kind of like a net asset 
+value, but it's, you know, assets minus liabilities, what's 
+the, you know, what's the equity of the entity after accounting 
+for all the liabilities that it has against the assets.
+MR. ROOS:  If we can zoom out. 
+Q. And upon receiving this, what was your view as to whether 
+Alameda remained a good candidate for lending?
+A. That they were still a good candidate for lending and were 
+well capitalized.
+Q. Why is that?
+A. If you look at the retained earnings line, they have 6
+point——can't tell if it's a 6 or an 8, but north of 6 billion, 
+north of 6 billion in, you know, retained earnings or north of 
+6 billion of assets even after accounting for all of their 
+liabilities.
+MR. ROOS:  And let's zoom in on the Assets portion.
+Q. What about the Assets portion made you think that Alameda 
+remained a good candidate for lending?
+A. I mean, largely that the quantum of assets, you know, over 
+14——over 14 billion of——of assets with, you know, a significant 
+portion of that, I mean, over 130 million of just cash and cash 
+equivalents.  I mean, this was a——based on this balance sheet, 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 39 of 105
+
+
+--- PAGE 40 ---
+
+1211 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+my view was that this was a well-capitalized entity.
+Q. Let's look at the Liabilities section. 
+Do you see where it says Loans?
+A. Yes.
+Q. What did you understand those loans to be?
+A. We——I understood those loans to be loans from BlockFi and 
+other crypto lending firms.
+Q. And what was that understanding based on?
+A. Based on conversations that——that BlockFi had had with 
+representatives of Alameda, that, you know, for——for a period 
+of time we were told that we were, you know, their——their 
+smallest lender and that our—— 
+MR. COHEN:  Objection.
+THE WITNESS:  Oh, sorry.
+THE COURT:  Yeah, let's hold it right there and ask
+another question, Mr. Roos. 
+MR. ROOS:  Okay. 
+BY MR. ROOS:  
+Q. You said things you were told.  Did you ever speak to the 
+defendant about this?
+A. Other than that——other than that conversation that, you 
+know, Sam and I were both on in mid-2021, I don't know that Sam 
+and I ever had direct conversations about that Loans line item 
+or what comprised the rest of it.
+Q. Okay.  And what about individuals at Alameda?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 40 of 105
+
+
+--- PAGE 41 ---
+
+1212 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN1                Prince - Direct 
+A. Absolutely.  So I spoke to Caroline Ellison about it; there 
+was a gentleman at Alameda named Richard Chang, who, you know, 
+had very frequent conversations with members of the BlockFi 
+team. 
+MR. ROOS:  Now we can take this whole balance sheet
+down. 
+And can we publish Government Exhibit 418, which is in 
+evidence, and zoom in on the top. 
+Q. Do you recognize this as another balance sheet from 
+Alameda?
+A. Yes, I do.  It's the Q3 2022 Alameda balance sheet that we 
+received. 
+(Continued on next page)  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 41 of 105
+
+
+--- PAGE 42 ---
+
+1213 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+Q. So what period is Q3?
+A. July, August, September.
+Q. So typically when you get a balance sheet for a quarter, 
+when in the quarter do you get that balance sheet? 
+A. Usually, shortly after the quarter ends.
+Q. So it reflects the three months that are in that quarter?
+A. That's right.  It's like the end -- at the end of the third 
+quarter this was -- this was the balance sheet.  This was the 
+financial condition -- 
+THE COURT:  Just to be clear, a balance sheet gives
+the financial condition of the entity as of a specific date in 
+time, in this case June 30, 2022, as opposed to a 
+profit-and-loss statement which gives profit and loss for a 
+longer period.  Isn't that correct? 
+THE WITNESS:  Yes.
+THE COURT:  Thank you.
+Q. And so for the 2022 Q3 balance sheet what approximate date 
+is that for?
+A. It's the third quarter.  So July -- end of September.  I 
+would think it would be as of 9/30 or whatever the last day of 
+September is.
+Q. Let's look at the liability section.  Do you see where it 
+says loans?
+A. Yes.
+Q. What were you told by people at Alameda regarding what 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 42 of 105
+
+
+--- PAGE 43 ---
+
+1214 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+these loans were?
+A. Same as for Q2, that they were loans from other crypto 
+lenders.
+MR. ROOS:  We can take this down. 
+Q. In addition to looking at the balance sheets for Q2 and Q3, 
+did BlockFi undertake any additional analysis of Alameda's 
+financials?
+A. As I said earlier, there were -- I know there were 
+exercises where the BlockFi team received information about 
+specific cryptocurrency wallets from Alameda.  There were 
+conversations we had with them where information was shared 
+more about the composition of some of the specific line items. 
+I think those are the -- 
+Q. Earlier in your testimony you talked about BlockFi's risk 
+team and due diligence team.  To what extent did they evaluate 
+these numbers on the balance sheet?
+A. They evaluated them fulsome.  This was probably the primary 
+thing we were relying on -- our team was relying on and 
+evaluating to understand the financial health of Alameda as a 
+counterparty.
+Q. Let me ask you about a term.  What is stress testing?
+A. Stress testing is taking some piece of data and then 
+saying, you know, if a certain scenario were to happen what 
+impact on this data would that scenario have.  So in a 
+financial context our team would run stress tests on all kinds 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 43 of 105
+
+
+--- PAGE 44 ---
+
+1215 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+of things.  We would stress test what would happen to our loan 
+portfolio if Bitcoin declined by a certain amount at a certain 
+period of time.  There was a time where we did stress tests 
+specifically on Alameda's balance sheet for certain scenarios.
+MR. ROOS:  Can we please now show the witness what has 
+been marked for identification as Government Exhibit 417.
+Q. Mr. Prince, what type of document are we looking at?
+A. This is a credit memo.  So credit memos were frequently 
+produced by our risk management team.  They were basically 
+analyses of certain scenarios, sometimes with recommendations, 
+but the scenario could be, there is a new potential borrower,
+we have just completed our underwriting, here is what that 
+looks like, or the scenario could be, the quarterly review of a 
+certain borrower or it could be a market-related review that 
+they conducted, and then these credit memos would be sent 
+around so that they were socialized and understood by key 
+decision makers and executives within the company, myself 
+included.
+Q. Let's go to the last page of this.  Just yes or no, does 
+this depict a stress-testing scenario like the one you 
+testified about?
+A. Yes.
+Q. Were credit memos and stress testing something you just did 
+for Alameda Research or was it a regular part of BlockFi's 
+business operations?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 44 of 105
+
+
+--- PAGE 45 ---
+
+1216 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+A. Regular part of our business operations.
+Q. Were credit memos like this made and maintained as part of 
+those business operations?
+A. Yes.
+MR. ROOS:  The government offers 417.
+MR. COHEN:  No objection.
+THE COURT:  Received. 
+(Government Exhibit 417 received in evidence) 
+MR. ROOS:  We can publish this to the jury.  
+Why don't we go back to the first page.  
+Q. Just at a high level, now that the jury can see it, what 
+kind of document is this?
+A. Credit memo.
+Q. This is the credit memo you were just testifying about?
+A. Yes.
+MR. ROOS:  Why don't we look at the last page of this 
+document.
+Q. Mr. Prince, can you describe what we are looking at here.
+A. Sure.  This is in the -- in the second column, underneath 
+the green where it says consolidated in green, these are the 
+exact same numbers as the Q3 balance sheet from Alameda.  So 
+it's the Q3 balance sheet from Alameda.  Then in the subsequent 
+columns, the subsequent three columns, our risk team was 
+applying a stress scenario.  On the far right column there are 
+some notes about what they were stressing and what their 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 45 of 105
+
+
+--- PAGE 46 ---
+
+1217 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+understanding was of the composition of certain line items on 
+the balance sheet.  
+What they were stressing here was FTT, which was that 
+primary collateral type that we received from Alameda, Serum, 
+and Solana.  They were stressing those coins going down in 
+price.   
+So the first column in blue is a 35 percent down 
+stress test, the next column in yellow is a 50 percent down 
+stress test, and then the final column is stressed a hundred 
+percent, which is saying, if FTT just went to zero, what then 
+happens to the balance sheet of Alameda. 
+Q. Just to orient us, the different colors refer to different 
+scenarios of stressing cryptocurrencies, is that right?
+A. That's right.  Then you can see, when that color appears 
+further down in the column, it's because the numbers changed 
+based on the stress scenario from the original balance sheet, 
+which is in the first column.
+Q. When you say stress, I'll just use an example from what you 
+said.  When you say stressing FTT, what does that mean?
+A. Running a scenario where the price of FTT declined by a 
+certain amount.
+THE COURT:  Let's see if we can get this in plainer
+terms for the sake of understanding. 
+The collateral you had for these loans that you had
+made to Alameda was cryptocurrency that Alameda basically 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 46 of 105
+
+
+--- PAGE 47 ---
+
+1218 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+pledged, not in a technical sense, but basically pledged to 
+secure the repayment of the money you lent them, right? 
+THE WITNESS:  Yes.
+THE COURT:  And what you were looking at is what 
+happens to the collateral that secures repayment of our loan if 
+the quoted market value of the cryptocurrency that Alameda held 
+drops, right? 
+THE WITNESS:  If I may, your Honor, you said we were 
+looking at what happens to the collateral.  What we were 
+looking at was what happens to the overall Alameda balance 
+sheet if the collateral has specific price declines.
+THE COURT:  Fair point.
+It's as if you had a car loan and the bank had 
+extended a car loan and, all of a sudden -- of course the car 
+is security for repayment of the loan.  They can come and 
+repossess it, right? 
+THE WITNESS:  Yes.
+THE COURT:  And, all of a sudden, the bottom falls out 
+of the market for used cars for some reason.  You are looking 
+at that kind of situation.  It's a what-if analysis.  Yes? 
+THE WITNESS:  Yes.
+THE COURT:  Thank you. 
+MR. ROOS:  Thank you, your Honor. 
+Q. Looking at the conclusions from these various scenarios, 
+let's look at the worst-case scenario, the stress on 100 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 47 of 105
+
+
+--- PAGE 48 ---
+
+1219 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+percent.  What color is that in?
+A. That's in red.
+Q. And what was BlockFi's conclusion about Alameda's balance 
+sheet in that worst-case scenario?
+A. Our conclusion was basically that they would still have -- 
+even in a scenario where FTT went to zero and Serum went to 
+zero, they would still have positive equity to the tune of 638 
+million and change.  They would still be solvent.  They would 
+still have much more assets than liability, 600 million, 638 
+million more assets than liability.
+Q. We may need to zoom out for this, but under that scenario 
+what assets would Alameda still have?
+A. Well, if you look at the top of that row, the line items 
+that still have numbers next to them, just calling out one of 
+the biggest ones, crypto held, which is the second line 
+underneath current assets, crypto held, which was represented 
+to us to be 50 percent stablecoins, 50 percent BTC and ETH. 
+They would still have 4.1 billion of assets there.  And then 
+all the other assets that have corresponding numbers next to 
+them in that column are the assets that they would still have.
+Q. So in calculating then in this stress 100 percent scenario, 
+the retained earnings, what was your understanding the loan 
+number was?
+A. That number there is taking 8.316 billion of total assets 
+minus 7.677 of total liabilities.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 48 of 105
+
+
+--- PAGE 49 ---
+
+1220 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+Q. Now, if the loan number was higher, how would have affected 
+that scenario?
+A. It depends on how much higher.  If it were -- it depends on 
+how much higher.
+Q. Let's say if it was $5 billion higher.
+A. If it were $5 billion higher, then this would show negative 
+equity in quite a few scenarios, which would be very different 
+than positive equity, and it would certainly have an impact on 
+our lending decisions.
+Q. So if Alameda had additional liabilities that were not on 
+its balance sheet, would that have affected BlockFi's lending 
+decisions?
+A. If they were of a material size, absolutely.
+Q. What do you mean by that?
+A. I mean just, if they were -- call it like material 
+percentage, let's say like greater than 5 percent of the 
+overall size of the balance sheet here, then surely it would 
+have -- it would absolutely have an impact.
+Q. If the loan number was double where it was, so say 14 
+billion -- 
+MR. COHEN:  Objection.
+THE COURT:  I have not heard the question yet.
+MR. COHEN:  Sorry, your Honor. 
+Q. How, if at all, would a loan number that was double have 
+affected your lending decision?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 49 of 105
+
+
+--- PAGE 50 ---
+
+1221 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+MR. COHEN:  Objection.
+THE COURT:  Overruled.
+A. We probably wouldn't have lent to them at all because I 
+think even without doing a stress test, if they had twice as 
+many loans as what's represented here, they might be insolvent.
+Q. Now, when BlockFi made loans to Alameda in July through 
+November, was it aware of any borrowing Alameda was doing from 
+FTX?
+A. No.
+Q. Had you known that Alameda was borrowing from FTX, would 
+that have affected your lending decision? 
+MR. COHEN:  Objection.
+THE COURT:  What's the objection? 
+MR. COHEN:  Calls for speculation.
+THE COURT:  Rephrase the question. 
+Q. You just testified that you were unaware of any borrowing 
+from FTX.
+THE COURT:  By Alameda.  Is that the question? 
+Q. By Alameda.  Is that right? 
+A. Correct.
+Q. Had borrowing by Alameda from FTX been listed on the 
+balance sheet, how would that have affected you? 
+THE COURT:  If at all.
+Q. If at all. 
+A. Again, it depends on the quantum, but I think that -- I 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 50 of 105
+
+
+--- PAGE 51 ---
+
+1222 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+think there would have been a lot of questions about why that 
+was happening and under what structure it was happening.  And 
+depending on the answers to those questions, it could have 
+potentially made us completely unwilling to lend to Alameda. 
+Q. At the time BlockFi made these loans from July through 
+November of 2022, was it aware of any loans that Alameda had 
+made to Sam Bankman-Fried or other FTX or Alameda executives?
+MR. COHEN:  Same objection.
+Q. It's a yes-or-no question. 
+THE COURT:  Overruled. 
+A. No.
+Q. How, if at all, would have loans to FTX or Alameda 
+executives affected your lending decision?
+A. Similar answer.  It would depend on the quantum of the 
+loans and it would depend on Alameda's responses to the 
+questions that our team surely would have had.  But BlockFi's 
+business went through a lot of things where we were under a 
+microscope, whether it was a regulatory microscope or 
+otherwise, so we were very familiar with rules and extra 
+attention that existed around any type of dealings between a 
+company and the company's insiders and how that's not a 
+generally accepted activity.  I think that scenario that you 
+proposed would have given us a lot of pause at a much smaller 
+dollar number because it's just a really hard thing to explain 
+a good reason for that to happen.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 51 of 105
+
+
+--- PAGE 52 ---
+
+1223 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+Q. How, if at all, would have Alameda's assets being less 
+liquid affected BlockFi's lending position? 
+A. Hard to say.  It depends on the specific asset and the 
+quantum, but it was something that we took into account in 
+making the decisions of whether or not to lend and then under 
+what terms.  We wanted to see -- we could be comfortable 
+lending to someone that had a lot of illiquid assets if we were 
+comfortable that the size of lending we were doing to them was 
+at a level where they would be able to continue posting more 
+collateral and we were confident in that asset long term.  
+The converse could also be true if it was a very, very 
+illiquid asset that we weren't confident we could sell under 
+any scenario.  It really just depends on the details. 
+Q. At any time did BlockFi know that Alameda -- withdrawn. 
+Did you ever know that Alameda was using, if at all, 
+customer money? 
+A. No, absolutely not.
+Q. How, if at all, would that information have affected your 
+lending decision?
+A. I think we wouldn't have worked with them because that's 
+not something that's appropriate.
+Q. Changing topics, was BlockFi a customer of FTX?
+A. Yes.  BlockFi used the FTX platform to store some of the 
+assets that were posted to us as collateral by Alameda.
+Specifically, a portion of the FTT that we received as 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 52 of 105
+
+
+--- PAGE 53 ---
+
+1224 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+collateral for loans that we were making to Alameda we held on 
+FTX.  We also placed funds on FTX that we used for trading for 
+that client trading scenario that I talked about earlier.  FTX 
+was an exchange where we -- FTX was an exchange where we traded 
+cryptocurrencies.
+Q. Just to break down your answer, can you explain to us how 
+it was that you had Alameda's collateral on FTX?  What does 
+that mean? 
+A. So using small numbers here, BlockFi is making a loan to 
+Alameda.  We are lending them one dollar.  They are giving us 
+$2 worth of FTT.  There were periods of time, including in the 
+second half of 2022, where our storage method for some of those 
+to FTT that Alameda had given us as collateral was to hold it 
+in the BlockFi account on the FTX exchange. 
+Q. I just want to be clear about how collateral works in these 
+contexts. 
+A. Alameda would send the collateral to us.  The way that 
+works is, BlockFi provides a cryptocurrency wallet address to 
+the Alameda team.  The Alameda team would then send the tokens 
+to that address.  Once they were there, the BlockFi team would 
+move a portion of them to the FTX exchange where BlockFi had an 
+account and there were different wallet addresses associated 
+with that account.  So you have two transactions that show up 
+on the Blockchain, one with the coins coming from Alameda to 
+BlockFi and then another with a portion of the coins going from 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 53 of 105
+
+
+--- PAGE 54 ---
+
+1225 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+BlockFi to FTX.
+Q. So BlockFi would actually get the collateral?
+A. Yes.
+Q. The second part of your answer related to putting customer 
+funds on FTX.  What were you referring to?
+A. We would place cash or stablecoins in various 
+cryptocurrencies on FTX so that we had currency there to be 
+able to place the trades that we needed to make effectively on 
+behalf of our customers for our trading product.
+Q. How much money did BlockFi have on FTX on behalf of its 
+customers in the period of June through November 2022, 
+approximately?
+A. Approximately $350 million worth of assets in our FTX 
+account.
+Q. When BlockFi deposited money on FTX on behalf of its 
+customers, what were its expectations about how those funds 
+would be used by FTX, if at all?
+A. That they would only be used for the purposes of affecting 
+trades that BlockFi made on the FTX exchange, not that they 
+would ever be rehypothecated or anything like that.  They would 
+just stay at the exchange and be available for us to trade.
+Q. Jumping ahead to 2022, at that time approximately how much 
+in loans did BlockFi have out to Alameda?
+A. I'm sorry.  What period of time, did you say? 
+Q. Focusing on November 2022. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 54 of 105
+
+
+--- PAGE 55 ---
+
+1226 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+A. November 2022, at the very beginning of November of 2022, 
+our loans to Alameda were between 800 and 850 million in total 
+value.  At the time of FTX's bankruptcy filing, in 
+mid-November, about 150 million had been paid back, so it was 
+around 650 million.
+Q. We will get to that.  
+I want to ask you, though, starting sort of the 
+beginning of November of 2022, what sort of collateral did 
+BlockFi have for its outstanding loans? 
+A. Primarily FTT, but we also had some Solana.
+Q. Now, did there come a time in November 2022, and this can 
+be yes or no, when the value of FTT began to drop?
+A. Yes.
+Q. When that started happening what, if anything, did BlockFi 
+do?
+A. Same thing we always do.  So we, in accordance with the 
+loan agreement, based on certain price levels, issued margin 
+calls, and initially it was a couple of margin calls that were 
+met.  Subsequently, we also sought to recall the loans in the 
+open-term loans. 
+Q. Just to be clear, did Alameda repay some of its loans?
+A. Some, yes.
+Q. Approximately how much?
+A. Roughly 150 million was repaid.
+Q. Did Alameda repay all of its loans in November 2022?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 55 of 105
+
+
+--- PAGE 56 ---
+
+1227 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+A. No.  There were still approximately $650 million worth of 
+loans that were outstanding.
+Q. Did Alameda ever post or offer to post additional
+collateral?
+A. Yes. 
+Q. And what did Alameda offer to post?
+A. I believe it was more FTT.  I believe they in fact, in 
+November, did once, or maybe twice, through the process of 
+receiving margin calls, post additional FTT.  In the second 
+week of November, they also posted Robinhood, shares of 
+Robinhood stock and shares of Grayscale trust shares.  
+It's kind of like a cryptocurrency vehicle that you 
+can trade in a brokerage account, in a traditional brokerage 
+account. 
+Q. You mentioned that Alameda and FTX declared bankruptcy at 
+some point.  At that time how much did BlockFi have on the FTX 
+exchange on behalf of its customers?
+A. I mean the total amount that we have is roughly 350 
+million.  It's hard to say exactly.  I don't know off the top 
+of my head exactly what amount of that was customer funds 
+versus collateral that they had posted.
+Q. I just want to be clear about this.  What was the total 
+amount of money that BlockFi had either loaned to Alameda or 
+had on the FTX exchange that was not returned?
+A. A little over a billion dollars worth.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 56 of 105
+
+
+--- PAGE 57 ---
+
+1228 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Direct 
+Q. What was the breakdown of, on the FTX exchange versus had 
+been lent to Alameda?
+A. About 650 million lent to Alameda, about 350 million on the 
+FTX exchange. 
+Q. Yesterday, right before we broke, you testified that after 
+FTX and Alameda declared bankruptcy, BlockFi declared 
+bankruptcy.  Can you explain why BlockFi had to declare 
+bankruptcy?
+A. Sure.  I mean, once it became clear that repayment of the 
+Alameda loans and being able to access the funds that we had on 
+FTX was impaired, once it became clear that that was not going 
+to be possible, our view of the financial health of BlockFi's 
+business was such that we needed to declare bankruptcy.
+MR. ROOS:  No further questions.
+THE COURT:  All right.  We will take 15 minutes.  
+For your information, ladies and gentlemen, we are 
+going to break at 12:30 today.  
+(Recess) 
+THE COURT:  OK, folks.  Let's go.  Get the witness,
+please. 
+Defendant and the jurors are all present, as has been 
+true throughout. 
+Cross-examination, Mr. Cohen.
+MR. COHEN:  Thank you, your Honor. 
+CROSS-EXAMINATION 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 57 of 105
+
+
+--- PAGE 58 ---
+
+1229 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+BY MR. COHEN:  
+Q. Good morning, Mr. Prince. 
+A. Good morning.
+Q. Please answer this question yes or no, if you can.  Do you 
+recall earlier today, in responses to questions from counsel, 
+you gave some testimony about your views of how crypto 
+exchanges operate?
+A. Yes.
+Q. Now, is it fair to say, sir, that you have never been the 
+CEO of a crypto exchange?
+A. Correct, I have never been the CEO of a crypto exchange.
+Q. You have never run a crypto exchange?
+A. No.  We had a trading product at BlockFi, but we were not 
+an exchange.
+Q. During your time running BlockFi, about how many crypto 
+exchanges were there in the marketplace?
+A. I don't know an exact number, but probably between 50 and a 
+hundred that mattered.  But total number of crypto exchanges, 
+it could have been much higher than that.
+Q. So 50 to a hundred that mattered, correct?
+A. Directionally speaking.
+Q. In giving the testimony you did about crypto exchanges, I 
+take it you didn't review the inner workings of those 50 to a 
+hundred crypto exchanges?
+A. Certainly not of every single one of them.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 58 of 105
+
+
+--- PAGE 59 ---
+
+1230 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+Q. You didn't review their customer agreements?
+A. Just to be clear, for exchanges that we worked with, 
+reviews were done.
+Q. Did you review the customer agreements for FTX?
+A. Our team certainly did.  I learned about them through our 
+team.
+Q. Let's break this down.  By customer agreements you mean the 
+terms of service?
+A. Yes.  And any other agreements that were entered into 
+between BlockFi and exchanges.
+Q. Fair enough.  So any agreement that governed the commercial 
+relationship between BlockFi and FTX, correct? 
+MR. ROOS:  Objection to the characterization of the
+relationship.
+THE COURT:  Sustained.
+Q. And you said that your team reviewed the FTX terms of 
+service, is that correct?
+A. Yes.  I mean, lawyers or compliance people on our team,
+either internal counsel or external counsel, would have 
+reviewed terms of service, full review of terms of service for 
+any platform that we worked with.
+Q. What were the names of the lawyers who did this review?
+THE COURT:  If lawyers did the review and if you know. 
+A. I couldn't say exactly which lawyer for which exchange 
+specifically, but our general counsel is Jonathan Mayers.  He 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 59 of 105
+
+
+--- PAGE 60 ---
+
+1231 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+had three deputy general counsels, and then they had teams 
+beneath them. 
+Q. Without running down the whole teams, what were the names.
+Of the deputies? 
+A. Alice Lu, Ross Kirschner, and Usec Rho.
+Q. Were they based in New York with you, Mr. Prince?
+A. Yes.
+Q. Now, yesterday you testified about a product that BlockFi 
+had called an interest-only account.  Do you recall that, sir?
+A. Yes.  The BlockFi interest account, which we frequently 
+referred to as a BIA.
+Q. Briefly, can you just explain how that account worked 
+again. 
+A. Sure.  So the BlockFi interest account had published rates 
+on our website, which were interest rates or yields that folks 
+who held funds in the BlockFi interest account could earn.  The 
+interest that they earned was paid out to their account on a 
+monthly basis.  And the way that BlockFi generated the interest 
+that we were paying to folks who held funds in those accounts 
+was by lending the assets that were placed into the BlockFi 
+interest accounts.
+Q. When customers wanted to join that or have an account like 
+that, they would enter into a customer agreement with BlockFi?
+A. Yes.
+Q. And that agreement would define the terms of the 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 60 of 105
+
+
+--- PAGE 61 ---
+
+1232 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+relationship?
+A. That's correct.
+Q. Now, I believe you testified, sir, that BlockFi began to 
+make loans to Alameda in around the middle of 2021, is that 
+correct?
+A. I believe what I said was that I think the first loans that 
+BlockFi made to Alameda occurred sometime towards the tail end 
+of 2020 or the first half of 2021, sometime in that window.
+Q. And you described the process that your team went through. 
+I think you called it a due diligence process, is that correct? 
+A. Yeah.  We would refer to it as our underwriting process or 
+counterparty onboarding process, and that process included us 
+doing due diligence on the counterparty.
+Q. That would involve reviewing factors that BlockFi thought 
+were important to the decision making, correct?
+A. Yes.
+MR. COHEN:  Can we call up Defendant's 816 for 
+identification for the witness only. 
+Q. I think you also testified earlier today that BlockFi had a 
+practice of creating credit memos.  You recall that, sir?
+A. Yes.
+Q. Could you take a moment and look through Defendant's 
+Exhibit 816, please.  Just tell me when you are done. 
+A. I'm done.
+Q. This is a credit memo dated August 13, 2021, correct?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 61 of 105
+
+
+--- PAGE 62 ---
+
+1233 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+A. Correct.
+Q. It relates to Alameda Research as a counterparty?
+A. Correct.
+Q. And this was the sort of memo that the members of your 
+credit team would prepare for you and the other members of the 
+executive committee to consider in coming to your loan-making 
+decisions, correct?
+A. Correct.
+Q. And this was prepared by your credit team, correct?
+A. Yes.  The credit team was a group that was within the risk 
+management team.  If I say risk management team, I'm also 
+talking about the credit team, which was a subgroup -- 
+Q. Got it.  And it was prepared at or near the time of the 
+conversation with your credit team, correct?
+THE COURT:  I'm sorry.  At or near the time of what
+conversation? 
+MR. COHEN:  Let me withdraw.  I'll get to the 
+conversation. 
+Q. This credit memo was prepared in the course of BlockFi's 
+regularly conducted business activity, correct?
+A. Yes.
+Q. And it was BlockFi's regular practice to make such memos, 
+correct?
+A. Yes.
+MR. COHEN:  We offer DX-816, your Honor.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 62 of 105
+
+
+--- PAGE 63 ---
+
+1234 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+MR. ROOS:  No objection, provided the info about 
+Alameda and provided by Alameda is not for its truth.
+THE COURT:  Do you have a problem with that?
+MR. COHEN:  That's fine, your Honor.
+THE COURT:  It is received save that the information 
+attributed to Alameda is not something you can consider for the 
+truth of what's said. 
+(Defendant's Exhibit 816 received in evidence) 
+MR. COHEN:  Can we publish it to the jury, your Honor? 
+THE COURT:  Yes. 
+Q. Mr. Prince, this memo was prepared at a time when you and 
+your team were considering whether to increase the amount of 
+loans to Alameda, correct?
+A. Yes.  I mean, underneath the request, the first bullet is 
+that the sales team, that refers to our institutional sales 
+team, they are requesting capacity to borrow more in general, 
+potentially up to 1 billion gross over collateralized by 
+FTT/SOL/SRM.
+Q. You had not made a decision yet, and you and your team were 
+considering these factors, correct?
+A. We had already -- at this point in time, if you look at the 
+next bullet, we had already started lending to Alameda, but, 
+yes, there was -- we were having discussions and going through 
+a decision-making process for whether or not to increase that 
+lending and, if we were to increase it, at what terms.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 63 of 105
+
+
+--- PAGE 64 ---
+
+1235 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+Q. If you can take a look, sir, at the next page.  
+MR. COHEN:  And call out, Brian, the stress scenarios 
+methodology box. 
+Q. What does that refer to, Mr. Prince?  What does stress 
+scenarios methodology refer to? 
+A. It's our risk team describing the way they think about 
+certain stress scenarios for whatever they are writing the 
+credit memo about.  So depending on what the credit memo is 
+about, they would -- they could have different stress 
+scenarios, if certain things were -- if certain things were to 
+occur that would make the loan riskier, what would those be,
+and then they would try to analyze scenarios.
+Q. Just going through different scenarios, correct?
+A. Sure.  Based on what they thought would create potential 
+risk for the loans.
+Q. You can go down to the fourth bullet point that's tiled FTT 
+liquidity.  You see that, sir?
+A. I see it.
+Q. Is it fair to say that in 2021, August 2021, one of the 
+forms of collateral that Alameda would be posting for the loan 
+was FTT?
+A. Yes.
+Q. And to remind everyone, what was FTT?
+A. FTT was the FTX exchange token.  So my understanding and 
+our team's understanding of the FTT token was that it was -- I 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 64 of 105
+
+
+--- PAGE 65 ---
+
+1236 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+think somewhere else on this doc that we have up here it talks 
+it being an equity-like instrument.  And the reason that the 
+team would have said that is that the way the FTT token -- the 
+way we understood the FTT token to work was that a portion of 
+the profits made, that the FTX exchange made, would be used to 
+buy FTT tokens on the open market, and that model of exchanged
+profits buying the token was something that was not unfamiliar 
+in the cryptocurrency market more broadly at the time because 
+of a different exchange.  Binance had a token, BNB, which was 
+designed directionally the same way, and BNB had been one of 
+the best performing -- if we go back to this point in time, 
+2021, BNB I think had performed better than even Bitcoin over 
+the last one-year period.
+Q. So it was a fairly common structure in the market to have 
+these tokens.  
+A. I don't know that I would necessarily describe it as fairly 
+common because out of a hundred exchanges, I don't think more 
+than necessarily half would have this setup.  But it wasn't -- 
+we weren't unfamiliar with the concept because there was 
+already an example of another token that had this type of model 
+and done well.
+Q. Got it.  The other example being BNB, the Binance token?
+A. Yes.
+Q. Is it fair to say that at this time, in August of 2021, you 
+considered FTT to be one of the top 10 percent of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 65 of 105
+
+
+--- PAGE 66 ---
+
+1237 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+cryptocurrency that could be offered on a platform or lent 
+against? 
+A. Just so I understand, when you say considered to be top 10 
+percent, what are you -- top 10 percent, like by market cap? 
+Q. Top 10 percent in value. 
+A. Top 10 percent in market value? 
+Q. Security. 
+THE COURT:  Which is the question you were trying to 
+have him answer?
+MR. COHEN:  Let me try again, your Honor.  Thank you.
+Q. From the point of view of a lender evaluating collateral, 
+is it fair to say that, in 2021, August, you viewed FTT as one 
+of the top 10 percent of cryptocurrencies as a form of 
+collateral? 
+A. I wouldn't say with certainty that I viewed it as within 
+the top 10 percent, but it was reputable.
+MR. COHEN:  Could we pull up, please, 3571-001 and go 
+to page 5.
+MR. ROOS:  Objection.  Foundation.
+MR. COHEN:  Don't put it up yet.  I'm sorry.
+THE COURT:  What was the number you said, counsel?
+MR. COHEN:  Your Honor, it's -- 
+THE COURT:  Tell me the number again.
+MR. COHEN:  It's 3571-001 at page 5.
+THE COURT:  Do you have a question to ask? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 66 of 105
+
+
+--- PAGE 67 ---
+
+1238 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+MR. COHEN:  I do, your Honor. 
+Q. Mr. Prince, do you recall being interviewed by prosecutors 
+in this case?
+A. Yes.
+Q. Do you recall being interviewed in July of 2023, this past 
+July?
+A. Yes.
+Q. Do you recall being asked your view of FTT as a form of 
+collateral?
+A. Yes.  I know that was something that was discussed.
+Q. And saying you considered it in the top 10 percent?
+A. The way I remember referring to top 10 and FTT in that 
+conversation and others that I've had is that I think there was 
+a point in time where FTT was a top 10 cryptocurrency by market 
+cap.  And maybe I would have said top 10 percent, but I wasn't 
+trying to be -- I am not trying to be -- I am not trying to say 
+it's not a legitimate currency, but my memory was that I said 
+at some point FTT was even in the top 10 cryptocurrencies by 
+market cap.
+Q. Fair enough. 
+THE COURT:  Would you tell the jury what market cap
+is? 
+THE WITNESS:  Sure.  So market cap is like total 
+value.  It's a term that comes from the stock market.  
+If Amazon is a company that's worth $800 billion, that 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 67 of 105
+
+
+--- PAGE 68 ---
+
+1239 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+means their enterprise value, their market cap is 800 billion.  
+In the cryptocurrency market there was a ranking of the 
+different cryptocurrencies by market cap, and the way you 
+calculated market cap was by taking the price of the coin that 
+it was trading at times the total number of coins in existence, 
+and then you have the market cap.  And there were numerous 
+websites where you could go and see a ranking of the different 
+cryptocurrencies by market cap.  Generally, Bitcoin is number 
+one, it's got the largest market cap, and then the subsequent 
+positions move around a bit. 
+Q. And FTT, in your view, had a high market cap?
+A. High -- it was one of the top cryptocurrencies for sure.
+Q. Now, let's go back to DX-816.  Continuing on the next page, 
+the next page, the same -- go back, Brian.  I'm sorry.  The 
+stress scenarios methodology.  
+If you look at the last bullet point, it says 
+wrong-way risk.  You see that, Mr. Prince? 
+A. Yes.
+Q. Can you explain to the jury what wrong-way risk meant in 
+connection with the lending?
+A. Sure.  So wrong-way risk -- I'll try and use an example 
+from the real world to make it simple.  Wrong-way risk is a 
+term that is used in risk management parlance to describe 
+getting a type of collateral from a borrower whose performance 
+has an impact on the type of collateral.  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 68 of 105
+
+
+--- PAGE 69 ---
+
+1240 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+And the easiest example to think of for this is like 
+making a loan to Apple, the company Apple, and taking their 
+stock as collateral.  That transaction would present wrong-way 
+risk because you're lending to Apple and you are taking their 
+stock as collateral.  A type of collateral that Apple could 
+post that would not present wrong-way risk would be if they 
+posted U.S. Government bonds.  If Apple gave you treasuries as 
+collateral for a loan, that would not present wrong-way risk 
+because how Apple does isn't going to have an impact on how 
+U.S. treasuries do in a super correlated nature.   
+What the risk team is highlighting here is that they 
+believed that there was wrong-way risk present here.  It says 
+Alameda enters into a default and all lenders start liquidating 
+FTT collateral.  We think it's possible that FTT could drop 60 
+to 75 percent in a day. 
+Q. Sort of in laymen's terms, the wrong-way risk was that FTT 
+was correlated with FTX.  If something happened to FTX, it 
+could affect FTT.
+A. Correct. 
+Q. That was something you and your team were considering in 
+August of 2021. 
+A. Yes.
+MR. COHEN:  Can we go back to the first page. 
+Q. Under request, if you could give us a translation of how 
+much more the sales team -- how much more is being considered 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 69 of 105
+
+
+--- PAGE 70 ---
+
+1241 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+for borrowing by Alameda. 
+A. Sure.  It's saying that the sales team is requesting, which 
+would have been -- which would mean that they were getting that 
+request from the client.  Internally the sales team is bringing 
+a request that's coming from the client to borrow potentially 
+up to 1 billion gross, which means like total gross lending of 
+1 billion.  The current exposure, which is the second bullet, 
+is 114 million gross.  
+At the time that this credit memo was produced, we had 
+lent $114 million gross to Alameda and the composition of that 
+is the third bullet.  We had lent them $50 million worth of 
+USDC, $43 million worth of Ethereum, and $20 million worth of 
+Bitcoin.  And against that, next bullet, they had posted 179 
+million of collateral, 135 million of that collateral was FTT, 
+35 million of the collateral was SOL, 5 million of USD, and 2.7 
+million of USDT. 
+Q. Got it.  Thank you, sir. 
+What that meant is, they were looking to borrow up to 
+a billion dollars, correct?
+A. Yes.  They wanted to increase the borrow.
+Q. They had already borrowed 114 million. 
+A. Correct.
+Q. And against that 114 million Alameda had put up collateral 
+of 179 million, correct?
+A. Correct.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 70 of 105
+
+
+--- PAGE 71 ---
+
+1242 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+Q. Did you ever hear the term overcollateralized?
+A. Yes.
+Q. What does that mean?
+A. It means that the amount of collateral that's posted is 
+larger than the loan amount.
+Q. And here your credit team and you were considering that 
+this $114 million loan was overcollateralized.
+A. Yes.
+Q. And $135 million of that was being collateralized by the 
+FTT.
+A. That's correct. 
+MR. COHEN:  Now, if we could continue on in this 
+document and proceed to the third page in.
+Q. Now, if you see at the bottom there is something called 
+consolidated balance sheet, 2021.
+MR. COHEN:  Can we pull up the whole document.  It 
+continues onto the next page, Brian. 
+Q. Now, Mr. Prince, you mentioned earlier that one of the 
+items that you and your team would consider would be balance 
+sheets, correct? 
+A. Yes.
+Q. And sometimes companies had audited financial statements, 
+correct?
+A. Yes.  We frequently received audited financials from -- I 
+mentioned earlier we worked with traditional trading firms and 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 71 of 105
+
+
+--- PAGE 72 ---
+
+1243 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+then crypto-specific trading firms.  The traditional firms 
+often had audited balance sheets.  Crypto firms, it was much 
+less common to have audited balance sheets because of issues 
+with getting audits as a cryptocurrency firm. 
+Q. Just to be clear, some of the balance sheets you received 
+from crypto firms were what is called unaudited balance sheets.  
+A. I would say the majority of balance sheets that we received 
+from cryptocurrency firms were unaudited.
+Q. It was up to you and your team to decide whether or not you 
+wanted to consider that information, correct?
+A. We always considered the information, and we always relied 
+on the information that we were given by counterparties as 
+being truthful and accurate.
+Q. Let me ask a better question.  If you decided we only want 
+to consider making loans to companies who have audited 
+financial statements, you could have done that, correct?
+MR. ROOS:  Objection.
+THE COURT:  Overruled.  It's obvious.  Answer, please. 
+A. Yeah.  If within the risk policies and procedures of 
+BlockFi, if a decision was made that we would only lend to 
+companies -- it is possible that a decision could have been 
+made that we would only lend to companies with audited 
+financials, sure.
+Q. Now, continuing on with this balance sheet that we are 
+looking at, this is about one page long, one and a half pages?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 72 of 105
+
+
+--- PAGE 73 ---
+
+1244 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+A. Yes.
+Q. And what was on the table was whether or not to increase 
+the borrowing amount from 114 million to as high as a billion 
+dollars, correct?
+A. That was one of the bullets on the first page.
+Q. And if you see here, sir, at the bottom of the second page 
+there is an entry called retained earnings.  
+Do you see that, at the very bottom? 
+A. Yes.
+Q. And in your world is retained earnings synonymous with net 
+asset value? 
+A. For me personally, as a nonaccountant and I guess a 
+bigger-picture thinker in most scenarios, I think of them as 
+roughly the same, but I'm also aware that they are not 
+precisely the same if I were an accountant.
+Q. I'm not holding you to a technical definition.  I want to 
+get your understanding. 
+Going back to the first page, Mr. Prince, there is a 
+heading called assets.  
+Do you see that, sir? 
+A. Yes.
+Q. And underneath the heading current asset it lists cash and 
+cash equivalents.  I think that is easy enough to understand. 
+Then it lists crypto held, about $3.2 billion of crypto held.  
+What was your understanding of that? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 73 of 105
+
+
+--- PAGE 74 ---
+
+1245 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NADMBAN2                 Prince - Cross 
+A. I'm not sure, off the top of my head, what my understanding 
+was of it at the point in time that we received this balance 
+sheet, but there is a four there, so I would imagine there is a 
+footnote somewhere.
+(Continued on next page) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 74 of 105
+
+
+--- PAGE 75 ---
+
+1246 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+MR. COHEN:  Why don't we put up the 4, Brian. 
+A. Yeah, so it says "an immaterial amount of locked tokens 
+from various yield farming projects are held in this balances,
+determined to be too small to break into a line item."
+Q. So is it fair to say that was a summary of cryptocurrencies 
+held by Alameda with the caveat about footnote 4, which you 
+pointed out?
+A. Yeah, I mean, they were representing it as crypto, you 
+know, the crypto——crypto held.
+Q. Right.  It wasn't broken out for you on this balance sheet. 
+A. Well, there were some cryptocurrencies that were broken 
+out, but I think——the assumption is, looking at this, that any 
+cryptocurrency that was not broken out on a subsequent line 
+item would have been included in the Crypto Held line item.
+Q. And if you'd wanted that broken out, you could have 
+certainly asked for it. 
+A. Yeah, and there were times, you know, where our team did 
+ask and received information or, you know, representations 
+about what constituted certain line items.
+Q. Okay.  And continuing under Assets, at the bottom there's 
+something called Unlocked FTT.  Can you explain to us what that 
+was. 
+A. So there's a——there's a concept with cryptocurrencies where 
+they can either be locked or unlocked.  So think of it——an 
+example from the traditional world would be, let's say you go 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 75 of 105
+
+
+--- PAGE 76 ---
+
+1247 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+work at a company and that company, as part of the compensation 
+that they offer to employees, grants some shares or, you know, 
+equity in the company.  Most of the time when you receive that 
+equity in the company, it has a vesting agreement or some type 
+of structure where you get, you know, a certain amount of the 
+equity after you've worked at the company for a year, a certain 
+amount after two years, etc.  This locked and unlocked concept 
+in crypto was——was similar to that.  So, you know, protocols 
+would give their employees tokens or, you know, use tokens to 
+pay for services that the cryptocurrency protocol was using,
+and sometimes those tokens that they were giving out to 
+employees or others would be locked, which basically meant that 
+the receiver of them was not going to be able to access or sell 
+them until the end of that locked period of time.  So what 
+unlocked would mean here is that these were tokens that were 
+not subject to any restrictions and that they were free to be 
+sold or otherwise utilized.
+Q. Okay.  Thank you, Mr. Prince.  
+MR. COHEN:  If we could bring up the pages of the 
+balance sheet side by side.
+THE COURT:  I'm sorry.  Let's clarify that.  Back up, 
+please.
+MR. COHEN:  Yeah.
+THE COURT:  And how would that relate to the Crypto
+Held line with the $3 billion figure on it? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 76 of 105
+
+
+--- PAGE 77 ---
+
+1248 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+THE WITNESS:  Well——well, my——so these——where it 
+says—— 
+THE COURT:  If you know. 
+THE WITNESS:  My understanding, you know, just based 
+on what we've looked at right now, is that the line items below 
+Crypto Held are calling out specific cryptocurrencies, and 
+they're reflecting unlocked amounts.  Crypto Held is a line 
+item for any other cryptocurrency that's an asset of Alameda 
+that is not listed with its own line, and then the footnote 4 
+was making a representation that basically the vast majority, 
+almost the entirety of this Crypto Held line item was unlocked 
+tokens, because if I'm remembering our reading of——of 
+bullet——of footnote 4, it said there's a de minimis amount of 
+locked tokens in this Crypto Held line.
+BY MR. COHEN:  
+Q. And just to sort of maybe simplify it, unlocked FTT could 
+be traded, locked FTT was still not able to be traded, correct?
+A. Correct, that's my understanding.
+Q. And if you could look at the next page under Long-Term 
+Assets, the balance sheet highlights in line 2, Locked FTT. 
+A. Correct.
+MR. COHEN:  Okay.  Now if we could go to the next 
+page, please.  
+The one after that. 
+Okay.  Just that one, Brian.  If you could pull up 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 77 of 105
+
+
+--- PAGE 78 ---
+
+1249 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+"Summary of underwriting challenges - for exception approval." 
+Let's just go to that line. 
+BY MR. COHEN:  
+Q. What did that line mean, sir, "Summary of underwriting 
+challenges - for exception approval"?
+A. Sure.  So what that meant was that for the folks writing 
+this report, they did not——they were not able to approve, 
+under——at their level of authority, within our risk management 
+policies and procedures, they were not able to approve this 
+transaction.  It also probably meant that there wasn't a clear 
+box that the transaction fit into in our risk framework at the 
+time, so there would be this exception process, and what the 
+exception process basically meant is that the executive team 
+and oftentimes also the board risk committee would look at 
+certain scenarios and they would look at the scenario and say, 
+okay, is this something we should do or not do, and to the 
+extent that a scenario that came up for exception approval 
+happened multiple times, sometimes decisions would be made to 
+adjust our overarching risk framework to increase certain types 
+of activity or decrease certain types of activity.
+Q. Okay.  So when an exception approval was included, that 
+meant the credit team doing the sort of on-the-ground work 
+couldn't say "yea" or "nay" to the loan, correct?
+A. That's one of the reasons, yes.
+Q. And it had to go up the chain of command. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 78 of 105
+
+
+--- PAGE 79 ---
+
+1250 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+A. Correct.
+Q. Ultimately to the executive committee, I believe you said?
+A. Well, ultimately exceptions would go all the way up to 
+the——we had a committee that was called BARC.  It stood for 
+Board Audit and Risk Committee.  And that was a board level 
+committee.
+Q. And you were a member of that committee. 
+A. I think——I was certainly always at the meetings.  Depending 
+on the time frame, I think there were times where I was an 
+official member and times where I was just like an attending 
+observer, but—— 
+Q. Fair enough.  As CEO—— 
+A. I was always there and I always had a voice.
+Q. As CEO of BlockFi, did you have input into the decision 
+about whether to increase the credit line, the credit limit 
+here?
+A. Absolutely.
+Q. Okay.  Now you see in the next bullet points the credit 
+team has laid out what it viewed as the underwriting 
+challenges, correct?
+A. Yes.
+Q. And I think we've talked about these so I'll just hit them 
+briefly. 
+1 is that there were unaudited financials. 
+2, that——well, I'll come back to 2.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 79 of 105
+
+
+--- PAGE 80 ---
+
+1251 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+3, that there was wrong way risk, which you've already 
+talked about.  
+And 4, we have——well, let me ask, 4, volatile 
+collateral, can you explain that, Mr. Prince. 
+A. Sure.  Volatile collateral, I mean, volatility is a term 
+used to refer to how much the price of a——of an asset, you 
+know, moves.  So an asset that is volatile, you know, goes up 
+or down in price in larger percentages than an asset that is, 
+you know, less volatile.
+Q. And that's what we've been talking about with respect to 
+FTT, correct?
+A. Yeah.  I mean, in general, cryptocurrency——I would say the 
+cryptocurrency asset class as a whole was a——is a volatile 
+asset class.
+Q. And there's a fifth bullet point on the next page.  I 
+wanted to make sure I showed you the whole thing, but I don't 
+think we have to spend a lot of time on this.  This is illiquid 
+tokens.  Sir, this is what we've just been talking about, 
+correct?
+A. Yeah.  Just to——just to read it for folks, "FTT/SRM 
+collateral is illiquid relative to major coins.  FTT ADV 
+roughly 60 million on each of Binance and FTX."  That means FTT 
+is the coin, ADV is the average daily volume, so what they're 
+saying here is that FTT is trading roughly 60 million per day 
+on Binance and FTX, while trading can support only 25 million 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 80 of 105
+
+
+--- PAGE 81 ---
+
+1252 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+per day.  And the reason they would say that is, you know, the 
+certain asset trades a certain amount on an exchange per day,
+and you're just one buyer or seller of that asset.  You never 
+want to assume that you can have all of that volume for 
+yourself.  You're only going to be able to get a portion of it.
+Q. Okay. 
+THE COURT:  Going back for a minute to volatility, 
+Mr. Prince, the concept of volatility includes not only the 
+magnitude of fluctuation of price but also the magnitude of 
+fluctuation of price per unit, time; in other words, it implies 
+it goes up or down quickly. 
+THE WITNESS:  Yes, I believe that's——that's exactly
+correct, your Honor.  It's price, price and, you know, the time 
+component of how fast is it moving.
+THE COURT:  Okay.  Let's go on. 
+BY MR. COHEN:  
+Q. To his Honor's point, how fast it could move over a given 
+period of time, correct? 
+A. Yeah. 
+Q. Okay.  Okay.  Going back to the prior page, pick up the one 
+bullet we missed, it says, over credit limit.  Do you see that, 
+sir, under summary of underwriting challenges? 
+MR. COHEN:  Could we call that up, Brian. 
+Q. Just, can you briefly explain to us what that refers to. 
+A. Sure.  So, you know, a credit limit——a credit limit was 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 81 of 105
+
+
+--- PAGE 82 ---
+
+1253 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+a——an amount of exposure that within our risk framework BlockFi 
+was willing to take to a certain category, you know, certain 
+classification of counterparty at a——at a point in time.  So, 
+you know, if a counterparty was Tier 1——just using super simple 
+examples, if they were Tier 1, we might have a credit exposure 
+of a hundred million; if they were Tier 3, which was a 
+lower-credit-quality tier, we would have a lower credit 
+exposure maximum of maybe 10 million.  Not saying those are the 
+actual numbers, but—— 
+Q. No, I understand, sir.  And here, for the loan under 
+consideration, what was the tier you were looking at?
+A. So what it says here is, "Our current limit for crypto 
+native funds Tier 1C is 45 million.  A proxy for crypto native 
+exchanges is 100 million limit.  [Note:  Underwriting hasn't 
+done a credit assessment of FTX yet, as FTX is not a borrower 
+themselves.]" 
+One thing I would just point out here, if I may, about 
+how this exposure works, the amount of exposure, you know——when 
+BlockFi is talking about exposure, the amount of exposure it 
+has could be an amount of exposure where we don't have any 
+collateral, and in that case it's really easy to calculate.  If 
+we lent someone $50 million and they didn't give us any 
+collateral, our exposure is $50 million.  The calculation of 
+how much exposure we had when someone was posting collateral 
+was a bit more complex of an exercise.  So if we lent someone 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 82 of 105
+
+
+--- PAGE 83 ---
+
+1254 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+$50 million and they gave us a hundred million dollars of 
+collateral, you could say, oh, well, our exposure is 0.  The 
+loan is overcollateralized.  But our risk team, you know——a lot 
+of what you're seeing here is that they would do analyses to 
+try and estimate some level of exposure even in scenarios where 
+the loans were overcollateralized, and so—— 
+Q. And again, this was all part of summarizing for you and the 
+board the reasons to consider going over making an exception 
+and going higher in the amount loaned, correct?
+A. Yeah.  I mean, I think they're——they're raising this and 
+saying this is something that could be——that should be 
+considered for exception approval.
+MR. COHEN:  All right.  We can pull that one down. 
+Let's take a look now at Defendant's Exhibit 817 for 
+identification, just for the witness. 
+MR. ROOS:  No objection, provided it has the same 
+limitation.
+THE COURT:  Are you offering it? 
+MR. COHEN:  I would like to.
+THE COURT:  It's received on the same basis as the 
+last one——in other words, not for the truth of anything 
+attributed to anyone other than BlockFi. 
+MR. COHEN:  Can we publish it to the jury, your Honor.
+THE COURT:  Yes. 
+(Defendant's Exhibit 817 received in evidence) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 83 of 105
+
+
+--- PAGE 84 ---
+
+1255 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+BY MR. COHEN:  
+Q. All right.  Now, Mr. Prince, this is a credit memo from, 
+about two weeks later, on August 31, 2021.  Do you see that, 
+sir?
+A. Yes.
+MR. COHEN:  Okay.  We can drop that, Brian. 
+Q. And can you translate for us what the request is that is 
+being asked of BlockFi. 
+A. Sure.  So this request is for a 10K so 10,000 Bitcoin loan, 
+which at the time was worth roughly 470 million, with 
+110 percent FTT/SRM collateral with a 100 percent margin call 
+level, no liquidation trigger, open term. 
+Next bullet, our current exposure was that we had lent 
+them 267 million of gross, so the——here's why I brought up the 
+exposure.  You start to see a little bit of a nuance.  Our 
+gross exposure was 267 million but 0 net, which means the 
+267 million of lending was overcollateralized.  That 
+267 million was 200 million of USDC, 45 million of ETH, and 
+21 million of BTC. 
+I can keep going if you want.
+Q. No.  Just for our purposes, is it fair to say, sir, that as 
+of the period between the 15th and the 31st——I didn't want to 
+interrupt you——BlockFi has now loaned 267 million to Alameda, 
+correct?
+A. Yes.  So we——we've increased from the other credit memo 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 84 of 105
+
+
+--- PAGE 85 ---
+
+1256 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+that I just looked at.
+Q. And now this credit memo is considering the request to make 
+a further loan, correct?
+A. Correct.
+Q. Up to the $1 billion limit we were talking about in 
+connection with the last memo. 
+A. Well, this specific request is asking for a new loan of 
+approximately 470 million and the current loan size was 267, so 
+it doesn't get you all the way up to a billion, but you're at 
+730 million.
+Q. Even I can follow that math. 
+Okay.  So it's asking for an additional 470 million, 
+sir. 
+MR. COHEN:  If you could go to the last page, Brian. 
+And go to the bottom, pull out "Summary of 
+underwriting challenges."
+Q. Now we don't need to go through them again.  Is it fair to 
+say, Mr. Prince, these are the same challenges that the team 
+had flagged for you and the board the previous, you know——about 
+two weeks earlier?
+A. Yeah.  Without reading it word for word, it looks like it's 
+the same ones.
+Q. Okay.  And then go up to the top of this document.  It says 
+Approval Challenges/Recommendations.  Do you see that, sir?
+A. I do.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 85 of 105
+
+
+--- PAGE 86 ---
+
+1257 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+MR. COHEN:  And if you——Brian, if you could highlight 
+the first two sentences. 
+Q. "Credit team recommends not to approve this trade because 
+it increases our exposure to FTT collateral which is already 
+very significant (we hold 367 million FTT collateral).  We do 
+not recommend increasing our exposure to FTT collateral."  Do 
+you see that, Mr. Prince?
+A. I see that.
+Q. So the team is telling you and other executives, their 
+recommendation is not to go forward. 
+A. A part of the risk management team that produced this memo 
+was saying that.  I wouldn't——that wasn't the whole team's 
+view, but the authors of this, that was their view, at the 
+time.
+Q. The authors of this credit memo, that was their view. 
+A. Correct.
+Q. That's the view they took of the risk of increasing a loan, 
+correct?  
+A. Correct.
+MR. ROOS:  Objection.  Asked and answered.
+Q. Now did in fact the loan get made?
+A. This loan; no, this loan did not get made.
+Q. Did additional loans get made above the 267 amount?
+A. Additional loans were made, but I think there's——there's 
+two important things about those that I'd like to highlight, if 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 86 of 105
+
+
+--- PAGE 87 ---
+
+1258 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+I can.
+Q. Sure. 
+A. One is that if we go to the——back to the beginning of this 
+doc, the, you know, the request that's being discussed in this 
+credit memo is with 110 percent collateralization level.  So if 
+we lent them a hundred dollars, they would post 110 worth of 
+collateral.  The incremental loans that got made were at much 
+higher collateral levels than that.  So the amount of 
+collateral that we required them to post as we were increasing 
+the lending was substantially higher than what's talked about 
+in this credit memo.
+Q. Fair enough.  From the time—— 
+A. Additionally—— 
+Q. I'm sorry. 
+A. ——the other point I wanted to make was that the loans at 
+this time that were made were all paid back, in June of 2022. 
+Q. Mr. Prince, is it fair to say that from time to time the 
+credit team would take a different view of risk than you might, 
+or the executive committee might?
+A. Yeah, I think it's——that's——that's fair to say.  It's also 
+fair to say that it——I think you're——I think you're not running 
+a good risk organization if you don't facilitate——if you don't 
+have disagreements.  If you're not having any disagreements, 
+then people aren't talking about things.  So, you know, there 
+were times where people had different views at all different 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 87 of 105
+
+
+--- PAGE 88 ---
+
+1259 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+levels of the decision matrix, and those views were, you know, 
+discussed and evaluated and decisions were made.
+Q. So you could form different business judgments, correct?
+A. Sure.
+Q. And you and the executive committee could decide as a 
+matter of business judgment that these loans were worth 
+continuing with even if the credit team had reservations?  
+A. Yes.  
+Q. And that's what happened here. 
+A. No.  I already——I already told you what happened here. 
+What happened here is, this credit memo is——is for a loan with 
+110 percent collateral.  That loan was not made.
+Q. But——and I don't want to belabor this——later loans were 
+made, correct?
+A. Yes, but this, you know——you're showing me a credit memo 
+where they're saying "we recommend not making this loan," and 
+I'm telling you we did not make this loan.
+MR. COHEN:  Now we can take this one down, Brian. 
+Can we call up Defense Exhibit 815 for identification,
+just for the witness. 
+Q. Before you look at it, let me just ask you a few questions, 
+Mr. Prince. 
+MR. ROOS:  If it's helpful, no objection.
+MR. COHEN:  Okay, fine. 
+THE COURT:  It's received. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 88 of 105
+
+
+--- PAGE 89 ---
+
+1260 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+MR. COHEN:  Thank you. 
+(Defendant's Exhibit 815 received in evidence) 
+Q. So Mr. Prince, is this the amended and restated master loan 
+agreement dated January 26, 2022, between BlockFi International 
+and Alameda Research?
+A. Based on what I'm seeing, I believe it is.
+Q. Okay.  If you're not comfortable and you want to go through 
+it, we can let you go through it, sir. 
+A. I mean—— 
+Q. I can give you a hard——a hard copy if that would be easier.
+A. Assuming this is, you know, the loan agreement that was 
+provided through to, you know, in discovery by our legal teams, 
+then yes, I'm comfortable saying.
+Q. And if we could turn——well, before I do that, can you 
+explain to the jury what a master loan agreement is. 
+A. Sure.  So we would frequently enter into master loan 
+agreements with institutional counterparties, and the master 
+loan agreement would be like a——like an overarching agreement 
+that would govern all of the subsequent transactions which 
+could typically be done with much shorter agreements.  So you'd 
+have this master loan agreement, which was a universal 
+agreement, and then let's say an institutional counterparty 
+did, you know, ten loans throughout the course of the year;
+each of those subsequent loans would have, you know, either a, 
+like a one-page term sheet that got signed or a trade confirm 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 89 of 105
+
+
+--- PAGE 90 ---
+
+1261 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+or something else, but it basically was a master agreement that 
+enabled you to do ongoing transactions with a counterparty 
+with——without having to do a big agreement every time you 
+wanted to do one incremental loan.
+Q. Right.  So the idea was if you had a counterparty, a 
+borrower who you thought you might do a number of loans with, 
+you didn't have to do a new agreement every time. 
+A. That's right.
+Q. Can you take a look, Mr. Prince, at page—— 
+MR. COHEN:  Brian, 92485. 
+Q. Okay.  And you see it's signed for BlockFi international by 
+David Olsson.  Who was he?
+A. David Olsson was a senior vice president on our 
+institutional——our institutional client coverage team.
+Q. Okay.  And it was signed for Alameda by Caroline Ellison as 
+co-CEO.  Do you see that, sir?
+A. Yes, I see that.
+Q. Okay.  Now if we could turn to page 92462. 
+MR. COHEN:  And if you could call out, under Loan 
+Procedure, Brian, the paragraph underneath that that begins,
+"Unless parties agree."  Or you could bring the whole thing up 
+through the subbubble.  Keep going below.  Yeah. 
+Q. And just very quickly, Mr. Prince, is this a summary of the 
+process you were just describing for taking down individual 
+loans?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 90 of 105
+
+
+--- PAGE 91 ---
+
+1262 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+A. Yeah.  I mean, it seems like this——without having read this 
+whole thing, the——this is the section of the agreement where 
+it's talking about the procedure for getting a new loan within 
+the master loan agreement.
+Q. So BlockFi would discuss with Alameda what type of loan it 
+was going to be——the amount it was going to be for?
+THE COURT:  Mr. Cohen, the witness just said he hadn't 
+read the whole thing.
+MR. COHEN:  Sorry, your Honor.
+THE COURT:  And the jury has the document.  So let's 
+move along.
+MR. COHEN:  Okay.  Okay. 
+Then I think we might move along from this document. 
+All right.  Let's take it down. 
+Okay.  Now I don't think we need a document to do 
+this. 
+BY MR. COHEN:  
+Q. Mr. Prince, do you recall giving testimony about the period 
+in November 2022 and the relationship between BlockFi and 
+Alameda?
+A. I assume you're referring to like testimony here?
+Q. Yeah, today. 
+A. Yeah, I do.
+Q. Okay.  And I want to narrow it.  Do you recall you talked 
+to us earlier this morning about an entity called Robinhood?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 91 of 105
+
+
+--- PAGE 92 ---
+
+1263 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+A. Yeah, I mentioned that in November there was a——a pledge,
+additional pledges of collateral to BlockFi and that part of 
+that additional collateral that was pledged in November 
+included Robinhood shares.
+Q. So this was additional collateral that Alameda was pledging 
+to BlockFi to secure its loan, correct?
+A. Correct.
+Q. Did you know who owned the Robinhood shares?
+A. I'm not——I'm not sure, you know, I——I don't believe that I,
+at the time that the Robinhood shares were pledged, understood 
+some of the nuance that I've now become aware of in terms of 
+what entity the Robinhood shares were held in.  That being 
+said—— 
+Q. I'm interested in your recollection at the time, sir. 
+A. My recollection at the time was that Alameda was posting 
+shares to secure the loans that BlockFi had made to it.
+Q. Okay.  And that was being done by Caroline Ellison as CEO 
+of Alameda at the time?
+A. At——my understanding was that it was, you know, Caroline 
+who signed the doc but at Sam's instruction, so I was messaging 
+and emailing with Sam at the time.
+Q. And however that went down, those Robinhood shares were 
+part of what was being put out as collateral for Alameda, 
+correct?
+MR. ROOS:  Asked and answered. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 92 of 105
+
+
+--- PAGE 93 ---
+
+1264 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+THE COURT:  Sustained. 
+Q. Now Mr. Prince, you testified that there came a time, I 
+think it was in the summer of 2022, that BlockFi ended up 
+receiving a loan from FTX.US.  Do you recall that?
+A. Yes.
+Q. Okay.  And I think you said that what had happened was 
+there was stress in the market, correct?
+A. Yes.
+Q. Other lenders, like Voyager, Genesis, were having problems?
+MR. ROOS:  Objection.  Cumulative.  This is the 
+direct. 
+THE COURT:  Sustained. 
+Q. Tell us why BlockFi reached out to FTX and ultimately got 
+the——FTX.US and ultimately got the loan. 
+MR. ROOS:  Same objection. 
+THE COURT:  You're just repeating.  You're asking him 
+to repeat, right? 
+MR. COHEN:  Well, I have a question that I think I 
+need to ask this so I can set up the question, your Honor.
+THE COURT:  Go ahead.
+A. BlockFi made——BlockFi made the decision that we were 
+interested in bringing additional capital into the business, 
+and that we thought if there was an option to do that, that 
+that would be the right thing to do for the business.  So, you 
+know, we ran——we ran a process where we reached out to 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 93 of 105
+
+
+--- PAGE 94 ---
+
+1265 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Cross 
+investors, you know, other crypto firms to see what capital we 
+could potentially raise and at what terms.
+Q. Were you concerned at the time, Mr. Prince, that BlockFi 
+might go bankrupt?
+A. I think that——I think that the range of my concerns as CEO 
+of BlockFi pretty much always included everything from, you 
+know, complete failure to extreme success, and part of the job 
+of CEO I think is to be evaluating decisions that you're making 
+within the context of the spectrum of things that could happen 
+to a company.
+Q. But you had no specific concern in the summer of 2022 that 
+you might go bankrupt. 
+A. Well, we certainly had——we certainly had a lot of eyes, 
+very capable, professionals inside and outside the firm that 
+were looking at the company's position, and there was never, 
+you know——we always viewed the business as being solvent and 
+operational, and in fact, throughout that period of time, we 
+operated the same as we had in less volatile market times.
+Q. So you operated, you continued to pay your debts, you 
+considered to have positive assets, correct?
+A. That's correct.
+Q. But you felt the need to take in this capital, correct?
+A. I don't know that I would use the word "need," but we 
+decided that it was better for the business to do this 
+transaction than for the business to not do the transaction.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 94 of 105
+
+
+--- PAGE 95 ---
+
+1266 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Redirect 
+Q. And you looked at various options, correct?
+A. Yes, we evaluated other options.
+Q. And you felt that the 400 million being offered by FTX.US 
+was the best option. 
+A. We looked at the entirety of it, of the transaction.  So 
+there was a loan component to the transaction and there was a 
+acquisition component to the transaction.
+MR. COHEN:  One moment. 
+Mr. Prince, I just want to thank you for your time.
+We have nothing further.
+THE COURT:  Thank you. 
+Any redirect? 
+MR. ROOS:  I think just one or two questions. 
+Could we pull up Defense Exhibit 816.  And we can flip 
+through this to the page where it mentions wrong way risk.  
+REDIRECT EXAMINATION 
+BY MR. ROOS:  
+Q. And Mr. Prince, you were asked a question on 
+cross-examination about wrong way risk with respect to FTX.  I 
+just want to be clear.  Did this memo here refer to wrong way 
+risk about FTX or about Alameda or something else? 
+A. Well, you know, what it's saying is that the loan——making a 
+loan to Alameda with FTT collateral, in our——in our team's 
+view, presented a wrong way risk.  That transaction had wrong 
+way risk associated with it.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 95 of 105
+
+
+--- PAGE 96 ---
+
+1267 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Redirect 
+Q. And transaction with Alameda or FTX?
+A. Well, what we were contemplating here was loans to Alameda.
+Q. Okay.  And you testified about overcollateralized loans. 
+Why would you overcollateralize a loan that involved FTT?
+A. Well, you're always——in general, when you're taking 
+collateral for a loan, you're trying to reduce your risk 
+associated with that loan, and so the more collateral you take, 
+the less risk you have, generally speaking. 
+Q. And you were asked some questions about risk at the end of 
+cross-examination, including about your bankruptcy risk in the 
+summer of 2022.  Why did you go into bankruptcy in November 
+2022?
+MR. COHEN:  Objection. 
+THE COURT:  What's the objection? 
+MR. COHEN:  It relates to the prior motion practice in 
+the case, your Honor. 
+MR. ROOS:  I'm asking about his bankruptcy.
+THE COURT:  I don't understand what that's all about. 
+Is there something else you want to say? 
+MR. COHEN:  No.  Just, it was briefed before.  I don't 
+think we need to discuss it again. 
+THE COURT:  Well, I don't think it was briefed before. 
+Overruled. 
+THE WITNESS:  I'm sorry, Nick.  Could you say the 
+question again, please.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 96 of 105
+
+
+--- PAGE 97 ---
+
+1268 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Recross 
+MR. ROOS:  Sure. 
+BY MR. ROOS:  
+Q. The end of the question was:  Why did you go into
+bankruptcy in November 2022?
+A. Sure.  Well, I mean, the——once——once our view became that 
+the Alameda loans and assets that we had at FTX weren't going 
+to be either repaid or accessible, then we did not have a view 
+that the business was solvent and therefore we engaged with 
+professionals and proceeded towards a bankruptcy filing.
+MR. ROOS:  No further questions.
+THE COURT:  Thank you. 
+Anything else, Mr. Cohen? 
+MR. COHEN:  Yes, your Honor. 
+RECROSS EXAMINATION 
+BY MR. COHEN:  
+Q. Mr. Prince, are you saying that the sole reason BlockFi 
+went into bankruptcy was the Alameda loans?
+A. I don't——I mean, let me try and say it a different way.  I 
+just want to be careful with——with language.  If——I don't think 
+BlockFi would have filed for bankruptcy in November of 2022 if 
+the Alameda loans were still in good standing and the funds we 
+had at FTX were accessible.  I do not think, in a scenario 
+where those two things were not impaired, that the company 
+would have needed to file for bankruptcy. 
+Q. But it might have had to file later, correct?
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 97 of 105
+
+
+--- PAGE 98 ---
+
+1269 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 Prince - Recross 
+MR. ROOS:  Objection.  Calls for speculation.
+THE COURT:  Sustained. 
+MR. COHEN:  That's all I have. 
+THE COURT:  Thank you. 
+Mr. Roos, anything else? 
+MR. ROOS:  No, your Honor.  Thank you.
+THE COURT:  Mr. Prince, thank you.  You're excused.
+(Witness excused) 
+THE COURT:  Members of the jury, have a great weekend. 
+9:30, Monday morning. 
+Counsel, remain for a minute, please. 
+(Continued on next page) 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 98 of 105
+
+
+--- PAGE 99 ---
+
+1270 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+(Jury not present) 
+THE COURT:  Be seated, folks. 
+Who are the witnesses to follow next week? 
+MR. ROOS:  So because we didn't get to two today, we 
+have to figure out a revised order, but I'll give your Honor 
+the next seven or eight. 
+So the two that were supposed to be today, Dekel and 
+Busick, and then Nishad Singh, Ramnik Arora, Delaney Ornelas 
+Tareq Morad.
+THE COURT:  After Ramnik Arora, who were the two? 
+MR. ROOS:  Delaney Ornelas.
+THE COURT:  That's—— 
+MR. ROOS:  Delaney is the first name.
+THE COURT:  Okay.  Thanks.
+MR. ROOS:  And Ornelas is the last name.
+THE COURT:  Okay. 
+MR. ROOS:  And Tareq, T-A-R-E-Q, Morad, M-O-R-A-D. 
+THE COURT:  Okay.  And in broad strokes, some, of 
+course, I recognize.  I recognize Nishad Singh, I recognize 
+Arora.  Who are the rest of them? 
+MR. ROOS:  Sure.  So Delaney Ornelas was an Alameda
+employee involved in banking; Tareq Morad and Dekel, who was 
+supposed to be on today, are both FTX customers; Busick is an 
+FBI agent who would testify about historical cell site 
+analysis. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 99 of 105
+
+
+--- PAGE 100 ---
+
+1271 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+THE COURT:  Okay.  When does the government expect to 
+rest? 
+MR. ROOS:  So I think, your Honor, that we still 
+remain on the pace that Ms. Sassoon advised you of a few days 
+ago.  I think the vast majority of the government's case will 
+conclude next week.  There are I think maybe two or three folks 
+that we have set for the 26th.  I think there's a real 
+possibility that right after our break we would put those folks 
+on and rest.  So sort of in the middle of our short week, our 
+two-day week.
+THE COURT:  Right.  I understand.  Okay. 
+MR. ROOS:  So I would just say, for defense planning 
+purposes, I think it's possible that the defense case would 
+begin, if there is one, as soon as, say, afternoon of that 
+Thursday, the 26th.
+THE COURT:  Okay. 
+MR. COHEN:  Your Honor, for planning purposes, could 
+we know the order of the witnesses that counsel just 
+identified.
+MR. ROOS:  Yes.  We will let them——we'll give them a 
+list of everyone we think for next week and we'll also give 
+them at least the beginning of that order so they can plan for 
+Monday and Tuesday.
+THE COURT:  Okay.  Anything else we need to do today? 
+MR. ROOS:  There's one thing, your Honor, which is, I 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 100 of 105
+
+
+--- PAGE 101 ---
+
+1272 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+think there may be some disputes over the admissibility of a 
+few things or lines of cross over the first few witnesses.  I 
+think the parties are going to try to work those out, but we 
+may have to put a letter in to your Honor.  We'll try not to 
+burden you with more than one. 
+I think in terms of the——one of the witnesses who was 
+going to go today, Ms. Kudla has an issue she just wanted to 
+raise.
+MS. KUDLA:  Your Honor, there are just a few minor 
+evidentiary issues that, if we can handle them now, it would 
+make on Monday the efficiency go very smoothly, so if there's 
+any exhibits that have to be changed, we do them now over the 
+weekend and we can get the witness on and no sidebars. 
+THE COURT:  Well, let's see if we can do it in five
+minutes. 
+MS. KUDLA:  And your Honor, I think it will be helpful 
+if you had the witness binder with some of the exhibits. 
+THE COURT:  Thank you. 
+MS. KUDLA:  So your Honor, these exhibits relate to
+Rich Busick, who's a cell site analyst, and I'll allow 
+Mr. Everdell to raise the objections to the exhibits that he 
+would like to raise. 
+MR. EVERDELL:  Thank you, your Honor. 
+So my understanding, your Honor, is that these emails 
+and invites that are government exhibits, the ones in your 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 101 of 105
+
+
+--- PAGE 102 ---
+
+1273 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+binder, they relate to the cell site analysis.  I believe the 
+government is going to try to show that on the dates of the 
+emails and of the calendar invites, that they relate to when 
+the defendant's cellphone is in New York and having phone calls 
+I guess for purposes of venue.  However, I think some of 
+them——I have relevancy and hearsay objections to a few of them. 
+Not to the first few, but Government's 282——282, 287, and 290, 
+291, I think you should consider those first. 
+Starting with 282, this appears to be a calendar 
+invite for an invitation, it looks like, for a photo shoot for 
+a Forbes  story on September 9th of 2021.  Don't see how this is 
+relevant to the issues in the case.  Some of these others I 
+understand, because they are meetings with investors or 
+meetings with other people, but this one, I don't necessarily 
+see the relevance of this one. 
+THE COURT:  Ms. Kudla, quickly.
+MS. KUDLA:  Your Honor, the Forbes  article is already 
+in evidence, and it's been presented as evidence of the 
+defendant's public image that he was cultivating.  And it's 
+part of the marketing and revenue for FTX. 
+THE COURT:  Yes.  But if you've got the magazine in
+already, why do you need an email inviting him to show up for 
+the photograph? 
+MS. KUDLA:  Your Honor, that occurred here in New 
+York.  These are related to venue.  These are all public events 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 102 of 105
+
+
+--- PAGE 103 ---
+
+1274 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+that occurred in Manhattan.
+THE COURT:  Okay.  That will come in.  Unless you're 
+conceding venue. 
+MR. EVERDELL:  Oh, we're not, your Honor.
+THE COURT:  Okay. 
+MR. EVERDELL:  Your Honor, 287, this one is the invite 
+for dinner with the Mayor.  Don't see how that's relevant for 
+the case.
+THE COURT:  Same thing, right? 
+MS. KUDLA:  Same thing, and he also publicly tweeted 
+about that in Government Exhibit 873.
+THE COURT:  Same ruling.
+MR. EVERDELL:  I believe we have an agreement on 
+290——is that correct?——with the government, that can come out? 
+MS. KUDLA:  That is correct, yes.  290 is correct.
+THE COURT:  What do you mean it's correct? 
+MS. KUDLA:  Your Honor, we have an agreement.  The 
+government is removing—— 
+THE COURT:  Okay.  So we're crossing that off the 
+list.
+MS. KUDLA:  It's 289, Mr. Everdell, that we have the 
+agreement on.
+MR. EVERDELL:  I'm sorry.
+THE COURT:  So somebody please tell me whether we 
+still have a dispute over 290 or not.
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 103 of 105
+
+
+--- PAGE 104 ---
+
+1275 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+NAD1BAN3                 
+MS. KUDLA:  Over 290, the answer is up to 
+Mr. Everdell.  That relates to an investor meeting.
+MR. EVERDELL:  Got it.  That was FTX.US related? 
+MS. KUDLA:  It's 289, Mr. Everdell.
+THE COURT:  Okay.  We're not doing this now.  You work 
+it out. 
+Okay.  Thank you. 
+THE DEPUTY CLERK:  All rise. 
+(Adjourned to October 16, 2023, at 9:30 a.m.)  
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 104 of 105
+
+
+--- PAGE 105 ---
+
+1276 
+          SOUTHERN DISTRICT REPORTERS, P.C. 
+            (212) 805-0300 
+INDEX OF EXAMINATION 
+Examination of :                               Pag e 
+ ZAC PRINCE 
+1178 Direct By Mr. Roos . . . . . . . . . . . . . . 
+1229 Cross By Mr. Cohen . . . . . . . . . . . . . . 
+1266 Redirect By Mr. Roos . . . . . . . . . . . . . 
+1268 Recross By Mr. Cohen . . . . . . . . . . . . . 
+GOVERNMENT EXHIBITS 
+Exhibit No.                                    Received 
+ 417 1216   . . . . . . . . . . . . . . . . . . . . 
+DEFENDANT EXHIBITS 
+Exhibit No.                                    Received 
+ 816 1234   . . . . . . . . . . . . . . . . . . . . 
+ 817 1254   . . . . . . . . . . . . . . . . . . . . 
+ 815 1260   . . . . . . . . . . . . . . . . . . . . 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 364   Filed 12/12/23   Page 105 of 105

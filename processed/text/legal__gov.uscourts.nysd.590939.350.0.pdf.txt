@@ -1,0 +1,671 @@
+
+
+--- PAGE 1 ---
+
+     1 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+------------------------------x 
+ 
+UNITED STATES OF AMERICA,                
+ 
+           v.                           22 CR 673 (LAK) 
+ 
+SAMUEL BANKMAN-FRIED, 
+                            
+               Defendant.               Trial 
+------------------------------x 
+ 
+                                        New York, N.Y. 
+                                        October 3, 2023 
+                                        9:30 a.m. 
+ 
+Before: 
+ 
+HON. LEWIS A. KAPLAN, 
+ 
+                                        District Judge         
+ 
+APPEARANCES 
+ 
+DAMIAN WILLIAMS 
+     United States Attorney for the 
+     Southern District of New York 
+BY:  DANIELLE R. SASSOON 
+     NICOLAS ROOS 
+     DANIELLE KUDLA 
+     SAMUEL RAYMOND 
+     THANE REHN 
+     Assistant United States Attorneys 
+ 
+COHEN & GRESSER, LLP 
+     Attorneys for Defendant  
+BY:  MARK S. COHEN 
+     CHRISTIAN R. EVERDELL 
+     SRI K. KUEHNLENZ 
+     S. GALE DICK 
+     SHARON L. BARBOUR 
+ 
+Also Present: 
+Luke Booth, FBI 
+Kristin Allain, FBI 
+Arjun Ahuja, USAO Paralegal Specialist 
+Grant Bianco, USAO Paralegal Specialist 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 1 of 11
+
+
+--- PAGE 2 ---
+
+     2 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+(Case called) 
+MR. ROOS:  Good morning, your Honor, Nicholas Roos,
+Danielle Sassoon, Thane Rehn, Samuel Raymond, and Danielle 
+Kudla for the United States.
+THE COURT:  Good morning. 
+MR. ROOS:  We are joined at the rear table by special 
+agents from the FBI, Luke Booth and Kristin Allain; paralegals 
+working with our office, and I think we have another paralegal 
+who is going to slot in at the end. 
+THE COURT:  Good morning.
+MR. COHEN:  Good morning, your Honor.
+THE COURT:  Mr. Cohen.
+MR. COHEN:  Mark Cohen, Chris Everdell, Sri Kuehnlenz, 
+and Dave Lisner for the defense.  Also sitting in the gallery, 
+Gale Dick and Sharon Barbour of our firm.
+THE COURT:  Good morning. 
+MR. COHEN:  Good morning, your Honor.
+THE COURT:  The defendant isn't until the building 
+yet, I understand.  I am not sure why that happened, but he is 
+not.  He is not far away. 
+There were one or two things that I thought we could 
+deal with before he gets here.   
+First of all, one point with respect to the voir dire.  
+I have found over the years that particularly in what may well 
+be a longer trial or a trial with controversy -- all trials 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 2 of 11
+
+
+--- PAGE 3 ---
+
+     3 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+have controversy, but more than the usual dose, it is useful 
+for me to ask right at the beginning of the voir dire, after 
+having told the venire in broad terms what the case is all 
+about, whether there is anything about the nature of the case 
+or the parties that would make it difficult for them to be 
+entirely fair and for any of them to be entirely fair to both 
+sides and to come to a just and impartial verdict based solely 
+on the evidence and so forth, and then, with the consent of 
+counsel, if everyone consents, simply to excuse right at the 
+outset everybody who holds their hand up in response to that.   
+This is a procedure that was recommended to me by the 
+late Judge Duffy as a way to start every narcotics case because 
+you lose them in buckets, but it generalizes beyond that.   
+Does anybody object to my doing that here?  Does 
+everyone agree to my simply excusing anybody right out of the 
+box who says, I would have a problem being fair in this case? 
+MR. ROOS:  The government has no objection to that 
+process.
+MR. COHEN:  Who are we to question Judge Duffy.
+THE COURT:  Exactly, especially now that he's up on
+high.  That was the first thing. 
+The second thing that I wanted to deal with quickly is 
+this controversy with respect to the possible Ukrainian 
+witness.   
+Who is going to address this for the government? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 3 of 11
+
+
+--- PAGE 4 ---
+
+     4 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+MR. REHN:  I can address this, your Honor. 
+THE COURT:  Here is my question.  What, if anything, 
+would that witness, if I allowed him to testify remotely, have 
+to say that wouldn't be cumulative? 
+MR. REHN:  Your Honor, I do think there is some 
+overlap with other FTX customer witnesses.  As we articulate in 
+our letter, the government has made significant efforts to 
+identify a range of customer witnesses, but I think that one of 
+the factors that will be important for the jury to consider is 
+that there were in fact a range of FTX customers who put money 
+into FTX for different reasons, and their activity on FTX was 
+different.  Some, for example, put money on FTX to engage in 
+margin trading.  Others did not.  Some may have participated in 
+particular programs on FTX that others did not.  And the 
+expectations of all of those customers may not be exactly the 
+same, and certainly the experience they had with the exchange 
+may not be exactly the same.  He does bring another perspective 
+of a particular type of FTX customer.
+THE COURT:  Specifically what perspective does he 
+bring that nobody else brings? 
+MR. REHN:  I think he's an example of a customer that 
+viewed the exchange as a safe place to store assets in a 
+situation where he didn't have a lot of other safe options to 
+store his assets, which makes him unlike some of the other 
+customers that we will be calling.  In fact, I don't believe 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 4 of 11
+
+
+--- PAGE 5 ---
+
+     5 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+there is another customer who would have exactly that 
+perspective.
+THE COURT:  You are not going to call any other 
+witnesses who are going to say that they thought it was a safe 
+place to store their assets.
+MR. REHN:  No.  Many witnesses will say that.  But 
+unlike some other witnesses, he didn't have other safe options,
+in his view, to store assets.
+THE COURT:  That's material here why? 
+MR. REHN:  Your Honor, we think it just illustrates
+the way in which FTX is marketing appeal to a range of 
+customers, including customers who viewed it as one of their 
+only options to store their assets.
+THE COURT:  As long as we have the time, Mr. Cohen, do 
+you want to address that? 
+MR. COHEN:  Your Honor, with your permission, we would 
+like for Mr. Dick to address it, if that's OK for the Court.  
+THE COURT:  Sure. 
+MR. DICK:  As described by the government, material
+portions of his testimony are clearly cumulative of that of 
+other witnesses. 
+As your Honor notes, what distinguishes this witness, 
+according to the government, is simply that he felt he had no 
+other safe options, which is not really relevant to the issues 
+in this case.  I think, in addition, there is no set of 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 5 of 11
+
+
+--- PAGE 6 ---
+
+     6 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+circumstances under which the confrontation clause rights of 
+our client could be fully protected if this witness were to 
+testify. 
+THE COURT:  Let's stick to the question I asked.  I
+didn't think much of that argument.  I've been down this path 
+more than once before.
+MR. DICK:  Fair enough.
+THE COURT:  The Second Circuit made clear in Gigante 
+that the confrontation clause does not prohibit calling this 
+witness if there are extraordinary and compelling 
+circumstances.  There are obviously are.  The question is the 
+materiality and whether the prejudice substantially outweighs 
+doing it. 
+Any response, Mr. Rehn? 
+Thank you, Mr. Dick. 
+MR. REHN:  Your Honor, the one thing I would just say 
+is, if the Court is uncertain about whether this witness' 
+testimony would be cumulative, one option would be to defer 
+ruling until after one or more other customers have testified, 
+at which point it may be clearer whether there is a need for 
+this witness' testimony. 
+THE COURT:  There is no reason not to do that, so we 
+will entertain this down the road. 
+We will wait and see if the government doesn't decide 
+to bag it all together. 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 6 of 11
+
+
+--- PAGE 7 ---
+
+     7 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+In terms of other safeguards, I would, if this is 
+going to happen, require that the testimony be given in a U.S.
+embassy in Ukraine or elsewhere which is not Ukrainian 
+territory.  The State Department people on hand include people 
+authorized to administer oaths.  And to the argument that there 
+is no extradition treaty with Ukraine, the situation would not 
+be any different than what happens when a foreign national or 
+resident comes into the United States, testifies live in the 
+courtroom, and then immediately leaves to go home to some place 
+without an extradition treaty with the United States.  I can't 
+distinguish that from this. 
+In both cases it's reasonably obvious that if perjury 
+is committed, the government has no way to get their hands on 
+the perjurer, and I can't distinguish between the two.  It 
+makes no sense to me.  But we will just kick down the road on 
+whether it's cumulative and whether any unfair prejudice would 
+substantially outweigh the value of the testimony, even if it's 
+not wholly cumulative.   
+That takes care of the things that I wanted to deal 
+with in advance of starting the voir dire. 
+The defendant is in the building now.  I am told that 
+we can thank the delay to what's going on in the other 
+courtroom nearby.  We will recess until we have the defendant 
+in the courtroom. 
+I am going to take up one thing with the defendant 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 7 of 11
+
+
+--- PAGE 8 ---
+
+     8 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+present, namely, his right to testify in his own defense and 
+the fact that that's ultimately his decision, not the lawyers.  
+I am not criticizing the lawyers.  Of course they understand 
+that.  But it's my practice to do that with the defendant live 
+and in person.  As soon as we are ready to do that, we will do 
+that, and then we will bring up the first batch of jurors.   
+I'll see you quite shortly, I'm sure. 
+(Recess) 
+THE COURT:  The jurors are on their way up.  Before
+they get here, there is something I want to discuss directly 
+with the defendant, who is now present. 
+Mr. Bankman-Fried, I want to make sure this is 
+something that you understand.  You have the right to testify 
+in your own defense in this case, and the decision as to 
+whether or not you testify is a decision solely for you.  You 
+are entitled to have your counsel's best advice on whether they 
+think it is wise or potentially advantageous or not
+advantageous for you to testify, but they can't make the 
+decision for you.  It is your call.  And you could decide to 
+testify against their advice or not to testify against their 
+advice.  You need to understand that. 
+Now, if for any reason we get to the point where the 
+government has rested and your lawyers say the defense has no 
+case or the defense rests, and you wish to testify, what you 
+should do at that point, what you must do is simply stand up, 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 8 of 11
+
+
+--- PAGE 9 ---
+
+     9 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+don't say anything, just stand up and I'll send the jury out 
+and I'll find out why you're standing.  I'll probably know by 
+that time anyway.  But I'll find out.  And if it's that you 
+want to testify, you will be given that opportunity. 
+Likewise, if there is a defense case and your lawyers 
+at some point say the defense rests, and you haven't testified 
+and you wish to do so, do the same thing.  Stand up, I'll take 
+the jury out, I'll find out why you're on your feet.  And if 
+you want to testify, you will be permitted to do so, regardless 
+of whatever advice you have received. 
+Do we understand each other on this? 
+THE DEFENDANT:  Yes.
+THE COURT:  Fine. 
+Andy, is the jury outside yet?
+THE DEPUTY CLERK:  I am going to go look for them now, 
+Judge.
+MR. ROOS:  Your Honor, as you probably know, in many 
+cases the government's practice is to put either the existence 
+or rejection of plea offers or the absence of plea offers on 
+the record.
+THE COURT:  Go ahead and do it.
+MR. ROOS:  Your Honor, the government early on in the 
+case, after the case was charged, raised the question of 
+whether the parties should engage in plea discussions, and the 
+answer was no, meaning there were no discussions about a plea, 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 9 of 11
+
+
+--- PAGE 10 ---
+
+    10 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+and the government never made any plea offers.
+THE COURT:  Mr. Cohen, is that accurate? 
+MR. COHEN:  Yes, your Honor.
+THE COURT:  Thank you. 
+With the exception of the one question I already 
+discussed, the questions I intend to put to the jurors are all 
+typed out.  Because of the way I will deal with the potential 
+jurors who are not in the courtroom, they will all have a copy 
+of the questions, for reasons that I'll explain, and I'll ask 
+John Hammel to give each side two copies of the script that I 
+will be using, just so you can have it in front of you. 
+Obviously, I may change a word here or there, but the substance 
+will be exactly what's on the pages. 
+Out of curiosity, are there going to be Power Points 
+on the openings? 
+MR. REHN:  Yes, your Honor.  The parties exchanged 
+slides last night.  I think we intend to meet and confer about 
+some potential issues.  But if there is any issues we can't 
+resolve, we will raise them with the Court.
+THE COURT:  Defense going to use a Power Point?
+MR. COHEN:  We will be using slides, your Honor.  We 
+have been conferring with the government.
+THE COURT:  OK. 
+MS. SASSOON:  Your Honor, may I have a moment to 
+confer with defense counsel? 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 10 of 11
+
+
+--- PAGE 11 ---
+
+    11 
+SOUTHERN DISTRICT REPORTERS, P.C. 
+(212) 805-0300 
+NA3MBAN1                 
+THE COURT:  Sure. 
+MS. SASSOON:  Your Honor, whenever convenient for you, 
+the parties had one question to raise about the voir dire.
+THE COURT:  Yes.
+MS. SASSOON:  As your Honor knows, the parties had 
+some briefing regarding questions related to pretrial publicity 
+about the case.  And in reading the proposed voir dire, I noted 
+that there are questions about prospective publicity, meaning, 
+are you willing to not look at any publicity going forward, and 
+also a question about following the Court's instructions about 
+that.  And then there is a question about one specific pretrial 
+news story, the CBS special. 
+And the government would propose asking a more general 
+question about whether the jurors have seen any pretrial 
+publicity and whether, nonetheless, they can render a fair 
+verdict. 
+THE COURT:  You can bring that up at the end.
+I think, Ms. Sassoon, you might look at question 46. 
+MS. SASSOON:  Thank you, your Honor.  That addresses 
+the government's question. 
+THE COURT:  I'm afraid the jury kept had been told 
+that they were all ready to be sent up, but they weren't.  We 
+will recess until they get here. 
+(Jury selection follows under separate cover)
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+Case 1:22-cr-00673-LAK   Document 350   Filed 12/12/23   Page 11 of 11

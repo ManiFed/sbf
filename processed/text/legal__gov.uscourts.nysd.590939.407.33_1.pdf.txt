@@ -1,0 +1,40 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT D 
+  
+Case 1:22-cr-00673-LAK   Document 407-33   Filed 02/27/24   Page 1 of 2
+
+
+--- PAGE 2 ---
+
+Note: all of these are rough values, and could be slightly off; there is also obviously a chance of typos etc.  They also change a bit over time as trades happen
+Liabilities Assets
+-8,859,042,572 Liquid 899,859,124 1,012,262,574 Less liquid 5,449,513,08 5 15,415,519,517 Illiquid 3,232,059,943 3,223,752,915
+Ticker Liability Ticker Deliverable now Before this wee k Ticker Deliverable Before this wee k Ticker Deliverable Before
+LayerZero -45,000,00 0 HOOD 472,291,833 579,183,374 FTT 553,903,773 5,905,299,35 6 other ventures 1,475,000,00 0 1,475,000,000
+EUR -114,536,254 USD in Ledger Prime 200,000,000 200,000,000 SRM 2,187,876,172 5,430,110,335 GDA 1,150,000,000 1,150,000,000
+Genesis -200,000,000 USDB 73,001,646 73,223,641 SOL 981,902,267 2,245,516,953 Anthropic 500,000,000 500,000,000
+BlockFi -215,000,000 DAI 28,491,686 28,464,601 MAPS 616,372,827 865,376,279 PYTH 63,766,000 63,766,000
+USDT -796,482,404 DOT 28,384,450 32,522,098 Locked USDT 500,000,00 0 500,000,000 TWTR 43,293,943 34,986,915
+ETH -671,542,668 PAXG 23,767,062 23,244,43 0 OXY 54,008,094 100,105,976 TRUMPLOSE 7,394,877 7,394,877
+BTC -1,412,738,406 JPY 21,758,186 21,979,251 STG 45,511,034 66,499,913
+USD -5,135,280,12 9 TUSD 15,991,381 16,034,265 ETHE 53,155,549 64,420,529
+Other -268,462,711 EURT 12,117,879 11,847,808 FIDA 36,492,962 62,127,831
+BRZ 9,049,093 8,708,731 MSOL 26,558,417 60,394,582
+BRL 7,017,295 6,753,41 7 ASD 33,946,248 49,967,401
+WXRP 6,987,896 9,298,681 BITW 26,527,697 31,939,957
+PAX 1,000,714 1,002,277 Others 17,860,159 29,105,657
+GBTC 3,304,945 4,387,145
+APT 312,092,943 267,602
+Hidden, poorly internally labled "fiat@" account -8,000,000,000
+Withdrawals on Sunday 5,000,000,000
+There were many things I wish I could do differently than I did, but the largest are represented by these two things: the poorly labeled internal bank-related acount, and the size of customer withdrawals during a run on the ban
+Liabilities + liquid Short term deliverability vs demand
+Liabilities Liquid Less Liquid Illiquid without fiat@ Total Actual leverage Perceived leverage Normal Accute Fear
+Today's prices -8,859,042,57 2 899,859,124 5,449,513,085 3,232,059,943 40,816,552 722,389,57 9 12.02x 0x 3.60x 0.20x
+October's prices -8,859,042,57 2 1,012,262,574 15,415,519,517 3,223,752,915 153,220,002 10,792,492,434 1.73x 0x 4.05x 0.23x
+Before Sunday Today's prices -13,859,042,57 2 5,899,859,124 5,449,513,085 3,232,059,943 40,816,552 722,389,57 9 12.02x 0x 23.60x 0.85x
+$5b of withdrawals October's prices -13,859,042,57 2 6,012,262,574 15,415,519,517 3,223,752,915 153,220,002 10,792,492,434 1.73x 0x 24.05x 0.87x
+Case 1:22-cr-00673-LAK   Document 407-33   Filed 02/27/24   Page 2 of 2

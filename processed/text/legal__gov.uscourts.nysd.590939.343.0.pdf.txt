@@ -1,0 +1,68 @@
+
+
+--- PAGE 1 ---
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+UNITED STATES OF AMERICA,
+DOCUM
+ELECTROMICALLY FILED
+DOC #:
+DATE FILED: 11/7/20 23
+-against-
+SAMUEL BANKMAN-FRIED,
+Defendant.
+X
+MEMORANDUM AND ORDER
+S6 22-cr-0673 (LAK)
+LEWIS A. KAPLAN, District Judge.
+During the trial, the defendant moved to elicit testimony from FBI Special Agents
+Booth and Allain for the purpose of attempting to prove what he contended were prior inconsistent
+statements. Dkt 332. The order disposing of that motion (Dkt 339) stated that a memorandum
+would follow in the event of a conviction. Defendant was convicted on all counts. Accordingly,
+this memorandum sets out the bases for the rule on defendant's letter motion. As a preliminary
+matter, the Court applied to defendant's motion the principles summarized in United States v.
+Ghailani, 761 F. Supp.2d 114, 117-18 (S.D.N.Y. 2011).
+The following paragraphs deal with each of the four proposed subjects of extrinsic
+evidence of alleged prior inconsistent statements and correspond to the similarly numbered
+paragraphs of defendant's letter motion.
+i-ii. The material referred to in paragraphs i and ii (Dkt 332, at 2-3) was
+inadmissible for at least the following reasons.
+First, there is no material inconsistency. Mr. Wang consistently testified that
+the "allow negative" flag initially was added in 2019 because Alameda, then the largest market
+maker on FTX, on occasion needed to withdraw stablecoins from the FTX platform, convert them,
+and then redeposit them on FTX in order to convert between stablecoins, thus "going negative" in
+the withdrawn coins, and that he may have described this as part of "market making" or "for the
+functionality of the exchange"(Tr. 485-488; id. at 487:25-488:2) (Mr. Wang agreeing that "[b]eing
+able to go negative was necessary so that Alameda could satisfy stablecoin requests"), which
+amounts essentially to the same thing (id. at 480:4-6) (Mr. Wang agreeing that "one thing Alameda
+did as a market maker was it facilitated access to stablecoins"). In any case, Mr. Wang ultimately
+testified on redirect that Alameda's "special features," which included the "allow negative" flag,
+
+
+--- PAGE 2 ---
+
+2
+may have been in part to facilitate market making. Tr. 611:17-612:1.
+Second, even if there were, in the relevant context, some possible tension
+between Mr. Wang's description of stablecoin conversion and his inability to recall whether he had
+characterized stablecoin conversion more than a year ago as "market making", the potential for
+confusion and the needless consumption of trial time occasioned by allowing this line of cross would
+outweigh substantially any probative value with respect to Mr. Wang's credibility.
+iii. The material referred to in paragraph iii (Dkt 332, at 3-4) was a statement
+reflecting a conclusion drawn by Agent Booth rather than a prior inconsistent statement by Mr.
+Singh. In any case, there would have been no material contradiction between the FD-302 and Mr.
+Singh's testimony.
+iv. The material referred to in paragraph iv (Dkt 332, at 4) was excluded for at
+least the following reasons. First, there was no material contradiction for the reason stated by the
+government (Dkt 337, at 11). In any case, the statement was entirely collateral to the issues in this
+lawsuit and would have had no material bearing on the assessment of Mr. Singh's credibility. Mr.
+Singh made clear that he knowingly purchased the home with FTX customers' money that he
+borrowed from FTX, that he did so after he knew that FTX was using customers' money, and that
+his purchase "was egregious, unnecessary, and selfish." (Tr. 1615:5-18) Whether he felt a "pit in
+his stomach" at the time he did so or only afterward was of no real moment.
+SO ORDERED.
+Dated: November 7, 2023
+an
+Lewfs A. Kaplan
+United States District Judge

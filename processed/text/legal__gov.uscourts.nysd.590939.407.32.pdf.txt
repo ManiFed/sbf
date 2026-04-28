@@ -1,0 +1,179 @@
+
+
+--- PAGE 1 ---
+
+EXHIBIT C 
+  
+Case 1:22-cr-00673-LAK   Document 407-32   Filed 02/27/24   Page 1 of 5
+
+
+--- PAGE 2 ---
+
+The Wayback Machine Ԁhttps ԟ//web ԛarchive ԛorg/web/ ӅҿӅҿӃҿӅӗӃӅӃӓҿҿ/https ԟ//blog ԛftx ԛcom/blog/our Ԁliquidation Ԁengine/
+Our Liquidation Engine Ԇ how we
+significantly reduced the
+likelihood of clawbacks from ever
+occurring
+Note ԟsince this article was published ԙOKEx has significantly
+revamped their liquidation engine ԙbringing it more in line with
+industry norms ԛAs of May ӅҿӅҿԙFTX has in fact never had a
+clawback ԛ
+It’s first worth making explicit ԟthe thing that causes socialized
+losses ԙand clawbacks ԙand auto Ԁdelevering ԙis when an account
+goes beyond bankrupt ԛIf a user has a leveraged futures position
+on and markets move against their account enough that their net
+asset value is negative ԙthen someone has to pay for that loss Ԣ
+and in crypto you can’t reposses assets from the bankrupt
+account’s owner from outside the system ԙso you’re stuck with
+other users Ԇ the users who aren’t getting liquidated Ԇ footing
+the bill ԛ
+Like most liquidation engines ԙthe one FTX uses starts by
+detecting when a user has dropped below maintenance margin ԛ
+Unlike many other platforms it chooses intelligent ԙefficient
+values for these Ԇ some other platforms ԙlike OKEx ԙare fucked
+by the time a liquidation starts because their maintenance margin
+was too low and there is no way for them to liquidate such a large
+position so quickly ԛ
+We send reasonable ԙvolume Ԁlimited liquidation orders to close
+down positions that drop below maintenance margin Өwhich
+starts at ӌԛӎ% and increases with position size ӪԛWe don’t sell so
+quickly that the liquidation orders themselves will crash the
+market Ԣthat would be dooming the entire process ԛWe also don’t
+> $c d/ f t x şresearch
+Also available in
+Blog
+Change Log
+Market Recap
+Monthly Digest
+Videos
+Case 1:22-cr-00673-LAK   Document 407-32   Filed 02/27/24   Page 2 of 5
+
+
+--- PAGE 3 ---
+
+give up if the price looks ‘bad’ Ԇ it might only get worse from
+there and you have to do the best you can liquidating an account
+rather than hoping things magically reverse Өas OKEx does Ӫԛ
+Usually this is enough ԛ But if there’s a large liquidation Ԇ say a
+long position Өposition B Ӫ that needs to get sold off Ԇ and
+markets are moving down too quickly ԙ it might become clear that
+the normal liquidation orders in FTX’s orderbooks are unlikely to
+successfully close down position B before the account goes
+bankrupt ԛ
+In that case ԙ the backstop liquidity provider system kicks in ԛ In
+this situation ԙ liquidity providers who have opted in to the system
+will internalize position B ԙ taking over the whole obligation and
+collateral ԛ They’ll do this before the account actually goes
+bankrupt so they have a chance to successfully manage the
+position ԛ They will then go hedge their books on other venues ԛ
+This effectively allows the backstop liquidity providers to
+instantly inject liquidity from other exchanges into FTX in an
+emergency ԙ removing the dangerous account’s position from
+FTX’s books and preventing a likely bankrupcy ԛ
+It’s worth noting here the difference between the role that an
+insurance fund plays from the role that a liquidity provider plays ԛ
+If someone has a long
+Ӆҿҿm position Ԇ and so if markets keep moving the insurance
+fund will just keep losing more and more and more ԛ The way to
+actually end a liquidation is for someone to take that position of
+the client’s hands Ԇ that is someone to actually take on the long
+$Ӆҿҿm of BTC exposure ԛ In this way the backstop liquidity
+provider program solves a problem that no insurance fund can
+solve ԙ no matter how large ԛ
+Hopefully ԙ the backstop liquidity provider program will be enough
+to prevent any clawbacks from occurring ԛ In our testing ԙ even
+market moves of ӌҿ% in a Ӆҿ minute period were not enough to
+cause clawbacks Ԣ the combination of on Ԁexchange liquidity and
+backstop liquidity providers were able to provide to all of the
+nearly bankrupt accounts before they went under ԛ In fact the
+insurance fund actually gained about $ Ӄ
+m in most of these
+scenarios ԛ
+But there needs to be a worst case scenario ԛ And if all else fails ԙ
+FTX will do what other exchanges do Ԇ it will auto Ԁdelever an
+account’s position against accounts that have the opposite
+position on ԙ and attempt to cover any losses out of the insurance
+fund Ԣ and if the insurance fund runs dry then there will be
+clawbacks ԛ
+But FTX really does see clawbacks as a worst case scenario that
+we hope never happens ԛ We designed a system that we think will
+withstand huge market moves and huge volume without leading
+to any clawbacks ԛ And if there’s ever a clawback on FTX ԙ we
+fucked up ԛ We will apologize ԙ write a detailed post explaining the
+mistakes we made to get the market to the point that clawbacks
+were necessary ԙ and issue IOUs against future insurance fund
+increases for any shortfall ԛ
+Because that’s what should happen if an exchange loses
+customers’ money ԙ even if it’s far from the norm right now ԛ
+/g13/g11/g11/g29/g4/g16 /g5/g2C/g2B/g2F/g25/g30/g25/g2B/g2A/g30/g24/g1D/g30/g9B/g2F/g1E/g1D/g2A/g27/g2E/g31/g2C/g30/g35/g2B/g31/g1F/g1D/g2A/g30/g2E/g35/g30/g2B/g2C/g1D/g35/g22/g2B/g2E/g25/g30/g9B/g2F/g2A/g21/g30/g28/g2B/g2F/g2F/g21/g2F/g2B/g31/g30/g2B/g22/g1D/g2A/g25/g2A/g2F/g31/g2E/g1D/g2A/g1F/g21/g22/g31/g2A/g20/gF/g4/g31/g30/g25/g22/g30/g24/g1D/g30/g9B/g2F/g1D/g28/g28/g35/g2B
+Case 1:22-cr-00673-LAK   Document 407-32   Filed 02/27/24   Page 3 of 5
+
+
+--- PAGE 4 ---
+
+Anyway Ԇ that’s the FTX manifesto on liquidations ԛ How are our
+competitors doing?
+We’d like to start by explicitly saying that all things considered
+BitMEX has done a good job at preventing clawbacks ԛ There are
+occasional auto Ԁdeleveragings and socialized losses on the
+illiquid altcoin contracts but they’re rare and the BTC perpetual
+swaps Ԇ the one really liquid product on BitMEX Ԇ virtually
+never sees them ԛ
+But OKEx is in a pretty bad state ԛ There was a well Ԁpublicized
+$ӛm clawback on July ӈӃst ӅҿӃӗԛ Quoting from OKEx’s official
+blog post on the incident ԟ
+Ӄԛ OKEx saw this as business as usual ԟ “OKEx has adopted the
+societal loss risk management mechanism since launched and
+it has been working orderly as intended ԛ
+Ӆԛ OKEx’s attempt to address the situation ԟ “Our risk management
+team immediately contacted the client ԙ requesting the client
+several times to partially close the positions to reduce the
+overall market risks ԛ However ԙ the client refused to
+cooperate… ”
+ӈԛ If OKEx was not going to be able to handle the order why did
+they let the client place it? OKEx’s risk systems are woefully
+inadequate ԛ
+ӌԛ “Shortly after this preemptive action ԙ unfortunately ԙ the BTC
+price tumbled ԙ causing the liquidation of the account ԛ”
+ӎԛ OKEx seems not to be fully aware of why the BTC price
+tumbled ԛ “Unfortunate” is one way of putting it Ԣ “in response to
+OKEx manually placing a $ ӌҿҿm liquidation offer and hoping
+against hope someone would trade against it Ԇ but instead
+seeing the market update on the expected impact of the order”
+is another ԛ OKEx caused the move that caused the clawback ԛ
+ӓԛ “We will implement a series of risk management enhancements ԙ
+which are in line with our futures roadmap released on July Ӄӕԙ
+ӅҿӃӗԙ to prevent any similar cases from occurring again ԛ” So
+how has this new framework done?
+ӕԛ On ӅҿӃӗԂӃӃԂӅӈ OKEx clawed back ӎҿ% of profit from ETC
+futures ԙ or over $ Ӄmԛ
+ӗԛ On ӅҿӃӗԂҿӛԂҿӕԙ OKEx clawed back Ӄӗ% of profit from EOS
+futures ԙ or over $ ӈmԛ
+ӛԛ OKEx’s BSV futures went through a ӓ week stretch from ӅҿӃӗԂ
+ӃӅԂӅӗ to ӅҿӃӛԂҿӅԂҿӃ where the average clawback was ӌӅ%
+ԛ
+Ӄҿԛ The now Ԁdelisted OKEx BTG futures went through periods of
+having over ӗҿ% clawbacks each week Ԇ meaning that nearly
+the entire trading in the futures was someone going bankrupt!
+ӃӃԛ And ԙ infamously ԙ a few days before the BCH fork OKEx
+emergency settled their futures early Ԇ without notice Ԇ to a
+marked to market price in a downlimit future trading against
+the wrong index ԙ leading to roughly $ Ӆҿm of losses ԛ
+ӃӅԛ Huobi’s product ԙ HBDM ԙ has not yet had clawbacks Ԇ to their
+credit ԛ But their product is only a month old Ԣ and given that the
+product was copy Ԁpasted from OKEx’s ԙ it should not be
+expected to withstand the test of time ԛ
+You can see the specs on FTX ԛ You can also see a flowchart of
+the liquidation process in our previous article ԛ
+Note ԟ since this article was published ԙ OKEx has significantly
+revamped their liquidation engine ԙ bringing it more in line with
+Case 1:22-cr-00673-LAK   Document 407-32   Filed 02/27/24   Page 4 of 5
+
+
+--- PAGE 5 ---
+
+industry norms by borrowing elements seen in lots of other
+platforms ԙ including FTX ԛ As of May ӅҿӅҿԙ FTX has in fact never
+had a clawback ԛ
+Sam Bankman ԀFried
+Case 1:22-cr-00673-LAK   Document 407-32   Filed 02/27/24   Page 5 of 5

@@ -1,24 +1,43 @@
 import os
 from pathlib import Path
 import json
+import re
 
 INPUT_DIR = Path("processed/text")
 OUTPUT_DIR = Path("processed/chunks")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-CHUNK_SIZE = 800  # words
+CHUNK_SIZE = 400  # words
 OVERLAP = 100
 
-def chunk_text(text):
-    words = text.split()
-    chunks = []
+def split_paragraphs(text):
+    # Split on blank lines or page markers, keeping non-empty blocks
+    blocks = re.split(r"\n{2,}|(?=--- PAGE \d+ ---)", text)
+    return [b.strip() for b in blocks if b.strip()]
 
-    i = 0
-    while i < len(words):
-        chunk_words = words[i:i + CHUNK_SIZE]
-        chunk = " ".join(chunk_words)
-        chunks.append(chunk)
-        i += CHUNK_SIZE - OVERLAP
+def chunk_text(text):
+    paragraphs = split_paragraphs(text)
+    chunks = []
+    current_words = []
+
+    for para in paragraphs:
+        para_words = para.split()
+
+        # If adding this paragraph would overflow the chunk, flush first
+        if current_words and len(current_words) + len(para_words) > CHUNK_SIZE:
+            chunks.append(" ".join(current_words))
+            # Carry over the overlap tail
+            current_words = current_words[-OVERLAP:]
+
+        current_words.extend(para_words)
+
+        # If the buffer is already over the chunk size, keep slicing
+        while len(current_words) > CHUNK_SIZE:
+            chunks.append(" ".join(current_words[:CHUNK_SIZE]))
+            current_words = current_words[CHUNK_SIZE - OVERLAP:]
+
+    if current_words:
+        chunks.append(" ".join(current_words))
 
     return chunks
 

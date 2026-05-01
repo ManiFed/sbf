@@ -1,2 +1,5 @@
 pypdf
 requests
+rank_bm25
+sentence-transformers
+numpy

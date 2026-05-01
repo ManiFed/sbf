@@ -38,10 +38,11 @@ jobs:
           python scripts/smart_titles.py
           python scripts/extract_text.py
           python scripts/chunk_text.py
+          python scripts/build_embed_index.py
 
       - name: Commit updated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update index + extracted text"
-          file_pattern: source_index.csv processed/text/** processed/chunks/**
+          file_pattern: source_index.csv processed/text/** processed/chunks/** processed/embed_index.npy processed/embed_meta.json
           

@@ -1,0 +1,22 @@
+# Large source PDF directories - not needed at runtime
+# API only reads from processed/chunks/ for search
+legal/
+misc/
+media/
+
+# Extracted text is redundant at runtime (only chunks/ is used by the API)
+processed/text/
+
+# Root-level PDFs
+*.pdf
+
+# Preprocessing scripts not needed at runtime
+scripts/chunk_text.py
+scripts/enrich_index.py
+scripts/extract_text.py
+scripts/index_files.py
+scripts/smart_titles.py
+scripts/test_run.py
+
+# Dev/test utilities
+search_chunks.py

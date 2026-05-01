@@ -1,28 +1,48 @@
 import json
 from pathlib import Path
+from rank_bm25 import BM25Okapi
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 CHUNK_DIR = BASE_DIR / "processed" / "chunks"
 
-def search(query, top_k=5):
-    results = []
+MIN_SCORE = 0.5
 
-    query_terms = query.lower().split()
+_index = None
 
-    for path in CHUNK_DIR.rglob("*.json"):
+def _build_index():
+    global _index
+    corpus = []
+    chunk_ids = []
+    texts = []
+
+    for path in sorted(CHUNK_DIR.rglob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
-
         for item in data:
-            text = item["text"].lower()
+            tokens = item["text"].lower().split()
+            corpus.append(tokens)
+            chunk_ids.append(item["chunk_id"])
+            texts.append(item["text"])
 
-            score = sum(text.count(term) for term in query_terms)
+    _index = (BM25Okapi(corpus), chunk_ids, texts)
 
-            if score > 0:
-                results.append((score, item["text"], item["chunk_id"]))
 
-    results.sort(reverse=True, key=lambda x: x[0])
+def search(query, top_k=5):
+    global _index
+    if _index is None:
+        _build_index()
 
-    return results[:top_k]
+    bm25, chunk_ids, texts = _index
+    query_terms = query.lower().split()
+    scores = bm25.get_scores(query_terms)
+
+    ranked = sorted(
+        zip(scores, texts, chunk_ids),
+        key=lambda x: x[0],
+        reverse=True,
+    )
+
+    results = [(s, t, c) for s, t, c in ranked[:top_k] if s >= MIN_SCORE]
+    return results
 
 
 if __name__ == "__main__":
@@ -34,7 +54,11 @@ if __name__ == "__main__":
 
         results = search(query)
 
+        if not results:
+            print("No results above score threshold.")
+            continue
+
         print("\nTop results:\n")
 
         for score, text, cid in results:
-            print(f"[Score: {score}] {cid}\n{text[:500]}\n{'-'*60}")
+            print(f"[Score: {score:.2f}] {cid}\n{text[:500]}\n{'-'*60}")

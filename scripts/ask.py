@@ -14,7 +14,7 @@ Rules:
 - Mention sources sparsely.
 - Do not talk about "retrieved context", "provided context", or your internal process.
 - Do not invent quotes, evidence, filings, or citations.
-- Use only the provided retrieved context for factual claims.
+- If retrieved sources contain relevant information, use them and cite inline as [Source N](url). If the sources don't address the question, draw on your knowledge of the SBF case — but do not attach a source number to a claim unless that source actually supports it.
 """
 
 def build_context(results):
@@ -34,8 +34,16 @@ User question:
 Retrieved context:
 {context}
 
-Answer using only the retrieved context. Cite sources inline in markdown, like [Source 1](github-url).
+Answer the question using the retrieved context where relevant. Cite sources inline in markdown, like [Source 1](github-url).
 Do not mention the words "retrieved context", "provided context", or similar framing in your answer.
+"""
+
+def build_prompt_no_sources(question):
+    return f"""
+User question:
+{question}
+
+No documents were retrieved that match this question closely. Answer using your knowledge of the SBF case. Do not cite a source number.
 """
 
 
@@ -224,14 +232,16 @@ def call_model(prompt):
 def ask(question):
     results = search(question, top_k=8)
 
-    if not results:
-        return "I could not find relevant chunks in the dataset yet."
+    if results:
+        context = build_context(results)
+        prompt = build_prompt(question, context)
+        answer, provider = call_model(prompt)
+        answer_with_links = render_clickable_citations(answer, results)
+    else:
+        prompt = build_prompt_no_sources(question)
+        answer, provider = call_model(prompt)
+        answer_with_links = answer
 
-    context = build_context(results)
-    prompt = build_prompt(question, context)
-
-    answer, provider = call_model(prompt)
-    answer_with_links = render_clickable_citations(answer, results)
     return f"{answer_with_links}\n\nProvider used: {provider}"
 
 if __name__ == "__main__":

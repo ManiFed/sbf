@@ -3788,3 +3788,72 @@ mark.highlight-mark.highlight-swept { background-size: 100% 88%; }
 }
 .tweet-date { margin-right: auto; font-size: 0.73rem; }
 .tweet-stat { display: flex; align-items: center; gap: 5px; }
+
+/* ════════════════════════════════════
+   MOBILE — PERSON CARD BOTTOM SHEET
+═══════════════════════════════════ */
+@media (max-width: 760px) {
+  #person-card {
+    position: fixed;
+    left: 1rem;
+    right: 1rem;
+    bottom: 5.5rem;
+    top: auto;
+    width: auto;
+    max-width: calc(100vw - 2rem);
+    border-radius: 10px;
+  }
+  /* ensure transform origin is correct for slide-up */
+  #person-card.pc-visible {
+    transform: translateY(0);
+  }
+}
+
+/* ════════════════════════════════════
+   MOBILE — EVIDENCE PANEL BOTTOM SHEET
+═══════════════════════════════════ */
+@media (max-width: 540px) {
+  .evidence-panel {
+    display: flex;
+    align-items: flex-end;
+  }
+  .evidence-panel__dialog {
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 14px 14px 0 0;
+    max-height: 82vh;
+    overflow-y: auto;
+  }
+}
+
+/* ════════════════════════════════════
+   MOBILE — TOOLTIP OVERFLOW SAFETY
+═══════════════════════════════════ */
+@media (max-width: 400px) {
+  #term-tooltip,
+  #num-pop-tooltip {
+    max-width: calc(100vw - 24px);
+  }
+}
+
+/* ════════════════════════════════════
+   MOBILE — SCROLLYTELLING TAP HINT
+═══════════════════════════════════ */
+@media (max-width: 760px) {
+  /* Show a subtle "tap to advance" cue inside each sticky card */
+  .s9b-knows-label::after,
+  .sbr-status::after,
+  .sca-status::after,
+  .sdl-meter-val::after,
+  .srp-verdict::after,
+  .sst-activecase::after {
+    display: block;
+    content: "Tap a step below to advance";
+    font-size: 0.52rem;
+    color: rgba(240,237,232,0.28);
+    letter-spacing: 0.06em;
+    margin-top: 0.5rem;
+    text-transform: uppercase;
+  }
+}

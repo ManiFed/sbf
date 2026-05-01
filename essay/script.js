@@ -748,13 +748,16 @@ onIdle(() => (function () {
     tooltip.hidden = false;
   }
   function positionBubbleTipAtRect(rect) {
-    const wrapRect = svg.parentElement.getBoundingClientRect();
-    const xCenter = rect.left + rect.width / 2 - wrapRect.left;
+    const wrap = svg.parentElement;
+    const wrapRect = wrap.getBoundingClientRect();
+    const scrollLeft = wrap.scrollLeft || 0;
+    const contentWidth = svg.offsetWidth || wrapRect.width;
+    const xCenter = rect.left + rect.width / 2 - wrapRect.left + scrollLeft;
     const yTop = rect.top - wrapRect.top;
     let x = xCenter - 135;
     let y = yTop - 150;
     if (x < 8) x = 8;
-    if (x + 270 > wrapRect.width - 8) x = wrapRect.width - 278;
+    if (x + 270 > contentWidth - 8) x = contentWidth - 278;
     if (y < 8) y = yTop + rect.height + 12;
     tooltip.style.left = x + 'px';
     tooltip.style.top  = y + 'px';
@@ -1455,28 +1458,32 @@ onIdle(() => {
     quoteEl.textContent = data.quote;
     statEl.textContent  = data.status;
 
-    const rect = trigger.getBoundingClientRect();
-    const pad = 10;
-    const gap = 10;
-    const cw = card.offsetWidth || 290;
-    const ch = card.offsetHeight || 210;
-    const candidates = [
-      { x: rect.right + gap, y: rect.top },                         // right
-      { x: rect.left - cw - gap, y: rect.top },                     // left
-      { x: rect.left, y: rect.bottom + gap },                       // below
-      { x: rect.left, y: rect.top - ch - gap }                      // above
-    ];
-    const inViewport = ({ x, y }) =>
-      x >= pad &&
-      y >= pad &&
-      x + cw <= window.innerWidth - pad &&
-      y + ch <= window.innerHeight - pad;
-    const chosen = candidates.find(inViewport) || candidates[2];
-    const x = Math.min(Math.max(chosen.x, pad), window.innerWidth - cw - pad);
-    const y = Math.min(Math.max(chosen.y, pad), window.innerHeight - ch - pad);
-
-    card.style.left = `${x}px`;
-    card.style.top = `${y}px`;
+    if (!isMobileEssayViewport()) {
+      const rect = trigger.getBoundingClientRect();
+      const pad = 10;
+      const gap = 10;
+      const cw = card.offsetWidth || 290;
+      const ch = card.offsetHeight || 210;
+      const candidates = [
+        { x: rect.right + gap, y: rect.top },                         // right
+        { x: rect.left - cw - gap, y: rect.top },                     // left
+        { x: rect.left, y: rect.bottom + gap },                       // below
+        { x: rect.left, y: rect.top - ch - gap }                      // above
+      ];
+      const inViewport = ({ x, y }) =>
+        x >= pad &&
+        y >= pad &&
+        x + cw <= window.innerWidth - pad &&
+        y + ch <= window.innerHeight - pad;
+      const chosen = candidates.find(inViewport) || candidates[2];
+      const x = Math.min(Math.max(chosen.x, pad), window.innerWidth - cw - pad);
+      const y = Math.min(Math.max(chosen.y, pad), window.innerHeight - ch - pad);
+      card.style.left = `${x}px`;
+      card.style.top = `${y}px`;
+    } else {
+      card.style.left = '';
+      card.style.top = '';
+    }
 
     card.classList.add('pc-visible');
     lastTrigger = trigger;
@@ -1514,6 +1521,7 @@ onIdle(() => {
 
   const repositionCard = throttleWithRaf(() => {
     if (!lastTrigger || !card.classList.contains('pc-visible')) return;
+    if (isMobileEssayViewport()) return;
     const key = lastTrigger.dataset.person;
     const data = key ? PEOPLE[key] : null;
     if (!data) return;

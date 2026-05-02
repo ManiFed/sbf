@@ -94,7 +94,13 @@ function VariantLedger() {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question: t }),
     })
-      .then((res) => res.json())
+      .then((res) => {
+        const ct = res.headers.get("content-type") || "";
+        if (ct.includes("application/json")) return res.json();
+        return res.text().then((text) => {
+          throw new Error(text.trim() || `Server error (${res.status})`);
+        });
+      })
       .then((data) => {
         setThinking(false);
 
